@@ -1,0 +1,86 @@
+{
+    "packs": [
+        {
+            "id": "tgat_mock_1",
+            "name": "TGAT Mock Test 1",
+            "description": "ข้อสอบจำลอง TGAT English ชุดที่ 1 - ครอบคลุม Vocabulary, Grammar, Reading",
+            "examType": "TGAT",
+            "numQuestions": 5,
+            "difficulty": "medium",
+            "version": 1,
+            "remoteUrl": null
+        }
+    ],
+    "questions": [
+        {
+            "id": "exam_001",
+            "stem": "The company _____ a new marketing strategy last month.",
+            "choices": [
+                "implement",
+                "implemented",
+                "implementing",
+                "has implemented"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Past Simple 'implemented' เพราะมี 'last month' บ่งบอกว่าเป็นอดีตที่เฉพาะเจาะจง",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_002",
+            "stem": "If I _____ you, I would accept the job offer.",
+            "choices": [
+                "am",
+                "was",
+                "were",
+                "had been"
+            ],
+            "correctIndex": 2,
+            "explanation": "ใช้ 'were' ในประโยค If-clause Type 2 (สมมติที่ไม่จริง) แม้ประธานจะเป็น I ก็ใช้ were",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_003",
+            "stem": "She suggested _____ the meeting to next week.",
+            "choices": [
+                "postpone",
+                "to postpone",
+                "postponing",
+                "postponed"
+            ],
+            "correctIndex": 2,
+            "explanation": "หลัง 'suggest' ต้องใช้ V-ing ดังนั้นจึงใช้ 'postponing'",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_004",
+            "stem": "What is the synonym of 'essential'?",
+            "choices": [
+                "optional",
+                "necessary",
+                "additional",
+                "temporary"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Essential' แปลว่า จำเป็น ซึ่งมีความหมายเหมือน 'necessary'",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_005",
+            "stem": "The word 'sustainable' is closest in meaning to:",
+            "choices": [
+                "short-term",
+                "maintainable",
+                "expensive",
+                "unusual"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Sustainable' หมายถึง ยั่งยืน สามารถรักษาไว้ได้ ซึ่งใกล้เคียงกับ 'maintainable'",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        }
+    ]
+}

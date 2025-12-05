@@ -1,0 +1,112 @@
+[
+  {
+    "id": "vocab_001",
+    "word": "achieve",
+    "translation": "บรรลุ, ประสบความสำเร็จ",
+    "partOfSpeech": "verb",
+    "exampleEn": "She worked hard to achieve her goals.",
+    "exampleTh": "เธอทำงานหนักเพื่อบรรลุเป้าหมายของเธอ",
+    "level": "intermediate",
+    "packId": "TGAT_V1",
+    "tags": ["TGAT", "success", "common"]
+  },
+  {
+    "id": "vocab_002",
+    "word": "benefit",
+    "translation": "ประโยชน์, ผลดี",
+    "partOfSpeech": "noun",
+    "exampleEn": "Exercise has many health benefits.",
+    "exampleTh": "การออกกำลังกายมีประโยชน์ต่อสุขภาพมากมาย",
+    "level": "basic",
+    "packId": "TGAT_V1",
+    "tags": ["TGAT", "health"]
+  },
+  {
+    "id": "vocab_003",
+    "word": "challenge",
+    "translation": "ความท้าทาย",
+    "partOfSpeech": "noun",
+    "exampleEn": "Learning a new language is a challenge.",
+    "exampleTh": "การเรียนภาษาใหม่เป็นความท้าทาย",
+    "level": "basic",
+    "packId": "TGAT_V1",
+    "tags": ["TGAT", "education"]
+  },
+  {
+    "id": "vocab_004",
+    "word": "determine",
+    "translation": "กำหนด, ตัดสินใจ",
+    "partOfSpeech": "verb",
+    "exampleEn": "We need to determine the best solution.",
+    "exampleTh": "เราต้องกำหนดทางออกที่ดีที่สุด",
+    "level": "intermediate",
+    "packId": "TGAT_V1",
+    "tags": ["TGAT", "decision"]
+  },
+  {
+    "id": "vocab_005",
+    "word": "environment",
+    "translation": "สิ่งแวดล้อม",
+    "partOfSpeech": "noun",
+    "exampleEn": "We must protect the environment.",
+    "exampleTh": "เราต้องปกป้องสิ่งแวดล้อม",
+    "level": "basic",
+    "packId": "TGAT_V1",
+    "tags": ["TGAT", "nature", "common"]
+  },
+  {
+    "id": "vocab_006",
+    "word": "essential",
+    "translation": "จำเป็น, สำคัญ",
+    "partOfSpeech": "adjective",
+    "exampleEn": "Water is essential for life.",
+    "exampleTh": "น้ำเป็นสิ่งจำเป็นสำหรับชีวิต",
+    "level": "intermediate",
+    "packId": "TGAT_V1",
+    "tags": ["TGAT", "importance"]
+  },
+  {
+    "id": "vocab_007",
+    "word": "implement",
+    "translation": "ดำเนินการ, นำไปใช้",
+    "partOfSpeech": "verb",
+    "exampleEn": "The company will implement new policies.",
+    "exampleTh": "บริษัทจะดำเนินนโยบายใหม่",
+    "level": "advanced",
+    "packId": "TGAT_V1",
+    "tags": ["TGAT", "business"]
+  },
+  {
+    "id": "vocab_008",
+    "word": "significant",
+    "translation": "สำคัญ, มีนัยสำคัญ",
+    "partOfSpeech": "adjective",
+    "exampleEn": "This is a significant discovery.",
+    "exampleTh": "นี่คือการค้นพบที่สำคัญ",
+    "level": "intermediate",
+    "packId": "TGAT_V1",
+    "tags": ["TGAT", "academic"]
+  },
+  {
+    "id": "vocab_009",
+    "word": "strategy",
+    "translation": "กลยุทธ์, ยุทธศาสตร์",
+    "partOfSpeech": "noun",
+    "exampleEn": "We need a new marketing strategy.",
+    "exampleTh": "เราต้องการกลยุทธ์การตลาดใหม่",
+    "level": "intermediate",
+    "packId": "TGAT_V1",
+    "tags": ["TGAT", "business", "planning"]
+  },
+  {
+    "id": "vocab_010",
+    "word": "sustainable",
+    "translation": "ยั่งยืน",
+    "partOfSpeech": "adjective",
+    "exampleEn": "We need sustainable energy sources.",
+    "exampleTh": "เราต้องการแหล่งพลังงานที่ยั่งยืน",
+    "level": "advanced",
+    "packId": "TGAT_V1",
+    "tags": ["TGAT", "environment", "modern"]
+  }
+]

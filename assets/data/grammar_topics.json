@@ -1,0 +1,101 @@
+[
+    {
+        "id": "grammar_001",
+        "title": "Present Simple",
+        "explanation": "Present Simple Tense ใช้กับเหตุการณ์ที่เป็นความจริงทั่วไป กิจวัตรประจำวัน หรือสิ่งที่เกิดขึ้นซ้ำๆ\n\nโครงสร้าง:\n- บอกเล่า: Subject + V1 (เติม s/es สำหรับ he/she/it)\n- ปฏิเสธ: Subject + do/does + not + V1\n- คำถาม: Do/Does + Subject + V1?\n\nคำบ่งชี้: always, usually, often, sometimes, never, every day",
+        "examples": [
+            {
+                "sentenceEn": "She works at a hospital.",
+                "sentenceTh": "เธอทำงานที่โรงพยาบาล",
+                "highlight": "works"
+            },
+            {
+                "sentenceEn": "I don't eat meat.",
+                "sentenceTh": "ฉันไม่กินเนื้อสัตว์",
+                "highlight": "don't eat"
+            }
+        ],
+        "quizQuestions": [
+            {
+                "id": "q_gram_001",
+                "stem": "She _____ to work every day.",
+                "choices": [
+                    "go",
+                    "goes",
+                    "going",
+                    "went"
+                ],
+                "correctIndex": 1,
+                "explanation": "ใช้ 'goes' เพราะประธานเป็น She (เอกพจน์บุรุษที่ 3) ต้องเติม -es",
+                "skillType": "grammar",
+                "packId": "grammar_001"
+            }
+        ]
+    },
+    {
+        "id": "grammar_002",
+        "title": "Present Perfect",
+        "explanation": "Present Perfect Tense ใช้กับเหตุการณ์ที่เกิดขึ้นในอดีตแต่ยังส่งผลถึงปัจจุบัน หรือประสบการณ์ในอดีต\n\nโครงสร้าง: Subject + have/has + V3\n\nการใช้งาน:\n1. ประสบการณ์ในอดีต (I have visited Japan.)\n2. เหตุการณ์ที่เพิ่งเกิด (She has just arrived.)\n3. สถานการณ์ที่ดำเนินมาถึงปัจจุบัน (I have lived here for 5 years.)\n\nคำบ่งชี้: already, yet, just, ever, never, since, for",
+        "examples": [
+            {
+                "sentenceEn": "I have visited Japan twice.",
+                "sentenceTh": "ฉันเคยไปญี่ปุ่นสองครั้ง",
+                "highlight": "have visited"
+            },
+            {
+                "sentenceEn": "She has just finished her homework.",
+                "sentenceTh": "เธอเพิ่งทำการบ้านเสร็จ",
+                "highlight": "has just finished"
+            }
+        ],
+        "quizQuestions": [
+            {
+                "id": "q_gram_002",
+                "stem": "I _____ this movie before.",
+                "choices": [
+                    "see",
+                    "saw",
+                    "have seen",
+                    "am seeing"
+                ],
+                "correctIndex": 2,
+                "explanation": "ใช้ Present Perfect 'have seen' เพราะพูดถึงประสบการณ์ในอดีต (ดูมาก่อนหรือยัง)",
+                "skillType": "grammar",
+                "packId": "grammar_002"
+            }
+        ]
+    },
+    {
+        "id": "grammar_003",
+        "title": "Passive Voice",
+        "explanation": "Passive Voice ใช้เมื่อต้องการเน้นกรรม (ผู้ถูกกระทำ) มากกว่าประธาน (ผู้กระทำ)\n\nโครงสร้าง: Object + be + V3 + (by + Subject)\n\nตัวอย่างการเปลี่ยน:\n- Active: The cat ate the fish.\n- Passive: The fish was eaten by the cat.\n\nใช้เมื่อ:\n1. ไม่รู้ว่าใครเป็นผู้กระทำ\n2. ต้องการเน้นผู้ถูกกระทำ\n3. ผู้กระทำไม่สำคัญ",
+        "examples": [
+            {
+                "sentenceEn": "The letter was written by John.",
+                "sentenceTh": "จดหมายถูกเขียนโดยจอห์น",
+                "highlight": "was written"
+            },
+            {
+                "sentenceEn": "English is spoken worldwide.",
+                "sentenceTh": "ภาษาอังกฤษถูกพูดทั่วโลก",
+                "highlight": "is spoken"
+            }
+        ],
+        "quizQuestions": [
+            {
+                "id": "q_gram_003",
+                "stem": "The book _____ by millions of people.",
+                "choices": [
+                    "reads",
+                    "read",
+                    "is read",
+                    "reading"
+                ],
+                "correctIndex": 2,
+                "explanation": "ใช้ Passive Voice 'is read' เพราะหนังสือถูกอ่าน (ไม่ได้อ่านเอง)",
+                "skillType": "grammar",
+                "packId": "grammar_003"
+            }
+        ]
+    }
+]
