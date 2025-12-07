@@ -1,0 +1,482 @@
+[
+  {
+    "id": "q_grammar_001_e_518",
+    "file": "grammar_quiz_001_present_simple.json",
+    "difficulty": "easy",
+    "stem": "Sarah _____ on weekends every weekend.",
+    "choices": [
+      "worked",
+      "works",
+      "work",
+      "working"
+    ],
+    "correctIndex": 1,
+    "issues": [
+      "Semantic: Redundant weekend expressions (on weekends + every weekend)"
+    ]
+  },
+  {
+    "id": "q_grammar_001_e_1255",
+    "file": "grammar_quiz_001_present_simple.json",
+    "difficulty": "easy",
+    "stem": "You _____ on weekends every weekend.",
+    "choices": [
+      "works",
+      "work",
+      "worked",
+      "working"
+    ],
+    "correctIndex": 1,
+    "issues": [
+      "Semantic: Redundant weekend expressions (on weekends + every weekend)"
+    ]
+  },
+  {
+    "id": "q_grammar_001_m_1244",
+    "file": "grammar_quiz_001_present_simple.json",
+    "difficulty": "medium",
+    "stem": "does the chef _____ my eyes?",
+    "choices": [
+      "close",
+      "closed",
+      "closing",
+      "closes"
+    ],
+    "correctIndex": 0,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_001_h_389",
+    "file": "grammar_quiz_001_present_simple.json",
+    "difficulty": "hard",
+    "stem": "When You _____ my eyes, everyone is happy.",
+    "choices": [
+      "closes",
+      "closed",
+      "closing",
+      "close"
+    ],
+    "correctIndex": 3,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_001_h_416",
+    "file": "grammar_quiz_001_present_simple.json",
+    "difficulty": "hard",
+    "stem": "If The doctors _____ my eyes, I will be happy.",
+    "choices": [
+      "closing",
+      "closes",
+      "close",
+      "closed"
+    ],
+    "correctIndex": 2,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_001_h_797",
+    "file": "grammar_quiz_001_present_simple.json",
+    "difficulty": "hard",
+    "stem": "If My father _____ my eyes, I will be happy.",
+    "choices": [
+      "closes",
+      "closing",
+      "close",
+      "closed"
+    ],
+    "correctIndex": 0,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_001_h_1233",
+    "file": "grammar_quiz_001_present_simple.json",
+    "difficulty": "hard",
+    "stem": "When The boys _____ my eyes, everyone is happy.",
+    "choices": [
+      "closed",
+      "closes",
+      "close",
+      "closing"
+    ],
+    "correctIndex": 2,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_001_h_1295",
+    "file": "grammar_quiz_001_present_simple.json",
+    "difficulty": "hard",
+    "stem": "When Mary _____ my eyes, everyone is happy.",
+    "choices": [
+      "closes",
+      "closing",
+      "close",
+      "closed"
+    ],
+    "correctIndex": 0,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_001_h_1348",
+    "file": "grammar_quiz_001_present_simple.json",
+    "difficulty": "hard",
+    "stem": "If My brother _____ my eyes, I will be happy.",
+    "choices": [
+      "close",
+      "closed",
+      "closes",
+      "closing"
+    ],
+    "correctIndex": 2,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_001_h_1407",
+    "file": "grammar_quiz_001_present_simple.json",
+    "difficulty": "hard",
+    "stem": "When The workers _____ my eyes, everyone is happy.",
+    "choices": [
+      "close",
+      "closing",
+      "closed",
+      "closes"
+    ],
+    "correctIndex": 0,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_001_h_1410",
+    "file": "grammar_quiz_001_present_simple.json",
+    "difficulty": "hard",
+    "stem": "If You _____ my eyes, I will be happy.",
+    "choices": [
+      "closing",
+      "closed",
+      "closes",
+      "close"
+    ],
+    "correctIndex": 3,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_001_h_1499",
+    "file": "grammar_quiz_001_present_simple.json",
+    "difficulty": "hard",
+    "stem": "When John _____ my eyes, everyone is happy.",
+    "choices": [
+      "close",
+      "closing",
+      "closes",
+      "closed"
+    ],
+    "correctIndex": 2,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_003_h_47",
+    "file": "grammar_quiz_003_present_perfect.json",
+    "difficulty": "hard",
+    "stem": "This is the best my eyes that Many people _____ ever tried.",
+    "choices": [
+      "closes",
+      "closed",
+      "close",
+      "have closed"
+    ],
+    "correctIndex": 3,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_003_h_351",
+    "file": "grammar_quiz_003_present_perfect.json",
+    "difficulty": "hard",
+    "stem": "This is the best my eyes that My friends _____ ever tried.",
+    "choices": [
+      "have closed",
+      "closes",
+      "close",
+      "closed"
+    ],
+    "correctIndex": 0,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_003_h_514",
+    "file": "grammar_quiz_003_present_perfect.json",
+    "difficulty": "hard",
+    "stem": "This is the best my eyes that The engineers _____ ever tried.",
+    "choices": [
+      "closed",
+      "closes",
+      "close",
+      "have closed"
+    ],
+    "correctIndex": 3,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_003_h_590",
+    "file": "grammar_quiz_003_present_perfect.json",
+    "difficulty": "hard",
+    "stem": "This is the best my eyes that The manager _____ ever tried.",
+    "choices": [
+      "closes",
+      "closed",
+      "close",
+      "has closed"
+    ],
+    "correctIndex": 3,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_003_h_767",
+    "file": "grammar_quiz_003_present_perfect.json",
+    "difficulty": "hard",
+    "stem": "This is the best my eyes that The nurse _____ ever tried.",
+    "choices": [
+      "closes",
+      "has closed",
+      "closed",
+      "close"
+    ],
+    "correctIndex": 1,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_003_h_788",
+    "file": "grammar_quiz_003_present_perfect.json",
+    "difficulty": "hard",
+    "stem": "This is the best my eyes that The woman _____ ever tried.",
+    "choices": [
+      "closes",
+      "has closed",
+      "closed",
+      "close"
+    ],
+    "correctIndex": 1,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_003_h_1124",
+    "file": "grammar_quiz_003_present_perfect.json",
+    "difficulty": "hard",
+    "stem": "This is the best my eyes that David _____ ever tried.",
+    "choices": [
+      "closes",
+      "close",
+      "closed",
+      "has closed"
+    ],
+    "correctIndex": 3,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_003_h_1438",
+    "file": "grammar_quiz_003_present_perfect.json",
+    "difficulty": "hard",
+    "stem": "This is the best my eyes that The teachers _____ ever tried.",
+    "choices": [
+      "close",
+      "closed",
+      "closes",
+      "have closed"
+    ],
+    "correctIndex": 3,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_005_m_648",
+    "file": "grammar_quiz_005_past_simple.json",
+    "difficulty": "medium",
+    "stem": "Did My friends _____ my eyes yesterday?",
+    "choices": [
+      "close",
+      "closes",
+      "closing",
+      "closed"
+    ],
+    "correctIndex": 0,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_005_m_658",
+    "file": "grammar_quiz_005_past_simple.json",
+    "difficulty": "medium",
+    "stem": "Did My sister _____ my eyes yesterday?",
+    "choices": [
+      "closes",
+      "close",
+      "closing",
+      "closed"
+    ],
+    "correctIndex": 1,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_005_m_863",
+    "file": "grammar_quiz_005_past_simple.json",
+    "difficulty": "medium",
+    "stem": "Did My boss _____ my eyes yesterday?",
+    "choices": [
+      "close",
+      "closed",
+      "closes",
+      "closing"
+    ],
+    "correctIndex": 0,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_005_h_87",
+    "file": "grammar_quiz_005_past_simple.json",
+    "difficulty": "hard",
+    "stem": "As soon as The engineer _____ my eyes, the phone rang.",
+    "choices": [
+      "closed",
+      "closes",
+      "close",
+      "closing"
+    ],
+    "correctIndex": 0,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_005_h_281",
+    "file": "grammar_quiz_005_past_simple.json",
+    "difficulty": "hard",
+    "stem": "As soon as My colleagues _____ my eyes, the phone rang.",
+    "choices": [
+      "closed",
+      "closing",
+      "close",
+      "closes"
+    ],
+    "correctIndex": 0,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_005_h_307",
+    "file": "grammar_quiz_005_past_simple.json",
+    "difficulty": "hard",
+    "stem": "As soon as He _____ my eyes, the phone rang.",
+    "choices": [
+      "close",
+      "closes",
+      "closing",
+      "closed"
+    ],
+    "correctIndex": 3,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_005_h_375",
+    "file": "grammar_quiz_005_past_simple.json",
+    "difficulty": "hard",
+    "stem": "As soon as The workers _____ my eyes, the phone rang.",
+    "choices": [
+      "closes",
+      "closed",
+      "closing",
+      "close"
+    ],
+    "correctIndex": 1,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_005_h_1132",
+    "file": "grammar_quiz_005_past_simple.json",
+    "difficulty": "hard",
+    "stem": "As soon as The manager _____ my eyes, the phone rang.",
+    "choices": [
+      "closed",
+      "closing",
+      "closes",
+      "close"
+    ],
+    "correctIndex": 0,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_005_h_1176",
+    "file": "grammar_quiz_005_past_simple.json",
+    "difficulty": "hard",
+    "stem": "As soon as The boys _____ my eyes, the phone rang.",
+    "choices": [
+      "closes",
+      "closing",
+      "closed",
+      "close"
+    ],
+    "correctIndex": 2,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  },
+  {
+    "id": "q_grammar_005_h_1462",
+    "file": "grammar_quiz_005_past_simple.json",
+    "difficulty": "hard",
+    "stem": "As soon as The doctor _____ my eyes, the phone rang.",
+    "choices": [
+      "closed",
+      "closes",
+      "close",
+      "closing"
+    ],
+    "correctIndex": 0,
+    "issues": [
+      "Semantic: Third person acting on someone else's body parts"
+    ]
+  }
+]

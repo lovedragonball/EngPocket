@@ -1,9 +1,35 @@
 /// Question - Entity สำหรับข้อสอบ/quiz
-/// 
+///
 /// ใช้ได้ทั้งใน Grammar Quiz และ Exam
 library;
 
 import 'package:equatable/equatable.dart';
+
+/// ระดับความยากของแบบทดสอบ
+enum QuizDifficulty {
+  easy,
+  medium,
+  hard;
+
+  String get label => switch (this) {
+        easy => 'ง่าย',
+        medium => 'ปานกลาง',
+        hard => 'ยาก',
+      };
+
+  String get emoji => switch (this) {
+        easy => '😊',
+        medium => '🤔',
+        hard => '😤',
+      };
+
+  static QuizDifficulty fromString(String value) {
+    return QuizDifficulty.values.firstWhere(
+      (e) => e.name == value,
+      orElse: () => QuizDifficulty.medium,
+    );
+  }
+}
 
 /// ประเภททักษะของคำถาม
 enum SkillType {
@@ -22,12 +48,12 @@ enum SkillType {
 
 class Question extends Equatable {
   final String id;
-  final String stem;              // ข้อคำถาม / โจทย์
-  final List<String> choices;     // ตัวเลือก
-  final int correctIndex;         // index ของคำตอบที่ถูก (0-based)
-  final String explanation;       // เฉลยแบบอธิบาย
-  final SkillType skillType;      // vocab, grammar, reading, cloze
-  final String packId;            // ข้อสอบแพ็กไหน
+  final String stem; // ข้อคำถาม / โจทย์
+  final List<String> choices; // ตัวเลือก
+  final int correctIndex; // index ของคำตอบที่ถูก (0-based)
+  final String explanation; // เฉลยแบบอธิบาย
+  final SkillType skillType; // vocab, grammar, reading, cloze
+  final String packId; // ข้อสอบแพ็กไหน
 
   const Question({
     required this.id,
@@ -70,6 +96,6 @@ class Question extends Equatable {
   }
 
   @override
-  List<Object?> get props => [id, stem, choices, correctIndex, 
-                               explanation, skillType, packId];
+  List<Object?> get props =>
+      [id, stem, choices, correctIndex, explanation, skillType, packId];
 }

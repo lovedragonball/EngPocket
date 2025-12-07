@@ -60,7 +60,7 @@ class _DailyVocabScreenState extends State<DailyVocabScreen> {
     try {
       // โหลด daily goal
       final prefs = await SharedPreferences.getInstance();
-      _dailyGoal = prefs.getInt('dailyGoal') ?? 10;
+      _dailyGoal = prefs.getInt('daily_goal') ?? 10;
 
       // โหลดคำศัพท์ประจำวัน
       _vocab = await _vocabService.getDailyVocab(

@@ -1,0 +1,3061 @@
+﻿
+    {
+        "id": "grammar_001",
+        "title": "Present Simple",
+        "explanation": "ใช้กับเหตุการณ์ที่เป็นความจริงทั่วไป กิจวัตรประจำวัน หรือสิ่งที่เกิดขึ้นซ้ำๆ\n\nโครงสร้าง:\n- บอกเล่า: Subject + V1 (เติม s/es สำหรับ he/she/it)\n- ปฏิเสธ: Subject + do/does + not + V1\n- คำถาม: Do/Does + Subject + V1?\n\nคำบ่งชี้: always, usually, often, sometimes, never, every day",
+        "examples": [
+            {
+                "sentenceEn": "She works at a hospital.",
+                "sentenceTh": "เธอทำงานที่โรงพยาบาล",
+                "highlight": "works"
+            },
+            {
+                "sentenceEn": "I don't eat meat.",
+                "sentenceTh": "ฉันไม่กินเนื้อสัตว์",
+                "highlight": "don't eat"
+            }
+        ],
+        "quizQuestions": {
+            "easy": [
+                {
+                    "id": "q_001_e1",
+                    "stem": "She _____ to school every day.",
+                    "choices": [
+                        "go",
+                        "goes",
+                        "going",
+                        "went"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ goes เพราะประธานเป็น She ต้องเติม -es",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                },
+                {
+                    "id": "q_001_e2",
+                    "stem": "He _____ coffee in the morning.",
+                    "choices": [
+                        "drink",
+                        "drinks",
+                        "drinking",
+                        "drank"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ drinks เพราะประธานเป็น He ต้องเติม -s",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                },
+                {
+                    "id": "q_001_e3",
+                    "stem": "They _____ English at school.",
+                    "choices": [
+                        "study",
+                        "studies",
+                        "studying",
+                        "studied"
+                    ],
+                    "correctIndex": 0,
+                    "explanation": "ใช้ study เพราะประธานเป็น They ไม่ต้องเติม -s",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                },
+                {
+                    "id": "q_001_e4",
+                    "stem": "The sun _____ in the east.",
+                    "choices": [
+                        "rise",
+                        "rises",
+                        "rising",
+                        "rose"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ rises เพราะเป็นความจริงทั่วไป และประธานเป็นเอกพจน์",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                },
+                {
+                    "id": "q_001_e5",
+                    "stem": "I always _____ breakfast.",
+                    "choices": [
+                        "eat",
+                        "eats",
+                        "eating",
+                        "ate"
+                    ],
+                    "correctIndex": 0,
+                    "explanation": "ใช้ eat เพราะประธานเป็น I ไม่ต้องเติม -s",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                }
+            ],
+            "medium": [
+                {
+                    "id": "q_001_m1",
+                    "stem": "Water _____ at 100 degrees Celsius.",
+                    "choices": [
+                        "boil",
+                        "boils",
+                        "boiling",
+                        "boiled"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ boils เพราะเป็นความจริงทางวิทยาศาสตร์",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                },
+                {
+                    "id": "q_001_m2",
+                    "stem": "My father never _____ late for work.",
+                    "choices": [
+                        "arrive",
+                        "arrives",
+                        "arriving",
+                        "arrived"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ arrives เพราะมี never บ่งชี้กิจวัตร และ father เป็นเอกพจน์",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                },
+                {
+                    "id": "q_001_m3",
+                    "stem": "Scientists _____ that the Earth is round.",
+                    "choices": [
+                        "know",
+                        "knows",
+                        "knowing",
+                        "knew"
+                    ],
+                    "correctIndex": 0,
+                    "explanation": "ใช้ know เพราะ scientists เป็นพหูพจน์",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                },
+                {
+                    "id": "q_001_m4",
+                    "stem": "The museum _____ at 9 AM every day.",
+                    "choices": [
+                        "open",
+                        "opens",
+                        "opening",
+                        "opened"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ opens เพราะเป็นตารางเวลาประจำ",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                },
+                {
+                    "id": "q_001_m5",
+                    "stem": "She rarely _____ junk food.",
+                    "choices": [
+                        "eat",
+                        "eats",
+                        "eating",
+                        "ate"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ eats เพราะมี rarely แสดงความถี่ และ she เป็นเอกพจน์",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                }
+            ],
+            "hard": [
+                {
+                    "id": "q_001_h1",
+                    "stem": "The Earth _____ around the Sun once a year.",
+                    "choices": [
+                        "revolve",
+                        "revolves",
+                        "is revolving",
+                        "revolved"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ revolves เพราะเป็นความจริงทางวิทยาศาสตร์",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                },
+                {
+                    "id": "q_001_h2",
+                    "stem": "According to the schedule, the train _____ at 8:15 AM.",
+                    "choices": [
+                        "depart",
+                        "departs",
+                        "is departing",
+                        "will depart"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ Present Simple กับตารางเวลา/กำหนดการที่แน่นอน",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                },
+                {
+                    "id": "q_001_h3",
+                    "stem": "Good teachers _____ their students to ask questions.",
+                    "choices": [
+                        "encourage",
+                        "encourages",
+                        "encouraging",
+                        "encouraged"
+                    ],
+                    "correctIndex": 0,
+                    "explanation": "ใช้ encourage เพราะ teachers เป็นพหูพจน์",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                },
+                {
+                    "id": "q_001_h4",
+                    "stem": "The human heart _____ approximately 100,000 times per day.",
+                    "choices": [
+                        "beat",
+                        "beats",
+                        "is beating",
+                        "has beaten"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ beats เพราะเป็นข้อเท็จจริงทางชีววิทยา",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                },
+                {
+                    "id": "q_001_h5",
+                    "stem": "When the water temperature _____ to freezing point, ice forms.",
+                    "choices": [
+                        "drop",
+                        "drops",
+                        "is dropping",
+                        "will drop"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ drops ใน conditional clause สำหรับความจริงทั่วไป",
+                    "skillType": "grammar",
+                    "packId": "grammar_001"
+                }
+            
+        }
+    },
+    {
+        "id": "grammar_002",
+        "title": "Present Continuous",
+        "explanation": "ใช้กับเหตุการณ์ที่กำลังเกิดขึ้นในขณะที่พูด หรือเหตุการณ์ชั่วคราว\n\nโครงสร้าง:\n- บอกเล่า: Subject + is/am/are + V-ing\n- ปฏิเสธ: Subject + is/am/are + not + V-ing\n- คำถาม: Is/Am/Are + Subject + V-ing?\n\nคำบ่งชี้: now, right now, at the moment, currently",
+        "examples": [
+            {
+                "sentenceEn": "They are playing football now.",
+                "sentenceTh": "พวกเขากำลังเล่นฟุตบอลอยู่ตอนนี้",
+                "highlight": "are playing"
+            },
+            {
+                "sentenceEn": "I am studying English.",
+                "sentenceTh": "ฉันกำลังเรียนภาษาอังกฤษ",
+                "highlight": "am studying"
+            }
+        ],
+        "quizQuestions": {
+            "easy": [
+                {
+                    "id": "q_002_e1",
+                    "stem": "Listen! Someone _____ at the door.",
+                    "choices": [
+                        "knock",
+                        "knocks",
+                        "is knocking",
+                        "knocked"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ is knocking เพราะกำลังเกิดขึ้นขณะพูด",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                },
+                {
+                    "id": "q_002_e2",
+                    "stem": "I _____ TV right now.",
+                    "choices": [
+                        "watch",
+                        "watches",
+                        "am watching",
+                        "watched"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ am watching เพราะมี right now",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                },
+                {
+                    "id": "q_002_e3",
+                    "stem": "She _____ a book at the moment.",
+                    "choices": [
+                        "read",
+                        "reads",
+                        "is reading",
+                        "read"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ is reading เพราะมี at the moment",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                },
+                {
+                    "id": "q_002_e4",
+                    "stem": "They _____ dinner now.",
+                    "choices": [
+                        "cook",
+                        "cooks",
+                        "are cooking",
+                        "cooked"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ are cooking เพราะมี now",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                },
+                {
+                    "id": "q_002_e5",
+                    "stem": "Look! The baby _____.",
+                    "choices": [
+                        "cry",
+                        "cries",
+                        "is crying",
+                        "cried"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ is crying เพราะมี Look! แสดงว่ากำลังเกิดขึ้น",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                }
+            ],
+            "medium": [
+                {
+                    "id": "q_002_m1",
+                    "stem": "Be quiet! The children _____.",
+                    "choices": [
+                        "sleep",
+                        "sleeps",
+                        "are sleeping",
+                        "slept"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ are sleeping เพราะกำลังเกิดขึ้นขณะพูด",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                },
+                {
+                    "id": "q_002_m2",
+                    "stem": "I can't talk now. I _____ for my exam.",
+                    "choices": [
+                        "study",
+                        "studies",
+                        "am studying",
+                        "studied"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ am studying เพราะกำลังทำอยู่ตอนนี้",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                },
+                {
+                    "id": "q_002_m3",
+                    "stem": "The weather _____ colder these days.",
+                    "choices": [
+                        "get",
+                        "gets",
+                        "is getting",
+                        "got"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ is getting เพราะเป็นการเปลี่ยนแปลงที่กำลังเกิดขึ้น",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                },
+                {
+                    "id": "q_002_m4",
+                    "stem": "She _____ with her parents temporarily.",
+                    "choices": [
+                        "live",
+                        "lives",
+                        "is living",
+                        "lived"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ is living เพราะเป็นสถานการณ์ชั่วคราว",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                },
+                {
+                    "id": "q_002_m5",
+                    "stem": "More and more people _____ online nowadays.",
+                    "choices": [
+                        "shop",
+                        "shops",
+                        "are shopping",
+                        "shopped"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ are shopping เพราะเป็นแนวโน้มที่กำลังเกิดขึ้น",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                }
+            ],
+            "hard": [
+                {
+                    "id": "q_002_h1",
+                    "stem": "I _____ to Paris next week. My flight is booked.",
+                    "choices": [
+                        "fly",
+                        "flies",
+                        "am flying",
+                        "will fly"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ Present Continuous สำหรับแผนที่วางไว้แน่นอนแล้ว",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                },
+                {
+                    "id": "q_002_h2",
+                    "stem": "The company _____ new employees this month.",
+                    "choices": [
+                        "hire",
+                        "hires",
+                        "is hiring",
+                        "hired"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ is hiring เพราะเป็นสถานการณ์ชั่วคราวในช่วงเวลานี้",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                },
+                {
+                    "id": "q_002_h3",
+                    "stem": "Why _____ you _____ at me like that?",
+                    "choices": [
+                        "do/look",
+                        "does/look",
+                        "are/looking",
+                        "were/looking"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ are looking เพราะถามถึงการกระทำที่กำลังเกิดขึ้น",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                },
+                {
+                    "id": "q_002_h4",
+                    "stem": "Scientists _____ new ways to treat cancer.",
+                    "choices": [
+                        "develop",
+                        "develops",
+                        "are developing",
+                        "developed"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ are developing เพราะเป็นงานที่กำลังดำเนินอยู่",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                },
+                {
+                    "id": "q_002_h5",
+                    "stem": "She _____ more confident as she practices.",
+                    "choices": [
+                        "become",
+                        "becomes",
+                        "is becoming",
+                        "became"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ is becoming เพราะเป็นกระบวนการเปลี่ยนแปลงที่กำลังเกิดขึ้น",
+                    "skillType": "grammar",
+                    "packId": "grammar_002"
+                }
+            
+        }
+    },
+    {
+        "id": "grammar_003",
+        "title": "Present Perfect",
+        "explanation": "ใช้กับเหตุการณ์ที่เกิดขึ้นในอดีตแต่ยังส่งผลถึงปัจจุบัน หรือประสบการณ์ในอดีต\n\nโครงสร้าง: Subject + have/has + V3\n\nการใช้งาน:\n1. ประสบการณ์ในอดีต (I have visited Japan.)\n2. เหตุการณ์ที่เพิ่งเกิด (She has just arrived.)\n3. สถานการณ์ที่ดำเนินมาถึงปัจจุบัน (I have lived here for 5 years.)\n\nคำบ่งชี้: already, yet, just, ever, never, since, for",
+        "examples": [
+            {
+                "sentenceEn": "I have visited Japan twice.",
+                "sentenceTh": "ฉันเคยไปญี่ปุ่นสองครั้ง",
+                "highlight": "have visited"
+            },
+            {
+                "sentenceEn": "She has just finished her homework.",
+                "sentenceTh": "เธอเพิ่งทำการบ้านเสร็จ",
+                "highlight": "has just finished"
+            }
+        ],
+        "quizQuestions": {
+            "easy": [
+                {
+                    "id": "q_003_e1",
+                    "stem": "I _____ this movie before.",
+                    "choices": [
+                        "see",
+                        "saw",
+                        "have seen",
+                        "am seeing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ have seen เพราะพูดถึงประสบการณ์",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                },
+                {
+                    "id": "q_003_e2",
+                    "stem": "She _____ just arrived.",
+                    "choices": [
+                        "have",
+                        "has",
+                        "is",
+                        "was"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ has เพราะประธานเป็น She และมี just",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                },
+                {
+                    "id": "q_003_e3",
+                    "stem": "They _____ already eaten lunch.",
+                    "choices": [
+                        "have",
+                        "has",
+                        "are",
+                        "were"
+                    ],
+                    "correctIndex": 0,
+                    "explanation": "ใช้ have เพราะประธานเป็น They",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                },
+                {
+                    "id": "q_003_e4",
+                    "stem": "Have you ever _____ to London?",
+                    "choices": [
+                        "go",
+                        "went",
+                        "been",
+                        "going"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ been กับ have...ever สำหรับถามประสบการณ์",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                },
+                {
+                    "id": "q_003_e5",
+                    "stem": "I have _____ finished my homework.",
+                    "choices": [
+                        "yet",
+                        "just",
+                        "since",
+                        "for"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ just สำหรับเหตุการณ์ที่เพิ่งเกิดขึ้น",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                }
+            ],
+            "medium": [
+                {
+                    "id": "q_003_m1",
+                    "stem": "She _____ here since 2010.",
+                    "choices": [
+                        "live",
+                        "lives",
+                        "has lived",
+                        "is living"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ has lived กับ since สำหรับช่วงเวลาจากอดีตถึงปัจจุบัน",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                },
+                {
+                    "id": "q_003_m2",
+                    "stem": "I _____ my keys. I can't find them.",
+                    "choices": [
+                        "lose",
+                        "lost",
+                        "have lost",
+                        "am losing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ have lost เพราะผลยังคงอยู่ (หาไม่เจอ)",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                },
+                {
+                    "id": "q_003_m3",
+                    "stem": "He _____ three cups of coffee today.",
+                    "choices": [
+                        "drink",
+                        "drank",
+                        "has drunk",
+                        "is drinking"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ has drunk เพราะ today ยังไม่จบ",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                },
+                {
+                    "id": "q_003_m4",
+                    "stem": "They _____ married for 20 years.",
+                    "choices": [
+                        "are",
+                        "were",
+                        "have been",
+                        "had been"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ have been กับ for สำหรับระยะเวลาจนถึงปัจจุบัน",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                },
+                {
+                    "id": "q_003_m5",
+                    "stem": "Have you _____ your homework yet?",
+                    "choices": [
+                        "do",
+                        "did",
+                        "done",
+                        "doing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ done (V3) กับ have",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                }
+            ],
+            "hard": [
+                {
+                    "id": "q_003_h1",
+                    "stem": "This is the best movie I _____ ever _____.",
+                    "choices": [
+                        "have/seen",
+                        "had/seen",
+                        "was/seeing",
+                        "am/seeing"
+                    ],
+                    "correctIndex": 0,
+                    "explanation": "ใช้ have seen กับ superlative + ever",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                },
+                {
+                    "id": "q_003_h2",
+                    "stem": "She _____ to the gym three times this week.",
+                    "choices": [
+                        "goes",
+                        "went",
+                        "has gone",
+                        "is going"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ has gone เพราะ this week ยังไม่จบ",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                },
+                {
+                    "id": "q_003_h3",
+                    "stem": "How long _____ you _____ each other?",
+                    "choices": [
+                        "do/know",
+                        "did/know",
+                        "have/known",
+                        "are/knowing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ have known สำหรับถามระยะเวลาจนถึงปัจจุบัน",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                },
+                {
+                    "id": "q_003_h4",
+                    "stem": "The price of oil _____ dramatically this year.",
+                    "choices": [
+                        "rise",
+                        "rose",
+                        "has risen",
+                        "is rising"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ has risen เพราะ this year ยังไม่จบ และเน้นผลปัจจุบัน",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                },
+                {
+                    "id": "q_003_h5",
+                    "stem": "I _____ never _____ such a beautiful sunset.",
+                    "choices": [
+                        "have/see",
+                        "have/seen",
+                        "had/seen",
+                        "was/seeing"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ have never seen สำหรับประสบการณ์ที่ไม่เคยเกิดขึ้น",
+                    "skillType": "grammar",
+                    "packId": "grammar_003"
+                }
+            
+        }
+    },
+    {
+        "id": "grammar_004",
+        "title": "Present Perfect Continuous",
+        "explanation": "ใช้เน้นความต่อเนื่องของเหตุการณ์ที่เริ่มในอดีตและดำเนินมาจนถึงปัจจุบัน\n\nโครงสร้าง: Subject + have/has + been + V-ing\n\nข้อแตกต่างจาก Present Perfect: เน้นระยะเวลาและความต่อเนื่องของการกระทำ\n\nคำบ่งชี้: for, since, all day, all week",
+        "examples": [
+            {
+                "sentenceEn": "It has been raining all day.",
+                "sentenceTh": "ฝนตกมาตลอดทั้งวันเลย (ยังไม่หยุด)",
+                "highlight": "has been raining"
+            },
+            {
+                "sentenceEn": "I have been waiting for you for 2 hours.",
+                "sentenceTh": "ฉันรอคุณมา 2 ชั่วโมงแล้วนะ",
+                "highlight": "have been waiting"
+            }
+        ],
+        "quizQuestions": {
+            "easy": [
+                {
+                    "id": "q_004_e1",
+                    "stem": "She is tired because she _____ all morning.",
+                    "choices": [
+                        "runs",
+                        "ran",
+                        "has run",
+                        "has been running"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ has been running เน้นความต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                },
+                {
+                    "id": "q_004_e2",
+                    "stem": "I _____ for two hours.",
+                    "choices": [
+                        "study",
+                        "studied",
+                        "have studied",
+                        "have been studying"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ have been studying เน้นระยะเวลา",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                },
+                {
+                    "id": "q_004_e3",
+                    "stem": "They _____ tennis since 3 o'clock.",
+                    "choices": [
+                        "play",
+                        "played",
+                        "have played",
+                        "have been playing"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ have been playing กับ since",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                },
+                {
+                    "id": "q_004_e4",
+                    "stem": "It _____ all day.",
+                    "choices": [
+                        "rain",
+                        "rained",
+                        "has rained",
+                        "has been raining"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ has been raining เน้นความต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                },
+                {
+                    "id": "q_004_e5",
+                    "stem": "He _____ here for 5 years.",
+                    "choices": [
+                        "work",
+                        "worked",
+                        "has worked",
+                        "has been working"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ has been working เน้นการทำงานต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                }
+            ],
+            "medium": [
+                {
+                    "id": "q_004_m1",
+                    "stem": "How long _____ you _____ for this company?",
+                    "choices": [
+                        "do/work",
+                        "did/work",
+                        "have/worked",
+                        "have/been working"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ have been working สำหรับถามระยะเวลาการทำงานต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                },
+                {
+                    "id": "q_004_m2",
+                    "stem": "She looks tired. She _____ too hard.",
+                    "choices": [
+                        "work",
+                        "works",
+                        "has worked",
+                        "has been working"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ has been working อธิบายสาเหตุที่เหนื่อย",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                },
+                {
+                    "id": "q_004_m3",
+                    "stem": "We _____ for a new house for months.",
+                    "choices": [
+                        "look",
+                        "looked",
+                        "have looked",
+                        "have been looking"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ have been looking เน้นการค้นหาต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                },
+                {
+                    "id": "q_004_m4",
+                    "stem": "The phone _____ for the last 5 minutes.",
+                    "choices": [
+                        "ring",
+                        "rang",
+                        "has rung",
+                        "has been ringing"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ has been ringing เน้นความต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                },
+                {
+                    "id": "q_004_m5",
+                    "stem": "I _____ to contact you all week.",
+                    "choices": [
+                        "try",
+                        "tried",
+                        "have tried",
+                        "have been trying"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ have been trying เน้นความพยายามต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                }
+            ],
+            "hard": [
+                {
+                    "id": "q_004_h1",
+                    "stem": "The team _____ on this project since January and will continue until December.",
+                    "choices": [
+                        "work",
+                        "worked",
+                        "has worked",
+                        "has been working"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ has been working เน้นงานที่ทำต่อเนื่องและยังไม่เสร็จ",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                },
+                {
+                    "id": "q_004_h2",
+                    "stem": "Your eyes are red. _____ you _____?",
+                    "choices": [
+                        "Do/cry",
+                        "Did/cry",
+                        "Have/cried",
+                        "Have/been crying"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ Have been crying เพราะเห็นผลชัดเจน (ตาแดง)",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                },
+                {
+                    "id": "q_004_h3",
+                    "stem": "Scientists _____ for a cure for cancer for decades.",
+                    "choices": [
+                        "search",
+                        "searched",
+                        "have searched",
+                        "have been searching"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ have been searching เน้นการค้นหาต่อเนื่องหลายทศวรรษ",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                },
+                {
+                    "id": "q_004_h4",
+                    "stem": "The children are dirty. They _____ in the mud.",
+                    "choices": [
+                        "play",
+                        "played",
+                        "have played",
+                        "have been playing"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ have been playing อธิบายว่าทำไมเด็กๆ สกปรก",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                },
+                {
+                    "id": "q_004_h5",
+                    "stem": "She _____ weight recently because she _____ exercising.",
+                    "choices": [
+                        "lose/is",
+                        "loses/is",
+                        "has lost/has been",
+                        "lost/was"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ has lost (ผล) + has been exercising (กระบวนการต่อเนื่อง)",
+                    "skillType": "grammar",
+                    "packId": "grammar_004"
+                }
+            
+        }
+    },
+    {
+        "id": "grammar_005",
+        "title": "Past Simple",
+        "explanation": "ใช้กับเหตุการณ์ที่เกิดขึ้นและจบลงแล้วในอดีต\n\nโครงสร้าง: Subject + V2\n\nคำบ่งชี้: yesterday, last night, last week, ...ago, in 1999",
+        "examples": [
+            {
+                "sentenceEn": "I went to the cinema yesterday.",
+                "sentenceTh": "ฉันไปโรงหนังมาเมื่อวาน",
+                "highlight": "went"
+            },
+            {
+                "sentenceEn": "They bought a new car last month.",
+                "sentenceTh": "พวกเขาซื้อรถใหม่เมื่อเดือนที่แล้ว",
+                "highlight": "bought"
+            }
+        ],
+        "quizQuestions": {
+            "easy": [
+                {
+                    "id": "q_005_e1",
+                    "stem": "We _____ him at the party last night.",
+                    "choices": [
+                        "meet",
+                        "met",
+                        "have met",
+                        "meeting"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ met เพราะมี last night (อดีต)",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                },
+                {
+                    "id": "q_005_e2",
+                    "stem": "She _____ to school yesterday.",
+                    "choices": [
+                        "go",
+                        "goes",
+                        "went",
+                        "gone"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ went เพราะมี yesterday",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                },
+                {
+                    "id": "q_005_e3",
+                    "stem": "I _____ breakfast this morning.",
+                    "choices": [
+                        "eat",
+                        "eats",
+                        "ate",
+                        "eaten"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ ate เพราะ this morning จบไปแล้ว",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                },
+                {
+                    "id": "q_005_e4",
+                    "stem": "They _____ football last Sunday.",
+                    "choices": [
+                        "play",
+                        "plays",
+                        "played",
+                        "playing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ played เพราะมี last Sunday",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                },
+                {
+                    "id": "q_005_e5",
+                    "stem": "He _____ a letter to his friend.",
+                    "choices": [
+                        "write",
+                        "writes",
+                        "wrote",
+                        "written"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ wrote (V2) สำหรับอดีต",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                }
+            ],
+            "medium": [
+                {
+                    "id": "q_005_m1",
+                    "stem": "The accident _____ at 6 PM yesterday.",
+                    "choices": [
+                        "happen",
+                        "happens",
+                        "happened",
+                        "has happened"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ happened เพราะระบุเวลาเจาะจงในอดีต",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                },
+                {
+                    "id": "q_005_m2",
+                    "stem": "When _____ you _____ home?",
+                    "choices": [
+                        "do/get",
+                        "did/get",
+                        "have/got",
+                        "are/getting"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ did...get สำหรับถามอดีต",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                },
+                {
+                    "id": "q_005_m3",
+                    "stem": "Shakespeare _____ many famous plays.",
+                    "choices": [
+                        "write",
+                        "writes",
+                        "wrote",
+                        "has written"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ wrote เพราะ Shakespeare เสียชีวิตไปแล้ว",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                },
+                {
+                    "id": "q_005_m4",
+                    "stem": "I _____ a strange noise in the middle of the night.",
+                    "choices": [
+                        "hear",
+                        "hears",
+                        "heard",
+                        "have heard"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ heard เพราะเป็นเหตุการณ์ที่จบไปแล้ว",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                },
+                {
+                    "id": "q_005_m5",
+                    "stem": "She _____ her phone at the restaurant.",
+                    "choices": [
+                        "leave",
+                        "leaves",
+                        "left",
+                        "has left"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ left เพราะเป็นเหตุการณ์ในอดีต",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                }
+            ],
+            "hard": [
+                {
+                    "id": "q_005_h1",
+                    "stem": "The company _____ bankrupt in 2008 due to the financial crisis.",
+                    "choices": [
+                        "go",
+                        "goes",
+                        "went",
+                        "has gone"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ went เพราะมีปี 2008 ระบุชัดเจน",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                },
+                {
+                    "id": "q_005_h2",
+                    "stem": "How many emails _____ you _____ yesterday?",
+                    "choices": [
+                        "do/send",
+                        "did/send",
+                        "have/sent",
+                        "are/sending"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ did...send เพราะถามเกี่ยวกับ yesterday",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                },
+                {
+                    "id": "q_005_h3",
+                    "stem": "The ancient Romans _____ an extensive road network.",
+                    "choices": [
+                        "build",
+                        "builds",
+                        "built",
+                        "have built"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ built เพราะโรมันโบราณเป็นประวัติศาสตร์",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                },
+                {
+                    "id": "q_005_h4",
+                    "stem": "When I _____ young, I _____ in a small village.",
+                    "choices": [
+                        "am/live",
+                        "was/lived",
+                        "have been/have lived",
+                        "am/am living"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ was/lived เพราะพูดถึงอดีตที่จบไปแล้ว",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                },
+                {
+                    "id": "q_005_h5",
+                    "stem": "The meeting _____ longer than we _____.",
+                    "choices": [
+                        "take/expect",
+                        "took/expected",
+                        "has taken/have expected",
+                        "takes/expect"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ took/expected เพราะประชุมจบไปแล้ว",
+                    "skillType": "grammar",
+                    "packId": "grammar_005"
+                }
+            
+        }
+    }
+
+
+    {
+        "id": "grammar_006",
+        "title": "Past Continuous",
+        "explanation": "ใช้กับเหตุการณ์ที่กำลังเกิดขึ้น ณ เวลาหนึ่งในอดีต หรือเหตุการณ์ที่กำลังดำเนินอยู่แล้วมีอีกเหตุการณ์เข้ามาแทรก\n\nโครงสร้าง: Subject + was/were + V-ing\n\nการใช้งาน:\n1. เหตุการณ์กำลังเกิดในอดีต (At 8pm yesterday, I was watching TV.)\n2. เหตุการณ์ถูกแทรก (I was sleeping when the phone rang.)\n\nคำบ่งชี้: while, when, at ... (time in past)",
+        "examples": [
+            {
+                "sentenceEn": "I was reading a book when he came in.",
+                "sentenceTh": "ฉันกำลังอ่านหนังสืออยู่ตอนที่เขาเข้ามา",
+                "highlight": "was reading"
+            },
+            {
+                "sentenceEn": "While she was cooking, she cut her finger.",
+                "sentenceTh": "ขณะที่เธอกำลังทำอาหาร เธอทำมีดบาดนิ้ว",
+                "highlight": "was cooking"
+            }
+        ],
+        "quizQuestions": {
+            "easy": [
+                {
+                    "id": "q_006_e1",
+                    "stem": "What _____ you _____ at 9 o'clock last night?",
+                    "choices": [
+                        "did/do",
+                        "were/doing",
+                        "are/doing",
+                        "have/done"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ were doing เพราะถามเหตุการณ์ที่กำลังเกิดในอดีต",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                },
+                {
+                    "id": "q_006_e2",
+                    "stem": "I _____ TV when you called.",
+                    "choices": [
+                        "watch",
+                        "watched",
+                        "was watching",
+                        "am watching"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ was watching เพราะกำลังดูอยู่ตอนที่โทรมา",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                },
+                {
+                    "id": "q_006_e3",
+                    "stem": "She _____ when the phone rang.",
+                    "choices": [
+                        "sleep",
+                        "slept",
+                        "was sleeping",
+                        "is sleeping"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ was sleeping เป็นเหตุการณ์ที่กำลังเกิดก่อนถูกแทรก",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                },
+                {
+                    "id": "q_006_e4",
+                    "stem": "They _____ football at 3 PM yesterday.",
+                    "choices": [
+                        "play",
+                        "played",
+                        "were playing",
+                        "are playing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ were playing เพราะระบุเวลาเจาะจงในอดีต",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                },
+                {
+                    "id": "q_006_e5",
+                    "stem": "While I _____ dinner, the doorbell rang.",
+                    "choices": [
+                        "cook",
+                        "cooked",
+                        "was cooking",
+                        "am cooking"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ was cooking กับ while สำหรับเหตุการณ์ดำเนินอยู่",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                }
+            ],
+            "medium": [
+                {
+                    "id": "q_006_m1",
+                    "stem": "The children _____ in the garden when it started to rain.",
+                    "choices": [
+                        "play",
+                        "played",
+                        "were playing",
+                        "have played"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ were playing เป็นเหตุการณ์ที่ถูกแทรก",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                },
+                {
+                    "id": "q_006_m2",
+                    "stem": "While she _____, I _____ the newspaper.",
+                    "choices": [
+                        "cook/read",
+                        "cooked/read",
+                        "was cooking/was reading",
+                        "cooks/reads"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ was cooking/was reading สำหรับ 2 เหตุการณ์พร้อมกัน",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                },
+                {
+                    "id": "q_006_m3",
+                    "stem": "I _____ to music when the lights went out.",
+                    "choices": [
+                        "listen",
+                        "listened",
+                        "was listening",
+                        "am listening"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ was listening เป็นเหตุการณ์ที่ถูกแทรก",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                },
+                {
+                    "id": "q_006_m4",
+                    "stem": "At this time last week, we _____ on the beach.",
+                    "choices": [
+                        "lie",
+                        "lay",
+                        "were lying",
+                        "are lying"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ were lying เพราะระบุเวลาเจาะจงในอดีต",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                },
+                {
+                    "id": "q_006_m5",
+                    "stem": "He _____ breakfast when I arrived.",
+                    "choices": [
+                        "have",
+                        "had",
+                        "was having",
+                        "is having"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ was having เป็นเหตุการณ์ที่กำลังเกิดอยู่",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                }
+            ],
+            "hard": [
+                {
+                    "id": "q_006_h1",
+                    "stem": "The students _____ their exam when the fire alarm _____.",
+                    "choices": [
+                        "take/ring",
+                        "took/rang",
+                        "were taking/rang",
+                        "were taking/was ringing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ were taking (ดำเนินต่อเนื่อง) + rang (แทรกเข้ามา)",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                },
+                {
+                    "id": "q_006_h2",
+                    "stem": "I noticed that she _____ at me strangely.",
+                    "choices": [
+                        "look",
+                        "looked",
+                        "was looking",
+                        "has looked"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ was looking ในประโยคสังเกตเห็นขณะนั้น",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                },
+                {
+                    "id": "q_006_h3",
+                    "stem": "While the teacher _____, some students _____ notes.",
+                    "choices": [
+                        "explain/take",
+                        "explained/took",
+                        "was explaining/were taking",
+                        "explains/take"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ was explaining/were taking สำหรับ 2 เหตุการณ์พร้อมกัน",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                },
+                {
+                    "id": "q_006_h4",
+                    "stem": "Throughout the 1990s, the company _____ rapidly.",
+                    "choices": [
+                        "expand",
+                        "expanded",
+                        "was expanding",
+                        "has expanded"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ was expanding เน้นกระบวนการต่อเนื่องในช่วงเวลา",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                },
+                {
+                    "id": "q_006_h5",
+                    "stem": "She didn't hear the doorbell because she _____ a shower.",
+                    "choices": [
+                        "take",
+                        "took",
+                        "was taking",
+                        "has taken"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ was taking อธิบายเหตุผลที่ไม่ได้ยิน",
+                    "skillType": "grammar",
+                    "packId": "grammar_006"
+                }
+            
+        }
+    },
+    {
+        "id": "grammar_007",
+        "title": "Past Perfect",
+        "explanation": "ใช้กับเหตุการณ์ที่เกิดขึ้นและจบลง ก่อนที่จะมีอีกเหตุการณ์หนึ่งเกิดขึ้นในอดีต (อดีตซ้อนอดีต)\n\nโครงสร้าง: Subject + had + V3\n\nหลักการจำ: เกิดก่อนใช้ Past Perfect (had + V3), เกิดทีหลังใช้ Past Simple (V2)\n\nคำบ่งชี้: before, after, by the time",
+        "examples": [
+            {
+                "sentenceEn": "The train had left when we arrived at the station.",
+                "sentenceTh": "รถไฟออกไปแล้ว ตอนที่เราไปถึงสถานี",
+                "highlight": "had left"
+            },
+            {
+                "sentenceEn": "She had finished her work before she went out.",
+                "sentenceTh": "เธอทำงานเสร็จก่อนที่จะออกไปข้างนอก",
+                "highlight": "had finished"
+            }
+        ],
+        "quizQuestions": {
+            "easy": [
+                {
+                    "id": "q_007_e1",
+                    "stem": "By the time the police arrived, the thief _____.",
+                    "choices": [
+                        "escaped",
+                        "has escaped",
+                        "had escaped",
+                        "was escaping"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had escaped เพราะหนีไป 'ก่อน' ตำรวจมา",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                },
+                {
+                    "id": "q_007_e2",
+                    "stem": "I _____ lunch before you came.",
+                    "choices": [
+                        "eat",
+                        "ate",
+                        "had eaten",
+                        "have eaten"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had eaten เพราะกินเสร็จก่อนที่คุณมา",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                },
+                {
+                    "id": "q_007_e3",
+                    "stem": "She _____ already _____ when I called.",
+                    "choices": [
+                        "has/left",
+                        "had/left",
+                        "was/leaving",
+                        "is/leaving"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ had left เพราะออกไปก่อนที่โทร",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                },
+                {
+                    "id": "q_007_e4",
+                    "stem": "After he _____ his homework, he went to bed.",
+                    "choices": [
+                        "finish",
+                        "finishes",
+                        "had finished",
+                        "has finished"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had finished กับ after สำหรับเหตุการณ์ก่อน",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                },
+                {
+                    "id": "q_007_e5",
+                    "stem": "The movie _____ by the time we got there.",
+                    "choices": [
+                        "start",
+                        "started",
+                        "had started",
+                        "has started"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had started เพราะหนังเริ่มก่อนที่เราไปถึง",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                }
+            ],
+            "medium": [
+                {
+                    "id": "q_007_m1",
+                    "stem": "I didn't recognize her because she _____ a lot.",
+                    "choices": [
+                        "change",
+                        "changed",
+                        "had changed",
+                        "has changed"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had changed เพราะเปลี่ยนก่อนที่จะเจอ",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                },
+                {
+                    "id": "q_007_m2",
+                    "stem": "When we arrived at the cinema, the film _____ already _____.",
+                    "choices": [
+                        "has/started",
+                        "had/started",
+                        "was/starting",
+                        "is/starting"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ had started เพราะหนังเริ่มก่อนเราไปถึง",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                },
+                {
+                    "id": "q_007_m3",
+                    "stem": "She told me that she _____ to Paris before.",
+                    "choices": [
+                        "go",
+                        "went",
+                        "had been",
+                        "has been"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had been ใน reported speech",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                },
+                {
+                    "id": "q_007_m4",
+                    "stem": "Before I moved here, I _____ in Bangkok.",
+                    "choices": [
+                        "live",
+                        "lived",
+                        "had lived",
+                        "have lived"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had lived กับ before สำหรับเหตุการณ์ก่อนหน้า",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                },
+                {
+                    "id": "q_007_m5",
+                    "stem": "I was surprised because I _____ never _____ such a thing.",
+                    "choices": [
+                        "have/seen",
+                        "had/seen",
+                        "was/seeing",
+                        "am/seeing"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ had never seen เพราะพูดถึงก่อนเวลาที่พูด (อดีต)",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                }
+            ],
+            "hard": [
+                {
+                    "id": "q_007_h1",
+                    "stem": "The patient _____ by the time the ambulance _____.",
+                    "choices": [
+                        "die/arrive",
+                        "died/arrived",
+                        "had died/arrived",
+                        "dies/arrives"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had died (ก่อน) + arrived (ทีหลัง)",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                },
+                {
+                    "id": "q_007_h2",
+                    "stem": "I realized I _____ my wallet at home after I _____ the restaurant.",
+                    "choices": [
+                        "leave/enter",
+                        "left/entered",
+                        "had left/entered",
+                        "have left/enter"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had left เพราะลืมกระเป๋าก่อนที่จะรู้ตัว",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                },
+                {
+                    "id": "q_007_h3",
+                    "stem": "The streets were flooded because it _____ heavily the night before.",
+                    "choices": [
+                        "rain",
+                        "rained",
+                        "had rained",
+                        "has rained"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had rained เป็นสาเหตุที่เกิดก่อน",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                },
+                {
+                    "id": "q_007_h4",
+                    "stem": "By the end of the year, he _____ promoted three times.",
+                    "choices": [
+                        "is",
+                        "was",
+                        "had been",
+                        "has been"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had been กับ by the end of (อดีต)",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                },
+                {
+                    "id": "q_007_h5",
+                    "stem": "She couldn't take the test because she _____ to register.",
+                    "choices": [
+                        "forget",
+                        "forgot",
+                        "had forgotten",
+                        "has forgotten"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had forgotten เพราะลืมลงทะเบียนก่อนวันสอบ",
+                    "skillType": "grammar",
+                    "packId": "grammar_007"
+                }
+            
+        }
+    },
+    {
+        "id": "grammar_008",
+        "title": "Past Perfect Continuous",
+        "explanation": "ใช้คล้าย Past Perfect แต่เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อน\n\nโครงสร้าง: Subject + had + been + V-ing\n\nการใช้งาน: บอกว่าทำอะไรมาอย่างต่อเนื่องเป็นระยะเวลาหนึ่ง ก่อนที่จะมีอีกเหตุการณ์ในอดีตเกิดขึ้น\n\nคำบ่งชี้: for, since, before",
+        "examples": [
+            {
+                "sentenceEn": "He had been waiting for an hour when the bus finally arrived.",
+                "sentenceTh": "เขารอมาเป็นชั่วโมงแล้ว ตอนที่รถเมล์มาถึงในที่สุด",
+                "highlight": "had been waiting"
+            },
+            {
+                "sentenceEn": "They had been playing football for 2 hours before it started to rain.",
+                "sentenceTh": "พวกเขาเล่นฟุตบอลมา 2 ชั่วโมงก่อนที่ฝนจะเริ่มตก",
+                "highlight": "had been playing"
+            }
+        ],
+        "quizQuestions": {
+            "easy": [
+                {
+                    "id": "q_008_e1",
+                    "stem": "Her eyes were red because she _____.",
+                    "choices": [
+                        "cried",
+                        "has cried",
+                        "had cried",
+                        "had been crying"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been crying เน้นการร้องไห้ต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                },
+                {
+                    "id": "q_008_e2",
+                    "stem": "He was tired because he _____ all day.",
+                    "choices": [
+                        "work",
+                        "worked",
+                        "had worked",
+                        "had been working"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been working เน้นการทำงานต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                },
+                {
+                    "id": "q_008_e3",
+                    "stem": "They _____ for 2 hours before the bus came.",
+                    "choices": [
+                        "wait",
+                        "waited",
+                        "had waited",
+                        "had been waiting"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been waiting เน้นการรอคอยต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                },
+                {
+                    "id": "q_008_e4",
+                    "stem": "She _____ English for 5 years before she moved to London.",
+                    "choices": [
+                        "study",
+                        "studied",
+                        "had studied",
+                        "had been studying"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been studying เน้นการเรียนต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                },
+                {
+                    "id": "q_008_e5",
+                    "stem": "I was out of breath because I _____.",
+                    "choices": [
+                        "run",
+                        "ran",
+                        "had run",
+                        "had been running"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been running อธิบายสาเหตุที่หายใจไม่ทัน",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                }
+            ],
+            "medium": [
+                {
+                    "id": "q_008_m1",
+                    "stem": "How long _____ you _____ before you found a job?",
+                    "choices": [
+                        "did/look",
+                        "had/looked",
+                        "had/been looking",
+                        "were/looking"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had been looking เน้นระยะเวลาการหางาน",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                },
+                {
+                    "id": "q_008_m2",
+                    "stem": "The ground was wet. It _____ all night.",
+                    "choices": [
+                        "rain",
+                        "rained",
+                        "had rained",
+                        "had been raining"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been raining เน้นฝนตกต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                },
+                {
+                    "id": "q_008_m3",
+                    "stem": "She finally got promoted after she _____ for years.",
+                    "choices": [
+                        "try",
+                        "tried",
+                        "had tried",
+                        "had been trying"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been trying เน้นความพยายามต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                },
+                {
+                    "id": "q_008_m4",
+                    "stem": "The children were dirty because they _____ in the mud.",
+                    "choices": [
+                        "play",
+                        "played",
+                        "had played",
+                        "had been playing"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been playing อธิบายเหตุผลที่สกปรก",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                },
+                {
+                    "id": "q_008_m5",
+                    "stem": "He _____ for the company for 20 years when he retired.",
+                    "choices": [
+                        "work",
+                        "worked",
+                        "had worked",
+                        "had been working"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been working เน้นการทำงานยาวนาน",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                }
+            ],
+            "hard": [
+                {
+                    "id": "q_008_h1",
+                    "stem": "By the time the doctor arrived, the patient _____ for three hours.",
+                    "choices": [
+                        "bleed",
+                        "bled",
+                        "had bled",
+                        "had been bleeding"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been bleeding เน้นอาการเลือดไหลต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                },
+                {
+                    "id": "q_008_h2",
+                    "stem": "She looked exhausted because she _____ since 5 AM.",
+                    "choices": [
+                        "drive",
+                        "drove",
+                        "had driven",
+                        "had been driving"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been driving เน้นการขับรถต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                },
+                {
+                    "id": "q_008_h3",
+                    "stem": "The scientists _____ on the project for a decade before they made a breakthrough.",
+                    "choices": [
+                        "work",
+                        "worked",
+                        "had worked",
+                        "had been working"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been working เน้นการทำงานต่อเนื่องก่อนค้นพบ",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                },
+                {
+                    "id": "q_008_h4",
+                    "stem": "I realized I _____ the wrong book after I _____ for 2 hours.",
+                    "choices": [
+                        "read/read",
+                        "read/had read",
+                        "had been reading/had read",
+                        "had been reading/had been reading"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ had been reading (ทำมาต่อเนื่อง) ก่อนรู้ตัว",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                },
+                {
+                    "id": "q_008_h5",
+                    "stem": "The company went bankrupt because it _____ money for years.",
+                    "choices": [
+                        "lose",
+                        "lost",
+                        "had lost",
+                        "had been losing"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been losing เน้นการขาดทุนต่อเนื่องเป็นสาเหตุ",
+                    "skillType": "grammar",
+                    "packId": "grammar_008"
+                }
+            
+        }
+    },
+    {
+        "id": "grammar_009",
+        "title": "Future Simple",
+        "explanation": "ใช้กับเหตุการณ์ที่จะเกิดขึ้นในอนาคต การคาดเดา หรือการตัดสินใจทันที\n\nโครงสร้าง: Subject + will + V1\n\nการใช้งาน:\n1. การคาดเดา (I think it will rain.)\n2. สัญญา/เสนอตัว (I will help you.)\n3. ตัดสินใจขณะพูด (I will have coffee.)\n\nคำบ่งชี้: tomorrow, next week, soon, in the future",
+        "examples": [
+            {
+                "sentenceEn": "I will call you tomorrow.",
+                "sentenceTh": "ฉันจะโทรหาคุณพรุ่งนี้",
+                "highlight": "will call"
+            },
+            {
+                "sentenceEn": "Don't worry, I will help you.",
+                "sentenceTh": "ไม่ต้องห่วง ฉันจะช่วยคุณเอง",
+                "highlight": "will help"
+            }
+        ],
+        "quizQuestions": {
+            "easy": [
+                {
+                    "id": "q_009_e1",
+                    "stem": "I think it _____ rain soon.",
+                    "choices": [
+                        "is",
+                        "will",
+                        "going to",
+                        "wills"
+                    ],
+                    "correctIndex": 1,
+                    "explanation": "ใช้ will สำหรับการคาดเดา",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                },
+                {
+                    "id": "q_009_e2",
+                    "stem": "She _____ be here tomorrow.",
+                    "choices": [
+                        "is",
+                        "was",
+                        "will",
+                        "has"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will กับ tomorrow (อนาคต)",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                },
+                {
+                    "id": "q_009_e3",
+                    "stem": "I _____ help you with your homework.",
+                    "choices": [
+                        "am",
+                        "was",
+                        "will",
+                        "have"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will สำหรับเสนอตัวช่วย",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                },
+                {
+                    "id": "q_009_e4",
+                    "stem": "They _____ arrive next week.",
+                    "choices": [
+                        "are",
+                        "were",
+                        "will",
+                        "have"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will กับ next week",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                },
+                {
+                    "id": "q_009_e5",
+                    "stem": "Don't worry. Everything _____ be fine.",
+                    "choices": [
+                        "is",
+                        "was",
+                        "will",
+                        "has"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will สำหรับการให้กำลังใจ",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                }
+            ],
+            "medium": [
+                {
+                    "id": "q_009_m1",
+                    "stem": "I'm sure he _____ pass the exam.",
+                    "choices": [
+                        "pass",
+                        "passes",
+                        "will pass",
+                        "is passing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will pass สำหรับการคาดเดาที่มั่นใจ",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                },
+                {
+                    "id": "q_009_m2",
+                    "stem": "_____ you _____ me the salt, please?",
+                    "choices": [
+                        "Do/pass",
+                        "Did/pass",
+                        "Will/pass",
+                        "Are/passing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ Will you pass สำหรับขอร้องสุภาพ",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                },
+                {
+                    "id": "q_009_m3",
+                    "stem": "I promise I _____ tell anyone.",
+                    "choices": [
+                        "don't",
+                        "didn't",
+                        "won't",
+                        "haven't"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ won't สำหรับสัญญา",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                },
+                {
+                    "id": "q_009_m4",
+                    "stem": "The phone is ringing. I _____ get it.",
+                    "choices": [
+                        "get",
+                        "got",
+                        "will get",
+                        "am getting"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will get สำหรับตัดสินใจทันที",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                },
+                {
+                    "id": "q_009_m5",
+                    "stem": "Do you think robots _____ replace humans?",
+                    "choices": [
+                        "replace",
+                        "replaced",
+                        "will replace",
+                        "are replacing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will replace สำหรับคาดการณ์อนาคต",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                }
+            ],
+            "hard": [
+                {
+                    "id": "q_009_h1",
+                    "stem": "By 2050, scientists _____ a cure for cancer.",
+                    "choices": [
+                        "find",
+                        "found",
+                        "will find",
+                        "are finding"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will find สำหรับคาดการณ์อนาคต",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                },
+                {
+                    "id": "q_009_h2",
+                    "stem": "If you don't hurry, you _____ the bus.",
+                    "choices": [
+                        "miss",
+                        "missed",
+                        "will miss",
+                        "are missing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will miss ใน main clause ของ First Conditional",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                },
+                {
+                    "id": "q_009_h3",
+                    "stem": "This time next year, I _____ graduated from university.",
+                    "choices": [
+                        "have",
+                        "had",
+                        "will have",
+                        "am having"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have (Future Perfect) สำหรับเหตุการณ์ที่จะเสร็จ",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                },
+                {
+                    "id": "q_009_h4",
+                    "stem": "I'm not sure what _____ happen, but I'm optimistic.",
+                    "choices": [
+                        "happen",
+                        "happened",
+                        "will happen",
+                        "is happening"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will happen สำหรับความไม่แน่นอนในอนาคต",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                },
+                {
+                    "id": "q_009_h5",
+                    "stem": "Experts predict that the population _____ 10 billion by 2050.",
+                    "choices": [
+                        "reach",
+                        "reached",
+                        "will reach",
+                        "is reaching"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will reach สำหรับการคาดการณ์",
+                    "skillType": "grammar",
+                    "packId": "grammar_009"
+                }
+            
+        }
+    },
+    {
+        "id": "grammar_010",
+        "title": "Future Continuous",
+        "explanation": "ใช้กับเหตุการณ์ที่จะกำลังเกิดขึ้น ณ เวลาที่ระบุเจาะจงในอนาคต\n\nโครงสร้าง: Subject + will + be + V-ing\n\nคำบ่งชี้: at this time tomorrow, at 10 o'clock tomorrow",
+        "examples": [
+            {
+                "sentenceEn": "At this time tomorrow, I will be flying to London.",
+                "sentenceTh": "เวลานี้พรุ่งนี้ ฉันจะกำลังบินไปลอนดอน",
+                "highlight": "will be flying"
+            },
+            {
+                "sentenceEn": "Don't call me at 8. I will be having dinner.",
+                "sentenceTh": "อย่าโทรมาตอน 8 โมงนะ ฉันจะกำลังทานมื้อเย็นอยู่",
+                "highlight": "will be having"
+            }
+        ],
+        "quizQuestions": {
+            "easy": [
+                {
+                    "id": "q_010_e1",
+                    "stem": "This time next week, we _____ on the beach.",
+                    "choices": [
+                        "lie",
+                        "will lie",
+                        "will be lying",
+                        "are lying"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be lying เพราะระบุเวลาเจาะจงในอนาคต",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                },
+                {
+                    "id": "q_010_e2",
+                    "stem": "At 8 PM tomorrow, I _____ TV.",
+                    "choices": [
+                        "watch",
+                        "will watch",
+                        "will be watching",
+                        "am watching"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be watching เพราะระบุเวลาเจาะจง",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                },
+                {
+                    "id": "q_010_e3",
+                    "stem": "She _____ for her exam at this time tomorrow.",
+                    "choices": [
+                        "study",
+                        "will study",
+                        "will be studying",
+                        "is studying"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be studying กับ at this time tomorrow",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                },
+                {
+                    "id": "q_010_e4",
+                    "stem": "They _____ dinner at 7 PM tonight.",
+                    "choices": [
+                        "have",
+                        "will have",
+                        "will be having",
+                        "are having"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be having กับเวลาเจาะจง",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                },
+                {
+                    "id": "q_010_e5",
+                    "stem": "Don't call me at noon. I _____ a meeting.",
+                    "choices": [
+                        "have",
+                        "will have",
+                        "will be having",
+                        "am having"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be having เพราะจะกำลังประชุมอยู่",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                }
+            ],
+            "medium": [
+                {
+                    "id": "q_010_m1",
+                    "stem": "At 10 o'clock tomorrow morning, I _____ on a plane to Paris.",
+                    "choices": [
+                        "sit",
+                        "will sit",
+                        "will be sitting",
+                        "am sitting"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be sitting กับเวลาเจาะจงในอนาคต",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                },
+                {
+                    "id": "q_010_m2",
+                    "stem": "This time next month, they _____ their new house.",
+                    "choices": [
+                        "build",
+                        "will build",
+                        "will be building",
+                        "are building"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be building เน้นเหตุการณ์กำลังดำเนินอยู่",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                },
+                {
+                    "id": "q_010_m3",
+                    "stem": "I _____ you at the airport tomorrow morning.",
+                    "choices": [
+                        "meet",
+                        "will meet",
+                        "will be meeting",
+                        "am meeting"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be meeting สำหรับกิจกรรมที่วางแผนไว้",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                },
+                {
+                    "id": "q_010_m4",
+                    "stem": "_____ you _____ the car tomorrow? I need to borrow it.",
+                    "choices": [
+                        "Do/use",
+                        "Did/use",
+                        "Will/be using",
+                        "Are/using"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ Will be using สำหรับถามแผนในอนาคต",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                },
+                {
+                    "id": "q_010_m5",
+                    "stem": "At midnight, everyone _____ the New Year.",
+                    "choices": [
+                        "celebrate",
+                        "will celebrate",
+                        "will be celebrating",
+                        "is celebrating"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be celebrating กับเวลาเจาะจง",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                }
+            ],
+            "hard": [
+                {
+                    "id": "q_010_h1",
+                    "stem": "While you are enjoying your vacation, I _____ in the office.",
+                    "choices": [
+                        "work",
+                        "will work",
+                        "will be working",
+                        "am working"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be working สำหรับเหตุการณ์คู่ขนาน",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                },
+                {
+                    "id": "q_010_h2",
+                    "stem": "By this time next year, the company _____ its new headquarters.",
+                    "choices": [
+                        "build",
+                        "will build",
+                        "will be building",
+                        "will have built"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be building เน้นเหตุการณ์ที่กำลังดำเนินอยู่",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                },
+                {
+                    "id": "q_010_h3",
+                    "stem": "I can't come to the party. I _____ for my final exams.",
+                    "choices": [
+                        "study",
+                        "will study",
+                        "will be studying",
+                        "am studying"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be studying อธิบายเหตุผลล่วงหน้า",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                },
+                {
+                    "id": "q_010_h4",
+                    "stem": "Throughout next week, the team _____ the new software.",
+                    "choices": [
+                        "test",
+                        "will test",
+                        "will be testing",
+                        "is testing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be testing เน้นกิจกรรมต่อเนื่องในช่วงเวลา",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                },
+                {
+                    "id": "q_010_h5",
+                    "stem": "Don't disturb me between 2 and 4. I _____ an important presentation.",
+                    "choices": [
+                        "give",
+                        "will give",
+                        "will be giving",
+                        "am giving"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be giving กับช่วงเวลาในอนาคต",
+                    "skillType": "grammar",
+                    "packId": "grammar_010"
+                }
+            
+        }
+    }
+
+
+    {
+        "id": "grammar_011",
+        "title": "Future Perfect",
+        "explanation": "ใช้กับเหตุการณ์ที่จะทำเสร็จสมบูรณ์ ณ เวลาใดเวลาหนึ่งในอนาคต\n\nโครงสร้าง: Subject + will + have + V3\n\nคำบ่งชี้: by tomorrow, by next year, by the time...",
+        "examples": [
+            {
+                "sentenceEn": "I will have finished this book by next week.",
+                "sentenceTh": "ฉันจะอ่านหนังสือเล่มนี้จบภายในสัปดาห์หน้า",
+                "highlight": "will have finished"
+            },
+            {
+                "sentenceEn": "By the time you arrive, we will have left.",
+                "sentenceTh": "ตอนที่คุณมาถึง พวกเราคงจะออกไปแล้ว",
+                "highlight": "will have left"
+            }
+        ],
+        "quizQuestions": {
+            "easy": [
+                {
+                    "id": "q_011_e1",
+                    "stem": "By the end of this year, I _____ here for 10 years.",
+                    "choices": [
+                        "work",
+                        "will work",
+                        "will have worked",
+                        "am working"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have worked กับ by the end of",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                },
+                {
+                    "id": "q_011_e2",
+                    "stem": "She _____ her homework by 8 PM.",
+                    "choices": [
+                        "finish",
+                        "will finish",
+                        "will have finished",
+                        "is finishing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have finished กับ by 8 PM",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                },
+                {
+                    "id": "q_011_e3",
+                    "stem": "By tomorrow, we _____ all the work.",
+                    "choices": [
+                        "complete",
+                        "will complete",
+                        "will have completed",
+                        "are completing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have completed กับ by tomorrow",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                },
+                {
+                    "id": "q_011_e4",
+                    "stem": "By the time you arrive, I _____ dinner.",
+                    "choices": [
+                        "cook",
+                        "will cook",
+                        "will have cooked",
+                        "am cooking"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have cooked กับ by the time",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                },
+                {
+                    "id": "q_011_e5",
+                    "stem": "They _____ the building by next month.",
+                    "choices": [
+                        "build",
+                        "will build",
+                        "will have built",
+                        "are building"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have built กับ by next month",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                }
+            ],
+            "medium": [
+                {
+                    "id": "q_011_m1",
+                    "stem": "By this time next year, he _____ from university.",
+                    "choices": [
+                        "graduate",
+                        "will graduate",
+                        "will have graduated",
+                        "is graduating"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have graduated กับ by this time next year",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                },
+                {
+                    "id": "q_011_m2",
+                    "stem": "By 2030, scientists _____ many diseases.",
+                    "choices": [
+                        "cure",
+                        "will cure",
+                        "will have cured",
+                        "are curing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have cured กับ by 2030",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                },
+                {
+                    "id": "q_011_m3",
+                    "stem": "When you get home, I _____ already _____.",
+                    "choices": [
+                        "have/left",
+                        "will/leave",
+                        "will have/left",
+                        "am/leaving"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have left กับ when (อนาคต)",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                },
+                {
+                    "id": "q_011_m4",
+                    "stem": "By the end of the week, we _____ 100 kilometers.",
+                    "choices": [
+                        "run",
+                        "will run",
+                        "will have run",
+                        "are running"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have run กับ by the end of",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                },
+                {
+                    "id": "q_011_m5",
+                    "stem": "She _____ all the books by the time the library closes.",
+                    "choices": [
+                        "return",
+                        "will return",
+                        "will have returned",
+                        "is returning"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have returned กับ by the time",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                }
+            ],
+            "hard": [
+                {
+                    "id": "q_011_h1",
+                    "stem": "By the time the rescue team arrives, most survivors _____.",
+                    "choices": [
+                        "die",
+                        "will die",
+                        "will have died",
+                        "are dying"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have died กับ by the time",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                },
+                {
+                    "id": "q_011_h2",
+                    "stem": "In 50 years, technology _____ the way we live.",
+                    "choices": [
+                        "transform",
+                        "will transform",
+                        "will have transformed",
+                        "is transforming"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have transformed กับ in 50 years",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                },
+                {
+                    "id": "q_011_h3",
+                    "stem": "By the time she retires, she _____ for this company for 40 years.",
+                    "choices": [
+                        "work",
+                        "will work",
+                        "will have worked",
+                        "is working"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have worked สำหรับระยะเวลาที่จะครบ",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                },
+                {
+                    "id": "q_011_h4",
+                    "stem": "How many countries _____ you _____ by the end of the year?",
+                    "choices": [
+                        "do/visit",
+                        "will/visit",
+                        "will/have visited",
+                        "are/visiting"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have visited กับ by the end of",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                },
+                {
+                    "id": "q_011_h5",
+                    "stem": "The ice caps _____ completely by 2100 if we don't act.",
+                    "choices": [
+                        "melt",
+                        "will melt",
+                        "will have melted",
+                        "are melting"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will have melted สำหรับการคาดการณ์ที่จะเสร็จสิ้น",
+                    "skillType": "grammar",
+                    "packId": "grammar_011"
+                }
+            
+        }
+    },
+    {
+        "id": "grammar_012",
+        "title": "Future Perfect Continuous",
+        "explanation": "ใช้เน้นระยะเวลาของการกระทำที่จะดำเนินต่อเนื่องไปจนถึงจุดหนึ่งในอนาคต\n\nโครงสร้าง: Subject + will + have + been + V-ing\n\nคำบ่งชี้: by..., for...",
+        "examples": [
+            {
+                "sentenceEn": "By next month, I will have been living here for a year.",
+                "sentenceTh": "เมื่อถึงเดือนหน้า ฉันก็จะอาศัยอยู่ที่นี่ครบ 1 ปีพอดี (และยังอยู่ต่อ)",
+                "highlight": "will have been living"
+            },
+            {
+                "sentenceEn": "When he retires, he will have been teaching for 30 years.",
+                "sentenceTh": "เมื่อเขาเกษียณ เขาจะสอนหนังสือมาครบ 30 ปี",
+                "highlight": "will have been teaching"
+            }
+        ],
+        "quizQuestions": {
+            "easy": [
+                {
+                    "id": "q_012_e1",
+                    "stem": "By 5 o'clock, we _____ for 3 hours.",
+                    "choices": [
+                        "wait",
+                        "will wait",
+                        "will have waited",
+                        "will have been waiting"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been waiting เน้นระยะเวลาการรอ",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                },
+                {
+                    "id": "q_012_e2",
+                    "stem": "By next year, she _____ here for 10 years.",
+                    "choices": [
+                        "work",
+                        "will work",
+                        "will have worked",
+                        "will have been working"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been working เน้นการทำงานต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                },
+                {
+                    "id": "q_012_e3",
+                    "stem": "By the end of this month, I _____ for 6 months.",
+                    "choices": [
+                        "study",
+                        "will study",
+                        "will have studied",
+                        "will have been studying"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been studying เน้นการเรียนต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                },
+                {
+                    "id": "q_012_e4",
+                    "stem": "By midnight, they _____ for 12 hours.",
+                    "choices": [
+                        "drive",
+                        "will drive",
+                        "will have driven",
+                        "will have been driving"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been driving เน้นระยะเวลาขับรถ",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                },
+                {
+                    "id": "q_012_e5",
+                    "stem": "When you arrive, I _____ for two hours.",
+                    "choices": [
+                        "cook",
+                        "will cook",
+                        "will have cooked",
+                        "will have been cooking"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been cooking เน้นการทำอาหารต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                }
+            ],
+            "medium": [
+                {
+                    "id": "q_012_m1",
+                    "stem": "By the time he finishes the marathon, he _____ for 4 hours.",
+                    "choices": [
+                        "run",
+                        "will run",
+                        "will have run",
+                        "will have been running"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been running เน้นกระบวนการวิ่งต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                },
+                {
+                    "id": "q_012_m2",
+                    "stem": "In June, we _____ for 20 years.",
+                    "choices": [
+                        "marry",
+                        "will marry",
+                        "will have married",
+                        "will have been married"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been married เน้นสถานะต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                },
+                {
+                    "id": "q_012_m3",
+                    "stem": "By next week, we _____ on this project for a month.",
+                    "choices": [
+                        "work",
+                        "will work",
+                        "will have worked",
+                        "will have been working"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been working เน้นการทำงานต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                },
+                {
+                    "id": "q_012_m4",
+                    "stem": "How long _____ you _____ by the time you graduate?",
+                    "choices": [
+                        "do/study",
+                        "will/study",
+                        "will/have studied",
+                        "will/have been studying"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been studying สำหรับถามระยะเวลา",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                },
+                {
+                    "id": "q_012_m5",
+                    "stem": "By noon, she _____ for 5 hours straight.",
+                    "choices": [
+                        "shop",
+                        "will shop",
+                        "will have shopped",
+                        "will have been shopping"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been shopping เน้นกิจกรรมต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                }
+            ],
+            "hard": [
+                {
+                    "id": "q_012_h1",
+                    "stem": "By the time the documentary airs, the team _____ for three years.",
+                    "choices": [
+                        "film",
+                        "will film",
+                        "will have filmed",
+                        "will have been filming"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been filming เน้นกระบวนการถ่ายทำต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                },
+                {
+                    "id": "q_012_h2",
+                    "stem": "When she turns 30, she _____ as a doctor for 5 years.",
+                    "choices": [
+                        "practice",
+                        "will practice",
+                        "will have practiced",
+                        "will have been practicing"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been practicing เน้นการทำงานต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                },
+                {
+                    "id": "q_012_h3",
+                    "stem": "By the time the plane lands, we _____ for 14 hours.",
+                    "choices": [
+                        "fly",
+                        "will fly",
+                        "will have flown",
+                        "will have been flying"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been flying เน้นระยะเวลาของการบิน",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                },
+                {
+                    "id": "q_012_h4",
+                    "stem": "Next month, the construction company _____ on this building for 2 years.",
+                    "choices": [
+                        "work",
+                        "will work",
+                        "will have worked",
+                        "will have been working"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been working เน้นการก่อสร้างต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                },
+                {
+                    "id": "q_012_h5",
+                    "stem": "By the end of this course, you _____ English for 500 hours.",
+                    "choices": [
+                        "learn",
+                        "will learn",
+                        "will have learned",
+                        "will have been learning"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will have been learning เน้นกระบวนการเรียนรู้ต่อเนื่อง",
+                    "skillType": "grammar",
+                    "packId": "grammar_012"
+                }
+            
+        }
+    },
+    {
+        "id": "grammar_013",
+        "title": "Passive Voice",
+        "explanation": "ใช้เมื่อต้องการเน้นกรรม (ผู้ถูกกระทำ) มากกว่าประธาน (ผู้กระทำ)\n\nโครงสร้าง: Object + be + V3 + (by + Subject)\n\nตัวอย่างการเปลี่ยน:\n- Active: The cat ate the fish.\n- Passive: The fish was eaten by the cat.\n\nใช้เมื่อ:\n1. ไม่รู้ว่าใครเป็นผู้กระทำ\n2. ต้องการเน้นผู้ถูกกระทำ\n3. ผู้กระทำไม่สำคัญ",
+        "examples": [
+            {
+                "sentenceEn": "The letter was written by John.",
+                "sentenceTh": "จดหมายถูกเขียนโดยจอห์น",
+                "highlight": "was written"
+            },
+            {
+                "sentenceEn": "English is spoken worldwide.",
+                "sentenceTh": "ภาษาอังกฤษถูกพูดทั่วโลก",
+                "highlight": "is spoken"
+            }
+        ],
+        "quizQuestions": {
+            "easy": [
+                {
+                    "id": "q_013_e1",
+                    "stem": "The book _____ by millions of people.",
+                    "choices": [
+                        "reads",
+                        "read",
+                        "is read",
+                        "reading"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ is read เพราะหนังสือถูกอ่าน",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                },
+                {
+                    "id": "q_013_e2",
+                    "stem": "The cake _____ by my mother.",
+                    "choices": [
+                        "make",
+                        "makes",
+                        "was made",
+                        "making"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ was made เพราะเค้กถูกทำ",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                },
+                {
+                    "id": "q_013_e3",
+                    "stem": "English _____ in many countries.",
+                    "choices": [
+                        "speak",
+                        "speaks",
+                        "is spoken",
+                        "speaking"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ is spoken สำหรับ passive voice",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                },
+                {
+                    "id": "q_013_e4",
+                    "stem": "The window _____ by the ball.",
+                    "choices": [
+                        "break",
+                        "breaks",
+                        "was broken",
+                        "is breaking"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ was broken เพราะหน้าต่างถูกทำให้แตก",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                },
+                {
+                    "id": "q_013_e5",
+                    "stem": "These cars _____ in Japan.",
+                    "choices": [
+                        "make",
+                        "makes",
+                        "are made",
+                        "making"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ are made เพราะรถถูกผลิต",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                }
+            ],
+            "medium": [
+                {
+                    "id": "q_013_m1",
+                    "stem": "The new bridge _____ next year.",
+                    "choices": [
+                        "build",
+                        "will build",
+                        "will be built",
+                        "is building"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ will be built สำหรับ passive ในอนาคต",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                },
+                {
+                    "id": "q_013_m2",
+                    "stem": "The suspect _____ by the police yesterday.",
+                    "choices": [
+                        "arrest",
+                        "arrested",
+                        "was arrested",
+                        "is arrested"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ was arrested สำหรับ passive ในอดีต",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                },
+                {
+                    "id": "q_013_m3",
+                    "stem": "The project _____ already _____.",
+                    "choices": [
+                        "has/complete",
+                        "has/completed",
+                        "has/been completed",
+                        "was/completed"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ has been completed สำหรับ passive ใน Present Perfect",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                },
+                {
+                    "id": "q_013_m4",
+                    "stem": "The letter _____ right now.",
+                    "choices": [
+                        "write",
+                        "writes",
+                        "is being written",
+                        "was written"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ is being written สำหรับ passive ใน Present Continuous",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                },
+                {
+                    "id": "q_013_m5",
+                    "stem": "All the cookies _____ by the children.",
+                    "choices": [
+                        "eat",
+                        "ate",
+                        "have been eaten",
+                        "are eating"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ have been eaten สำหรับ passive ใน Present Perfect",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                }
+            ],
+            "hard": [
+                {
+                    "id": "q_013_h1",
+                    "stem": "The manuscript _____ for three hours when I arrived.",
+                    "choices": [
+                        "review",
+                        "was reviewing",
+                        "had been reviewed",
+                        "had been being reviewed"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ had been being reviewed สำหรับ passive ใน Past Perfect Continuous",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                },
+                {
+                    "id": "q_013_h2",
+                    "stem": "It _____ that the company will close.",
+                    "choices": [
+                        "believe",
+                        "believes",
+                        "is believed",
+                        "was believing"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ is believed สำหรับ impersonal passive",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                },
+                {
+                    "id": "q_013_h3",
+                    "stem": "The new policy _____ next month.",
+                    "choices": [
+                        "implement",
+                        "will implement",
+                        "is being implemented",
+                        "will be implemented"
+                    ],
+                    "correctIndex": 3,
+                    "explanation": "ใช้ will be implemented สำหรับ passive ในอนาคต",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                },
+                {
+                    "id": "q_013_h4",
+                    "stem": "She doesn't like _____ what to do.",
+                    "choices": [
+                        "tell",
+                        "telling",
+                        "being told",
+                        "to tell"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ being told สำหรับ passive gerund",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                },
+                {
+                    "id": "q_013_h5",
+                    "stem": "The criminal _____ to have escaped from prison.",
+                    "choices": [
+                        "say",
+                        "says",
+                        "is said",
+                        "was saying"
+                    ],
+                    "correctIndex": 2,
+                    "explanation": "ใช้ is said สำหรับ passive ที่รายงานข้อมูล",
+                    "skillType": "grammar",
+                    "packId": "grammar_013"
+                }
+            
+        }
+    }
+

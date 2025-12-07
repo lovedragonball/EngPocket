@@ -42,7 +42,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
   Future<void> _loadData() async {
     await _srsService.init();
     final prefs = await SharedPreferences.getInstance();
-    final dailyGoal = prefs.getInt('dailyGoal') ?? 10;
+    final dailyGoal = prefs.getInt('daily_goal') ?? 10;
 
     try {
       final dueIds = _srsService.getActualDueCardIds();
