@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v3801",
+        "word": "confused",
+        "translation": "สับสน",
+        "pos": "adj",
+        "example": "I'm confused.",
+        "level": "basic"
+    },
+    {
+        "id": "v3802",
+        "word": "confusing",
+        "translation": "น่าสับสน",
+        "pos": "adj",
+        "example": "Confusing instructions.",
+        "level": "basic"
+    },
+    {
+        "id": "v3803",
+        "word": "confusion",
+        "translation": "ความสับสน",
+        "pos": "noun",
+        "example": "Total confusion.",
+        "level": "basic"
+    },
+    {
+        "id": "v3804",
+        "word": "congratulate",
+        "translation": "แสดงความยินดี",
+        "pos": "verb",
+        "example": "Congratulate you.",
+        "level": "basic"
+    },
+    {
+        "id": "v3805",
+        "word": "congratulation",
+        "translation": "ความยินดี",
+        "pos": "noun",
+        "example": "Congratulations!",
+        "level": "basic"
+    },
+    {
+        "id": "v3806",
+        "word": "congress",
+        "translation": "รัฐสภา",
+        "pos": "noun",
+        "example": "US Congress.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3807",
+        "word": "congressional",
+        "translation": "รัฐสภา",
+        "pos": "adj",
+        "example": "Congressional hearing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3808",
+        "word": "connect",
+        "translation": "เชื่อมต่อ",
+        "pos": "verb",
+        "example": "Connect to WiFi.",
+        "level": "basic"
+    },
+    {
+        "id": "v3809",
+        "word": "connected",
+        "translation": "เชื่อมต่อ",
+        "pos": "adj",
+        "example": "Stay connected.",
+        "level": "basic"
+    },
+    {
+        "id": "v3810",
+        "word": "connection",
+        "translation": "การเชื่อมต่อ",
+        "pos": "noun",
+        "example": "Good connection.",
+        "level": "basic"
+    },
+    {
+        "id": "v3811",
+        "word": "conquer",
+        "translation": "พิชิต",
+        "pos": "verb",
+        "example": "Conquer fear.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3812",
+        "word": "conscience",
+        "translation": "มโนธรรม",
+        "pos": "noun",
+        "example": "Clear conscience.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3813",
+        "word": "conscious",
+        "translation": "มีสติ",
+        "pos": "adj",
+        "example": "Be conscious of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3814",
+        "word": "consciousness",
+        "translation": "จิตสำนึก",
+        "pos": "noun",
+        "example": "Raise consciousness.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3815",
+        "word": "consecutive",
+        "translation": "ติดต่อกัน",
+        "pos": "adj",
+        "example": "Consecutive days.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3816",
+        "word": "consensus",
+        "translation": "ฉันทามติ",
+        "pos": "noun",
+        "example": "Reach consensus.",
+        "level": "advanced"
+    },
+    {
+        "id": "v3817",
+        "word": "consent",
+        "translation": "ความยินยอม",
+        "pos": "noun",
+        "example": "Give consent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3818",
+        "word": "consequence",
+        "translation": "ผลที่ตามมา",
+        "pos": "noun",
+        "example": "Face consequences.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3819",
+        "word": "consequently",
+        "translation": "ดังนั้น",
+        "pos": "adv",
+        "example": "Consequently.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3820",
+        "word": "conservation",
+        "translation": "การอนุรักษ์",
+        "pos": "noun",
+        "example": "Wildlife conservation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3821",
+        "word": "conservative",
+        "translation": "อนุรักษ์นิยม",
+        "pos": "adj",
+        "example": "Conservative approach.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3822",
+        "word": "consider",
+        "translation": "พิจารณา",
+        "pos": "verb",
+        "example": "Please consider.",
+        "level": "basic"
+    },
+    {
+        "id": "v3823",
+        "word": "considerable",
+        "translation": "มาก",
+        "pos": "adj",
+        "example": "Considerable amount.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3824",
+        "word": "considerably",
+        "translation": "อย่างมาก",
+        "pos": "adv",
+        "example": "Considerably higher.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3825",
+        "word": "consideration",
+        "translation": "การพิจารณา",
+        "pos": "noun",
+        "example": "Under consideration.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3826",
+        "word": "consist",
+        "translation": "ประกอบด้วย",
+        "pos": "verb",
+        "example": "Consist of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3827",
+        "word": "consistency",
+        "translation": "ความสม่ำเสมอ",
+        "pos": "noun",
+        "example": "Maintain consistency.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3828",
+        "word": "consistent",
+        "translation": "สม่ำเสมอ",
+        "pos": "adj",
+        "example": "Consistent results.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3829",
+        "word": "consistently",
+        "translation": "อย่างสม่ำเสมอ",
+        "pos": "adv",
+        "example": "Consistently good.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3830",
+        "word": "conspiracy",
+        "translation": "การสมรู้ร่วมคิด",
+        "pos": "noun",
+        "example": "Conspiracy theory.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3831",
+        "word": "constant",
+        "translation": "คงที่",
+        "pos": "adj",
+        "example": "Constant change.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3832",
+        "word": "constantly",
+        "translation": "อย่างต่อเนื่อง",
+        "pos": "adv",
+        "example": "Constantly improving.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3833",
+        "word": "constitute",
+        "translation": "ประกอบด้วย",
+        "pos": "verb",
+        "example": "Constitute a crime.",
+        "level": "advanced"
+    },
+    {
+        "id": "v3834",
+        "word": "constitution",
+        "translation": "รัฐธรรมนูญ",
+        "pos": "noun",
+        "example": "Thai Constitution.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3835",
+        "word": "constitutional",
+        "translation": "รัฐธรรมนูญ",
+        "pos": "adj",
+        "example": "Constitutional law.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3836",
+        "word": "constraint",
+        "translation": "ข้อจำกัด",
+        "pos": "noun",
+        "example": "Budget constraint.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3837",
+        "word": "construct",
+        "translation": "สร้าง",
+        "pos": "verb",
+        "example": "Construct building.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3838",
+        "word": "construction",
+        "translation": "การก่อสร้าง",
+        "pos": "noun",
+        "example": "Under construction.",
+        "level": "basic"
+    },
+    {
+        "id": "v3839",
+        "word": "consultant",
+        "translation": "ที่ปรึกษา",
+        "pos": "noun",
+        "example": "Business consultant.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3840",
+        "word": "consultation",
+        "translation": "การปรึกษา",
+        "pos": "noun",
+        "example": "Free consultation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3841",
+        "word": "consume",
+        "translation": "บริโภค",
+        "pos": "verb",
+        "example": "Consume energy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3842",
+        "word": "consumer",
+        "translation": "ผู้บริโภค",
+        "pos": "noun",
+        "example": "Consumer goods.",
+        "level": "basic"
+    },
+    {
+        "id": "v3843",
+        "word": "consumption",
+        "translation": "การบริโภค",
+        "pos": "noun",
+        "example": "Fuel consumption.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3844",
+        "word": "contact",
+        "translation": "ติดต่อ",
+        "pos": "verb",
+        "example": "Contact me.",
+        "level": "basic"
+    },
+    {
+        "id": "v3845",
+        "word": "contain",
+        "translation": "บรรจุ",
+        "pos": "verb",
+        "example": "Contains sugar.",
+        "level": "basic"
+    },
+    {
+        "id": "v3846",
+        "word": "container",
+        "translation": "ภาชนะ",
+        "pos": "noun",
+        "example": "Storage container.",
+        "level": "basic"
+    },
+    {
+        "id": "v3847",
+        "word": "contemporary",
+        "translation": "ร่วมสมัย",
+        "pos": "adj",
+        "example": "Contemporary art.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3848",
+        "word": "content",
+        "translation": "เนื้อหา",
+        "pos": "noun",
+        "example": "Good content.",
+        "level": "basic"
+    },
+    {
+        "id": "v3849",
+        "word": "contest",
+        "translation": "การแข่งขัน",
+        "pos": "noun",
+        "example": "Beauty contest.",
+        "level": "basic"
+    },
+    {
+        "id": "v3850",
+        "word": "context",
+        "translation": "บริบท",
+        "pos": "noun",
+        "example": "In context.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3851",
+        "word": "continent",
+        "translation": "ทวีป",
+        "pos": "noun",
+        "example": "Asian continent.",
+        "level": "basic"
+    },
+    {
+        "id": "v3852",
+        "word": "continually",
+        "translation": "อย่างต่อเนื่อง",
+        "pos": "adv",
+        "example": "Continually improve.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3853",
+        "word": "continue",
+        "translation": "ต่อ",
+        "pos": "verb",
+        "example": "Continue reading.",
+        "level": "basic"
+    },
+    {
+        "id": "v3854",
+        "word": "continued",
+        "translation": "ต่อเนื่อง",
+        "pos": "adj",
+        "example": "Continued growth.",
+        "level": "basic"
+    },
+    {
+        "id": "v3855",
+        "word": "continuous",
+        "translation": "ต่อเนื่อง",
+        "pos": "adj",
+        "example": "Continuous improvement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3856",
+        "word": "continuously",
+        "translation": "อย่างต่อเนื่อง",
+        "pos": "adv",
+        "example": "Continuously monitor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3857",
+        "word": "contract",
+        "translation": "สัญญา",
+        "pos": "noun",
+        "example": "Sign a contract.",
+        "level": "basic"
+    },
+    {
+        "id": "v3858",
+        "word": "contractor",
+        "translation": "ผู้รับเหมา",
+        "pos": "noun",
+        "example": "Building contractor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3859",
+        "word": "contradiction",
+        "translation": "ความขัดแย้ง",
+        "pos": "noun",
+        "example": "In contradiction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3860",
+        "word": "contrary",
+        "translation": "ตรงกันข้าม",
+        "pos": "adj",
+        "example": "On the contrary.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3861",
+        "word": "contrast",
+        "translation": "ความแตกต่าง",
+        "pos": "noun",
+        "example": "In contrast.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3862",
+        "word": "contribute",
+        "translation": "มีส่วนร่วม",
+        "pos": "verb",
+        "example": "Contribute to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3863",
+        "word": "contribution",
+        "translation": "การมีส่วนร่วม",
+        "pos": "noun",
+        "example": "Valuable contribution.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3864",
+        "word": "contributor",
+        "translation": "ผู้มีส่วนร่วม",
+        "pos": "noun",
+        "example": "Key contributor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3865",
+        "word": "control",
+        "translation": "ควบคุม",
+        "pos": "verb",
+        "example": "Take control.",
+        "level": "basic"
+    },
+    {
+        "id": "v3866",
+        "word": "controller",
+        "translation": "ตัวควบคุม",
+        "pos": "noun",
+        "example": "Game controller.",
+        "level": "basic"
+    },
+    {
+        "id": "v3867",
+        "word": "controversial",
+        "translation": "เป็นที่ถกเถียง",
+        "pos": "adj",
+        "example": "Controversial topic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3868",
+        "word": "controversy",
+        "translation": "ข้อโต้แย้ง",
+        "pos": "noun",
+        "example": "Political controversy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3869",
+        "word": "convenience",
+        "translation": "ความสะดวก",
+        "pos": "noun",
+        "example": "For convenience.",
+        "level": "basic"
+    },
+    {
+        "id": "v3870",
+        "word": "convenient",
+        "translation": "สะดวก",
+        "pos": "adj",
+        "example": "Very convenient.",
+        "level": "basic"
+    },
+    {
+        "id": "v3871",
+        "word": "convention",
+        "translation": "การประชุม",
+        "pos": "noun",
+        "example": "Annual convention.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3872",
+        "word": "conventional",
+        "translation": "ตามขนบธรรมเนียม",
+        "pos": "adj",
+        "example": "Conventional method.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3873",
+        "word": "conversation",
+        "translation": "การสนทนา",
+        "pos": "noun",
+        "example": "Good conversation.",
+        "level": "basic"
+    },
+    {
+        "id": "v3874",
+        "word": "conversion",
+        "translation": "การแปลง",
+        "pos": "noun",
+        "example": "Currency conversion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3875",
+        "word": "convert",
+        "translation": "แปลง",
+        "pos": "verb",
+        "example": "Convert currency.",
+        "level": "basic"
+    },
+    {
+        "id": "v3876",
+        "word": "convey",
+        "translation": "ถ่ายทอด",
+        "pos": "verb",
+        "example": "Convey message.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3877",
+        "word": "convict",
+        "translation": "ตัดสินว่าผิด",
+        "pos": "verb",
+        "example": "Convict of crime.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3878",
+        "word": "conviction",
+        "translation": "ความเชื่อมั่น",
+        "pos": "noun",
+        "example": "Strong conviction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3879",
+        "word": "convince",
+        "translation": "ทำให้เชื่อ",
+        "pos": "verb",
+        "example": "Convince me.",
+        "level": "basic"
+    },
+    {
+        "id": "v3880",
+        "word": "convinced",
+        "translation": "เชื่อมั่น",
+        "pos": "adj",
+        "example": "I'm convinced.",
+        "level": "basic"
+    },
+    {
+        "id": "v3881",
+        "word": "convincing",
+        "translation": "น่าเชื่อถือ",
+        "pos": "adj",
+        "example": "Convincing argument.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3882",
+        "word": "cook",
+        "translation": "ทำอาหาร",
+        "pos": "verb",
+        "example": "Learn to cook.",
+        "level": "basic"
+    },
+    {
+        "id": "v3883",
+        "word": "cookie",
+        "translation": "คุกกี้",
+        "pos": "noun",
+        "example": "Chocolate cookie.",
+        "level": "basic"
+    },
+    {
+        "id": "v3884",
+        "word": "cooking",
+        "translation": "การทำอาหาร",
+        "pos": "noun",
+        "example": "Home cooking.",
+        "level": "basic"
+    },
+    {
+        "id": "v3885",
+        "word": "cool",
+        "translation": "เย็น",
+        "pos": "adj",
+        "example": "Stay cool.",
+        "level": "basic"
+    },
+    {
+        "id": "v3886",
+        "word": "cooperate",
+        "translation": "ร่วมมือ",
+        "pos": "verb",
+        "example": "Cooperate together.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3887",
+        "word": "cooperation",
+        "translation": "ความร่วมมือ",
+        "pos": "noun",
+        "example": "Full cooperation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3888",
+        "word": "coordinate",
+        "translation": "ประสานงาน",
+        "pos": "verb",
+        "example": "Coordinate efforts.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3889",
+        "word": "coordination",
+        "translation": "การประสานงาน",
+        "pos": "noun",
+        "example": "Good coordination.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3890",
+        "word": "cop",
+        "translation": "ตำรวจ",
+        "pos": "noun",
+        "example": "Good cop.",
+        "level": "basic"
+    },
+    {
+        "id": "v3891",
+        "word": "cope",
+        "translation": "รับมือ",
+        "pos": "verb",
+        "example": "Cope with stress.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3892",
+        "word": "copy",
+        "translation": "คัดลอก",
+        "pos": "verb",
+        "example": "Copy and paste.",
+        "level": "basic"
+    },
+    {
+        "id": "v3893",
+        "word": "copyright",
+        "translation": "ลิขสิทธิ์",
+        "pos": "noun",
+        "example": "Copyright protected.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3894",
+        "word": "core",
+        "translation": "แกนกลาง",
+        "pos": "noun",
+        "example": "Core value.",
+        "level": "basic"
+    },
+    {
+        "id": "v3895",
+        "word": "corn",
+        "translation": "ข้าวโพด",
+        "pos": "noun",
+        "example": "Fresh corn.",
+        "level": "basic"
+    },
+    {
+        "id": "v3896",
+        "word": "corner",
+        "translation": "มุม",
+        "pos": "noun",
+        "example": "Street corner.",
+        "level": "basic"
+    },
+    {
+        "id": "v3897",
+        "word": "corporate",
+        "translation": "องค์กร",
+        "pos": "adj",
+        "example": "Corporate culture.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3898",
+        "word": "corporation",
+        "translation": "บริษัท",
+        "pos": "noun",
+        "example": "Large corporation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3899",
+        "word": "correct",
+        "translation": "ถูกต้อง",
+        "pos": "adj",
+        "example": "Correct answer.",
+        "level": "basic"
+    },
+    {
+        "id": "v3900",
+        "word": "correction",
+        "translation": "การแก้ไข",
+        "pos": "noun",
+        "example": "Error correction.",
+        "level": "basic"
+    }
+]

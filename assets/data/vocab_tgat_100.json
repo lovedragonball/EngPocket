@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "v001",
+        "word": "achieve",
+        "translation": "บรรลุ, ประสบความสำเร็จ",
+        "partOfSpeech": "verb",
+        "exampleEn": "She worked hard to achieve her goals.",
+        "exampleTh": "เธอทำงานหนักเพื่อบรรลุเป้าหมาย",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "success"
+        ]
+    },
+    {
+        "id": "v002",
+        "word": "benefit",
+        "translation": "ประโยชน์, ผลดี",
+        "partOfSpeech": "noun",
+        "exampleEn": "Exercise has many health benefits.",
+        "exampleTh": "การออกกำลังกายมีประโยชน์ต่อสุขภาพมากมาย",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "health",
+            "common"
+        ]
+    },
+    {
+        "id": "v003",
+        "word": "challenge",
+        "translation": "ความท้าทาย",
+        "partOfSpeech": "noun",
+        "exampleEn": "Learning a new language is a challenge.",
+        "exampleTh": "การเรียนภาษาใหม่เป็นความท้าทาย",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "common"
+        ]
+    },
+    {
+        "id": "v004",
+        "word": "determine",
+        "translation": "กำหนด, ตัดสินใจ",
+        "partOfSpeech": "verb",
+        "exampleEn": "We need to determine the best solution.",
+        "exampleTh": "เราต้องกำหนดทางออกที่ดีที่สุด",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "decision"
+        ]
+    },
+    {
+        "id": "v005",
+        "word": "environment",
+        "translation": "สิ่งแวดล้อม",
+        "partOfSpeech": "noun",
+        "exampleEn": "We must protect the environment.",
+        "exampleTh": "เราต้องปกป้องสิ่งแวดล้อม",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "nature",
+            "common"
+        ]
+    },
+    {
+        "id": "v006",
+        "word": "essential",
+        "translation": "จำเป็น, สำคัญ",
+        "partOfSpeech": "adjective",
+        "exampleEn": "Water is essential for life.",
+        "exampleTh": "น้ำเป็นสิ่งจำเป็นสำหรับชีวิต",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "importance"
+        ]
+    },
+    {
+        "id": "v007",
+        "word": "establish",
+        "translation": "ก่อตั้ง, สถาปนา",
+        "partOfSpeech": "verb",
+        "exampleEn": "The company was established in 1990.",
+        "exampleTh": "บริษัทก่อตั้งขึ้นในปี 1990",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "formal"
+        ]
+    },
+    {
+        "id": "v008",
+        "word": "evidence",
+        "translation": "หลักฐาน",
+        "partOfSpeech": "noun",
+        "exampleEn": "There is no evidence to support this claim.",
+        "exampleTh": "ไม่มีหลักฐานสนับสนุนข้อกล่าวอ้างนี้",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "legal"
+        ]
+    },
+    {
+        "id": "v009",
+        "word": "factor",
+        "translation": "ปัจจัย",
+        "partOfSpeech": "noun",
+        "exampleEn": "Cost is an important factor in the decision.",
+        "exampleTh": "ต้นทุนเป็นปัจจัยสำคัญในการตัดสินใจ",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "business"
+        ]
+    },
+    {
+        "id": "v010",
+        "word": "fundamental",
+        "translation": "พื้นฐาน, หลักการ",
+        "partOfSpeech": "adjective",
+        "exampleEn": "Reading is a fundamental skill.",
+        "exampleTh": "การอ่านเป็นทักษะพื้นฐาน",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "education"
+        ]
+    },
+    {
+        "id": "v011",
+        "word": "generate",
+        "translation": "สร้าง, ผลิต",
+        "partOfSpeech": "verb",
+        "exampleEn": "Solar panels generate electricity.",
+        "exampleTh": "แผงโซลาร์เซลล์ผลิตไฟฟ้า",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "science",
+            "technology"
+        ]
+    },
+    {
+        "id": "v012",
+        "word": "identify",
+        "translation": "ระบุ, บ่งชี้",
+        "partOfSpeech": "verb",
+        "exampleEn": "Can you identify the problem?",
+        "exampleTh": "คุณสามารถระบุปัญหาได้ไหม?",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "analysis"
+        ]
+    },
+    {
+        "id": "v013",
+        "word": "impact",
+        "translation": "ผลกระทบ",
+        "partOfSpeech": "noun",
+        "exampleEn": "Climate change has a huge impact on wildlife.",
+        "exampleTh": "การเปลี่ยนแปลงสภาพภูมิอากาศมีผลกระทบมากต่อสัตว์ป่า",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "environment"
+        ]
+    },
+    {
+        "id": "v014",
+        "word": "implement",
+        "translation": "ดำเนินการ, นำไปใช้",
+        "partOfSpeech": "verb",
+        "exampleEn": "The government will implement new policies.",
+        "exampleTh": "รัฐบาลจะดำเนินนโยบายใหม่",
+        "level": "advanced",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "formal"
+        ]
+    },
+    {
+        "id": "v015",
+        "word": "indicate",
+        "translation": "บ่งบอก, ชี้ให้เห็น",
+        "partOfSpeech": "verb",
+        "exampleEn": "The results indicate a positive trend.",
+        "exampleTh": "ผลลัพธ์บ่งบอกถึงแนวโน้มที่ดี",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "analysis"
+        ]
+    },
+    {
+        "id": "v016",
+        "word": "individual",
+        "translation": "บุคคล, รายบุคคล",
+        "partOfSpeech": "noun",
+        "exampleEn": "Each individual has unique talents.",
+        "exampleTh": "แต่ละบุคคลมีความสามารถที่เป็นเอกลักษณ์",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "society"
+        ]
+    },
+    {
+        "id": "v017",
+        "word": "significant",
+        "translation": "สำคัญ, มีนัยสำคัญ",
+        "partOfSpeech": "adjective",
+        "exampleEn": "This is a significant discovery.",
+        "exampleTh": "นี่คือการค้นพบที่สำคัญ",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "importance"
+        ]
+    },
+    {
+        "id": "v018",
+        "word": "strategy",
+        "translation": "กลยุทธ์, ยุทธศาสตร์",
+        "partOfSpeech": "noun",
+        "exampleEn": "We need a new marketing strategy.",
+        "exampleTh": "เราต้องการกลยุทธ์การตลาดใหม่",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "planning"
+        ]
+    },
+    {
+        "id": "v019",
+        "word": "sustainable",
+        "translation": "ยั่งยืน",
+        "partOfSpeech": "adjective",
+        "exampleEn": "We need sustainable energy sources.",
+        "exampleTh": "เราต้องการแหล่งพลังงานที่ยั่งยืน",
+        "level": "advanced",
+        "packId": "TGAT_V1",
+        "tags": [
+            "environment",
+            "modern"
+        ]
+    },
+    {
+        "id": "v020",
+        "word": "technology",
+        "translation": "เทคโนโลยี",
+        "partOfSpeech": "noun",
+        "exampleEn": "Technology has changed our lives.",
+        "exampleTh": "เทคโนโลยีได้เปลี่ยนแปลงชีวิตของเรา",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "technology",
+            "common"
+        ]
+    },
+    {
+        "id": "v021",
+        "word": "approach",
+        "translation": "วิธีการ, แนวทาง",
+        "partOfSpeech": "noun",
+        "exampleEn": "We need a different approach to this problem.",
+        "exampleTh": "เราต้องการแนวทางที่แตกต่างสำหรับปัญหานี้",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "method"
+        ]
+    },
+    {
+        "id": "v022",
+        "word": "assume",
+        "translation": "สันนิษฐาน, คาดว่า",
+        "partOfSpeech": "verb",
+        "exampleEn": "Don't assume you know the answer.",
+        "exampleTh": "อย่าคิดว่าตัวเองรู้คำตอบ",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "thinking"
+        ]
+    },
+    {
+        "id": "v023",
+        "word": "authority",
+        "translation": "อำนาจ, ผู้มีอำนาจ",
+        "partOfSpeech": "noun",
+        "exampleEn": "The police have the authority to arrest.",
+        "exampleTh": "ตำรวจมีอำนาจในการจับกุม",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "legal",
+            "government"
+        ]
+    },
+    {
+        "id": "v024",
+        "word": "available",
+        "translation": "มีอยู่, พร้อมใช้งาน",
+        "partOfSpeech": "adjective",
+        "exampleEn": "The product is now available online.",
+        "exampleTh": "สินค้าพร้อมจำหน่ายออนไลน์แล้ว",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "common"
+        ]
+    },
+    {
+        "id": "v025",
+        "word": "capability",
+        "translation": "ความสามารถ",
+        "partOfSpeech": "noun",
+        "exampleEn": "She has the capability to lead the team.",
+        "exampleTh": "เธอมีความสามารถในการนำทีม",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "skill"
+        ]
+    },
+    {
+        "id": "v026",
+        "word": "communicate",
+        "translation": "สื่อสาร",
+        "partOfSpeech": "verb",
+        "exampleEn": "It's important to communicate clearly.",
+        "exampleTh": "การสื่อสารอย่างชัดเจนเป็นสิ่งสำคัญ",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "communication",
+            "common"
+        ]
+    },
+    {
+        "id": "v027",
+        "word": "community",
+        "translation": "ชุมชน",
+        "partOfSpeech": "noun",
+        "exampleEn": "Our community is very supportive.",
+        "exampleTh": "ชุมชนของเราให้การสนับสนุนมาก",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "society",
+            "common"
+        ]
+    },
+    {
+        "id": "v028",
+        "word": "compare",
+        "translation": "เปรียบเทียบ",
+        "partOfSpeech": "verb",
+        "exampleEn": "Let's compare the two options.",
+        "exampleTh": "มาเปรียบเทียบสองตัวเลือกกัน",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "analysis"
+        ]
+    },
+    {
+        "id": "v029",
+        "word": "complex",
+        "translation": "ซับซ้อน",
+        "partOfSpeech": "adjective",
+        "exampleEn": "This is a complex issue.",
+        "exampleTh": "นี่เป็นประเด็นที่ซับซ้อน",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "description"
+        ]
+    },
+    {
+        "id": "v030",
+        "word": "conclude",
+        "translation": "สรุป",
+        "partOfSpeech": "verb",
+        "exampleEn": "We can conclude that the experiment was successful.",
+        "exampleTh": "เราสามารถสรุปได้ว่าการทดลองประสบความสำเร็จ",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "analysis"
+        ]
+    },
+    {
+        "id": "v031",
+        "word": "consequence",
+        "translation": "ผลที่ตามมา",
+        "partOfSpeech": "noun",
+        "exampleEn": "Every action has consequences.",
+        "exampleTh": "ทุกการกระทำมีผลที่ตามมา",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "cause-effect"
+        ]
+    },
+    {
+        "id": "v032",
+        "word": "consider",
+        "translation": "พิจารณา",
+        "partOfSpeech": "verb",
+        "exampleEn": "Please consider my proposal.",
+        "exampleTh": "กรุณาพิจารณาข้อเสนอของผม",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "thinking"
+        ]
+    },
+    {
+        "id": "v033",
+        "word": "consist",
+        "translation": "ประกอบด้วย",
+        "partOfSpeech": "verb",
+        "exampleEn": "The team consists of five members.",
+        "exampleTh": "ทีมประกอบด้วยสมาชิกห้าคน",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "structure"
+        ]
+    },
+    {
+        "id": "v034",
+        "word": "constant",
+        "translation": "คงที่, สม่ำเสมอ",
+        "partOfSpeech": "adjective",
+        "exampleEn": "Change is the only constant in life.",
+        "exampleTh": "การเปลี่ยนแปลงเป็นสิ่งเดียวที่คงที่ในชีวิต",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "description"
+        ]
+    },
+    {
+        "id": "v035",
+        "word": "construct",
+        "translation": "สร้าง, ก่อสร้าง",
+        "partOfSpeech": "verb",
+        "exampleEn": "They will construct a new bridge.",
+        "exampleTh": "พวกเขาจะสร้างสะพานใหม่",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "construction",
+            "action"
+        ]
+    },
+    {
+        "id": "v036",
+        "word": "contribute",
+        "translation": "มีส่วนร่วม, บริจาค",
+        "partOfSpeech": "verb",
+        "exampleEn": "Everyone should contribute to the project.",
+        "exampleTh": "ทุกคนควรมีส่วนร่วมในโครงการ",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "participation"
+        ]
+    },
+    {
+        "id": "v037",
+        "word": "convenient",
+        "translation": "สะดวก",
+        "partOfSpeech": "adjective",
+        "exampleEn": "Online shopping is very convenient.",
+        "exampleTh": "การช้อปปิ้งออนไลน์สะดวกมาก",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "daily",
+            "modern"
+        ]
+    },
+    {
+        "id": "v038",
+        "word": "crucial",
+        "translation": "สำคัญยิ่ง",
+        "partOfSpeech": "adjective",
+        "exampleEn": "This decision is crucial for our future.",
+        "exampleTh": "การตัดสินใจนี้สำคัญยิ่งต่ออนาคตของเรา",
+        "level": "advanced",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "importance"
+        ]
+    },
+    {
+        "id": "v039",
+        "word": "decade",
+        "translation": "ทศวรรษ",
+        "partOfSpeech": "noun",
+        "exampleEn": "Technology has changed dramatically over the past decade.",
+        "exampleTh": "เทคโนโลยีเปลี่ยนแปลงอย่างมากในทศวรรษที่ผ่านมา",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "time",
+            "common"
+        ]
+    },
+    {
+        "id": "v040",
+        "word": "decline",
+        "translation": "ลดลง, ปฏิเสธ",
+        "partOfSpeech": "verb",
+        "exampleEn": "Sales have declined this quarter.",
+        "exampleTh": "ยอดขายลดลงในไตรมาสนี้",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "change"
+        ]
+    },
+    {
+        "id": "v041",
+        "word": "demonstrate",
+        "translation": "แสดงให้เห็น, สาธิต",
+        "partOfSpeech": "verb",
+        "exampleEn": "Let me demonstrate how it works.",
+        "exampleTh": "ให้ผมสาธิตวิธีการทำงานให้ดู",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "teaching"
+        ]
+    },
+    {
+        "id": "v042",
+        "word": "depend",
+        "translation": "ขึ้นอยู่กับ",
+        "partOfSpeech": "verb",
+        "exampleEn": "Success depends on hard work.",
+        "exampleTh": "ความสำเร็จขึ้นอยู่กับการทำงานหนัก",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "common"
+        ]
+    },
+    {
+        "id": "v043",
+        "word": "describe",
+        "translation": "อธิบาย, บรรยาย",
+        "partOfSpeech": "verb",
+        "exampleEn": "Can you describe what happened?",
+        "exampleTh": "คุณช่วยอธิบายสิ่งที่เกิดขึ้นได้ไหม?",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "communication",
+            "common"
+        ]
+    },
+    {
+        "id": "v044",
+        "word": "destination",
+        "translation": "จุดหมายปลายทาง",
+        "partOfSpeech": "noun",
+        "exampleEn": "Thailand is a popular tourist destination.",
+        "exampleTh": "ประเทศไทยเป็นจุดหมายปลายทางยอดนิยมของนักท่องเที่ยว",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "travel",
+            "common"
+        ]
+    },
+    {
+        "id": "v045",
+        "word": "develop",
+        "translation": "พัฒนา",
+        "partOfSpeech": "verb",
+        "exampleEn": "We need to develop new skills.",
+        "exampleTh": "เราต้องพัฒนาทักษะใหม่ๆ",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "growth",
+            "common"
+        ]
+    },
+    {
+        "id": "v046",
+        "word": "device",
+        "translation": "อุปกรณ์",
+        "partOfSpeech": "noun",
+        "exampleEn": "This device can measure temperature.",
+        "exampleTh": "อุปกรณ์นี้สามารถวัดอุณหภูมิได้",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "technology",
+            "common"
+        ]
+    },
+    {
+        "id": "v047",
+        "word": "discover",
+        "translation": "ค้นพบ",
+        "partOfSpeech": "verb",
+        "exampleEn": "Scientists discovered a new species.",
+        "exampleTh": "นักวิทยาศาสตร์ค้นพบสายพันธุ์ใหม่",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "science",
+            "common"
+        ]
+    },
+    {
+        "id": "v048",
+        "word": "distribute",
+        "translation": "แจกจ่าย, กระจาย",
+        "partOfSpeech": "verb",
+        "exampleEn": "The company distributes products worldwide.",
+        "exampleTh": "บริษัทแจกจ่ายสินค้าไปทั่วโลก",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "logistics"
+        ]
+    },
+    {
+        "id": "v049",
+        "word": "diverse",
+        "translation": "หลากหลาย",
+        "partOfSpeech": "adjective",
+        "exampleEn": "Our team is very diverse.",
+        "exampleTh": "ทีมของเรามีความหลากหลายมาก",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "society",
+            "description"
+        ]
+    },
+    {
+        "id": "v050",
+        "word": "efficient",
+        "translation": "มีประสิทธิภาพ",
+        "partOfSpeech": "adjective",
+        "exampleEn": "This method is more efficient.",
+        "exampleTh": "วิธีนี้มีประสิทธิภาพมากกว่า",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "quality"
+        ]
+    },
+    {
+        "id": "v051",
+        "word": "eliminate",
+        "translation": "กำจัด, ขจัด",
+        "partOfSpeech": "verb",
+        "exampleEn": "We need to eliminate waste.",
+        "exampleTh": "เราต้องกำจัดของเสีย",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "action",
+            "improvement"
+        ]
+    },
+    {
+        "id": "v052",
+        "word": "emerge",
+        "translation": "โผล่ออกมา, เกิดขึ้น",
+        "partOfSpeech": "verb",
+        "exampleEn": "New trends are emerging.",
+        "exampleTh": "เทรนด์ใหม่ๆ กำลังเกิดขึ้น",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "change",
+            "development"
+        ]
+    },
+    {
+        "id": "v053",
+        "word": "emphasis",
+        "translation": "การเน้นย้ำ",
+        "partOfSpeech": "noun",
+        "exampleEn": "There is strong emphasis on quality.",
+        "exampleTh": "มีการเน้นย้ำอย่างมากในเรื่องคุณภาพ",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "importance"
+        ]
+    },
+    {
+        "id": "v054",
+        "word": "enable",
+        "translation": "ทำให้สามารถ",
+        "partOfSpeech": "verb",
+        "exampleEn": "Technology enables us to work remotely.",
+        "exampleTh": "เทคโนโลยีทำให้เราสามารถทำงานจากระยะไกลได้",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "technology",
+            "capability"
+        ]
+    },
+    {
+        "id": "v055",
+        "word": "encourage",
+        "translation": "ส่งเสริม, ให้กำลังใจ",
+        "partOfSpeech": "verb",
+        "exampleEn": "Teachers encourage students to ask questions.",
+        "exampleTh": "ครูส่งเสริมให้นักเรียนถามคำถาม",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "education",
+            "support"
+        ]
+    },
+    {
+        "id": "v056",
+        "word": "enhance",
+        "translation": "เพิ่มพูน, ยกระดับ",
+        "partOfSpeech": "verb",
+        "exampleEn": "This feature enhances user experience.",
+        "exampleTh": "ฟีเจอร์นี้ยกระดับประสบการณ์ผู้ใช้",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "improvement",
+            "quality"
+        ]
+    },
+    {
+        "id": "v057",
+        "word": "ensure",
+        "translation": "ทำให้มั่นใจ",
+        "partOfSpeech": "verb",
+        "exampleEn": "Please ensure all doors are locked.",
+        "exampleTh": "กรุณาตรวจสอบให้มั่นใจว่าประตูทุกบานล็อคแล้ว",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "safety",
+            "action"
+        ]
+    },
+    {
+        "id": "v058",
+        "word": "entire",
+        "translation": "ทั้งหมด",
+        "partOfSpeech": "adjective",
+        "exampleEn": "The entire team worked hard.",
+        "exampleTh": "ทั้งทีมทำงานหนัก",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "quantity",
+            "common"
+        ]
+    },
+    {
+        "id": "v059",
+        "word": "estimate",
+        "translation": "ประมาณการ",
+        "partOfSpeech": "verb",
+        "exampleEn": "Can you estimate the cost?",
+        "exampleTh": "คุณสามารถประมาณการต้นทุนได้ไหม?",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "calculation"
+        ]
+    },
+    {
+        "id": "v060",
+        "word": "evaluate",
+        "translation": "ประเมิน",
+        "partOfSpeech": "verb",
+        "exampleEn": "We need to evaluate the results.",
+        "exampleTh": "เราต้องประเมินผลลัพธ์",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "analysis"
+        ]
+    },
+    {
+        "id": "v061",
+        "word": "eventually",
+        "translation": "ในที่สุด",
+        "partOfSpeech": "adverb",
+        "exampleEn": "Eventually, everything worked out.",
+        "exampleTh": "ในที่สุดทุกอย่างก็ลงตัว",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "time",
+            "common"
+        ]
+    },
+    {
+        "id": "v062",
+        "word": "evolve",
+        "translation": "วิวัฒนาการ, พัฒนา",
+        "partOfSpeech": "verb",
+        "exampleEn": "Technology continues to evolve.",
+        "exampleTh": "เทคโนโลยียังคงพัฒนาต่อไป",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "science",
+            "change"
+        ]
+    },
+    {
+        "id": "v063",
+        "word": "expand",
+        "translation": "ขยาย",
+        "partOfSpeech": "verb",
+        "exampleEn": "The company plans to expand globally.",
+        "exampleTh": "บริษัทวางแผนขยายกิจการไปทั่วโลก",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "growth"
+        ]
+    },
+    {
+        "id": "v064",
+        "word": "expert",
+        "translation": "ผู้เชี่ยวชาญ",
+        "partOfSpeech": "noun",
+        "exampleEn": "She is an expert in marketing.",
+        "exampleTh": "เธอเป็นผู้เชี่ยวชาญด้านการตลาด",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "profession",
+            "common"
+        ]
+    },
+    {
+        "id": "v065",
+        "word": "feature",
+        "translation": "คุณสมบัติ, ลักษณะเด่น",
+        "partOfSpeech": "noun",
+        "exampleEn": "This phone has many useful features.",
+        "exampleTh": "โทรศัพท์นี้มีคุณสมบัติที่มีประโยชน์มากมาย",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "technology",
+            "common"
+        ]
+    },
+    {
+        "id": "v066",
+        "word": "focus",
+        "translation": "จุดสนใจ, มุ่งเน้น",
+        "partOfSpeech": "noun",
+        "exampleEn": "Our focus is on customer satisfaction.",
+        "exampleTh": "จุดสนใจของเราคือความพึงพอใจของลูกค้า",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "common"
+        ]
+    },
+    {
+        "id": "v067",
+        "word": "forecast",
+        "translation": "พยากรณ์",
+        "partOfSpeech": "verb",
+        "exampleEn": "Experts forecast economic growth.",
+        "exampleTh": "ผู้เชี่ยวชาญพยากรณ์การเติบโตทางเศรษฐกิจ",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "prediction"
+        ]
+    },
+    {
+        "id": "v068",
+        "word": "function",
+        "translation": "หน้าที่, ทำงาน",
+        "partOfSpeech": "noun",
+        "exampleEn": "What is the function of this button?",
+        "exampleTh": "ปุ่มนี้มีหน้าที่อะไร?",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "technology",
+            "common"
+        ]
+    },
+    {
+        "id": "v069",
+        "word": "global",
+        "translation": "ทั่วโลก",
+        "partOfSpeech": "adjective",
+        "exampleEn": "Climate change is a global issue.",
+        "exampleTh": "การเปลี่ยนแปลงสภาพภูมิอากาศเป็นปัญหาทั่วโลก",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "world",
+            "common"
+        ]
+    },
+    {
+        "id": "v070",
+        "word": "guarantee",
+        "translation": "รับประกัน",
+        "partOfSpeech": "verb",
+        "exampleEn": "We guarantee your satisfaction.",
+        "exampleTh": "เรารับประกันความพึงพอใจของคุณ",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "promise"
+        ]
+    },
+    {
+        "id": "v071",
+        "word": "highlight",
+        "translation": "เน้นย้ำ, จุดเด่น",
+        "partOfSpeech": "verb",
+        "exampleEn": "Let me highlight the key points.",
+        "exampleTh": "ให้ผมเน้นย้ำประเด็นสำคัญ",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "presentation",
+            "importance"
+        ]
+    },
+    {
+        "id": "v072",
+        "word": "hypothesis",
+        "translation": "สมมติฐาน",
+        "partOfSpeech": "noun",
+        "exampleEn": "We need to test this hypothesis.",
+        "exampleTh": "เราต้องทดสอบสมมติฐานนี้",
+        "level": "advanced",
+        "packId": "TGAT_V1",
+        "tags": [
+            "science",
+            "academic"
+        ]
+    },
+    {
+        "id": "v073",
+        "word": "illustrate",
+        "translation": "แสดงตัวอย่าง, อธิบาย",
+        "partOfSpeech": "verb",
+        "exampleEn": "This example illustrates the concept.",
+        "exampleTh": "ตัวอย่างนี้แสดงให้เห็นแนวคิด",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "teaching"
+        ]
+    },
+    {
+        "id": "v074",
+        "word": "improvement",
+        "translation": "การปรับปรุง",
+        "partOfSpeech": "noun",
+        "exampleEn": "There is room for improvement.",
+        "exampleTh": "ยังมีพื้นที่สำหรับการปรับปรุง",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "development",
+            "common"
+        ]
+    },
+    {
+        "id": "v075",
+        "word": "influence",
+        "translation": "อิทธิพล, มีอิทธิพลต่อ",
+        "partOfSpeech": "noun",
+        "exampleEn": "Social media has great influence on youth.",
+        "exampleTh": "โซเชียลมีเดียมีอิทธิพลมากต่อเยาวชน",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "society",
+            "effect"
+        ]
+    },
+    {
+        "id": "v076",
+        "word": "initial",
+        "translation": "เริ่มต้น, เบื้องต้น",
+        "partOfSpeech": "adjective",
+        "exampleEn": "The initial results are promising.",
+        "exampleTh": "ผลลัพธ์เบื้องต้นน่าพอใจ",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "time",
+            "start"
+        ]
+    },
+    {
+        "id": "v077",
+        "word": "innovation",
+        "translation": "นวัตกรรม",
+        "partOfSpeech": "noun",
+        "exampleEn": "Innovation drives economic growth.",
+        "exampleTh": "นวัตกรรมขับเคลื่อนการเติบโตทางเศรษฐกิจ",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "technology",
+            "business"
+        ]
+    },
+    {
+        "id": "v078",
+        "word": "insight",
+        "translation": "ความเข้าใจลึกซึ้ง",
+        "partOfSpeech": "noun",
+        "exampleEn": "The report provides valuable insights.",
+        "exampleTh": "รายงานให้ความเข้าใจลึกซึ้งที่มีคุณค่า",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "understanding"
+        ]
+    },
+    {
+        "id": "v079",
+        "word": "integrate",
+        "translation": "รวมเข้าด้วยกัน",
+        "partOfSpeech": "verb",
+        "exampleEn": "We need to integrate new technology.",
+        "exampleTh": "เราต้องรวมเทคโนโลยีใหม่เข้าด้วยกัน",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "technology",
+            "combination"
+        ]
+    },
+    {
+        "id": "v080",
+        "word": "interpret",
+        "translation": "ตีความ, แปลความหมาย",
+        "partOfSpeech": "verb",
+        "exampleEn": "How do you interpret this data?",
+        "exampleTh": "คุณตีความข้อมูลนี้อย่างไร?",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "analysis"
+        ]
+    },
+    {
+        "id": "v081",
+        "word": "investigate",
+        "translation": "สืบสวน, ตรวจสอบ",
+        "partOfSpeech": "verb",
+        "exampleEn": "Police are investigating the case.",
+        "exampleTh": "ตำรวจกำลังสืบสวนคดี",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "legal",
+            "research"
+        ]
+    },
+    {
+        "id": "v082",
+        "word": "involve",
+        "translation": "เกี่ยวข้อง, รวมถึง",
+        "partOfSpeech": "verb",
+        "exampleEn": "The project involves many people.",
+        "exampleTh": "โครงการนี้เกี่ยวข้องกับหลายคน",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "participation",
+            "common"
+        ]
+    },
+    {
+        "id": "v083",
+        "word": "issue",
+        "translation": "ประเด็น, ปัญหา",
+        "partOfSpeech": "noun",
+        "exampleEn": "This is an important issue to discuss.",
+        "exampleTh": "นี่เป็นประเด็นสำคัญที่ต้องหารือ",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "discussion",
+            "common"
+        ]
+    },
+    {
+        "id": "v084",
+        "word": "justify",
+        "translation": "ให้เหตุผล, อ้างเหตุผล",
+        "partOfSpeech": "verb",
+        "exampleEn": "Can you justify your decision?",
+        "exampleTh": "คุณสามารถให้เหตุผลสำหรับการตัดสินใจได้ไหม?",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "academic",
+            "reasoning"
+        ]
+    },
+    {
+        "id": "v085",
+        "word": "launch",
+        "translation": "เปิดตัว, เริ่มต้น",
+        "partOfSpeech": "verb",
+        "exampleEn": "They will launch a new product.",
+        "exampleTh": "พวกเขาจะเปิดตัวสินค้าใหม่",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "business",
+            "start"
+        ]
+    },
+    {
+        "id": "v086",
+        "word": "maintain",
+        "translation": "รักษา, บำรุงรักษา",
+        "partOfSpeech": "verb",
+        "exampleEn": "We must maintain high standards.",
+        "exampleTh": "เราต้องรักษามาตรฐานสูง",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "quality",
+            "action"
+        ]
+    },
+    {
+        "id": "v087",
+        "word": "majority",
+        "translation": "ส่วนใหญ่",
+        "partOfSpeech": "noun",
+        "exampleEn": "The majority of students passed.",
+        "exampleTh": "นักเรียนส่วนใหญ่สอบผ่าน",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "quantity",
+            "statistics"
+        ]
+    },
+    {
+        "id": "v088",
+        "word": "method",
+        "translation": "วิธีการ",
+        "partOfSpeech": "noun",
+        "exampleEn": "This method is very effective.",
+        "exampleTh": "วิธีการนี้มีประสิทธิภาพมาก",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "process",
+            "common"
+        ]
+    },
+    {
+        "id": "v089",
+        "word": "modify",
+        "translation": "ปรับเปลี่ยน, ดัดแปลง",
+        "partOfSpeech": "verb",
+        "exampleEn": "We need to modify the design.",
+        "exampleTh": "เราต้องปรับเปลี่ยนการออกแบบ",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "change",
+            "improvement"
+        ]
+    },
+    {
+        "id": "v090",
+        "word": "monitor",
+        "translation": "ติดตาม, เฝ้าดู",
+        "partOfSpeech": "verb",
+        "exampleEn": "We monitor the situation closely.",
+        "exampleTh": "เราติดตามสถานการณ์อย่างใกล้ชิด",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "observation",
+            "control"
+        ]
+    },
+    {
+        "id": "v091",
+        "word": "objective",
+        "translation": "วัตถุประสงค์, เป้าหมาย",
+        "partOfSpeech": "noun",
+        "exampleEn": "What is your main objective?",
+        "exampleTh": "วัตถุประสงค์หลักของคุณคืออะไร?",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "goal",
+            "planning"
+        ]
+    },
+    {
+        "id": "v092",
+        "word": "obtain",
+        "translation": "ได้รับ, ได้มา",
+        "partOfSpeech": "verb",
+        "exampleEn": "You can obtain a visa at the embassy.",
+        "exampleTh": "คุณสามารถขอวีซ่าได้ที่สถานทูต",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "acquire",
+            "formal"
+        ]
+    },
+    {
+        "id": "v093",
+        "word": "occur",
+        "translation": "เกิดขึ้น",
+        "partOfSpeech": "verb",
+        "exampleEn": "Accidents can occur at any time.",
+        "exampleTh": "อุบัติเหตุสามารถเกิดขึ้นได้ตลอดเวลา",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "event",
+            "common"
+        ]
+    },
+    {
+        "id": "v094",
+        "word": "opportunity",
+        "translation": "โอกาส",
+        "partOfSpeech": "noun",
+        "exampleEn": "This is a great opportunity.",
+        "exampleTh": "นี่เป็นโอกาสที่ดีมาก",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "success",
+            "common"
+        ]
+    },
+    {
+        "id": "v095",
+        "word": "option",
+        "translation": "ตัวเลือก",
+        "partOfSpeech": "noun",
+        "exampleEn": "We have several options to choose from.",
+        "exampleTh": "เรามีหลายตัวเลือกให้เลือก",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "decision",
+            "common"
+        ]
+    },
+    {
+        "id": "v096",
+        "word": "outcome",
+        "translation": "ผลลัพธ์",
+        "partOfSpeech": "noun",
+        "exampleEn": "The outcome was better than expected.",
+        "exampleTh": "ผลลัพธ์ดีกว่าที่คาดไว้",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "result",
+            "common"
+        ]
+    },
+    {
+        "id": "v097",
+        "word": "participate",
+        "translation": "เข้าร่วม",
+        "partOfSpeech": "verb",
+        "exampleEn": "Everyone should participate in the discussion.",
+        "exampleTh": "ทุกคนควรเข้าร่วมการอภิปราย",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "involvement",
+            "common"
+        ]
+    },
+    {
+        "id": "v098",
+        "word": "perceive",
+        "translation": "รับรู้, มองว่า",
+        "partOfSpeech": "verb",
+        "exampleEn": "How do you perceive the situation?",
+        "exampleTh": "คุณมองสถานการณ์อย่างไร?",
+        "level": "advanced",
+        "packId": "TGAT_V1",
+        "tags": [
+            "understanding",
+            "academic"
+        ]
+    },
+    {
+        "id": "v099",
+        "word": "perform",
+        "translation": "แสดง, ปฏิบัติ",
+        "partOfSpeech": "verb",
+        "exampleEn": "The team performed well.",
+        "exampleTh": "ทีมทำผลงานได้ดี",
+        "level": "basic",
+        "packId": "TGAT_V1",
+        "tags": [
+            "action",
+            "common"
+        ]
+    },
+    {
+        "id": "v100",
+        "word": "perspective",
+        "translation": "มุมมอง, ทัศนคติ",
+        "partOfSpeech": "noun",
+        "exampleEn": "Try to see it from a different perspective.",
+        "exampleTh": "ลองมองจากมุมมองที่แตกต่าง",
+        "level": "intermediate",
+        "packId": "TGAT_V1",
+        "tags": [
+            "thinking",
+            "academic"
+        ]
+    }
+]

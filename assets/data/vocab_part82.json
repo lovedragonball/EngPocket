@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v8001",
+        "word": "track",
+        "translation": "ติดตาม",
+        "pos": "verb",
+        "example": "Track order.",
+        "level": "basic"
+    },
+    {
+        "id": "v8002",
+        "word": "tracking",
+        "translation": "การติดตาม",
+        "pos": "noun",
+        "example": "Package tracking.",
+        "level": "basic"
+    },
+    {
+        "id": "v8003",
+        "word": "trade",
+        "translation": "การค้า",
+        "pos": "noun",
+        "example": "World trade.",
+        "level": "basic"
+    },
+    {
+        "id": "v8004",
+        "word": "trademark",
+        "translation": "เครื่องหมายการค้า",
+        "pos": "noun",
+        "example": "Registered trademark.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8005",
+        "word": "trader",
+        "translation": "ผู้ค้า",
+        "pos": "noun",
+        "example": "Stock trader.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8006",
+        "word": "trading",
+        "translation": "การค้า",
+        "pos": "noun",
+        "example": "Online trading.",
+        "level": "basic"
+    },
+    {
+        "id": "v8007",
+        "word": "tradition",
+        "translation": "ประเพณี",
+        "pos": "noun",
+        "example": "Family tradition.",
+        "level": "basic"
+    },
+    {
+        "id": "v8008",
+        "word": "traditional",
+        "translation": "ดั้งเดิม",
+        "pos": "adj",
+        "example": "Traditional food.",
+        "level": "basic"
+    },
+    {
+        "id": "v8009",
+        "word": "traditionally",
+        "translation": "ตามประเพณี",
+        "pos": "adv",
+        "example": "Traditionally.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8010",
+        "word": "traffic",
+        "translation": "จราจร",
+        "pos": "noun",
+        "example": "Heavy traffic.",
+        "level": "basic"
+    },
+    {
+        "id": "v8011",
+        "word": "tragedy",
+        "translation": "โศกนาฏกรรม",
+        "pos": "noun",
+        "example": "Great tragedy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8012",
+        "word": "tragic",
+        "translation": "โศกเศร้า",
+        "pos": "adj",
+        "example": "Tragic story.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8013",
+        "word": "trail",
+        "translation": "เส้นทาง",
+        "pos": "noun",
+        "example": "Hiking trail.",
+        "level": "basic"
+    },
+    {
+        "id": "v8014",
+        "word": "trailer",
+        "translation": "ตัวอย่าง",
+        "pos": "noun",
+        "example": "Movie trailer.",
+        "level": "basic"
+    },
+    {
+        "id": "v8015",
+        "word": "train",
+        "translation": "รถไฟ",
+        "pos": "noun",
+        "example": "Take the train.",
+        "level": "basic"
+    },
+    {
+        "id": "v8016",
+        "word": "trained",
+        "translation": "ได้รับการฝึก",
+        "pos": "adj",
+        "example": "Well trained.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8017",
+        "word": "trainee",
+        "translation": "ผู้ฝึกงาน",
+        "pos": "noun",
+        "example": "New trainee.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8018",
+        "word": "trainer",
+        "translation": "ผู้ฝึกสอน",
+        "pos": "noun",
+        "example": "Personal trainer.",
+        "level": "basic"
+    },
+    {
+        "id": "v8019",
+        "word": "training",
+        "translation": "การฝึก",
+        "pos": "noun",
+        "example": "Job training.",
+        "level": "basic"
+    },
+    {
+        "id": "v8020",
+        "word": "trait",
+        "translation": "ลักษณะ",
+        "pos": "noun",
+        "example": "Personality trait.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8021",
+        "word": "transaction",
+        "translation": "ธุรกรรม",
+        "pos": "noun",
+        "example": "Bank transaction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8022",
+        "word": "transcript",
+        "translation": "สำเนา",
+        "pos": "noun",
+        "example": "Official transcript.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8023",
+        "word": "transfer",
+        "translation": "โอน",
+        "pos": "verb",
+        "example": "Transfer money.",
+        "level": "basic"
+    },
+    {
+        "id": "v8024",
+        "word": "transform",
+        "translation": "เปลี่ยนแปลง",
+        "pos": "verb",
+        "example": "Transform completely.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8025",
+        "word": "transformation",
+        "translation": "การเปลี่ยนแปลง",
+        "pos": "noun",
+        "example": "Digital transformation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8026",
+        "word": "transition",
+        "translation": "การเปลี่ยนผ่าน",
+        "pos": "noun",
+        "example": "Smooth transition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8027",
+        "word": "translate",
+        "translation": "แปล",
+        "pos": "verb",
+        "example": "Translate text.",
+        "level": "basic"
+    },
+    {
+        "id": "v8028",
+        "word": "translation",
+        "translation": "การแปล",
+        "pos": "noun",
+        "example": "Accurate translation.",
+        "level": "basic"
+    },
+    {
+        "id": "v8029",
+        "word": "translator",
+        "translation": "นักแปล",
+        "pos": "noun",
+        "example": "Professional translator.",
+        "level": "basic"
+    },
+    {
+        "id": "v8030",
+        "word": "transmission",
+        "translation": "การส่ง",
+        "pos": "noun",
+        "example": "Data transmission.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8031",
+        "word": "transmit",
+        "translation": "ส่ง",
+        "pos": "verb",
+        "example": "Transmit signal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8032",
+        "word": "transparency",
+        "translation": "ความโปร่งใส",
+        "pos": "noun",
+        "example": "Government transparency.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8033",
+        "word": "transparent",
+        "translation": "โปร่งใส",
+        "pos": "adj",
+        "example": "Very transparent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8034",
+        "word": "transplant",
+        "translation": "ปลูกถ่าย",
+        "pos": "noun",
+        "example": "Heart transplant.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8035",
+        "word": "transport",
+        "translation": "ขนส่ง",
+        "pos": "verb",
+        "example": "Transport goods.",
+        "level": "basic"
+    },
+    {
+        "id": "v8036",
+        "word": "transportation",
+        "translation": "การขนส่ง",
+        "pos": "noun",
+        "example": "Public transportation.",
+        "level": "basic"
+    },
+    {
+        "id": "v8037",
+        "word": "trap",
+        "translation": "กับดัก",
+        "pos": "noun",
+        "example": "Fall into trap.",
+        "level": "basic"
+    },
+    {
+        "id": "v8038",
+        "word": "trash",
+        "translation": "ขยะ",
+        "pos": "noun",
+        "example": "Take out trash.",
+        "level": "basic"
+    },
+    {
+        "id": "v8039",
+        "word": "trauma",
+        "translation": "บาดแผล",
+        "pos": "noun",
+        "example": "Emotional trauma.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8040",
+        "word": "traumatic",
+        "translation": "เจ็บปวด",
+        "pos": "adj",
+        "example": "Traumatic experience.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8041",
+        "word": "travel",
+        "translation": "เดินทาง",
+        "pos": "verb",
+        "example": "Love to travel.",
+        "level": "basic"
+    },
+    {
+        "id": "v8042",
+        "word": "traveler",
+        "translation": "นักเดินทาง",
+        "pos": "noun",
+        "example": "Frequent traveler.",
+        "level": "basic"
+    },
+    {
+        "id": "v8043",
+        "word": "traveling",
+        "translation": "การเดินทาง",
+        "pos": "noun",
+        "example": "Enjoy traveling.",
+        "level": "basic"
+    },
+    {
+        "id": "v8044",
+        "word": "tray",
+        "translation": "ถาด",
+        "pos": "noun",
+        "example": "Serving tray.",
+        "level": "basic"
+    },
+    {
+        "id": "v8045",
+        "word": "treasure",
+        "translation": "สมบัติ",
+        "pos": "noun",
+        "example": "Hidden treasure.",
+        "level": "basic"
+    },
+    {
+        "id": "v8046",
+        "word": "treasurer",
+        "translation": "เหรัญญิก",
+        "pos": "noun",
+        "example": "Club treasurer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8047",
+        "word": "treasury",
+        "translation": "คลัง",
+        "pos": "noun",
+        "example": "Treasury Department.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8048",
+        "word": "treat",
+        "translation": "รักษา",
+        "pos": "verb",
+        "example": "Treat patient.",
+        "level": "basic"
+    },
+    {
+        "id": "v8049",
+        "word": "treatment",
+        "translation": "การรักษา",
+        "pos": "noun",
+        "example": "Medical treatment.",
+        "level": "basic"
+    },
+    {
+        "id": "v8050",
+        "word": "treaty",
+        "translation": "สนธิสัญญา",
+        "pos": "noun",
+        "example": "Peace treaty.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8051",
+        "word": "tree",
+        "translation": "ต้นไม้",
+        "pos": "noun",
+        "example": "Big tree.",
+        "level": "basic"
+    },
+    {
+        "id": "v8052",
+        "word": "tremendous",
+        "translation": "มหาศาล",
+        "pos": "adj",
+        "example": "Tremendous effort.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8053",
+        "word": "tremendously",
+        "translation": "อย่างมาก",
+        "pos": "adv",
+        "example": "Tremendously helpful.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8054",
+        "word": "trend",
+        "translation": "แนวโน้ม",
+        "pos": "noun",
+        "example": "New trend.",
+        "level": "basic"
+    },
+    {
+        "id": "v8055",
+        "word": "trending",
+        "translation": "เป็นที่นิยม",
+        "pos": "adj",
+        "example": "Trending topic.",
+        "level": "basic"
+    },
+    {
+        "id": "v8056",
+        "word": "trendy",
+        "translation": "ทันสมัย",
+        "pos": "adj",
+        "example": "Very trendy.",
+        "level": "basic"
+    },
+    {
+        "id": "v8057",
+        "word": "trial",
+        "translation": "การพิจารณา",
+        "pos": "noun",
+        "example": "Court trial.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8058",
+        "word": "triangle",
+        "translation": "สามเหลี่ยม",
+        "pos": "noun",
+        "example": "Love triangle.",
+        "level": "basic"
+    },
+    {
+        "id": "v8059",
+        "word": "tribal",
+        "translation": "ชนเผ่า",
+        "pos": "adj",
+        "example": "Tribal culture.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8060",
+        "word": "tribe",
+        "translation": "ชนเผ่า",
+        "pos": "noun",
+        "example": "Local tribe.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8061",
+        "word": "tribute",
+        "translation": "บรรณาการ",
+        "pos": "noun",
+        "example": "Pay tribute.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8062",
+        "word": "trick",
+        "translation": "กลเม็ด",
+        "pos": "noun",
+        "example": "Magic trick.",
+        "level": "basic"
+    },
+    {
+        "id": "v8063",
+        "word": "tricky",
+        "translation": "ยุ่งยาก",
+        "pos": "adj",
+        "example": "Very tricky.",
+        "level": "basic"
+    },
+    {
+        "id": "v8064",
+        "word": "trigger",
+        "translation": "กระตุ้น",
+        "pos": "verb",
+        "example": "Trigger response.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8065",
+        "word": "trillion",
+        "translation": "ล้านล้าน",
+        "pos": "num",
+        "example": "One trillion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8066",
+        "word": "trim",
+        "translation": "ตัดแต่ง",
+        "pos": "verb",
+        "example": "Trim hair.",
+        "level": "basic"
+    },
+    {
+        "id": "v8067",
+        "word": "trio",
+        "translation": "สามคน",
+        "pos": "noun",
+        "example": "Famous trio.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8068",
+        "word": "trip",
+        "translation": "การเดินทาง",
+        "pos": "noun",
+        "example": "Business trip.",
+        "level": "basic"
+    },
+    {
+        "id": "v8069",
+        "word": "triple",
+        "translation": "สามเท่า",
+        "pos": "adj",
+        "example": "Triple check.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8070",
+        "word": "triumph",
+        "translation": "ชัยชนะ",
+        "pos": "noun",
+        "example": "Great triumph.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8071",
+        "word": "trivial",
+        "translation": "ไม่สำคัญ",
+        "pos": "adj",
+        "example": "Trivial matter.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8072",
+        "word": "trolley",
+        "translation": "รถเข็น",
+        "pos": "noun",
+        "example": "Shopping trolley.",
+        "level": "basic"
+    },
+    {
+        "id": "v8073",
+        "word": "troop",
+        "translation": "กองทหาร",
+        "pos": "noun",
+        "example": "Army troops.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8074",
+        "word": "tropical",
+        "translation": "เขตร้อน",
+        "pos": "adj",
+        "example": "Tropical climate.",
+        "level": "basic"
+    },
+    {
+        "id": "v8075",
+        "word": "trouble",
+        "translation": "ปัญหา",
+        "pos": "noun",
+        "example": "In trouble.",
+        "level": "basic"
+    },
+    {
+        "id": "v8076",
+        "word": "troubled",
+        "translation": "มีปัญหา",
+        "pos": "adj",
+        "example": "Troubled times.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8077",
+        "word": "troublesome",
+        "translation": "ยุ่งยาก",
+        "pos": "adj",
+        "example": "Very troublesome.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8078",
+        "word": "trousers",
+        "translation": "กางเกง",
+        "pos": "noun",
+        "example": "Black trousers.",
+        "level": "basic"
+    },
+    {
+        "id": "v8079",
+        "word": "truck",
+        "translation": "รถบรรทุก",
+        "pos": "noun",
+        "example": "Big truck.",
+        "level": "basic"
+    },
+    {
+        "id": "v8080",
+        "word": "true",
+        "translation": "จริง",
+        "pos": "adj",
+        "example": "Very true.",
+        "level": "basic"
+    },
+    {
+        "id": "v8081",
+        "word": "truly",
+        "translation": "อย่างแท้จริง",
+        "pos": "adv",
+        "example": "Truly sorry.",
+        "level": "basic"
+    },
+    {
+        "id": "v8082",
+        "word": "trumpet",
+        "translation": "แตร",
+        "pos": "noun",
+        "example": "Play trumpet.",
+        "level": "basic"
+    },
+    {
+        "id": "v8083",
+        "word": "trunk",
+        "translation": "ลำต้น",
+        "pos": "noun",
+        "example": "Tree trunk.",
+        "level": "basic"
+    },
+    {
+        "id": "v8084",
+        "word": "trust",
+        "translation": "เชื่อถือ",
+        "pos": "verb",
+        "example": "Trust me.",
+        "level": "basic"
+    },
+    {
+        "id": "v8085",
+        "word": "trusted",
+        "translation": "ที่เชื่อได้",
+        "pos": "adj",
+        "example": "Trusted friend.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8086",
+        "word": "trustee",
+        "translation": "ผู้ดูแล",
+        "pos": "noun",
+        "example": "Board trustee.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8087",
+        "word": "truth",
+        "translation": "ความจริง",
+        "pos": "noun",
+        "example": "Tell the truth.",
+        "level": "basic"
+    },
+    {
+        "id": "v8088",
+        "word": "truthful",
+        "translation": "ซื่อสัตย์",
+        "pos": "adj",
+        "example": "Be truthful.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8089",
+        "word": "try",
+        "translation": "พยายาม",
+        "pos": "verb",
+        "example": "Try again.",
+        "level": "basic"
+    },
+    {
+        "id": "v8090",
+        "word": "trying",
+        "translation": "พยายาม",
+        "pos": "adj",
+        "example": "Trying times.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8091",
+        "word": "tube",
+        "translation": "ท่อ",
+        "pos": "noun",
+        "example": "Test tube.",
+        "level": "basic"
+    },
+    {
+        "id": "v8092",
+        "word": "tuesday",
+        "translation": "วันอังคาร",
+        "pos": "noun",
+        "example": "Every Tuesday.",
+        "level": "basic"
+    },
+    {
+        "id": "v8093",
+        "word": "tuition",
+        "translation": "ค่าเล่าเรียน",
+        "pos": "noun",
+        "example": "Tuition fee.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8094",
+        "word": "tumble",
+        "translation": "ตก",
+        "pos": "verb",
+        "example": "Tumble down.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8095",
+        "word": "tumor",
+        "translation": "เนื้องอก",
+        "pos": "noun",
+        "example": "Brain tumor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8096",
+        "word": "tuna",
+        "translation": "ทูน่า",
+        "pos": "noun",
+        "example": "Tuna fish.",
+        "level": "basic"
+    },
+    {
+        "id": "v8097",
+        "word": "tune",
+        "translation": "ทำนอง",
+        "pos": "noun",
+        "example": "Catchy tune.",
+        "level": "basic"
+    },
+    {
+        "id": "v8098",
+        "word": "tunnel",
+        "translation": "อุโมงค์",
+        "pos": "noun",
+        "example": "Dark tunnel.",
+        "level": "basic"
+    },
+    {
+        "id": "v8099",
+        "word": "turkey",
+        "translation": "ไก่งวง",
+        "pos": "noun",
+        "example": "Roast turkey.",
+        "level": "basic"
+    },
+    {
+        "id": "v8100",
+        "word": "turn",
+        "translation": "หมุน",
+        "pos": "verb",
+        "example": "Turn around.",
+        "level": "basic"
+    }
+]

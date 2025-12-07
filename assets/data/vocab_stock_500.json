@@ -1,0 +1,402 @@
+[
+    {
+        "id": "v0001",
+        "word": "abandon",
+        "translation": "ละทิ้ง",
+        "pos": "verb",
+        "example": "They abandoned the sinking ship.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0002",
+        "word": "ability",
+        "translation": "ความสามารถ",
+        "pos": "noun",
+        "example": "She has the ability to speak five languages.",
+        "level": "basic"
+    },
+    {
+        "id": "v0003",
+        "word": "able",
+        "translation": "สามารถ",
+        "pos": "adj",
+        "example": "He is able to solve this problem.",
+        "level": "basic"
+    },
+    {
+        "id": "v0004",
+        "word": "about",
+        "translation": "เกี่ยวกับ",
+        "pos": "prep",
+        "example": "Tell me about yourself.",
+        "level": "basic"
+    },
+    {
+        "id": "v0005",
+        "word": "above",
+        "translation": "ข้างบน",
+        "pos": "prep",
+        "example": "The plane flew above the clouds.",
+        "level": "basic"
+    },
+    {
+        "id": "v0006",
+        "word": "abroad",
+        "translation": "ต่างประเทศ",
+        "pos": "adv",
+        "example": "She studied abroad for two years.",
+        "level": "basic"
+    },
+    {
+        "id": "v0007",
+        "word": "absence",
+        "translation": "การขาด",
+        "pos": "noun",
+        "example": "His absence was noticed by everyone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0008",
+        "word": "absolute",
+        "translation": "สมบูรณ์",
+        "pos": "adj",
+        "example": "I have absolute confidence in you.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0009",
+        "word": "absorb",
+        "translation": "ดูดซับ",
+        "pos": "verb",
+        "example": "Plants absorb water through their roots.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0010",
+        "word": "abstract",
+        "translation": "นามธรรม",
+        "pos": "adj",
+        "example": "Love is an abstract concept.",
+        "level": "advanced"
+    },
+    {
+        "id": "v0011",
+        "word": "academic",
+        "translation": "วิชาการ",
+        "pos": "adj",
+        "example": "His academic performance is excellent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0012",
+        "word": "accelerate",
+        "translation": "เร่งความเร็ว",
+        "pos": "verb",
+        "example": "The car accelerated quickly.",
+        "level": "advanced"
+    },
+    {
+        "id": "v0013",
+        "word": "accept",
+        "translation": "ยอมรับ",
+        "pos": "verb",
+        "example": "I accept your apology.",
+        "level": "basic"
+    },
+    {
+        "id": "v0014",
+        "word": "access",
+        "translation": "การเข้าถึง",
+        "pos": "noun",
+        "example": "Students have access to the library.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0015",
+        "word": "accident",
+        "translation": "อุบัติเหตุ",
+        "pos": "noun",
+        "example": "There was a car accident.",
+        "level": "basic"
+    },
+    {
+        "id": "v0016",
+        "word": "accommodate",
+        "translation": "รองรับ",
+        "pos": "verb",
+        "example": "The hotel can accommodate 200 guests.",
+        "level": "advanced"
+    },
+    {
+        "id": "v0017",
+        "word": "accompany",
+        "translation": "ไปด้วย",
+        "pos": "verb",
+        "example": "She accompanied him to the station.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0018",
+        "word": "accomplish",
+        "translation": "ทำสำเร็จ",
+        "pos": "verb",
+        "example": "We accomplished our goal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0019",
+        "word": "according",
+        "translation": "ตาม",
+        "pos": "prep",
+        "example": "According to the report, sales increased.",
+        "level": "basic"
+    },
+    {
+        "id": "v0020",
+        "word": "account",
+        "translation": "บัญชี",
+        "pos": "noun",
+        "example": "I opened a bank account.",
+        "level": "basic"
+    },
+    {
+        "id": "v0021",
+        "word": "accurate",
+        "translation": "แม่นยำ",
+        "pos": "adj",
+        "example": "The data is accurate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0022",
+        "word": "accuse",
+        "translation": "กล่าวหา",
+        "pos": "verb",
+        "example": "He was accused of theft.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0023",
+        "word": "achieve",
+        "translation": "บรรลุ",
+        "pos": "verb",
+        "example": "She achieved her dream.",
+        "level": "basic"
+    },
+    {
+        "id": "v0024",
+        "word": "acknowledge",
+        "translation": "ยอมรับ",
+        "pos": "verb",
+        "example": "He acknowledged his mistake.",
+        "level": "advanced"
+    },
+    {
+        "id": "v0025",
+        "word": "acquire",
+        "translation": "ได้มา",
+        "pos": "verb",
+        "example": "She acquired new skills.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0026",
+        "word": "across",
+        "translation": "ข้าม",
+        "pos": "prep",
+        "example": "Walk across the street.",
+        "level": "basic"
+    },
+    {
+        "id": "v0027",
+        "word": "act",
+        "translation": "กระทำ",
+        "pos": "verb",
+        "example": "He acted bravely.",
+        "level": "basic"
+    },
+    {
+        "id": "v0028",
+        "word": "action",
+        "translation": "การกระทำ",
+        "pos": "noun",
+        "example": "Actions speak louder than words.",
+        "level": "basic"
+    },
+    {
+        "id": "v0029",
+        "word": "active",
+        "translation": "กระตือรือร้น",
+        "pos": "adj",
+        "example": "She leads an active lifestyle.",
+        "level": "basic"
+    },
+    {
+        "id": "v0030",
+        "word": "activity",
+        "translation": "กิจกรรม",
+        "pos": "noun",
+        "example": "There are many outdoor activities.",
+        "level": "basic"
+    },
+    {
+        "id": "v0031",
+        "word": "actual",
+        "translation": "จริง",
+        "pos": "adj",
+        "example": "The actual cost was higher.",
+        "level": "basic"
+    },
+    {
+        "id": "v0032",
+        "word": "adapt",
+        "translation": "ปรับตัว",
+        "pos": "verb",
+        "example": "Animals adapt to their environment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0033",
+        "word": "add",
+        "translation": "เพิ่ม",
+        "pos": "verb",
+        "example": "Add some sugar to the tea.",
+        "level": "basic"
+    },
+    {
+        "id": "v0034",
+        "word": "addition",
+        "translation": "การเพิ่ม",
+        "pos": "noun",
+        "example": "In addition, we need more time.",
+        "level": "basic"
+    },
+    {
+        "id": "v0035",
+        "word": "address",
+        "translation": "ที่อยู่",
+        "pos": "noun",
+        "example": "What is your address?",
+        "level": "basic"
+    },
+    {
+        "id": "v0036",
+        "word": "adequate",
+        "translation": "เพียงพอ",
+        "pos": "adj",
+        "example": "We have adequate supplies.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0037",
+        "word": "adjust",
+        "translation": "ปรับ",
+        "pos": "verb",
+        "example": "Adjust the volume please.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0038",
+        "word": "administration",
+        "translation": "การบริหาร",
+        "pos": "noun",
+        "example": "The administration announced new policies.",
+        "level": "advanced"
+    },
+    {
+        "id": "v0039",
+        "word": "admire",
+        "translation": "ชื่นชม",
+        "pos": "verb",
+        "example": "I admire your courage.",
+        "level": "basic"
+    },
+    {
+        "id": "v0040",
+        "word": "admit",
+        "translation": "ยอมรับ",
+        "pos": "verb",
+        "example": "He admitted his guilt.",
+        "level": "basic"
+    },
+    {
+        "id": "v0041",
+        "word": "adopt",
+        "translation": "รับเลี้ยง",
+        "pos": "verb",
+        "example": "They adopted a child.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0042",
+        "word": "adult",
+        "translation": "ผู้ใหญ่",
+        "pos": "noun",
+        "example": "Adults must supervise children.",
+        "level": "basic"
+    },
+    {
+        "id": "v0043",
+        "word": "advance",
+        "translation": "ความก้าวหน้า",
+        "pos": "noun",
+        "example": "Technology has advanced rapidly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0044",
+        "word": "advantage",
+        "translation": "ข้อได้เปรียบ",
+        "pos": "noun",
+        "example": "This gives us an advantage.",
+        "level": "basic"
+    },
+    {
+        "id": "v0045",
+        "word": "adventure",
+        "translation": "การผจญภัย",
+        "pos": "noun",
+        "example": "Life is an adventure.",
+        "level": "basic"
+    },
+    {
+        "id": "v0046",
+        "word": "advertise",
+        "translation": "โฆษณา",
+        "pos": "verb",
+        "example": "They advertise on TV.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0047",
+        "word": "advice",
+        "translation": "คำแนะนำ",
+        "pos": "noun",
+        "example": "Thank you for your advice.",
+        "level": "basic"
+    },
+    {
+        "id": "v0048",
+        "word": "advise",
+        "translation": "แนะนำ",
+        "pos": "verb",
+        "example": "I advise you to study hard.",
+        "level": "basic"
+    },
+    {
+        "id": "v0049",
+        "word": "affair",
+        "translation": "เรื่อง",
+        "pos": "noun",
+        "example": "It is a private affair.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0050",
+        "word": "affect",
+        "translation": "ส่งผลกระทบ",
+        "pos": "verb",
+        "example": "The weather affects our mood.",
+        "level": "intermediate"
+    }
+]

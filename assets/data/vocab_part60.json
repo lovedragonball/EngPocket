@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v5801",
+        "word": "marathon",
+        "translation": "มาราธอน",
+        "pos": "noun",
+        "example": "Run marathon.",
+        "level": "basic"
+    },
+    {
+        "id": "v5802",
+        "word": "marble",
+        "translation": "หินอ่อน",
+        "pos": "noun",
+        "example": "Marble floor.",
+        "level": "basic"
+    },
+    {
+        "id": "v5803",
+        "word": "march",
+        "translation": "มีนาคม",
+        "pos": "noun",
+        "example": "In March.",
+        "level": "basic"
+    },
+    {
+        "id": "v5804",
+        "word": "margin",
+        "translation": "ขอบ",
+        "pos": "noun",
+        "example": "Profit margin.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5805",
+        "word": "marginal",
+        "translation": "ริมขอบ",
+        "pos": "adj",
+        "example": "Marginal cost.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5806",
+        "word": "marijuana",
+        "translation": "กัญชา",
+        "pos": "noun",
+        "example": "Medical marijuana.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5807",
+        "word": "marine",
+        "translation": "ทะเล",
+        "pos": "adj",
+        "example": "Marine life.",
+        "level": "basic"
+    },
+    {
+        "id": "v5808",
+        "word": "mark",
+        "translation": "เครื่องหมาย",
+        "pos": "noun",
+        "example": "Question mark.",
+        "level": "basic"
+    },
+    {
+        "id": "v5809",
+        "word": "marker",
+        "translation": "ปากกาเมจิก",
+        "pos": "noun",
+        "example": "Board marker.",
+        "level": "basic"
+    },
+    {
+        "id": "v5810",
+        "word": "market",
+        "translation": "ตลาด",
+        "pos": "noun",
+        "example": "Stock market.",
+        "level": "basic"
+    },
+    {
+        "id": "v5811",
+        "word": "marketing",
+        "translation": "การตลาด",
+        "pos": "noun",
+        "example": "Digital marketing.",
+        "level": "basic"
+    },
+    {
+        "id": "v5812",
+        "word": "marketplace",
+        "translation": "ตลาด",
+        "pos": "noun",
+        "example": "Online marketplace.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5813",
+        "word": "marriage",
+        "translation": "การแต่งงาน",
+        "pos": "noun",
+        "example": "Happy marriage.",
+        "level": "basic"
+    },
+    {
+        "id": "v5814",
+        "word": "married",
+        "translation": "แต่งงานแล้ว",
+        "pos": "adj",
+        "example": "Get married.",
+        "level": "basic"
+    },
+    {
+        "id": "v5815",
+        "word": "marry",
+        "translation": "แต่งงาน",
+        "pos": "verb",
+        "example": "Marry me.",
+        "level": "basic"
+    },
+    {
+        "id": "v5816",
+        "word": "marsh",
+        "translation": "บึง",
+        "pos": "noun",
+        "example": "Salt marsh.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5817",
+        "word": "martial",
+        "translation": "การต่อสู้",
+        "pos": "adj",
+        "example": "Martial arts.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5818",
+        "word": "mask",
+        "translation": "หน้ากาก",
+        "pos": "noun",
+        "example": "Face mask.",
+        "level": "basic"
+    },
+    {
+        "id": "v5819",
+        "word": "mass",
+        "translation": "มวล",
+        "pos": "noun",
+        "example": "Mass production.",
+        "level": "basic"
+    },
+    {
+        "id": "v5820",
+        "word": "massacre",
+        "translation": "สังหารหมู่",
+        "pos": "noun",
+        "example": "Brutal massacre.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5821",
+        "word": "massage",
+        "translation": "นวด",
+        "pos": "noun",
+        "example": "Thai massage.",
+        "level": "basic"
+    },
+    {
+        "id": "v5822",
+        "word": "massive",
+        "translation": "ใหญ่โต",
+        "pos": "adj",
+        "example": "Massive success.",
+        "level": "basic"
+    },
+    {
+        "id": "v5823",
+        "word": "master",
+        "translation": "เชี่ยวชาญ",
+        "pos": "verb",
+        "example": "Master skill.",
+        "level": "basic"
+    },
+    {
+        "id": "v5824",
+        "word": "masterpiece",
+        "translation": "ผลงานชิ้นเอก",
+        "pos": "noun",
+        "example": "True masterpiece.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5825",
+        "word": "match",
+        "translation": "ตรงกัน",
+        "pos": "verb",
+        "example": "Perfect match.",
+        "level": "basic"
+    },
+    {
+        "id": "v5826",
+        "word": "matching",
+        "translation": "เข้ากัน",
+        "pos": "adj",
+        "example": "Matching colors.",
+        "level": "basic"
+    },
+    {
+        "id": "v5827",
+        "word": "mate",
+        "translation": "คู่",
+        "pos": "noun",
+        "example": "Class mate.",
+        "level": "basic"
+    },
+    {
+        "id": "v5828",
+        "word": "material",
+        "translation": "วัสดุ",
+        "pos": "noun",
+        "example": "Raw material.",
+        "level": "basic"
+    },
+    {
+        "id": "v5829",
+        "word": "math",
+        "translation": "คณิตศาสตร์",
+        "pos": "noun",
+        "example": "Math problem.",
+        "level": "basic"
+    },
+    {
+        "id": "v5830",
+        "word": "mathematics",
+        "translation": "คณิตศาสตร์",
+        "pos": "noun",
+        "example": "Study mathematics.",
+        "level": "basic"
+    },
+    {
+        "id": "v5831",
+        "word": "matter",
+        "translation": "เรื่อง",
+        "pos": "noun",
+        "example": "No matter.",
+        "level": "basic"
+    },
+    {
+        "id": "v5832",
+        "word": "mattress",
+        "translation": "ที่นอน",
+        "pos": "noun",
+        "example": "Soft mattress.",
+        "level": "basic"
+    },
+    {
+        "id": "v5833",
+        "word": "mature",
+        "translation": "เติบโต",
+        "pos": "adj",
+        "example": "Mature person.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5834",
+        "word": "maturity",
+        "translation": "วุฒิภาวะ",
+        "pos": "noun",
+        "example": "Reach maturity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5835",
+        "word": "maximum",
+        "translation": "สูงสุด",
+        "pos": "adj",
+        "example": "Maximum speed.",
+        "level": "basic"
+    },
+    {
+        "id": "v5836",
+        "word": "may",
+        "translation": "อาจจะ",
+        "pos": "verb",
+        "example": "May I?",
+        "level": "basic"
+    },
+    {
+        "id": "v5837",
+        "word": "maybe",
+        "translation": "อาจจะ",
+        "pos": "adv",
+        "example": "Maybe later.",
+        "level": "basic"
+    },
+    {
+        "id": "v5838",
+        "word": "mayor",
+        "translation": "นายกเทศมนตรี",
+        "pos": "noun",
+        "example": "City mayor.",
+        "level": "basic"
+    },
+    {
+        "id": "v5839",
+        "word": "me",
+        "translation": "ฉัน",
+        "pos": "pron",
+        "example": "Tell me.",
+        "level": "basic"
+    },
+    {
+        "id": "v5840",
+        "word": "meadow",
+        "translation": "ทุ่งหญ้า",
+        "pos": "noun",
+        "example": "Green meadow.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5841",
+        "word": "meal",
+        "translation": "มื้ออาหาร",
+        "pos": "noun",
+        "example": "Good meal.",
+        "level": "basic"
+    },
+    {
+        "id": "v5842",
+        "word": "mean",
+        "translation": "หมายความ",
+        "pos": "verb",
+        "example": "What do you mean?",
+        "level": "basic"
+    },
+    {
+        "id": "v5843",
+        "word": "meaning",
+        "translation": "ความหมาย",
+        "pos": "noun",
+        "example": "True meaning.",
+        "level": "basic"
+    },
+    {
+        "id": "v5844",
+        "word": "meaningful",
+        "translation": "มีความหมาย",
+        "pos": "adj",
+        "example": "Meaningful conversation.",
+        "level": "basic"
+    },
+    {
+        "id": "v5845",
+        "word": "means",
+        "translation": "วิธีการ",
+        "pos": "noun",
+        "example": "By any means.",
+        "level": "basic"
+    },
+    {
+        "id": "v5846",
+        "word": "meantime",
+        "translation": "ระหว่างนั้น",
+        "pos": "noun",
+        "example": "In the meantime.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5847",
+        "word": "meanwhile",
+        "translation": "ในขณะเดียวกัน",
+        "pos": "adv",
+        "example": "Meanwhile.",
+        "level": "basic"
+    },
+    {
+        "id": "v5848",
+        "word": "measure",
+        "translation": "วัด",
+        "pos": "verb",
+        "example": "Measure carefully.",
+        "level": "basic"
+    },
+    {
+        "id": "v5849",
+        "word": "measurement",
+        "translation": "การวัด",
+        "pos": "noun",
+        "example": "Take measurements.",
+        "level": "basic"
+    },
+    {
+        "id": "v5850",
+        "word": "meat",
+        "translation": "เนื้อ",
+        "pos": "noun",
+        "example": "Red meat.",
+        "level": "basic"
+    },
+    {
+        "id": "v5851",
+        "word": "mechanic",
+        "translation": "ช่างซ่อม",
+        "pos": "noun",
+        "example": "Car mechanic.",
+        "level": "basic"
+    },
+    {
+        "id": "v5852",
+        "word": "mechanical",
+        "translation": "เครื่องกล",
+        "pos": "adj",
+        "example": "Mechanical engineer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5853",
+        "word": "mechanism",
+        "translation": "กลไก",
+        "pos": "noun",
+        "example": "Defense mechanism.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5854",
+        "word": "medal",
+        "translation": "เหรียญ",
+        "pos": "noun",
+        "example": "Gold medal.",
+        "level": "basic"
+    },
+    {
+        "id": "v5855",
+        "word": "media",
+        "translation": "สื่อ",
+        "pos": "noun",
+        "example": "Social media.",
+        "level": "basic"
+    },
+    {
+        "id": "v5856",
+        "word": "median",
+        "translation": "มัธยฐาน",
+        "pos": "noun",
+        "example": "Median income.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5857",
+        "word": "medical",
+        "translation": "การแพทย์",
+        "pos": "adj",
+        "example": "Medical care.",
+        "level": "basic"
+    },
+    {
+        "id": "v5858",
+        "word": "medication",
+        "translation": "ยา",
+        "pos": "noun",
+        "example": "Take medication.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5859",
+        "word": "medicine",
+        "translation": "ยา",
+        "pos": "noun",
+        "example": "Take medicine.",
+        "level": "basic"
+    },
+    {
+        "id": "v5860",
+        "word": "medieval",
+        "translation": "ยุคกลาง",
+        "pos": "adj",
+        "example": "Medieval times.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5861",
+        "word": "medium",
+        "translation": "กลาง",
+        "pos": "adj",
+        "example": "Medium size.",
+        "level": "basic"
+    },
+    {
+        "id": "v5862",
+        "word": "meet",
+        "translation": "พบ",
+        "pos": "verb",
+        "example": "Nice to meet you.",
+        "level": "basic"
+    },
+    {
+        "id": "v5863",
+        "word": "meeting",
+        "translation": "การประชุม",
+        "pos": "noun",
+        "example": "Team meeting.",
+        "level": "basic"
+    },
+    {
+        "id": "v5864",
+        "word": "mega",
+        "translation": "ใหญ่มาก",
+        "pos": "adj",
+        "example": "Mega sale.",
+        "level": "basic"
+    },
+    {
+        "id": "v5865",
+        "word": "melt",
+        "translation": "ละลาย",
+        "pos": "verb",
+        "example": "Ice melts.",
+        "level": "basic"
+    },
+    {
+        "id": "v5866",
+        "word": "member",
+        "translation": "สมาชิก",
+        "pos": "noun",
+        "example": "Team member.",
+        "level": "basic"
+    },
+    {
+        "id": "v5867",
+        "word": "membership",
+        "translation": "สมาชิกภาพ",
+        "pos": "noun",
+        "example": "Club membership.",
+        "level": "basic"
+    },
+    {
+        "id": "v5868",
+        "word": "membrane",
+        "translation": "เยื่อ",
+        "pos": "noun",
+        "example": "Cell membrane.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5869",
+        "word": "memo",
+        "translation": "บันทึก",
+        "pos": "noun",
+        "example": "Office memo.",
+        "level": "basic"
+    },
+    {
+        "id": "v5870",
+        "word": "memoir",
+        "translation": "บันทึกประวัติ",
+        "pos": "noun",
+        "example": "Write memoir.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5871",
+        "word": "memorable",
+        "translation": "น่าจดจำ",
+        "pos": "adj",
+        "example": "Memorable experience.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5872",
+        "word": "memorial",
+        "translation": "อนุสรณ์",
+        "pos": "noun",
+        "example": "War memorial.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5873",
+        "word": "memorize",
+        "translation": "จำ",
+        "pos": "verb",
+        "example": "Memorize vocabulary.",
+        "level": "basic"
+    },
+    {
+        "id": "v5874",
+        "word": "memory",
+        "translation": "ความจำ",
+        "pos": "noun",
+        "example": "Good memory.",
+        "level": "basic"
+    },
+    {
+        "id": "v5875",
+        "word": "men",
+        "translation": "ผู้ชาย",
+        "pos": "noun",
+        "example": "Men and women.",
+        "level": "basic"
+    },
+    {
+        "id": "v5876",
+        "word": "mental",
+        "translation": "จิตใจ",
+        "pos": "adj",
+        "example": "Mental health.",
+        "level": "basic"
+    },
+    {
+        "id": "v5877",
+        "word": "mentally",
+        "translation": "ทางจิตใจ",
+        "pos": "adv",
+        "example": "Mentally strong.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5878",
+        "word": "mention",
+        "translation": "กล่าวถึง",
+        "pos": "verb",
+        "example": "Don't mention it.",
+        "level": "basic"
+    },
+    {
+        "id": "v5879",
+        "word": "mentor",
+        "translation": "ที่ปรึกษา",
+        "pos": "noun",
+        "example": "Good mentor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5880",
+        "word": "menu",
+        "translation": "เมนู",
+        "pos": "noun",
+        "example": "Food menu.",
+        "level": "basic"
+    },
+    {
+        "id": "v5881",
+        "word": "merchant",
+        "translation": "พ่อค้า",
+        "pos": "noun",
+        "example": "Local merchant.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5882",
+        "word": "mercy",
+        "translation": "ความเมตตา",
+        "pos": "noun",
+        "example": "Show mercy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5883",
+        "word": "mere",
+        "translation": "เพียง",
+        "pos": "adj",
+        "example": "Mere coincidence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5884",
+        "word": "merely",
+        "translation": "เพียง",
+        "pos": "adv",
+        "example": "Merely suggesting.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5885",
+        "word": "merge",
+        "translation": "รวม",
+        "pos": "verb",
+        "example": "Merge files.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5886",
+        "word": "merger",
+        "translation": "การควบรวม",
+        "pos": "noun",
+        "example": "Company merger.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5887",
+        "word": "merit",
+        "translation": "คุณความดี",
+        "pos": "noun",
+        "example": "Make merit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5888",
+        "word": "merry",
+        "translation": "ร่าเริง",
+        "pos": "adj",
+        "example": "Merry Christmas.",
+        "level": "basic"
+    },
+    {
+        "id": "v5889",
+        "word": "mess",
+        "translation": "ความยุ่งเหยิง",
+        "pos": "noun",
+        "example": "What a mess!",
+        "level": "basic"
+    },
+    {
+        "id": "v5890",
+        "word": "message",
+        "translation": "ข้อความ",
+        "pos": "noun",
+        "example": "Send message.",
+        "level": "basic"
+    },
+    {
+        "id": "v5891",
+        "word": "messenger",
+        "translation": "ผู้ส่งสาร",
+        "pos": "noun",
+        "example": "Facebook Messenger.",
+        "level": "basic"
+    },
+    {
+        "id": "v5892",
+        "word": "messy",
+        "translation": "ยุ่งเหยิง",
+        "pos": "adj",
+        "example": "Messy room.",
+        "level": "basic"
+    },
+    {
+        "id": "v5893",
+        "word": "metal",
+        "translation": "โลหะ",
+        "pos": "noun",
+        "example": "Heavy metal.",
+        "level": "basic"
+    },
+    {
+        "id": "v5894",
+        "word": "metaphor",
+        "translation": "อุปมา",
+        "pos": "noun",
+        "example": "Use metaphor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5895",
+        "word": "meter",
+        "translation": "เมตร",
+        "pos": "noun",
+        "example": "One meter.",
+        "level": "basic"
+    },
+    {
+        "id": "v5896",
+        "word": "method",
+        "translation": "วิธีการ",
+        "pos": "noun",
+        "example": "New method.",
+        "level": "basic"
+    },
+    {
+        "id": "v5897",
+        "word": "methodology",
+        "translation": "ระเบียบวิธี",
+        "pos": "noun",
+        "example": "Research methodology.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5898",
+        "word": "metric",
+        "translation": "เมตริก",
+        "pos": "adj",
+        "example": "Metric system.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5899",
+        "word": "metro",
+        "translation": "รถไฟใต้ดิน",
+        "pos": "noun",
+        "example": "Take the metro.",
+        "level": "basic"
+    },
+    {
+        "id": "v5900",
+        "word": "metropolitan",
+        "translation": "มหานคร",
+        "pos": "adj",
+        "example": "Metropolitan area.",
+        "level": "intermediate"
+    }
+]

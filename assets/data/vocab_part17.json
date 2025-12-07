@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v1551",
+        "word": "machine",
+        "translation": "เครื่องจักร",
+        "pos": "noun",
+        "example": "Washing machine.",
+        "level": "basic"
+    },
+    {
+        "id": "v1552",
+        "word": "mad",
+        "translation": "บ้า",
+        "pos": "adj",
+        "example": "Are you mad?",
+        "level": "basic"
+    },
+    {
+        "id": "v1553",
+        "word": "magazine",
+        "translation": "นิตยสาร",
+        "pos": "noun",
+        "example": "Fashion magazine.",
+        "level": "basic"
+    },
+    {
+        "id": "v1554",
+        "word": "magic",
+        "translation": "เวทมนตร์",
+        "pos": "noun",
+        "example": "It's magic!",
+        "level": "basic"
+    },
+    {
+        "id": "v1555",
+        "word": "mail",
+        "translation": "จดหมาย",
+        "pos": "noun",
+        "example": "Check mail.",
+        "level": "basic"
+    },
+    {
+        "id": "v1556",
+        "word": "main",
+        "translation": "หลัก",
+        "pos": "adj",
+        "example": "Main street.",
+        "level": "basic"
+    },
+    {
+        "id": "v1557",
+        "word": "mainly",
+        "translation": "ส่วนใหญ่",
+        "pos": "adv",
+        "example": "Mainly because.",
+        "level": "basic"
+    },
+    {
+        "id": "v1558",
+        "word": "mainstream",
+        "translation": "กระแสหลัก",
+        "pos": "noun",
+        "example": "Mainstream media.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1559",
+        "word": "maintain",
+        "translation": "รักษา",
+        "pos": "verb",
+        "example": "Maintain quality.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1560",
+        "word": "maintenance",
+        "translation": "การบำรุงรักษา",
+        "pos": "noun",
+        "example": "Car maintenance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1561",
+        "word": "major",
+        "translation": "สำคัญ",
+        "pos": "adj",
+        "example": "Major issue.",
+        "level": "basic"
+    },
+    {
+        "id": "v1562",
+        "word": "majority",
+        "translation": "ส่วนใหญ่",
+        "pos": "noun",
+        "example": "The majority.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1563",
+        "word": "make",
+        "translation": "ทำ",
+        "pos": "verb",
+        "example": "Make it happen.",
+        "level": "basic"
+    },
+    {
+        "id": "v1564",
+        "word": "maker",
+        "translation": "ผู้ผลิต",
+        "pos": "noun",
+        "example": "Coffee maker.",
+        "level": "basic"
+    },
+    {
+        "id": "v1565",
+        "word": "male",
+        "translation": "เพศชาย",
+        "pos": "adj",
+        "example": "Male student.",
+        "level": "basic"
+    },
+    {
+        "id": "v1566",
+        "word": "mall",
+        "translation": "ห้างสรรพสินค้า",
+        "pos": "noun",
+        "example": "Shopping mall.",
+        "level": "basic"
+    },
+    {
+        "id": "v1567",
+        "word": "man",
+        "translation": "ผู้ชาย",
+        "pos": "noun",
+        "example": "Young man.",
+        "level": "basic"
+    },
+    {
+        "id": "v1568",
+        "word": "manage",
+        "translation": "จัดการ",
+        "pos": "verb",
+        "example": "Manage time.",
+        "level": "basic"
+    },
+    {
+        "id": "v1569",
+        "word": "management",
+        "translation": "การจัดการ",
+        "pos": "noun",
+        "example": "Project management.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1570",
+        "word": "manager",
+        "translation": "ผู้จัดการ",
+        "pos": "noun",
+        "example": "Store manager.",
+        "level": "basic"
+    },
+    {
+        "id": "v1571",
+        "word": "manner",
+        "translation": "ลักษณะ",
+        "pos": "noun",
+        "example": "Good manners.",
+        "level": "basic"
+    },
+    {
+        "id": "v1572",
+        "word": "manufacturer",
+        "translation": "ผู้ผลิต",
+        "pos": "noun",
+        "example": "Car manufacturer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1573",
+        "word": "manufacturing",
+        "translation": "การผลิต",
+        "pos": "noun",
+        "example": "Manufacturing industry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1574",
+        "word": "many",
+        "translation": "มากมาย",
+        "pos": "det",
+        "example": "So many.",
+        "level": "basic"
+    },
+    {
+        "id": "v1575",
+        "word": "map",
+        "translation": "แผนที่",
+        "pos": "noun",
+        "example": "World map.",
+        "level": "basic"
+    },
+    {
+        "id": "v1576",
+        "word": "march",
+        "translation": "มีนาคม",
+        "pos": "noun",
+        "example": "In March.",
+        "level": "basic"
+    },
+    {
+        "id": "v1577",
+        "word": "margin",
+        "translation": "ระยะขอบ",
+        "pos": "noun",
+        "example": "Profit margin.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1578",
+        "word": "mark",
+        "translation": "เครื่องหมาย",
+        "pos": "noun",
+        "example": "Question mark.",
+        "level": "basic"
+    },
+    {
+        "id": "v1579",
+        "word": "market",
+        "translation": "ตลาด",
+        "pos": "noun",
+        "example": "Stock market.",
+        "level": "basic"
+    },
+    {
+        "id": "v1580",
+        "word": "marketing",
+        "translation": "การตลาด",
+        "pos": "noun",
+        "example": "Digital marketing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1581",
+        "word": "marriage",
+        "translation": "การแต่งงาน",
+        "pos": "noun",
+        "example": "Happy marriage.",
+        "level": "basic"
+    },
+    {
+        "id": "v1582",
+        "word": "married",
+        "translation": "แต่งงานแล้ว",
+        "pos": "adj",
+        "example": "Are you married?",
+        "level": "basic"
+    },
+    {
+        "id": "v1583",
+        "word": "marry",
+        "translation": "แต่งงาน",
+        "pos": "verb",
+        "example": "Will you marry me?",
+        "level": "basic"
+    },
+    {
+        "id": "v1584",
+        "word": "mask",
+        "translation": "หน้ากาก",
+        "pos": "noun",
+        "example": "Wear a mask.",
+        "level": "basic"
+    },
+    {
+        "id": "v1585",
+        "word": "mass",
+        "translation": "มวล",
+        "pos": "noun",
+        "example": "Mass production.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1586",
+        "word": "massive",
+        "translation": "ใหญ่โต",
+        "pos": "adj",
+        "example": "Massive success.",
+        "level": "basic"
+    },
+    {
+        "id": "v1587",
+        "word": "master",
+        "translation": "ปริญญาโท",
+        "pos": "noun",
+        "example": "Master's degree.",
+        "level": "basic"
+    },
+    {
+        "id": "v1588",
+        "word": "match",
+        "translation": "แมตช์",
+        "pos": "noun",
+        "example": "Football match.",
+        "level": "basic"
+    },
+    {
+        "id": "v1589",
+        "word": "material",
+        "translation": "วัสดุ",
+        "pos": "noun",
+        "example": "Raw material.",
+        "level": "basic"
+    },
+    {
+        "id": "v1590",
+        "word": "math",
+        "translation": "คณิตศาสตร์",
+        "pos": "noun",
+        "example": "Math class.",
+        "level": "basic"
+    },
+    {
+        "id": "v1591",
+        "word": "mathematics",
+        "translation": "คณิตศาสตร์",
+        "pos": "noun",
+        "example": "Study mathematics.",
+        "level": "basic"
+    },
+    {
+        "id": "v1592",
+        "word": "matter",
+        "translation": "เรื่อง",
+        "pos": "noun",
+        "example": "It doesn't matter.",
+        "level": "basic"
+    },
+    {
+        "id": "v1593",
+        "word": "maximum",
+        "translation": "สูงสุด",
+        "pos": "adj",
+        "example": "Maximum speed.",
+        "level": "basic"
+    },
+    {
+        "id": "v1594",
+        "word": "may",
+        "translation": "อาจจะ",
+        "pos": "verb",
+        "example": "May I help?",
+        "level": "basic"
+    },
+    {
+        "id": "v1595",
+        "word": "maybe",
+        "translation": "อาจจะ",
+        "pos": "adv",
+        "example": "Maybe later.",
+        "level": "basic"
+    },
+    {
+        "id": "v1596",
+        "word": "mayor",
+        "translation": "นายกเทศมนตรี",
+        "pos": "noun",
+        "example": "City mayor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1597",
+        "word": "me",
+        "translation": "ฉัน",
+        "pos": "pron",
+        "example": "Give it to me.",
+        "level": "basic"
+    },
+    {
+        "id": "v1598",
+        "word": "meal",
+        "translation": "มื้ออาหาร",
+        "pos": "noun",
+        "example": "Enjoy your meal.",
+        "level": "basic"
+    },
+    {
+        "id": "v1599",
+        "word": "mean",
+        "translation": "หมายความว่า",
+        "pos": "verb",
+        "example": "What do you mean?",
+        "level": "basic"
+    },
+    {
+        "id": "v1600",
+        "word": "meaning",
+        "translation": "ความหมาย",
+        "pos": "noun",
+        "example": "Deep meaning.",
+        "level": "basic"
+    },
+    {
+        "id": "v1601",
+        "word": "meaningful",
+        "translation": "มีความหมาย",
+        "pos": "adj",
+        "example": "Meaningful work.",
+        "level": "basic"
+    },
+    {
+        "id": "v1602",
+        "word": "means",
+        "translation": "วิธีการ",
+        "pos": "noun",
+        "example": "By all means.",
+        "level": "basic"
+    },
+    {
+        "id": "v1603",
+        "word": "meanwhile",
+        "translation": "ในขณะเดียวกัน",
+        "pos": "adv",
+        "example": "Meanwhile.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1604",
+        "word": "measure",
+        "translation": "วัด",
+        "pos": "verb",
+        "example": "Measure it.",
+        "level": "basic"
+    },
+    {
+        "id": "v1605",
+        "word": "measurement",
+        "translation": "การวัด",
+        "pos": "noun",
+        "example": "Take measurements.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1606",
+        "word": "meat",
+        "translation": "เนื้อ",
+        "pos": "noun",
+        "example": "Red meat.",
+        "level": "basic"
+    },
+    {
+        "id": "v1607",
+        "word": "mechanism",
+        "translation": "กลไก",
+        "pos": "noun",
+        "example": "Defense mechanism.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1608",
+        "word": "media",
+        "translation": "สื่อ",
+        "pos": "noun",
+        "example": "Social media.",
+        "level": "basic"
+    },
+    {
+        "id": "v1609",
+        "word": "medical",
+        "translation": "ทางการแพทย์",
+        "pos": "adj",
+        "example": "Medical care.",
+        "level": "basic"
+    },
+    {
+        "id": "v1610",
+        "word": "medicine",
+        "translation": "ยา",
+        "pos": "noun",
+        "example": "Take medicine.",
+        "level": "basic"
+    },
+    {
+        "id": "v1611",
+        "word": "medium",
+        "translation": "ปานกลาง",
+        "pos": "adj",
+        "example": "Medium size.",
+        "level": "basic"
+    },
+    {
+        "id": "v1612",
+        "word": "meet",
+        "translation": "พบ",
+        "pos": "verb",
+        "example": "Nice to meet you.",
+        "level": "basic"
+    },
+    {
+        "id": "v1613",
+        "word": "meeting",
+        "translation": "การประชุม",
+        "pos": "noun",
+        "example": "Staff meeting.",
+        "level": "basic"
+    },
+    {
+        "id": "v1614",
+        "word": "member",
+        "translation": "สมาชิก",
+        "pos": "noun",
+        "example": "Team member.",
+        "level": "basic"
+    },
+    {
+        "id": "v1615",
+        "word": "membership",
+        "translation": "สมาชิกภาพ",
+        "pos": "noun",
+        "example": "Gym membership.",
+        "level": "basic"
+    },
+    {
+        "id": "v1616",
+        "word": "memory",
+        "translation": "ความทรงจำ",
+        "pos": "noun",
+        "example": "Good memory.",
+        "level": "basic"
+    },
+    {
+        "id": "v1617",
+        "word": "mental",
+        "translation": "ทางจิต",
+        "pos": "adj",
+        "example": "Mental health.",
+        "level": "basic"
+    },
+    {
+        "id": "v1618",
+        "word": "mention",
+        "translation": "กล่าวถึง",
+        "pos": "verb",
+        "example": "Don't mention it.",
+        "level": "basic"
+    },
+    {
+        "id": "v1619",
+        "word": "menu",
+        "translation": "เมนู",
+        "pos": "noun",
+        "example": "Check the menu.",
+        "level": "basic"
+    },
+    {
+        "id": "v1620",
+        "word": "mere",
+        "translation": "เพียง",
+        "pos": "adj",
+        "example": "A mere child.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1621",
+        "word": "merely",
+        "translation": "เพียงแค่",
+        "pos": "adv",
+        "example": "Merely a suggestion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1622",
+        "word": "mess",
+        "translation": "ความยุ่งเหยิง",
+        "pos": "noun",
+        "example": "What a mess!",
+        "level": "basic"
+    },
+    {
+        "id": "v1623",
+        "word": "message",
+        "translation": "ข้อความ",
+        "pos": "noun",
+        "example": "Send a message.",
+        "level": "basic"
+    },
+    {
+        "id": "v1624",
+        "word": "metal",
+        "translation": "โลหะ",
+        "pos": "noun",
+        "example": "Heavy metal.",
+        "level": "basic"
+    },
+    {
+        "id": "v1625",
+        "word": "method",
+        "translation": "วิธีการ",
+        "pos": "noun",
+        "example": "New method.",
+        "level": "basic"
+    },
+    {
+        "id": "v1626",
+        "word": "middle",
+        "translation": "ตรงกลาง",
+        "pos": "noun",
+        "example": "In the middle.",
+        "level": "basic"
+    },
+    {
+        "id": "v1627",
+        "word": "might",
+        "translation": "อาจจะ",
+        "pos": "verb",
+        "example": "It might rain.",
+        "level": "basic"
+    },
+    {
+        "id": "v1628",
+        "word": "mild",
+        "translation": "อ่อน",
+        "pos": "adj",
+        "example": "Mild weather.",
+        "level": "basic"
+    },
+    {
+        "id": "v1629",
+        "word": "mile",
+        "translation": "ไมล์",
+        "pos": "noun",
+        "example": "One mile.",
+        "level": "basic"
+    },
+    {
+        "id": "v1630",
+        "word": "military",
+        "translation": "ทหาร",
+        "pos": "adj",
+        "example": "Military service.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1631",
+        "word": "milk",
+        "translation": "นม",
+        "pos": "noun",
+        "example": "Fresh milk.",
+        "level": "basic"
+    },
+    {
+        "id": "v1632",
+        "word": "million",
+        "translation": "ล้าน",
+        "pos": "num",
+        "example": "One million.",
+        "level": "basic"
+    },
+    {
+        "id": "v1633",
+        "word": "mind",
+        "translation": "ใจ",
+        "pos": "noun",
+        "example": "Never mind.",
+        "level": "basic"
+    },
+    {
+        "id": "v1634",
+        "word": "mine",
+        "translation": "ของฉัน",
+        "pos": "pron",
+        "example": "It's mine.",
+        "level": "basic"
+    },
+    {
+        "id": "v1635",
+        "word": "mineral",
+        "translation": "แร่ธาตุ",
+        "pos": "noun",
+        "example": "Mineral water.",
+        "level": "basic"
+    },
+    {
+        "id": "v1636",
+        "word": "minimum",
+        "translation": "ขั้นต่ำ",
+        "pos": "adj",
+        "example": "Minimum wage.",
+        "level": "basic"
+    },
+    {
+        "id": "v1637",
+        "word": "minister",
+        "translation": "รัฐมนตรี",
+        "pos": "noun",
+        "example": "Prime Minister.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1638",
+        "word": "ministry",
+        "translation": "กระทรวง",
+        "pos": "noun",
+        "example": "Ministry of Education.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1639",
+        "word": "minor",
+        "translation": "เล็กน้อย",
+        "pos": "adj",
+        "example": "Minor problem.",
+        "level": "basic"
+    },
+    {
+        "id": "v1640",
+        "word": "minority",
+        "translation": "ชนกลุ่มน้อย",
+        "pos": "noun",
+        "example": "Ethnic minority.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1641",
+        "word": "minute",
+        "translation": "นาที",
+        "pos": "noun",
+        "example": "One minute.",
+        "level": "basic"
+    },
+    {
+        "id": "v1642",
+        "word": "miracle",
+        "translation": "ปาฏิหาริย์",
+        "pos": "noun",
+        "example": "It's a miracle!",
+        "level": "basic"
+    },
+    {
+        "id": "v1643",
+        "word": "mirror",
+        "translation": "กระจก",
+        "pos": "noun",
+        "example": "Look in the mirror.",
+        "level": "basic"
+    },
+    {
+        "id": "v1644",
+        "word": "miss",
+        "translation": "พลาด",
+        "pos": "verb",
+        "example": "I miss you.",
+        "level": "basic"
+    },
+    {
+        "id": "v1645",
+        "word": "missile",
+        "translation": "ขีปนาวุธ",
+        "pos": "noun",
+        "example": "Missile launch.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1646",
+        "word": "missing",
+        "translation": "หาย",
+        "pos": "adj",
+        "example": "Missing person.",
+        "level": "basic"
+    },
+    {
+        "id": "v1647",
+        "word": "mission",
+        "translation": "ภารกิจ",
+        "pos": "noun",
+        "example": "Secret mission.",
+        "level": "basic"
+    },
+    {
+        "id": "v1648",
+        "word": "mistake",
+        "translation": "ความผิดพลาด",
+        "pos": "noun",
+        "example": "Big mistake.",
+        "level": "basic"
+    },
+    {
+        "id": "v1649",
+        "word": "mix",
+        "translation": "ผสม",
+        "pos": "verb",
+        "example": "Mix well.",
+        "level": "basic"
+    },
+    {
+        "id": "v1650",
+        "word": "mixture",
+        "translation": "ส่วนผสม",
+        "pos": "noun",
+        "example": "Perfect mixture.",
+        "level": "intermediate"
+    }
+]

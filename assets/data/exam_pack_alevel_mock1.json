@@ -1,0 +1,717 @@
+{
+    "packs": [
+        {
+            "id": "alevel_mock_1",
+            "name": "A-Level Mock Test 1",
+            "description": "ข้อสอบจำลอง A-Level English - Reading Comprehension & Critical Thinking",
+            "examType": "A-Level",
+            "numQuestions": 50,
+            "timeLimit": 90,
+            "difficulty": "hard",
+            "version": 1,
+            "remoteUrl": null
+        }
+    ],
+    "questions": [
+        {
+            "id": "alevel_001",
+            "stem": "The word 'quintessential' means:",
+            "choices": [
+                "ordinary",
+                "representing the perfect example",
+                "outdated",
+                "complex"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Quintessential' หมายถึง เป็นแบบอย่างที่สมบูรณ์แบบ เป็นตัวแทนที่ดีที่สุด",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_002",
+            "stem": "The government _____ new policies to address climate change.",
+            "choices": [
+                "has implemented",
+                "have implemented",
+                "implementing",
+                "implement"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ 'has implemented' เพราะ government เป็นเอกพจน์ ใช้ Present Perfect",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_003",
+            "stem": "'Sycophant' is closest in meaning to:",
+            "choices": [
+                "critic",
+                "flatterer",
+                "leader",
+                "rebel"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Sycophant' หมายถึง คนประจบสอพลอ",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_004",
+            "stem": "Neither the students nor the teacher _____ aware of the schedule change.",
+            "choices": [
+                "was",
+                "were",
+                "is",
+                "are"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ 'was' เพราะ Neither...nor ให้ใช้กริยาตามประธานใกล้สุด (teacher = เอกพจน์)",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_005",
+            "stem": "The antonym of 'altruistic' is:",
+            "choices": [
+                "selfless",
+                "generous",
+                "selfish",
+                "kind"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Altruistic' แปลว่า เห็นแก่ผู้อื่น ตรงข้ามกับ 'selfish' เห็นแก่ตัว",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_006",
+            "stem": "Had the weather been better, we _____ to the beach.",
+            "choices": [
+                "would go",
+                "would have gone",
+                "will go",
+                "went"
+            ],
+            "correctIndex": 1,
+            "explanation": "ประโยค If-clause Type 3 แบบ Inversion ใช้ would have gone",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_007",
+            "stem": "'Perfunctory' means:",
+            "choices": [
+                "thorough",
+                "done without care",
+                "perfect",
+                "permanent"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Perfunctory' หมายถึง ทำอย่างผ่านๆ ไม่ตั้งใจ",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_008",
+            "stem": "The committee _____ to reach a consensus on the matter.",
+            "choices": [
+                "have failed",
+                "has failed",
+                "are failing",
+                "were failing"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'has failed' เมื่อ committee ทำหน้าที่เป็นหน่วยเดียว",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_009",
+            "stem": "'Gregarious' is the opposite of:",
+            "choices": [
+                "sociable",
+                "friendly",
+                "solitary",
+                "outgoing"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Gregarious' แปลว่า ชอบเข้าสังคม ตรงข้ามกับ 'solitary' ที่ชอบอยู่คนเดียว",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_010",
+            "stem": "The novel, _____ was written in 1920, remains popular today.",
+            "choices": [
+                "that",
+                "which",
+                "who",
+                "whom"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'which' ใน Non-defining relative clause (มี comma คั่น)",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_011",
+            "stem": "'Ostentatious' means:",
+            "choices": [
+                "modest",
+                "showy",
+                "practical",
+                "simple"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Ostentatious' หมายถึง โอ้อวด อวดร่ำอวดรวย",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_012",
+            "stem": "Not only _____ fluent in English, but she also speaks French.",
+            "choices": [
+                "she is",
+                "is she",
+                "she was",
+                "was she"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion หลัง Not only ที่ขึ้นต้นประโยค",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_013",
+            "stem": "The synonym of 'magnanimous' is:",
+            "choices": [
+                "petty",
+                "generous",
+                "angry",
+                "small"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Magnanimous' แปลว่า ใจกว้าง ใจนักเลง เหมือน 'generous'",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_014",
+            "stem": "It was not until midnight _____ finish the assignment.",
+            "choices": [
+                "that I could",
+                "I could",
+                "could I",
+                "that could I"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ It was not until...that + ประโยคปกติ (ไม่ต้อง Inversion)",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_015",
+            "stem": "'Recalcitrant' is closest in meaning to:",
+            "choices": [
+                "obedient",
+                "stubborn",
+                "cooperative",
+                "flexible"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Recalcitrant' หมายถึง ดื้อรั้น ไม่ยอมเชื่อฟัง",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_016",
+            "stem": "The data _____ that the economy is recovering.",
+            "choices": [
+                "suggest",
+                "suggests",
+                "suggesting",
+                "suggested"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'suggests' เพราะ data (ในภาษาอังกฤษปัจจุบัน) มักใช้เป็นเอกพจน์",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_017",
+            "stem": "'Obsequious' means:",
+            "choices": [
+                "defiant",
+                "excessively compliant",
+                "independent",
+                "proud"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Obsequious' หมายถึง ยอมตามมากเกินไป ประจบจนเกินงาม",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_018",
+            "stem": "Rarely _____ such an impressive performance.",
+            "choices": [
+                "we have seen",
+                "have we seen",
+                "we see",
+                "we saw"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion หลัง Rarely: Rarely + have + S + V3",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_019",
+            "stem": "The antonym of 'munificent' is:",
+            "choices": [
+                "generous",
+                "lavish",
+                "stingy",
+                "wealthy"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Munificent' แปลว่า ใจกว้าง ตรงข้ามกับ 'stingy' ที่แปลว่า ขี้เหนียว",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_020",
+            "stem": "The professor, as well as his students, _____ participating in the research.",
+            "choices": [
+                "is",
+                "are",
+                "were",
+                "have been"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ 'is' เพราะประธานหลักคือ The professor (เอกพจน์)",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_021",
+            "stem": "'Sanguine' means:",
+            "choices": [
+                "pessimistic",
+                "optimistic",
+                "angry",
+                "sad"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Sanguine' หมายถึง มองโลกในแง่ดี มั่นใจ",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_022",
+            "stem": "Were she to accept the offer, she _____ to relocate.",
+            "choices": [
+                "would have",
+                "would have had",
+                "will have",
+                "had"
+            ],
+            "correctIndex": 0,
+            "explanation": "ประโยค If-clause Type 2 แบบ Inversion: Were + S + to V, S + would + V",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_023",
+            "stem": "'Laconic' is the opposite of:",
+            "choices": [
+                "brief",
+                "concise",
+                "verbose",
+                "terse"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Laconic' แปลว่า พูดน้อย กระชับ ตรงข้ามกับ 'verbose' พูดมาก",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_024",
+            "stem": "No sooner _____ typing than the computer crashed.",
+            "choices": [
+                "I had finished",
+                "had I finished",
+                "I finished",
+                "did I finish"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion: No sooner + had + S + V3 + than",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_025",
+            "stem": "'Perspicacious' means:",
+            "choices": [
+                "slow-witted",
+                "having keen insight",
+                "careless",
+                "forgetful"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Perspicacious' หมายถึง มีไหวพริบ เฉลียวฉลาด",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_026",
+            "stem": "The jury _____ deliberating for hours before reaching a verdict.",
+            "choices": [
+                "was",
+                "were",
+                "has been",
+                "have been"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'were' เมื่อ jury หมายถึงสมาชิกแต่ละคน (กำลังถกเถียงกัน)",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_027",
+            "stem": "The synonym of 'ebullient' is:",
+            "choices": [
+                "depressed",
+                "enthusiastic",
+                "calm",
+                "bored"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Ebullient' แปลว่า กระตือรือร้น เต็มไปด้วยพลัง",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_028",
+            "stem": "At no time _____ the rules of the competition.",
+            "choices": [
+                "he violated",
+                "did he violate",
+                "he did violate",
+                "violated he"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion หลัง At no time: did + S + V1",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_029",
+            "stem": "'Quixotic' is closest in meaning to:",
+            "choices": [
+                "practical",
+                "idealistic but impractical",
+                "realistic",
+                "pessimistic"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Quixotic' หมายถึง มีอุดมคติสูงแต่ไม่เป็นจริง เพ้อฝัน",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_030",
+            "stem": "Scarcely _____ the building when the earthquake struck.",
+            "choices": [
+                "we had left",
+                "had we left",
+                "we left",
+                "did we leave"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion: Scarcely + had + S + V3 + when",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_031",
+            "stem": "'Supercilious' means:",
+            "choices": [
+                "humble",
+                "arrogant",
+                "friendly",
+                "shy"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Supercilious' หมายถึง ยโส หยิ่งยะโส",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_032",
+            "stem": "The news _____ spreading rapidly on social media.",
+            "choices": [
+                "is",
+                "are",
+                "were",
+                "have been"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ 'is' เพราะ news เป็นคำนามเอกพจน์เสมอ",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_033",
+            "stem": "The antonym of 'taciturn' is:",
+            "choices": [
+                "silent",
+                "quiet",
+                "talkative",
+                "reserved"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Taciturn' แปลว่า เงียบขรึม ไม่ค่อยพูด ตรงข้ามกับ 'talkative'",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_034",
+            "stem": "Only after reading the report _____ the seriousness of the problem.",
+            "choices": [
+                "I understood",
+                "did I understand",
+                "I had understood",
+                "understood I"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion หลัง Only after: did + S + V1",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_035",
+            "stem": "'Truculent' is closest in meaning to:",
+            "choices": [
+                "peaceful",
+                "aggressive",
+                "gentle",
+                "polite"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Truculent' หมายถึง ก้าวร้าว ดุร้าย",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_036",
+            "stem": "So fascinating _____ that I couldn't put it down.",
+            "choices": [
+                "the book was",
+                "was the book",
+                "the book is",
+                "is the book"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion หลัง So + adjective: So + adj + V + S",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_037",
+            "stem": "'Vapid' means:",
+            "choices": [
+                "exciting",
+                "dull and uninteresting",
+                "energetic",
+                "colorful"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Vapid' หมายถึง น่าเบื่อ จืดชืด ไม่น่าสนใจ",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_038",
+            "stem": "Each of the students _____ required to submit the assignment.",
+            "choices": [
+                "is",
+                "are",
+                "were",
+                "have been"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ 'is' เพราะ Each เป็นประธานเอกพจน์เสมอ",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_039",
+            "stem": "The synonym of 'zealous' is:",
+            "choices": [
+                "apathetic",
+                "enthusiastic",
+                "lazy",
+                "indifferent"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Zealous' แปลว่า กระตือรือร้น มุ่งมั่น",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_040",
+            "stem": "In no way _____ responsible for the accident.",
+            "choices": [
+                "she was",
+                "was she",
+                "she is",
+                "is she"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion หลัง In no way: was + S",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_041",
+            "stem": "'Winsome' means:",
+            "choices": [
+                "ugly",
+                "charming",
+                "boring",
+                "harsh"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Winsome' หมายถึง น่ารัก มีเสน่ห์",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_042",
+            "stem": "The police _____ investigating the case thoroughly.",
+            "choices": [
+                "is",
+                "are",
+                "was",
+                "has been"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'are' เพราะ police เป็นคำนามพหูพจน์เสมอ",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_043",
+            "stem": "The antonym of 'venerate' is:",
+            "choices": [
+                "respect",
+                "admire",
+                "despise",
+                "worship"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Venerate' แปลว่า เคารพนับถือ ตรงข้ามกับ 'despise' ดูถูก",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_044",
+            "stem": "Such was her determination _____ she overcame all obstacles.",
+            "choices": [
+                "which",
+                "that",
+                "who",
+                "what"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Such...that ในโครงสร้าง Inversion",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_045",
+            "stem": "'Voracious' is closest in meaning to:",
+            "choices": [
+                "satisfied",
+                "extremely hungry",
+                "peaceful",
+                "quiet"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Voracious' หมายถึง หิวกระหาย ตะกละ (สำหรับอาหารหรือความรู้)",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_046",
+            "stem": "The mathematics _____ difficult for most students.",
+            "choices": [
+                "is",
+                "are",
+                "were",
+                "have been"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ 'is' เพราะ mathematics เป็นคำนามเอกพจน์ (ชื่อวิชา)",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_047",
+            "stem": "'Pugnacious' means:",
+            "choices": [
+                "peaceful",
+                "aggressive and combative",
+                "shy",
+                "friendly"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Pugnacious' หมายถึง ชอบทะเลาะ ก้าวร้าว",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_048",
+            "stem": "Never before _____ such a beautiful sunset.",
+            "choices": [
+                "I have seen",
+                "have I seen",
+                "I saw",
+                "did I saw"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion หลัง Never before: have + S + V3",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_049",
+            "stem": "The synonym of 'mellifluous' is:",
+            "choices": [
+                "harsh",
+                "sweet-sounding",
+                "loud",
+                "rough"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Mellifluous' แปลว่า ไพเราะ นุ่มนวล (เสียง)",
+            "skillType": "vocab",
+            "packId": "alevel_mock_1"
+        },
+        {
+            "id": "alevel_050",
+            "stem": "Only by working together _____ achieve our goals.",
+            "choices": [
+                "we can",
+                "can we",
+                "we could",
+                "could we"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion หลัง Only by: can + S + V",
+            "skillType": "grammar",
+            "packId": "alevel_mock_1"
+        }
+    ]
+}

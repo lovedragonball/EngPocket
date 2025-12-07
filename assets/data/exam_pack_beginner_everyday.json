@@ -1,0 +1,367 @@
+{
+    "packs": [
+        {
+            "id": "beginner_everyday",
+            "name": "Everyday English Test",
+            "description": "แบบทดสอบภาษาอังกฤษในชีวิตประจำวัน - Greetings, Self-Introduction, Common Phrases",
+            "examType": "Beginner",
+            "numQuestions": 25,
+            "timeLimit": 30,
+            "difficulty": "easy",
+            "version": 1,
+            "remoteUrl": null
+        }
+    ],
+    "questions": [
+        {
+            "id": "everyday_001",
+            "stem": "When you meet someone in the morning, you say: _____",
+            "choices": [
+                "Good night",
+                "Good morning",
+                "Good evening",
+                "Goodbye"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'Good morning' ทักทายตอนเช้า",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_002",
+            "stem": "When you meet someone for the first time, you say: _____",
+            "choices": [
+                "See you later",
+                "Nice to meet you",
+                "Long time no see",
+                "Take care"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'Nice to meet you' เมื่อพบใครเป็นครั้งแรก",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_003",
+            "stem": "'How are you?' - _____",
+            "choices": [
+                "I am John",
+                "I am 20 years old",
+                "I am fine, thank you",
+                "I am from Thailand"
+            ],
+            "correctIndex": 2,
+            "explanation": "ตอบ 'I am fine, thank you' เมื่อถูกถามว่าสบายดีไหม",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_004",
+            "stem": "Before going to bed, you say: _____",
+            "choices": [
+                "Good morning",
+                "Good afternoon",
+                "Good evening",
+                "Good night"
+            ],
+            "correctIndex": 3,
+            "explanation": "ใช้ 'Good night' ก่อนเข้านอน",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_005",
+            "stem": "When you leave, you say: _____",
+            "choices": [
+                "Hello",
+                "Hi",
+                "Goodbye",
+                "Welcome"
+            ],
+            "correctIndex": 2,
+            "explanation": "ใช้ 'Goodbye' เมื่อจากลา",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_006",
+            "stem": "'What is your name?' - _____",
+            "choices": [
+                "I am fine",
+                "My name is Tom",
+                "I am 25",
+                "I am Thai"
+            ],
+            "correctIndex": 1,
+            "explanation": "ตอบชื่อของตัวเองเมื่อถูกถามชื่อ",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_007",
+            "stem": "'Where are you from?' - _____",
+            "choices": [
+                "I am a student",
+                "I am from Thailand",
+                "I am 20 years old",
+                "I am fine"
+            ],
+            "correctIndex": 1,
+            "explanation": "ตอบ 'I am from + ประเทศ' เมื่อถูกถามว่ามาจากไหน",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_008",
+            "stem": "'How old are you?' - _____",
+            "choices": [
+                "I am a student",
+                "I am from Thailand",
+                "I am 18 years old",
+                "I am fine"
+            ],
+            "correctIndex": 2,
+            "explanation": "ตอบอายุเมื่อถูกถามว่าอายุเท่าไหร่",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_009",
+            "stem": "'What do you do?' - I am a _____.",
+            "choices": [
+                "Thailand",
+                "20 years old",
+                "student",
+                "fine"
+            ],
+            "correctIndex": 2,
+            "explanation": "ตอบอาชีพ/สถานะ เมื่อถูกถามว่าทำอาชีพอะไร",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_010",
+            "stem": "'Nice to meet you.' - _____",
+            "choices": [
+                "Nice to meet you too",
+                "I am fine",
+                "Thank you",
+                "You're welcome"
+            ],
+            "correctIndex": 0,
+            "explanation": "ตอบ 'Nice to meet you too' เมื่อคนอื่นพูดว่ายินดีที่ได้พบ",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_011",
+            "stem": "When someone helps you, you say: _____",
+            "choices": [
+                "Sorry",
+                "Thank you",
+                "Excuse me",
+                "Please"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'Thank you' เพื่อขอบคุณ",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_012",
+            "stem": "'Thank you.' - _____",
+            "choices": [
+                "Sorry",
+                "Thank you too",
+                "You're welcome",
+                "Please"
+            ],
+            "correctIndex": 2,
+            "explanation": "ตอบ 'You're welcome' เมื่อคนอื่นขอบคุณ",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_013",
+            "stem": "When you make a mistake, you say: _____",
+            "choices": [
+                "Thank you",
+                "Please",
+                "Sorry",
+                "Hello"
+            ],
+            "correctIndex": 2,
+            "explanation": "ใช้ 'Sorry' เพื่อขอโทษ",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_014",
+            "stem": "When you want to get someone's attention, you say: _____",
+            "choices": [
+                "Goodbye",
+                "Thank you",
+                "Excuse me",
+                "Welcome"
+            ],
+            "correctIndex": 2,
+            "explanation": "ใช้ 'Excuse me' เพื่อเรียกความสนใจ หรือขอทาง",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_015",
+            "stem": "When you ask for something politely, you add: _____",
+            "choices": [
+                "sorry",
+                "please",
+                "hello",
+                "bye"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'please' เพื่อความสุภาพเมื่อขอสิ่งของ",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_016",
+            "stem": "Turn _____ at the corner. (←)",
+            "choices": [
+                "right",
+                "left",
+                "straight",
+                "back"
+            ],
+            "correctIndex": 1,
+            "explanation": "Turn left = เลี้ยวซ้าย",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_017",
+            "stem": "Go _____ for 100 meters. (↑)",
+            "choices": [
+                "left",
+                "right",
+                "straight",
+                "back"
+            ],
+            "correctIndex": 2,
+            "explanation": "Go straight = ตรงไป",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_018",
+            "stem": "The bank is _____ the supermarket. (ตรงข้าม)",
+            "choices": [
+                "next to",
+                "behind",
+                "opposite",
+                "near"
+            ],
+            "correctIndex": 2,
+            "explanation": "Opposite = ตรงข้าม",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_019",
+            "stem": "The post office is _____ the bank. (ข้างๆ)",
+            "choices": [
+                "opposite",
+                "far from",
+                "next to",
+                "behind"
+            ],
+            "correctIndex": 2,
+            "explanation": "Next to = ข้างๆ, ติดกับ",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_020",
+            "stem": "The school is _____ the hospital. (ด้านหลัง)",
+            "choices": [
+                "in front of",
+                "behind",
+                "next to",
+                "opposite"
+            ],
+            "correctIndex": 1,
+            "explanation": "Behind = ด้านหลัง",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_021",
+            "stem": "At a shop: '_____ is this shirt?'",
+            "choices": [
+                "How many",
+                "How much",
+                "How long",
+                "How old"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'How much' ถามราคา",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_022",
+            "stem": "At a shop: 'I _____ to buy this bag.'",
+            "choices": [
+                "want",
+                "am",
+                "have",
+                "go"
+            ],
+            "correctIndex": 0,
+            "explanation": "I want to buy = ฉันต้องการซื้อ",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_023",
+            "stem": "At a shop: '_____ you have a smaller size?'",
+            "choices": [
+                "Are",
+                "Is",
+                "Do",
+                "Does"
+            ],
+            "correctIndex": 2,
+            "explanation": "ใช้ 'Do you have...?' เพื่อถามว่ามีหรือไม่",
+            "skillType": "grammar",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_024",
+            "stem": "At a restaurant: 'Can I have the _____, please?'",
+            "choices": [
+                "menu",
+                "money",
+                "ticket",
+                "key"
+            ],
+            "correctIndex": 0,
+            "explanation": "ขอ menu (เมนู) เพื่อดูรายการอาหาร",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        },
+        {
+            "id": "everyday_025",
+            "stem": "At a restaurant: 'The _____, please.' (เรียกเก็บเงิน)",
+            "choices": [
+                "menu",
+                "water",
+                "bill",
+                "food"
+            ],
+            "correctIndex": 2,
+            "explanation": "ใช้ 'The bill, please' เพื่อขอบิล/เช็คบิล",
+            "skillType": "vocab",
+            "packId": "beginner_everyday"
+        }
+    ]
+}

@@ -50,17 +50,17 @@ class QuestionCard extends StatelessWidget {
         ...List.generate(choices.length, (index) {
           return Padding(
             padding: const EdgeInsets.only(bottom: 12),
-            child: _buildChoiceItem(index),
+            child: _buildChoiceItem(context, index),
           );
         }),
       ],
     );
   }
 
-  Widget _buildChoiceItem(int index) {
+  Widget _buildChoiceItem(BuildContext context, int index) {
     final isSelected = selectedIndex == index;
     final isCorrect = correctIndex == index;
-    
+
     Color bgColor;
     Color borderColor;
     Color textColor;
@@ -78,8 +78,8 @@ class QuestionCard extends StatelessWidget {
         textColor = AppTheme.errorColor;
         trailingIcon = Icons.cancel_rounded;
       } else {
-        bgColor = Colors.white;
-        borderColor = Colors.grey.shade300;
+        bgColor = Theme.of(context).cardColor;
+        borderColor = Theme.of(context).dividerColor;
         textColor = AppTheme.textSecondaryColor;
       }
     } else {
@@ -88,9 +88,10 @@ class QuestionCard extends StatelessWidget {
         borderColor = AppTheme.primaryColor;
         textColor = AppTheme.primaryColor;
       } else {
-        bgColor = Colors.white;
-        borderColor = Colors.grey.shade300;
-        textColor = AppTheme.textPrimaryColor;
+        bgColor = Theme.of(context).cardColor;
+        borderColor = Theme.of(context).dividerColor;
+        textColor = Theme.of(context).textTheme.bodyLarge?.color ??
+            AppTheme.textPrimaryColor;
       }
     }
 
@@ -111,14 +112,17 @@ class QuestionCard extends StatelessWidget {
               height: 32,
               decoration: BoxDecoration(
                 shape: BoxShape.circle,
-                color: isSelected ? borderColor : Colors.grey.shade200,
+                color: isSelected
+                    ? borderColor
+                    : Theme.of(context).dividerColor.withValues(alpha: 0.5),
               ),
               child: Center(
                 child: Text(
                   String.fromCharCode(65 + index), // A, B, C, D
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
-                    color: isSelected ? Colors.white : AppTheme.textSecondaryColor,
+                    color:
+                        isSelected ? Colors.white : AppTheme.textSecondaryColor,
                   ),
                 ),
               ),
@@ -134,8 +138,7 @@ class QuestionCard extends StatelessWidget {
                 ),
               ),
             ),
-            if (trailingIcon != null)
-              Icon(trailingIcon, color: borderColor),
+            if (trailingIcon != null) Icon(trailingIcon, color: borderColor),
           ],
         ),
       ),

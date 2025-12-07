@@ -1,10 +1,13 @@
-/// Flashcard Screen - หน้าท่องศัพท์แบบ flashcard
+/// Flashcard Screen - หน้าท่องศัพท์แบบ flashcard พร้อม SRS
 library;
 
+import 'dart:convert';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart' show rootBundle;
+import 'package:shared_preferences/shared_preferences.dart';
 import '../../../../config/app_theme.dart';
-import '../../../../core/models/vocab_item.dart';
-import '../widgets/vocab_card.dart';
+import '../../../../core/services/srs_service.dart';
+import '../../../../core/services/study_time_service.dart';
 
 class FlashcardScreen extends StatefulWidget {
   const FlashcardScreen({super.key});
@@ -14,148 +17,196 @@ class FlashcardScreen extends StatefulWidget {
 }
 
 class _FlashcardScreenState extends State<FlashcardScreen> {
+  final SrsService _srsService = SrsService();
+  final StudyTimeService _studyTimeService = StudyTimeService();
+  List<Map<String, dynamic>> _sessionVocab = [];
   int _currentIndex = 0;
+  bool _isLoading = true;
+  bool _isFlipped = false;
+  int _sessionCorrect = 0;
+  int _sessionTotal = 0;
 
-  // Sample data - จะถูกแทนที่ด้วยข้อมูลจริงจาก Provider
-  final List<VocabItem> _sampleVocab = [
-    const VocabItem(
-      id: '1',
-      word: 'achieve',
-      translation: 'บรรลุ, ประสบความสำเร็จ',
-      partOfSpeech: 'verb',
-      exampleEn: 'She worked hard to achieve her goals.',
-      exampleTh: 'เธอทำงานหนักเพื่อบรรลุเป้าหมาย',
-      level: 'intermediate',
-      packId: 'TGAT_V1',
-      tags: ['TGAT', 'success'],
-    ),
-    const VocabItem(
-      id: '2',
-      word: 'benefit',
-      translation: 'ประโยชน์, ผลดี',
-      partOfSpeech: 'noun',
-      exampleEn: 'Exercise has many health benefits.',
-      exampleTh: 'การออกกำลังกายมีประโยชน์ต่อสุขภาพมากมาย',
-      level: 'basic',
-      packId: 'TGAT_V1',
-      tags: ['TGAT', 'health'],
-    ),
-    const VocabItem(
-      id: '3',
-      word: 'challenge',
-      translation: 'ความท้าทาย',
-      partOfSpeech: 'noun',
-      exampleEn: 'Learning a new language is a challenge.',
-      exampleTh: 'การเรียนภาษาใหม่เป็นความท้าทาย',
-      level: 'basic',
-      packId: 'TGAT_V1',
-      tags: ['TGAT', 'education'],
-    ),
-  ];
+  @override
+  void initState() {
+    super.initState();
+    _loadData();
+    _studyTimeService.startSession('vocab');
+  }
 
-  VocabItem get _currentVocab => _sampleVocab[_currentIndex];
-  bool get _hasNext => _currentIndex < _sampleVocab.length - 1;
-  bool get _hasPrevious => _currentIndex > 0;
+  @override
+  void dispose() {
+    _studyTimeService.endSession();
+    super.dispose();
+  }
 
-  void _nextCard() {
+  Future<void> _loadData() async {
+    await _srsService.init();
+    final prefs = await SharedPreferences.getInstance();
+    final dailyGoal = prefs.getInt('dailyGoal') ?? 10;
+
+    try {
+      final dueIds = _srsService.getActualDueCardIds();
+      final newWordsNeeded = dailyGoal;
+      const reviewLimit = 20;
+
+      List<Map<String, dynamic>> newVocab = [];
+      List<Map<String, dynamic>> reviewVocab = [];
+
+      // Dynamic generation: vocab_stock_500.json + vocab_part2.json to vocab_part101.json
+      final vocabFiles = <String>[
+        'assets/data/vocab_stock_500.json',
+        for (int i = 2; i <= 101; i++) 'assets/data/vocab_part$i.json',
+      ];
+
+      int loadedNewCount = 0;
+      Set<String> foundDueIds = {};
+
+      for (final file in vocabFiles) {
+        // Stop if we have enough new words AND (found all due words OR reached review limit OR no due words)
+        if (loadedNewCount >= newWordsNeeded &&
+            (dueIds.isEmpty ||
+                foundDueIds.length >= dueIds.length ||
+                reviewVocab.length >= reviewLimit)) {
+          break;
+        }
+
+        try {
+          final jsonString = await rootBundle.loadString(file);
+          final List<dynamic> data = json.decode(jsonString);
+
+          for (final item in data) {
+            final vocab = item as Map<String, dynamic>;
+            final id = vocab['id'] as String;
+
+            if (dueIds.contains(id)) {
+              if (reviewVocab.length < reviewLimit &&
+                  !foundDueIds.contains(id)) {
+                reviewVocab.add(vocab);
+                foundDueIds.add(id);
+              }
+            } else if (!_srsService.isLearned(id)) {
+              if (loadedNewCount < newWordsNeeded) {
+                newVocab.add(vocab);
+                loadedNewCount++;
+              }
+            }
+          }
+        } catch (e) {
+          debugPrint('Could not load $file: $e');
+        }
+      }
+
+      _sessionVocab = [...newVocab, ...reviewVocab];
+      debugPrint('Loaded ${_sessionVocab.length} vocabulary words for session');
+    } catch (e) {
+      debugPrint('Error loading vocab: $e');
+    }
+
+    if (mounted) setState(() => _isLoading = false);
+  }
+
+  Map<String, dynamic> get _currentVocab => _sessionVocab[_currentIndex];
+  bool get _hasNext => _currentIndex < _sessionVocab.length - 1;
+
+  void _flipCard() => setState(() => _isFlipped = !_isFlipped);
+
+  void _rateCard(int quality) async {
+    final vocabId = _currentVocab['id'] as String;
+    await _srsService.recordReview(vocabId, quality);
+
+    _sessionTotal++;
+    if (quality >= 2) _sessionCorrect++;
+
+    setState(() => _isFlipped = false);
+
     if (_hasNext) {
-      setState(() => _currentIndex++);
+      Future.delayed(const Duration(milliseconds: 200), () {
+        if (mounted) setState(() => _currentIndex++);
+      });
+    } else {
+      _showCompleteDialog();
     }
   }
 
-  void _previousCard() {
-    if (_hasPrevious) {
-      setState(() => _currentIndex--);
-    }
-  }
-
-  void _onKnow() {
-    // Mark word as known - show success feedback
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(
-        content: Text('"${_currentVocab.word}" - จำได้แล้ว! ✓'),
-        duration: const Duration(milliseconds: 800),
-        backgroundColor: AppTheme.successColor,
-      ),
-    );
-    _nextCard();
-  }
-
-  void _onDontKnow() {
-    // Mark word for review - show feedback
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(
-        content: Text('"${_currentVocab.word}" - จะทบทวนอีกครั้ง'),
-        duration: const Duration(milliseconds: 800),
-        backgroundColor: AppTheme.warningColor,
-      ),
-    );
-    _nextCard();
-  }
-
-  void _showSettings() {
-    showModalBottomSheet(
+  void _showCompleteDialog() {
+    final percent =
+        _sessionTotal > 0 ? (_sessionCorrect / _sessionTotal * 100).round() : 0;
+    showDialog(
       context: context,
-      shape: const RoundedRectangleBorder(
-        borderRadius: BorderRadius.vertical(top: Radius.circular(20)),
-      ),
-      builder: (context) {
-        return Container(
-          padding: const EdgeInsets.all(20),
-          child: Column(
-            mainAxisSize: MainAxisSize.min,
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              const Text(
-                'ตั้งค่า Flashcard',
-                style: TextStyle(
-                  fontSize: 18,
-                  fontWeight: FontWeight.bold,
-                ),
-              ),
-              const SizedBox(height: 16),
-              ListTile(
-                leading: const Icon(Icons.shuffle_rounded),
-                title: const Text('สุ่มลำดับคำศัพท์'),
-                trailing: Switch(
-                  value: false,
-                  onChanged: (value) {},
-                ),
-              ),
-              ListTile(
-                leading: const Icon(Icons.replay_rounded),
-                title: const Text('รีเซ็ตความก้าวหน้า'),
-                onTap: () {
-                  Navigator.pop(context);
-                  setState(() => _currentIndex = 0);
-                },
-              ),
-              ListTile(
-                leading: const Icon(Icons.numbers_rounded),
-                title: const Text('จำนวนคำต่อรอบ'),
-                subtitle: const Text('10 คำ'),
-                onTap: () {},
-              ),
-              const SizedBox(height: 10),
-            ],
+      barrierDismissible: false,
+      builder: (dialogContext) => AlertDialog(
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+        title: const Row(
+          children: [
+            Icon(Icons.celebration, color: AppTheme.successColor),
+            SizedBox(width: 8),
+            Text('เสร็จสิ้น!'),
+          ],
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Text('ท่องได้ $_sessionCorrect / $_sessionTotal คำ',
+                style: const TextStyle(fontSize: 18)),
+            const SizedBox(height: 8),
+            Text('$percent%',
+                style: const TextStyle(
+                    fontSize: 32,
+                    fontWeight: FontWeight.bold,
+                    color: AppTheme.successColor)),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () {
+              Navigator.pop(dialogContext);
+              Navigator.pop(context);
+            },
+            child: const Text('กลับหน้าหลัก'),
           ),
-        );
-      },
+          FilledButton(
+            onPressed: () {
+              Navigator.pop(dialogContext);
+              setState(() {
+                _currentIndex = 0;
+                _sessionCorrect = 0;
+                _sessionTotal = 0;
+              });
+            },
+            child: const Text('ท่องใหม่'),
+          ),
+        ],
+      ),
     );
   }
 
   @override
   Widget build(BuildContext context) {
+    if (_isLoading) {
+      return Scaffold(
+        appBar: AppBar(title: const Text('Flashcard')),
+        body: const Center(child: CircularProgressIndicator()),
+      );
+    }
+
+    if (_sessionVocab.isEmpty) {
+      return Scaffold(
+        appBar: AppBar(title: const Text('Flashcard')),
+        body: const Center(child: Text('ไม่มีคำศัพท์')),
+      );
+    }
+
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Flashcard'),
+        title: Text('${_currentIndex + 1}/${_sessionVocab.length}'),
         actions: [
-          TextButton.icon(
-            onPressed: () {
-              _showSettings();
-            },
-            icon: const Icon(Icons.settings_rounded),
-            label: const Text('ตั้งค่า'),
+          Padding(
+            padding: const EdgeInsets.only(right: 16),
+            child: Center(
+                child: Text('✓ $_sessionCorrect',
+                    style: const TextStyle(
+                        color: AppTheme.successColor,
+                        fontWeight: FontWeight.bold))),
           ),
         ],
       ),
@@ -164,22 +215,27 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
           padding: const EdgeInsets.all(16),
           child: Column(
             children: [
-              // Progress indicator
-              _buildProgressIndicator(),
-              const SizedBox(height: 24),
-
-              // Vocab Card
-              Expanded(
-                child: VocabCard(
-                  vocab: _currentVocab,
-                  onKnow: _onKnow,
-                  onDontKnow: _onDontKnow,
-                ),
+              LinearProgressIndicator(
+                value: (_currentIndex + 1) / _sessionVocab.length,
+                backgroundColor: AppTheme.vocabColor.withValues(alpha: 0.2),
+                valueColor: const AlwaysStoppedAnimation(AppTheme.vocabColor),
               ),
               const SizedBox(height: 24),
-
-              // Navigation buttons
-              _buildNavigationButtons(),
+              Expanded(
+                child: GestureDetector(
+                  onTap: _flipCard,
+                  child: AnimatedSwitcher(
+                    duration: const Duration(milliseconds: 300),
+                    child: _buildCard(),
+                  ),
+                ),
+              ),
+              const SizedBox(height: 16),
+              if (_isFlipped) _buildRatingButtons(),
+              if (!_isFlipped)
+                const Text('แตะเพื่อดูความหมาย',
+                    style: TextStyle(color: AppTheme.textSecondaryColor)),
+              const SizedBox(height: 16),
             ],
           ),
         ),
@@ -187,90 +243,102 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
     );
   }
 
-  Widget _buildProgressIndicator() {
-    return Column(
-      children: [
-        Row(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+  Widget _buildCard() {
+    final vocab = _currentVocab;
+    final imageUrl = vocab['imageUrl'] as String?;
+    final hasImage = imageUrl != null && imageUrl.isNotEmpty;
+
+    return Card(
+      key: ValueKey('$_currentIndex-$_isFlipped'),
+      elevation: 4,
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+      child: Container(
+        width: double.infinity,
+        padding: const EdgeInsets.all(24),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text(
-              'คำที่ ${_currentIndex + 1} จาก ${_sampleVocab.length}',
-              style: const TextStyle(
-                fontSize: 14,
-                color: AppTheme.textSecondaryColor,
+            // Show image if available
+            if (hasImage) ...[
+              ClipRRect(
+                borderRadius: BorderRadius.circular(12),
+                child: Image.network(
+                  imageUrl,
+                  height: 120,
+                  width: 180,
+                  fit: BoxFit.cover,
+                  errorBuilder: (_, __, ___) => const SizedBox(),
+                  loadingBuilder: (_, child, loadingProgress) {
+                    if (loadingProgress == null) return child;
+                    return const SizedBox(
+                      height: 120,
+                      width: 180,
+                      child: Center(
+                        child: CircularProgressIndicator(strokeWidth: 2),
+                      ),
+                    );
+                  },
+                ),
               ),
-            ),
-            Text(
-              '${((_currentIndex + 1) / _sampleVocab.length * 100).toInt()}%',
-              style: const TextStyle(
-                fontSize: 14,
-                fontWeight: FontWeight.w600,
-                color: AppTheme.vocabColor,
+              const SizedBox(height: 16),
+            ],
+            if (!_isFlipped) ...[
+              Text(vocab['word'] ?? '',
+                  style: const TextStyle(
+                      fontSize: 36, fontWeight: FontWeight.bold)),
+              const SizedBox(height: 8),
+              Text(vocab['pos'] ?? '',
+                  style: const TextStyle(color: AppTheme.textSecondaryColor)),
+            ] else ...[
+              Text(vocab['word'] ?? '',
+                  style: const TextStyle(
+                      fontSize: 24, fontWeight: FontWeight.bold)),
+              const SizedBox(height: 12),
+              Text(vocab['translation'] ?? '',
+                  style: const TextStyle(
+                      fontSize: 28, color: AppTheme.primaryColor)),
+              const SizedBox(height: 16),
+              Container(
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                    color: Theme.of(context).cardColor,
+                    borderRadius: BorderRadius.circular(12)),
+                child: Text(vocab['example'] ?? '',
+                    style: const TextStyle(
+                        fontSize: 14, fontStyle: FontStyle.italic),
+                    textAlign: TextAlign.center),
               ),
-            ),
+            ],
           ],
         ),
-        const SizedBox(height: 8),
-        LinearProgressIndicator(
-          value: (_currentIndex + 1) / _sampleVocab.length,
-          backgroundColor: AppTheme.vocabColor.withValues(alpha: 0.2),
-          valueColor: const AlwaysStoppedAnimation(AppTheme.vocabColor),
-          borderRadius: BorderRadius.circular(4),
-        ),
+      ),
+    );
+  }
+
+  Widget _buildRatingButtons() {
+    return Row(
+      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+      children: [
+        _ratingButton(1, 'ยาก', Colors.orange, Icons.sentiment_dissatisfied),
+        _ratingButton(3, 'ง่าย', Colors.blue, Icons.sentiment_very_satisfied),
       ],
     );
   }
 
-  Widget _buildNavigationButtons() {
-    return Row(
-      mainAxisAlignment: MainAxisAlignment.center,
+  Widget _ratingButton(int quality, String label, Color color, IconData icon) {
+    return Column(
       children: [
         IconButton.filled(
-          onPressed: _hasPrevious ? _previousCard : null,
-          icon: const Icon(Icons.chevron_left_rounded),
+          onPressed: () => _rateCard(quality),
+          icon: Icon(icon),
           style: IconButton.styleFrom(
-            backgroundColor: _hasPrevious
-                ? AppTheme.primaryColor.withValues(alpha: 0.1)
-                : Colors.grey.withValues(alpha: 0.1),
-            foregroundColor: _hasPrevious ? AppTheme.primaryColor : Colors.grey,
-          ),
+              backgroundColor: color.withValues(alpha: 0.1),
+              foregroundColor: color),
         ),
-        const SizedBox(width: 24),
-        Container(
-          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-          decoration: BoxDecoration(
-            color: AppTheme.vocabColor.withValues(alpha: 0.1),
-            borderRadius: BorderRadius.circular(20),
-          ),
-          child: Row(
-            children: [
-              ...List.generate(_sampleVocab.length, (index) {
-                return Container(
-                  margin: const EdgeInsets.symmetric(horizontal: 3),
-                  width: 8,
-                  height: 8,
-                  decoration: BoxDecoration(
-                    shape: BoxShape.circle,
-                    color: index == _currentIndex
-                        ? AppTheme.vocabColor
-                        : AppTheme.vocabColor.withValues(alpha: 0.3),
-                  ),
-                );
-              }),
-            ],
-          ),
-        ),
-        const SizedBox(width: 24),
-        IconButton.filled(
-          onPressed: _hasNext ? _nextCard : null,
-          icon: const Icon(Icons.chevron_right_rounded),
-          style: IconButton.styleFrom(
-            backgroundColor: _hasNext
-                ? AppTheme.primaryColor.withValues(alpha: 0.1)
-                : Colors.grey.withValues(alpha: 0.1),
-            foregroundColor: _hasNext ? AppTheme.primaryColor : Colors.grey,
-          ),
-        ),
+        const SizedBox(height: 4),
+        Text(label,
+            style: TextStyle(
+                fontSize: 12, color: color, fontWeight: FontWeight.w500)),
       ],
     );
   }

@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v4701",
+        "word": "fifth",
+        "translation": "ที่ห้า",
+        "pos": "ord",
+        "example": "Fifth place.",
+        "level": "basic"
+    },
+    {
+        "id": "v4702",
+        "word": "fifty",
+        "translation": "ห้าสิบ",
+        "pos": "num",
+        "example": "Fifty years.",
+        "level": "basic"
+    },
+    {
+        "id": "v4703",
+        "word": "fight",
+        "translation": "ต่อสู้",
+        "pos": "verb",
+        "example": "Don't fight.",
+        "level": "basic"
+    },
+    {
+        "id": "v4704",
+        "word": "fighter",
+        "translation": "นักสู้",
+        "pos": "noun",
+        "example": "Freedom fighter.",
+        "level": "basic"
+    },
+    {
+        "id": "v4705",
+        "word": "fighting",
+        "translation": "การต่อสู้",
+        "pos": "noun",
+        "example": "Stop fighting.",
+        "level": "basic"
+    },
+    {
+        "id": "v4706",
+        "word": "figure",
+        "translation": "ตัวเลข",
+        "pos": "noun",
+        "example": "Key figure.",
+        "level": "basic"
+    },
+    {
+        "id": "v4707",
+        "word": "file",
+        "translation": "ไฟล์",
+        "pos": "noun",
+        "example": "Save file.",
+        "level": "basic"
+    },
+    {
+        "id": "v4708",
+        "word": "fill",
+        "translation": "เติม",
+        "pos": "verb",
+        "example": "Fill in.",
+        "level": "basic"
+    },
+    {
+        "id": "v4709",
+        "word": "film",
+        "translation": "ฟิล์ม",
+        "pos": "noun",
+        "example": "Good film.",
+        "level": "basic"
+    },
+    {
+        "id": "v4710",
+        "word": "filmmaker",
+        "translation": "ผู้สร้างภาพยนตร์",
+        "pos": "noun",
+        "example": "Famous filmmaker.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4711",
+        "word": "filter",
+        "translation": "ตัวกรอง",
+        "pos": "noun",
+        "example": "Air filter.",
+        "level": "basic"
+    },
+    {
+        "id": "v4712",
+        "word": "final",
+        "translation": "สุดท้าย",
+        "pos": "adj",
+        "example": "Final answer.",
+        "level": "basic"
+    },
+    {
+        "id": "v4713",
+        "word": "finally",
+        "translation": "ในที่สุด",
+        "pos": "adv",
+        "example": "Finally done.",
+        "level": "basic"
+    },
+    {
+        "id": "v4714",
+        "word": "finance",
+        "translation": "การเงิน",
+        "pos": "noun",
+        "example": "Personal finance.",
+        "level": "basic"
+    },
+    {
+        "id": "v4715",
+        "word": "financial",
+        "translation": "ทางการเงิน",
+        "pos": "adj",
+        "example": "Financial crisis.",
+        "level": "basic"
+    },
+    {
+        "id": "v4716",
+        "word": "financially",
+        "translation": "ทางการเงิน",
+        "pos": "adv",
+        "example": "Financially stable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4717",
+        "word": "financing",
+        "translation": "การจัดหาเงินทุน",
+        "pos": "noun",
+        "example": "Business financing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4718",
+        "word": "find",
+        "translation": "หา",
+        "pos": "verb",
+        "example": "Find it.",
+        "level": "basic"
+    },
+    {
+        "id": "v4719",
+        "word": "finding",
+        "translation": "ผลการค้นพบ",
+        "pos": "noun",
+        "example": "Research finding.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4720",
+        "word": "fine",
+        "translation": "ดี",
+        "pos": "adj",
+        "example": "I'm fine.",
+        "level": "basic"
+    },
+    {
+        "id": "v4721",
+        "word": "finger",
+        "translation": "นิ้วมือ",
+        "pos": "noun",
+        "example": "Index finger.",
+        "level": "basic"
+    },
+    {
+        "id": "v4722",
+        "word": "finish",
+        "translation": "เสร็จ",
+        "pos": "verb",
+        "example": "Finish work.",
+        "level": "basic"
+    },
+    {
+        "id": "v4723",
+        "word": "finished",
+        "translation": "เสร็จแล้ว",
+        "pos": "adj",
+        "example": "I'm finished.",
+        "level": "basic"
+    },
+    {
+        "id": "v4724",
+        "word": "finite",
+        "translation": "จำกัด",
+        "pos": "adj",
+        "example": "Finite resources.",
+        "level": "advanced"
+    },
+    {
+        "id": "v4725",
+        "word": "fire",
+        "translation": "ไฟ",
+        "pos": "noun",
+        "example": "On fire.",
+        "level": "basic"
+    },
+    {
+        "id": "v4726",
+        "word": "firefighter",
+        "translation": "นักดับเพลิง",
+        "pos": "noun",
+        "example": "Brave firefighter.",
+        "level": "basic"
+    },
+    {
+        "id": "v4727",
+        "word": "firm",
+        "translation": "บริษัท",
+        "pos": "noun",
+        "example": "Law firm.",
+        "level": "basic"
+    },
+    {
+        "id": "v4728",
+        "word": "firmly",
+        "translation": "อย่างแน่วแน่",
+        "pos": "adv",
+        "example": "Firmly believe.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4729",
+        "word": "first",
+        "translation": "แรก",
+        "pos": "ord",
+        "example": "First time.",
+        "level": "basic"
+    },
+    {
+        "id": "v4730",
+        "word": "firstly",
+        "translation": "อันดับแรก",
+        "pos": "adv",
+        "example": "Firstly.",
+        "level": "basic"
+    },
+    {
+        "id": "v4731",
+        "word": "fiscal",
+        "translation": "ทางการคลัง",
+        "pos": "adj",
+        "example": "Fiscal year.",
+        "level": "advanced"
+    },
+    {
+        "id": "v4732",
+        "word": "fish",
+        "translation": "ปลา",
+        "pos": "noun",
+        "example": "Fresh fish.",
+        "level": "basic"
+    },
+    {
+        "id": "v4733",
+        "word": "fisher",
+        "translation": "ชาวประมง",
+        "pos": "noun",
+        "example": "Local fisher.",
+        "level": "basic"
+    },
+    {
+        "id": "v4734",
+        "word": "fishing",
+        "translation": "การตกปลา",
+        "pos": "noun",
+        "example": "Go fishing.",
+        "level": "basic"
+    },
+    {
+        "id": "v4735",
+        "word": "fist",
+        "translation": "กำปั้น",
+        "pos": "noun",
+        "example": "Clench fist.",
+        "level": "basic"
+    },
+    {
+        "id": "v4736",
+        "word": "fit",
+        "translation": "เหมาะ",
+        "pos": "verb",
+        "example": "Perfect fit.",
+        "level": "basic"
+    },
+    {
+        "id": "v4737",
+        "word": "fitness",
+        "translation": "สมรรถภาพ",
+        "pos": "noun",
+        "example": "Physical fitness.",
+        "level": "basic"
+    },
+    {
+        "id": "v4738",
+        "word": "fitting",
+        "translation": "เหมาะสม",
+        "pos": "adj",
+        "example": "Fitting tribute.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4739",
+        "word": "five",
+        "translation": "ห้า",
+        "pos": "num",
+        "example": "Five years.",
+        "level": "basic"
+    },
+    {
+        "id": "v4740",
+        "word": "fix",
+        "translation": "ซ่อม",
+        "pos": "verb",
+        "example": "Fix it.",
+        "level": "basic"
+    },
+    {
+        "id": "v4741",
+        "word": "fixed",
+        "translation": "คงที่",
+        "pos": "adj",
+        "example": "Fixed price.",
+        "level": "basic"
+    },
+    {
+        "id": "v4742",
+        "word": "flag",
+        "translation": "ธง",
+        "pos": "noun",
+        "example": "National flag.",
+        "level": "basic"
+    },
+    {
+        "id": "v4743",
+        "word": "flame",
+        "translation": "เปลวไฟ",
+        "pos": "noun",
+        "example": "Blue flame.",
+        "level": "basic"
+    },
+    {
+        "id": "v4744",
+        "word": "flash",
+        "translation": "แฟลช",
+        "pos": "noun",
+        "example": "Camera flash.",
+        "level": "basic"
+    },
+    {
+        "id": "v4745",
+        "word": "flat",
+        "translation": "แบน",
+        "pos": "adj",
+        "example": "Flat surface.",
+        "level": "basic"
+    },
+    {
+        "id": "v4746",
+        "word": "flavor",
+        "translation": "รสชาติ",
+        "pos": "noun",
+        "example": "Good flavor.",
+        "level": "basic"
+    },
+    {
+        "id": "v4747",
+        "word": "flaw",
+        "translation": "ข้อบกพร่อง",
+        "pos": "noun",
+        "example": "Major flaw.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4748",
+        "word": "flee",
+        "translation": "หนี",
+        "pos": "verb",
+        "example": "Flee the scene.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4749",
+        "word": "fleet",
+        "translation": "กองเรือ",
+        "pos": "noun",
+        "example": "Car fleet.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4750",
+        "word": "flesh",
+        "translation": "เนื้อ",
+        "pos": "noun",
+        "example": "Human flesh.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4751",
+        "word": "flexibility",
+        "translation": "ความยืดหยุ่น",
+        "pos": "noun",
+        "example": "Need flexibility.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4752",
+        "word": "flexible",
+        "translation": "ยืดหยุ่น",
+        "pos": "adj",
+        "example": "Flexible schedule.",
+        "level": "basic"
+    },
+    {
+        "id": "v4753",
+        "word": "flight",
+        "translation": "เที่ยวบิน",
+        "pos": "noun",
+        "example": "Book a flight.",
+        "level": "basic"
+    },
+    {
+        "id": "v4754",
+        "word": "flip",
+        "translation": "พลิก",
+        "pos": "verb",
+        "example": "Flip a coin.",
+        "level": "basic"
+    },
+    {
+        "id": "v4755",
+        "word": "float",
+        "translation": "ลอย",
+        "pos": "verb",
+        "example": "Float on water.",
+        "level": "basic"
+    },
+    {
+        "id": "v4756",
+        "word": "flock",
+        "translation": "ฝูง",
+        "pos": "noun",
+        "example": "Flock of birds.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4757",
+        "word": "flood",
+        "translation": "น้ำท่วม",
+        "pos": "noun",
+        "example": "Flash flood.",
+        "level": "basic"
+    },
+    {
+        "id": "v4758",
+        "word": "flooding",
+        "translation": "การน้ำท่วม",
+        "pos": "noun",
+        "example": "Severe flooding.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4759",
+        "word": "floor",
+        "translation": "พื้น",
+        "pos": "noun",
+        "example": "First floor.",
+        "level": "basic"
+    },
+    {
+        "id": "v4760",
+        "word": "flour",
+        "translation": "แป้ง",
+        "pos": "noun",
+        "example": "Wheat flour.",
+        "level": "basic"
+    },
+    {
+        "id": "v4761",
+        "word": "flow",
+        "translation": "ไหล",
+        "pos": "verb",
+        "example": "Water flows.",
+        "level": "basic"
+    },
+    {
+        "id": "v4762",
+        "word": "flower",
+        "translation": "ดอกไม้",
+        "pos": "noun",
+        "example": "Beautiful flower.",
+        "level": "basic"
+    },
+    {
+        "id": "v4763",
+        "word": "flu",
+        "translation": "ไข้หวัด",
+        "pos": "noun",
+        "example": "Got the flu.",
+        "level": "basic"
+    },
+    {
+        "id": "v4764",
+        "word": "fluctuate",
+        "translation": "ผันผวน",
+        "pos": "verb",
+        "example": "Prices fluctuate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4765",
+        "word": "fluent",
+        "translation": "คล่อง",
+        "pos": "adj",
+        "example": "Fluent English.",
+        "level": "basic"
+    },
+    {
+        "id": "v4766",
+        "word": "fluid",
+        "translation": "ของเหลว",
+        "pos": "noun",
+        "example": "Body fluid.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4767",
+        "word": "flush",
+        "translation": "ชักโครก",
+        "pos": "verb",
+        "example": "Flush toilet.",
+        "level": "basic"
+    },
+    {
+        "id": "v4768",
+        "word": "fly",
+        "translation": "บิน",
+        "pos": "verb",
+        "example": "Birds fly.",
+        "level": "basic"
+    },
+    {
+        "id": "v4769",
+        "word": "flying",
+        "translation": "การบิน",
+        "pos": "noun",
+        "example": "Fear of flying.",
+        "level": "basic"
+    },
+    {
+        "id": "v4770",
+        "word": "foam",
+        "translation": "โฟม",
+        "pos": "noun",
+        "example": "Sea foam.",
+        "level": "basic"
+    },
+    {
+        "id": "v4771",
+        "word": "focus",
+        "translation": "มุ่งเน้น",
+        "pos": "verb",
+        "example": "Stay focused.",
+        "level": "basic"
+    },
+    {
+        "id": "v4772",
+        "word": "focused",
+        "translation": "มุ่งเน้น",
+        "pos": "adj",
+        "example": "Stay focused.",
+        "level": "basic"
+    },
+    {
+        "id": "v4773",
+        "word": "fog",
+        "translation": "หมอก",
+        "pos": "noun",
+        "example": "Dense fog.",
+        "level": "basic"
+    },
+    {
+        "id": "v4774",
+        "word": "fold",
+        "translation": "พับ",
+        "pos": "verb",
+        "example": "Fold paper.",
+        "level": "basic"
+    },
+    {
+        "id": "v4775",
+        "word": "folder",
+        "translation": "โฟลเดอร์",
+        "pos": "noun",
+        "example": "File folder.",
+        "level": "basic"
+    },
+    {
+        "id": "v4776",
+        "word": "folk",
+        "translation": "ชาวบ้าน",
+        "pos": "noun",
+        "example": "Folk music.",
+        "level": "basic"
+    },
+    {
+        "id": "v4777",
+        "word": "follow",
+        "translation": "ตาม",
+        "pos": "verb",
+        "example": "Follow me.",
+        "level": "basic"
+    },
+    {
+        "id": "v4778",
+        "word": "follower",
+        "translation": "ผู้ติดตาม",
+        "pos": "noun",
+        "example": "Many followers.",
+        "level": "basic"
+    },
+    {
+        "id": "v4779",
+        "word": "following",
+        "translation": "ต่อไปนี้",
+        "pos": "adj",
+        "example": "Following day.",
+        "level": "basic"
+    },
+    {
+        "id": "v4780",
+        "word": "fond",
+        "translation": "ชอบ",
+        "pos": "adj",
+        "example": "Fond of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4781",
+        "word": "food",
+        "translation": "อาหาร",
+        "pos": "noun",
+        "example": "Thai food.",
+        "level": "basic"
+    },
+    {
+        "id": "v4782",
+        "word": "fool",
+        "translation": "คนโง่",
+        "pos": "noun",
+        "example": "Don't be a fool.",
+        "level": "basic"
+    },
+    {
+        "id": "v4783",
+        "word": "foolish",
+        "translation": "โง่เขลา",
+        "pos": "adj",
+        "example": "Foolish mistake.",
+        "level": "basic"
+    },
+    {
+        "id": "v4784",
+        "word": "foot",
+        "translation": "เท้า",
+        "pos": "noun",
+        "example": "Right foot.",
+        "level": "basic"
+    },
+    {
+        "id": "v4785",
+        "word": "footage",
+        "translation": "คลิปวิดีโอ",
+        "pos": "noun",
+        "example": "Video footage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4786",
+        "word": "football",
+        "translation": "ฟุตบอล",
+        "pos": "noun",
+        "example": "Play football.",
+        "level": "basic"
+    },
+    {
+        "id": "v4787",
+        "word": "footstep",
+        "translation": "ฝีเท้า",
+        "pos": "noun",
+        "example": "Hear footsteps.",
+        "level": "basic"
+    },
+    {
+        "id": "v4788",
+        "word": "for",
+        "translation": "สำหรับ",
+        "pos": "prep",
+        "example": "For you.",
+        "level": "basic"
+    },
+    {
+        "id": "v4789",
+        "word": "forbid",
+        "translation": "ห้าม",
+        "pos": "verb",
+        "example": "God forbid.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4790",
+        "word": "force",
+        "translation": "บังคับ",
+        "pos": "verb",
+        "example": "Force yourself.",
+        "level": "basic"
+    },
+    {
+        "id": "v4791",
+        "word": "forecast",
+        "translation": "พยากรณ์",
+        "pos": "noun",
+        "example": "Weather forecast.",
+        "level": "basic"
+    },
+    {
+        "id": "v4792",
+        "word": "forehead",
+        "translation": "หน้าผาก",
+        "pos": "noun",
+        "example": "Touch forehead.",
+        "level": "basic"
+    },
+    {
+        "id": "v4793",
+        "word": "foreign",
+        "translation": "ต่างประเทศ",
+        "pos": "adj",
+        "example": "Foreign language.",
+        "level": "basic"
+    },
+    {
+        "id": "v4794",
+        "word": "foreigner",
+        "translation": "ชาวต่างชาติ",
+        "pos": "noun",
+        "example": "Many foreigners.",
+        "level": "basic"
+    },
+    {
+        "id": "v4795",
+        "word": "forest",
+        "translation": "ป่า",
+        "pos": "noun",
+        "example": "Rain forest.",
+        "level": "basic"
+    },
+    {
+        "id": "v4796",
+        "word": "forever",
+        "translation": "ตลอดไป",
+        "pos": "adv",
+        "example": "Forever young.",
+        "level": "basic"
+    },
+    {
+        "id": "v4797",
+        "word": "forget",
+        "translation": "ลืม",
+        "pos": "verb",
+        "example": "Don't forget.",
+        "level": "basic"
+    },
+    {
+        "id": "v4798",
+        "word": "forgive",
+        "translation": "ให้อภัย",
+        "pos": "verb",
+        "example": "Please forgive me.",
+        "level": "basic"
+    },
+    {
+        "id": "v4799",
+        "word": "fork",
+        "translation": "ส้อม",
+        "pos": "noun",
+        "example": "Use a fork.",
+        "level": "basic"
+    },
+    {
+        "id": "v4800",
+        "word": "form",
+        "translation": "รูปแบบ",
+        "pos": "noun",
+        "example": "Fill out form.",
+        "level": "basic"
+    }
+]

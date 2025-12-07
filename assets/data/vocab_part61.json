@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v5901",
+        "word": "microphone",
+        "translation": "ไมโครโฟน",
+        "pos": "noun",
+        "example": "Speak into microphone.",
+        "level": "basic"
+    },
+    {
+        "id": "v5902",
+        "word": "microscope",
+        "translation": "กล้องจุลทรรศน์",
+        "pos": "noun",
+        "example": "Use microscope.",
+        "level": "basic"
+    },
+    {
+        "id": "v5903",
+        "word": "microwave",
+        "translation": "ไมโครเวฟ",
+        "pos": "noun",
+        "example": "Microwave oven.",
+        "level": "basic"
+    },
+    {
+        "id": "v5904",
+        "word": "mid",
+        "translation": "กลาง",
+        "pos": "adj",
+        "example": "Mid-year.",
+        "level": "basic"
+    },
+    {
+        "id": "v5905",
+        "word": "middle",
+        "translation": "กลาง",
+        "pos": "noun",
+        "example": "In the middle.",
+        "level": "basic"
+    },
+    {
+        "id": "v5906",
+        "word": "midnight",
+        "translation": "เที่ยงคืน",
+        "pos": "noun",
+        "example": "At midnight.",
+        "level": "basic"
+    },
+    {
+        "id": "v5907",
+        "word": "midst",
+        "translation": "กลาง",
+        "pos": "noun",
+        "example": "In the midst of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5908",
+        "word": "might",
+        "translation": "อาจจะ",
+        "pos": "verb",
+        "example": "It might.",
+        "level": "basic"
+    },
+    {
+        "id": "v5909",
+        "word": "mighty",
+        "translation": "ยิ่งใหญ่",
+        "pos": "adj",
+        "example": "Mighty river.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5910",
+        "word": "migration",
+        "translation": "การอพยพ",
+        "pos": "noun",
+        "example": "Bird migration.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5911",
+        "word": "mild",
+        "translation": "อ่อน",
+        "pos": "adj",
+        "example": "Mild weather.",
+        "level": "basic"
+    },
+    {
+        "id": "v5912",
+        "word": "mile",
+        "translation": "ไมล์",
+        "pos": "noun",
+        "example": "One mile.",
+        "level": "basic"
+    },
+    {
+        "id": "v5913",
+        "word": "milestone",
+        "translation": "หลักชัย",
+        "pos": "noun",
+        "example": "Major milestone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5914",
+        "word": "military",
+        "translation": "ทหาร",
+        "pos": "adj",
+        "example": "Military service.",
+        "level": "basic"
+    },
+    {
+        "id": "v5915",
+        "word": "milk",
+        "translation": "นม",
+        "pos": "noun",
+        "example": "Fresh milk.",
+        "level": "basic"
+    },
+    {
+        "id": "v5916",
+        "word": "mill",
+        "translation": "โรงสี",
+        "pos": "noun",
+        "example": "Coffee mill.",
+        "level": "basic"
+    },
+    {
+        "id": "v5917",
+        "word": "million",
+        "translation": "ล้าน",
+        "pos": "num",
+        "example": "One million.",
+        "level": "basic"
+    },
+    {
+        "id": "v5918",
+        "word": "millionaire",
+        "translation": "เศรษฐี",
+        "pos": "noun",
+        "example": "Become a millionaire.",
+        "level": "basic"
+    },
+    {
+        "id": "v5919",
+        "word": "mind",
+        "translation": "จิตใจ",
+        "pos": "noun",
+        "example": "Open mind.",
+        "level": "basic"
+    },
+    {
+        "id": "v5920",
+        "word": "mine",
+        "translation": "ของฉัน",
+        "pos": "pron",
+        "example": "It's mine.",
+        "level": "basic"
+    },
+    {
+        "id": "v5921",
+        "word": "mineral",
+        "translation": "แร่ธาตุ",
+        "pos": "noun",
+        "example": "Mineral water.",
+        "level": "basic"
+    },
+    {
+        "id": "v5922",
+        "word": "minimal",
+        "translation": "น้อยที่สุด",
+        "pos": "adj",
+        "example": "Minimal effort.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5923",
+        "word": "minimize",
+        "translation": "ลดให้เหลือน้อย",
+        "pos": "verb",
+        "example": "Minimize risk.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5924",
+        "word": "minimum",
+        "translation": "ต่ำสุด",
+        "pos": "adj",
+        "example": "Minimum wage.",
+        "level": "basic"
+    },
+    {
+        "id": "v5925",
+        "word": "mining",
+        "translation": "การขุดเหมือง",
+        "pos": "noun",
+        "example": "Gold mining.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5926",
+        "word": "minister",
+        "translation": "รัฐมนตรี",
+        "pos": "noun",
+        "example": "Prime Minister.",
+        "level": "basic"
+    },
+    {
+        "id": "v5927",
+        "word": "ministry",
+        "translation": "กระทรวง",
+        "pos": "noun",
+        "example": "Ministry of Education.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5928",
+        "word": "minor",
+        "translation": "เล็กน้อย",
+        "pos": "adj",
+        "example": "Minor issue.",
+        "level": "basic"
+    },
+    {
+        "id": "v5929",
+        "word": "minority",
+        "translation": "ชนกลุ่มน้อย",
+        "pos": "noun",
+        "example": "Ethnic minority.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5930",
+        "word": "mint",
+        "translation": "สะระแหน่",
+        "pos": "noun",
+        "example": "Fresh mint.",
+        "level": "basic"
+    },
+    {
+        "id": "v5931",
+        "word": "minus",
+        "translation": "ลบ",
+        "pos": "prep",
+        "example": "Ten minus five.",
+        "level": "basic"
+    },
+    {
+        "id": "v5932",
+        "word": "minute",
+        "translation": "นาที",
+        "pos": "noun",
+        "example": "One minute.",
+        "level": "basic"
+    },
+    {
+        "id": "v5933",
+        "word": "miracle",
+        "translation": "ปาฏิหาริย์",
+        "pos": "noun",
+        "example": "It's a miracle.",
+        "level": "basic"
+    },
+    {
+        "id": "v5934",
+        "word": "mirror",
+        "translation": "กระจก",
+        "pos": "noun",
+        "example": "Look in mirror.",
+        "level": "basic"
+    },
+    {
+        "id": "v5935",
+        "word": "miserable",
+        "translation": "น่าสังเวช",
+        "pos": "adj",
+        "example": "Feel miserable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5936",
+        "word": "misery",
+        "translation": "ความทุกข์",
+        "pos": "noun",
+        "example": "Pure misery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5937",
+        "word": "misleading",
+        "translation": "ทำให้เข้าใจผิด",
+        "pos": "adj",
+        "example": "Misleading information.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5938",
+        "word": "miss",
+        "translation": "พลาด",
+        "pos": "verb",
+        "example": "Don't miss.",
+        "level": "basic"
+    },
+    {
+        "id": "v5939",
+        "word": "missing",
+        "translation": "หายไป",
+        "pos": "adj",
+        "example": "Missing person.",
+        "level": "basic"
+    },
+    {
+        "id": "v5940",
+        "word": "mission",
+        "translation": "ภารกิจ",
+        "pos": "noun",
+        "example": "Secret mission.",
+        "level": "basic"
+    },
+    {
+        "id": "v5941",
+        "word": "missionary",
+        "translation": "มิชชันนารี",
+        "pos": "noun",
+        "example": "Christian missionary.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5942",
+        "word": "mistake",
+        "translation": "ความผิดพลาด",
+        "pos": "noun",
+        "example": "Big mistake.",
+        "level": "basic"
+    },
+    {
+        "id": "v5943",
+        "word": "mistaken",
+        "translation": "เข้าใจผิด",
+        "pos": "adj",
+        "example": "If I'm not mistaken.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5944",
+        "word": "mix",
+        "translation": "ผสม",
+        "pos": "verb",
+        "example": "Mix well.",
+        "level": "basic"
+    },
+    {
+        "id": "v5945",
+        "word": "mixed",
+        "translation": "ผสม",
+        "pos": "adj",
+        "example": "Mixed feelings.",
+        "level": "basic"
+    },
+    {
+        "id": "v5946",
+        "word": "mixture",
+        "translation": "ส่วนผสม",
+        "pos": "noun",
+        "example": "Perfect mixture.",
+        "level": "basic"
+    },
+    {
+        "id": "v5947",
+        "word": "mobile",
+        "translation": "มือถือ",
+        "pos": "adj",
+        "example": "Mobile phone.",
+        "level": "basic"
+    },
+    {
+        "id": "v5948",
+        "word": "mobility",
+        "translation": "การเคลื่อนที่",
+        "pos": "noun",
+        "example": "Social mobility.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5949",
+        "word": "mode",
+        "translation": "โหมด",
+        "pos": "noun",
+        "example": "Silent mode.",
+        "level": "basic"
+    },
+    {
+        "id": "v5950",
+        "word": "model",
+        "translation": "แบบ",
+        "pos": "noun",
+        "example": "Role model.",
+        "level": "basic"
+    },
+    {
+        "id": "v5951",
+        "word": "moderate",
+        "translation": "ปานกลาง",
+        "pos": "adj",
+        "example": "Moderate level.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5952",
+        "word": "moderately",
+        "translation": "พอประมาณ",
+        "pos": "adv",
+        "example": "Moderately expensive.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5953",
+        "word": "modern",
+        "translation": "ทันสมัย",
+        "pos": "adj",
+        "example": "Modern style.",
+        "level": "basic"
+    },
+    {
+        "id": "v5954",
+        "word": "modernization",
+        "translation": "ความทันสมัย",
+        "pos": "noun",
+        "example": "Economic modernization.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5955",
+        "word": "modest",
+        "translation": "เจียมตัว",
+        "pos": "adj",
+        "example": "Modest income.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5956",
+        "word": "modification",
+        "translation": "การแก้ไข",
+        "pos": "noun",
+        "example": "Minor modification.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5957",
+        "word": "modify",
+        "translation": "แก้ไข",
+        "pos": "verb",
+        "example": "Modify settings.",
+        "level": "basic"
+    },
+    {
+        "id": "v5958",
+        "word": "moisture",
+        "translation": "ความชื้น",
+        "pos": "noun",
+        "example": "Skin moisture.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5959",
+        "word": "molecular",
+        "translation": "โมเลกุล",
+        "pos": "adj",
+        "example": "Molecular biology.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5960",
+        "word": "molecule",
+        "translation": "โมเลกุล",
+        "pos": "noun",
+        "example": "Water molecule.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5961",
+        "word": "mom",
+        "translation": "แม่",
+        "pos": "noun",
+        "example": "My mom.",
+        "level": "basic"
+    },
+    {
+        "id": "v5962",
+        "word": "moment",
+        "translation": "ช่วงเวลา",
+        "pos": "noun",
+        "example": "At the moment.",
+        "level": "basic"
+    },
+    {
+        "id": "v5963",
+        "word": "momentum",
+        "translation": "โมเมนตัม",
+        "pos": "noun",
+        "example": "Gain momentum.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5964",
+        "word": "monday",
+        "translation": "วันจันทร์",
+        "pos": "noun",
+        "example": "Next Monday.",
+        "level": "basic"
+    },
+    {
+        "id": "v5965",
+        "word": "monetary",
+        "translation": "การเงิน",
+        "pos": "adj",
+        "example": "Monetary policy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5966",
+        "word": "money",
+        "translation": "เงิน",
+        "pos": "noun",
+        "example": "Save money.",
+        "level": "basic"
+    },
+    {
+        "id": "v5967",
+        "word": "monitor",
+        "translation": "ติดตาม",
+        "pos": "verb",
+        "example": "Monitor progress.",
+        "level": "basic"
+    },
+    {
+        "id": "v5968",
+        "word": "monitoring",
+        "translation": "การติดตาม",
+        "pos": "noun",
+        "example": "Constant monitoring.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5969",
+        "word": "monk",
+        "translation": "พระ",
+        "pos": "noun",
+        "example": "Buddhist monk.",
+        "level": "basic"
+    },
+    {
+        "id": "v5970",
+        "word": "monkey",
+        "translation": "ลิง",
+        "pos": "noun",
+        "example": "Funny monkey.",
+        "level": "basic"
+    },
+    {
+        "id": "v5971",
+        "word": "monster",
+        "translation": "สัตว์ประหลาด",
+        "pos": "noun",
+        "example": "Sea monster.",
+        "level": "basic"
+    },
+    {
+        "id": "v5972",
+        "word": "month",
+        "translation": "เดือน",
+        "pos": "noun",
+        "example": "Last month.",
+        "level": "basic"
+    },
+    {
+        "id": "v5973",
+        "word": "monthly",
+        "translation": "รายเดือน",
+        "pos": "adj",
+        "example": "Monthly payment.",
+        "level": "basic"
+    },
+    {
+        "id": "v5974",
+        "word": "monument",
+        "translation": "อนุสาวรีย์",
+        "pos": "noun",
+        "example": "Victory Monument.",
+        "level": "basic"
+    },
+    {
+        "id": "v5975",
+        "word": "mood",
+        "translation": "อารมณ์",
+        "pos": "noun",
+        "example": "Good mood.",
+        "level": "basic"
+    },
+    {
+        "id": "v5976",
+        "word": "moon",
+        "translation": "พระจันทร์",
+        "pos": "noun",
+        "example": "Full moon.",
+        "level": "basic"
+    },
+    {
+        "id": "v5977",
+        "word": "moral",
+        "translation": "ศีลธรรม",
+        "pos": "adj",
+        "example": "Moral support.",
+        "level": "basic"
+    },
+    {
+        "id": "v5978",
+        "word": "morality",
+        "translation": "ศีลธรรม",
+        "pos": "noun",
+        "example": "Question of morality.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5979",
+        "word": "more",
+        "translation": "มากกว่า",
+        "pos": "adj",
+        "example": "Need more.",
+        "level": "basic"
+    },
+    {
+        "id": "v5980",
+        "word": "moreover",
+        "translation": "ยิ่งกว่านั้น",
+        "pos": "adv",
+        "example": "Moreover.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5981",
+        "word": "morning",
+        "translation": "เช้า",
+        "pos": "noun",
+        "example": "Good morning.",
+        "level": "basic"
+    },
+    {
+        "id": "v5982",
+        "word": "mortality",
+        "translation": "อัตราการตาย",
+        "pos": "noun",
+        "example": "Mortality rate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5983",
+        "word": "mortgage",
+        "translation": "จำนอง",
+        "pos": "noun",
+        "example": "Home mortgage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5984",
+        "word": "mosque",
+        "translation": "มัสยิด",
+        "pos": "noun",
+        "example": "Local mosque.",
+        "level": "basic"
+    },
+    {
+        "id": "v5985",
+        "word": "mosquito",
+        "translation": "ยุง",
+        "pos": "noun",
+        "example": "Mosquito bite.",
+        "level": "basic"
+    },
+    {
+        "id": "v5986",
+        "word": "most",
+        "translation": "มากที่สุด",
+        "pos": "adj",
+        "example": "Most important.",
+        "level": "basic"
+    },
+    {
+        "id": "v5987",
+        "word": "mostly",
+        "translation": "ส่วนใหญ่",
+        "pos": "adv",
+        "example": "Mostly true.",
+        "level": "basic"
+    },
+    {
+        "id": "v5988",
+        "word": "mother",
+        "translation": "แม่",
+        "pos": "noun",
+        "example": "My mother.",
+        "level": "basic"
+    },
+    {
+        "id": "v5989",
+        "word": "motion",
+        "translation": "การเคลื่อนไหว",
+        "pos": "noun",
+        "example": "Slow motion.",
+        "level": "basic"
+    },
+    {
+        "id": "v5990",
+        "word": "motivate",
+        "translation": "จูงใจ",
+        "pos": "verb",
+        "example": "Motivate yourself.",
+        "level": "basic"
+    },
+    {
+        "id": "v5991",
+        "word": "motivated",
+        "translation": "มีแรงจูงใจ",
+        "pos": "adj",
+        "example": "Highly motivated.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5992",
+        "word": "motivation",
+        "translation": "แรงจูงใจ",
+        "pos": "noun",
+        "example": "Find motivation.",
+        "level": "basic"
+    },
+    {
+        "id": "v5993",
+        "word": "motive",
+        "translation": "แรงจูงใจ",
+        "pos": "noun",
+        "example": "Hidden motive.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5994",
+        "word": "motor",
+        "translation": "มอเตอร์",
+        "pos": "noun",
+        "example": "Electric motor.",
+        "level": "basic"
+    },
+    {
+        "id": "v5995",
+        "word": "motorcycle",
+        "translation": "มอเตอร์ไซค์",
+        "pos": "noun",
+        "example": "Ride a motorcycle.",
+        "level": "basic"
+    },
+    {
+        "id": "v5996",
+        "word": "mount",
+        "translation": "ขึ้น",
+        "pos": "verb",
+        "example": "Mount the horse.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5997",
+        "word": "mountain",
+        "translation": "ภูเขา",
+        "pos": "noun",
+        "example": "High mountain.",
+        "level": "basic"
+    },
+    {
+        "id": "v5998",
+        "word": "mouse",
+        "translation": "หนู",
+        "pos": "noun",
+        "example": "Computer mouse.",
+        "level": "basic"
+    },
+    {
+        "id": "v5999",
+        "word": "mouth",
+        "translation": "ปาก",
+        "pos": "noun",
+        "example": "Open mouth.",
+        "level": "basic"
+    },
+    {
+        "id": "v6000",
+        "word": "move",
+        "translation": "เคลื่อนไหว",
+        "pos": "verb",
+        "example": "Don't move.",
+        "level": "basic"
+    }
+]

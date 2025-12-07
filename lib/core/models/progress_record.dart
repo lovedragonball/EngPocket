@@ -6,9 +6,9 @@ import 'exam_result.dart';
 
 /// ระดับความชำนาญของคำศัพท์
 enum MasteryLevel {
-  newWord,      // ยังไม่เคยเรียน
-  learning,     // กำลังเรียนรู้
-  mastered;     // จำได้แล้ว
+  newWord, // ยังไม่เคยเรียน
+  learning, // กำลังเรียนรู้
+  mastered; // จำได้แล้ว
 
   static MasteryLevel fromString(String value) {
     switch (value) {
@@ -38,7 +38,7 @@ enum MasteryLevel {
 
 class ProgressRecord extends Equatable {
   final DateTime lastUpdated;
-  final Map<String, MasteryLevel> vocabMastery;  // vocabId -> mastery level
+  final Map<String, MasteryLevel> vocabMastery; // vocabId -> mastery level
   final List<ExamResult> examHistory;
   final int totalStudyDays;
   final int currentStreak;
@@ -55,8 +55,8 @@ class ProgressRecord extends Equatable {
   factory ProgressRecord.empty() {
     return ProgressRecord(
       lastUpdated: DateTime.now(),
-      vocabMastery: {},
-      examHistory: [],
+      vocabMastery: const {},
+      examHistory: const [],
       totalStudyDays: 0,
       currentStreak: 0,
     );
@@ -80,7 +80,7 @@ class ProgressRecord extends Equatable {
   double get averageExamScore {
     if (examHistory.isEmpty) return 0;
     final total = examHistory.fold<double>(
-      0, 
+      0,
       (sum, result) => sum + result.percentage,
     );
     return total / examHistory.length;
@@ -137,6 +137,6 @@ class ProgressRecord extends Equatable {
   }
 
   @override
-  List<Object?> get props => [lastUpdated, vocabMastery, examHistory, 
-                               totalStudyDays, currentStreak];
+  List<Object?> get props =>
+      [lastUpdated, vocabMastery, examHistory, totalStudyDays, currentStreak];
 }

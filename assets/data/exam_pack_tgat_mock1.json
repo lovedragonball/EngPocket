@@ -3,9 +3,10 @@
         {
             "id": "tgat_mock_1",
             "name": "TGAT Mock Test 1",
-            "description": "ข้อสอบจำลอง TGAT English ชุดที่ 1 - ครอบคลุม Vocabulary, Grammar, Reading",
+            "description": "ข้อสอบจำลอง TGAT English ชุดที่ 1 - ครอบคลุม Vocabulary, Grammar, Reading (50 ข้อ)",
             "examType": "TGAT",
-            "numQuestions": 5,
+            "numQuestions": 50,
+            "timeLimit": 60,
             "difficulty": "medium",
             "version": 1,
             "remoteUrl": null
@@ -79,6 +80,636 @@
             ],
             "correctIndex": 1,
             "explanation": "'Sustainable' หมายถึง ยั่งยืน สามารถรักษาไว้ได้ ซึ่งใกล้เคียงกับ 'maintainable'",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_006",
+            "stem": "By the time we arrived, the movie _____ already _____.",
+            "choices": [
+                "has / started",
+                "had / started",
+                "was / starting",
+                "is / starting"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Past Perfect 'had started' สำหรับเหตุการณ์ที่เกิดก่อนอดีตอีกเหตุการณ์หนึ่ง",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_007",
+            "stem": "Neither the manager nor the employees _____ satisfied with the decision.",
+            "choices": [
+                "is",
+                "are",
+                "was",
+                "were"
+            ],
+            "correctIndex": 3,
+            "explanation": "ใช้ 'were' เพราะ Neither...nor ให้ใช้กริยาตามประธานตัวหลัง (employees) ซึ่งเป็นพหูพจน์",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_008",
+            "stem": "The word 'meticulous' means:",
+            "choices": [
+                "careless",
+                "very careful and precise",
+                "fast and efficient",
+                "lazy"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Meticulous' หมายถึง พิถีพิถัน ละเอียดรอบคอบมาก",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_009",
+            "stem": "I wish I _____ harder for the exam yesterday.",
+            "choices": [
+                "study",
+                "studied",
+                "had studied",
+                "have studied"
+            ],
+            "correctIndex": 2,
+            "explanation": "ใช้ 'had studied' (Past Perfect) หลัง wish เพื่อแสดงความเสียดายในอดีต",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_010",
+            "stem": "The antonym of 'abundant' is:",
+            "choices": [
+                "plentiful",
+                "scarce",
+                "numerous",
+                "excessive"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Abundant' แปลว่า มากมาย ตรงข้ามกับ 'scarce' ที่แปลว่า ขาดแคลน หายาก",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_011",
+            "stem": "The report _____ by the committee next Monday.",
+            "choices": [
+                "will be reviewed",
+                "will review",
+                "is reviewed",
+                "reviews"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ 'will be reviewed' เป็น Future Passive เพราะรายงานถูกกระทำ",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_012",
+            "stem": "'Comprehensive' is closest in meaning to:",
+            "choices": [
+                "limited",
+                "thorough",
+                "simple",
+                "basic"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Comprehensive' หมายถึง ครอบคลุม ทั้งหมด ซึ่งใกล้เคียงกับ 'thorough'",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_013",
+            "stem": "Not only _____ late, but she also forgot the documents.",
+            "choices": [
+                "she was",
+                "was she",
+                "she is",
+                "is she"
+            ],
+            "correctIndex": 1,
+            "explanation": "หลัง Not only ที่ขึ้นต้นประโยค ต้องใช้โครงสร้าง Inversion (กลับกริยากับประธาน)",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_014",
+            "stem": "The word 'deteriorate' means:",
+            "choices": [
+                "improve",
+                "become worse",
+                "remain stable",
+                "accelerate"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Deteriorate' หมายถึง เสื่อมลง แย่ลง",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_015",
+            "stem": "It's high time we _____ a decision.",
+            "choices": [
+                "make",
+                "made",
+                "have made",
+                "will make"
+            ],
+            "correctIndex": 1,
+            "explanation": "หลัง 'It's high time' ต้องใช้ Past Simple (made) แม้จะหมายถึงปัจจุบันหรืออนาคต",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_016",
+            "stem": "'Reluctant' is the opposite of:",
+            "choices": [
+                "unwilling",
+                "hesitant",
+                "eager",
+                "hesitant"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Reluctant' แปลว่า ไม่เต็มใจ ลังเล ตรงข้ามกับ 'eager' ที่แปลว่า กระตือรือร้น",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_017",
+            "stem": "The more you practice, _____ you will become.",
+            "choices": [
+                "the better",
+                "better",
+                "the best",
+                "good"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้โครงสร้าง The + comparative, the + comparative",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_018",
+            "stem": "'Pragmatic' means:",
+            "choices": [
+                "theoretical",
+                "practical and realistic",
+                "idealistic",
+                "abstract"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Pragmatic' หมายถึง ปฏิบัตินิยม คิดตามความเป็นจริง",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_019",
+            "stem": "Had I known about the traffic, I _____ earlier.",
+            "choices": [
+                "would leave",
+                "would have left",
+                "left",
+                "had left"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'would have left' ในประโยค If-clause Type 3 แบบ Inversion (Had I known...)",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_020",
+            "stem": "The synonym of 'inevitable' is:",
+            "choices": [
+                "avoidable",
+                "unavoidable",
+                "uncertain",
+                "possible"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Inevitable' แปลว่า หลีกเลี่ยงไม่ได้ เหมือนกับ 'unavoidable'",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_021",
+            "stem": "She denied _____ the confidential information.",
+            "choices": [
+                "to leak",
+                "leaking",
+                "leak",
+                "leaked"
+            ],
+            "correctIndex": 1,
+            "explanation": "หลัง 'deny' ต้องตามด้วย V-ing",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_022",
+            "stem": "'Ambiguous' means:",
+            "choices": [
+                "clear",
+                "uncertain or unclear",
+                "definite",
+                "obvious"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Ambiguous' หมายถึง กำกวม ไม่ชัดเจน มีหลายความหมาย",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_023",
+            "stem": "The project, _____ was started last year, is now complete.",
+            "choices": [
+                "who",
+                "which",
+                "what",
+                "whom"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'which' เป็น Relative Pronoun แทน 'the project' ซึ่งเป็นสิ่งของ",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_024",
+            "stem": "'Fluctuate' is closest in meaning to:",
+            "choices": [
+                "remain constant",
+                "vary irregularly",
+                "increase steadily",
+                "decrease"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Fluctuate' หมายถึง ผันผวน เปลี่ยนแปลงไม่สม่ำเสมอ",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_025",
+            "stem": "Seldom _____ such a beautiful sunset.",
+            "choices": [
+                "I have seen",
+                "have I seen",
+                "I had seen",
+                "did I saw"
+            ],
+            "correctIndex": 1,
+            "explanation": "หลัง Seldom ที่ขึ้นต้นประโยค ต้องใช้ Inversion",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_026",
+            "stem": "The antonym of 'temporary' is:",
+            "choices": [
+                "brief",
+                "short-term",
+                "permanent",
+                "fleeting"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Temporary' แปลว่า ชั่วคราว ตรงข้ามกับ 'permanent' ที่แปลว่า ถาวร",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_027",
+            "stem": "We would rather you _____ smoking.",
+            "choices": [
+                "stop",
+                "stopped",
+                "stopping",
+                "to stop"
+            ],
+            "correctIndex": 1,
+            "explanation": "หลัง 'would rather + subject' ต้องใช้ Past Simple",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_028",
+            "stem": "'Resilient' means:",
+            "choices": [
+                "weak",
+                "able to recover quickly",
+                "fragile",
+                "rigid"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Resilient' หมายถึง ยืดหยุ่น ฟื้นตัวได้เร็ว",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_029",
+            "stem": "She insisted _____ paying for dinner.",
+            "choices": [
+                "to",
+                "in",
+                "on",
+                "at"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Insist on' เป็น Phrasal Verb ที่ถูกต้อง แปลว่า ยืนยันจะ",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_030",
+            "stem": "'Obsolete' is closest in meaning to:",
+            "choices": [
+                "modern",
+                "outdated",
+                "current",
+                "trendy"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Obsolete' หมายถึง ล้าสมัย ไม่ใช้แล้ว",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_031",
+            "stem": "The evidence _____ that the suspect was innocent.",
+            "choices": [
+                "suggest",
+                "suggests",
+                "are suggesting",
+                "have suggested"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Evidence' เป็นคำนามที่ใช้กับกริยาเอกพจน์ จึงใช้ 'suggests'",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_032",
+            "stem": "'Affluent' means:",
+            "choices": [
+                "poor",
+                "wealthy",
+                "average",
+                "inferior"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Affluent' หมายถึง รำรวย มั่งคั่ง",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_033",
+            "stem": "Despite _____ tired, she continued working.",
+            "choices": [
+                "be",
+                "being",
+                "was",
+                "been"
+            ],
+            "correctIndex": 1,
+            "explanation": "หลัง 'despite' ต้องตามด้วย Noun หรือ V-ing",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_034",
+            "stem": "The synonym of 'enhance' is:",
+            "choices": [
+                "reduce",
+                "improve",
+                "maintain",
+                "weaken"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Enhance' แปลว่า เพิ่มพูน ปรับปรุง เหมือนกับ 'improve'",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_035",
+            "stem": "The concert _____ at 7 PM tomorrow.",
+            "choices": [
+                "starts",
+                "is starting",
+                "will be started",
+                "started"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ Present Simple กับตารางเวลา/กำหนดการที่แน่นอน",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_036",
+            "stem": "'Mitigate' means:",
+            "choices": [
+                "worsen",
+                "make less severe",
+                "ignore",
+                "increase"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Mitigate' หมายถึง บรรเทา ทำให้เบาบางลง",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_037",
+            "stem": "He is used to _____ early in the morning.",
+            "choices": [
+                "wake",
+                "waking",
+                "woke",
+                "waken"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Be used to' + V-ing หมายถึง เคยชินกับการทำบางสิ่ง",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_038",
+            "stem": "'Scrutinize' is closest in meaning to:",
+            "choices": [
+                "glance",
+                "examine closely",
+                "ignore",
+                "overlook"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Scrutinize' หมายถึง ตรวจสอบอย่างละเอียด",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_039",
+            "stem": "No sooner _____ the station than the train left.",
+            "choices": [
+                "had I reached",
+                "I had reached",
+                "did I reach",
+                "I reached"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้โครงสร้าง No sooner + had + S + V3 than... (Inversion)",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_040",
+            "stem": "The antonym of 'optimistic' is:",
+            "choices": [
+                "hopeful",
+                "positive",
+                "pessimistic",
+                "cheerful"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Optimistic' แปลว่า มองโลกในแง่ดี ตรงข้ามกับ 'pessimistic' มองโลกในแง่ร้าย",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_041",
+            "stem": "It is essential that he _____ on time.",
+            "choices": [
+                "arrives",
+                "arrive",
+                "arrived",
+                "arriving"
+            ],
+            "correctIndex": 1,
+            "explanation": "หลัง 'It is essential that' ใช้ Subjunctive Mood คือ V1 ไม่ผัน",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_042",
+            "stem": "'Versatile' means:",
+            "choices": [
+                "limited",
+                "able to adapt to many functions",
+                "specialized",
+                "rigid"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Versatile' หมายถึง อเนกประสงค์ ทำได้หลายอย่าง",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_043",
+            "stem": "She behaves _____ she were the boss.",
+            "choices": [
+                "as",
+                "as if",
+                "like",
+                "such as"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'as if' + Past Simple (were) แสดงสมมติที่ไม่จริง",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_044",
+            "stem": "'Pervasive' is closest in meaning to:",
+            "choices": [
+                "limited",
+                "widespread",
+                "rare",
+                "occasional"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Pervasive' หมายถึง แพร่หลาย แผ่ซ่านไปทั่ว",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_045",
+            "stem": "The book _____ I bought yesterday is very interesting.",
+            "choices": [
+                "who",
+                "whom",
+                "which",
+                "whose"
+            ],
+            "correctIndex": 2,
+            "explanation": "ใช้ 'which' เป็น Relative Pronoun แทนสิ่งของ (book)",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_046",
+            "stem": "'Diminish' means:",
+            "choices": [
+                "increase",
+                "grow",
+                "decrease",
+                "expand"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Diminish' หมายถึง ลดลง น้อยลง",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_047",
+            "stem": "I'd rather _____ at home than go to the party.",
+            "choices": [
+                "stay",
+                "staying",
+                "stayed",
+                "to stay"
+            ],
+            "correctIndex": 0,
+            "explanation": "หลัง 'would rather' (ไม่มี subject ตาม) ใช้ V1",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_048",
+            "stem": "The synonym of 'coherent' is:",
+            "choices": [
+                "confusing",
+                "logical and consistent",
+                "random",
+                "chaotic"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Coherent' แปลว่า เชื่อมโยงกัน สอดคล้องกัน",
+            "skillType": "vocab",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_049",
+            "stem": "He apologized _____ being late for the meeting.",
+            "choices": [
+                "to",
+                "for",
+                "about",
+                "of"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Apologize for' เป็น Collocation ที่ถูกต้อง แปลว่า ขอโทษสำหรับ",
+            "skillType": "grammar",
+            "packId": "tgat_mock_1"
+        },
+        {
+            "id": "exam_050",
+            "stem": "'Unprecedented' means:",
+            "choices": [
+                "common",
+                "never done before",
+                "expected",
+                "ordinary"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Unprecedented' หมายถึง ไม่เคยมีมาก่อน ไม่เคยเกิดขึ้นมาก่อน",
             "skillType": "vocab",
             "packId": "tgat_mock_1"
         }

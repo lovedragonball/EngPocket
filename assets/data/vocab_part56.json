@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v5401",
+        "word": "integrated",
+        "translation": "รวม",
+        "pos": "adj",
+        "example": "Integrated system.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5402",
+        "word": "integration",
+        "translation": "การรวม",
+        "pos": "noun",
+        "example": "System integration.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5403",
+        "word": "integrity",
+        "translation": "ความซื่อสัตย์",
+        "pos": "noun",
+        "example": "Personal integrity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5404",
+        "word": "intellectual",
+        "translation": "ทางปัญญา",
+        "pos": "adj",
+        "example": "Intellectual property.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5405",
+        "word": "intelligence",
+        "translation": "ความฉลาด",
+        "pos": "noun",
+        "example": "Artificial intelligence.",
+        "level": "basic"
+    },
+    {
+        "id": "v5406",
+        "word": "intelligent",
+        "translation": "ฉลาด",
+        "pos": "adj",
+        "example": "Very intelligent.",
+        "level": "basic"
+    },
+    {
+        "id": "v5407",
+        "word": "intend",
+        "translation": "ตั้งใจ",
+        "pos": "verb",
+        "example": "I intend to.",
+        "level": "basic"
+    },
+    {
+        "id": "v5408",
+        "word": "intended",
+        "translation": "ที่ตั้งใจ",
+        "pos": "adj",
+        "example": "Intended purpose.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5409",
+        "word": "intense",
+        "translation": "รุนแรง",
+        "pos": "adj",
+        "example": "Intense pain.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5410",
+        "word": "intensify",
+        "translation": "ทวีความรุนแรง",
+        "pos": "verb",
+        "example": "Intensify efforts.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5411",
+        "word": "intensity",
+        "translation": "ความเข้มข้น",
+        "pos": "noun",
+        "example": "High intensity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5412",
+        "word": "intensive",
+        "translation": "เข้มข้น",
+        "pos": "adj",
+        "example": "Intensive care.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5413",
+        "word": "intent",
+        "translation": "ความตั้งใจ",
+        "pos": "noun",
+        "example": "Criminal intent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5414",
+        "word": "intention",
+        "translation": "ความตั้งใจ",
+        "pos": "noun",
+        "example": "Good intention.",
+        "level": "basic"
+    },
+    {
+        "id": "v5415",
+        "word": "intentional",
+        "translation": "จงใจ",
+        "pos": "adj",
+        "example": "Intentional act.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5416",
+        "word": "intentionally",
+        "translation": "โดยเจตนา",
+        "pos": "adv",
+        "example": "Did it intentionally.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5417",
+        "word": "interact",
+        "translation": "มีปฏิสัมพันธ์",
+        "pos": "verb",
+        "example": "Interact with.",
+        "level": "basic"
+    },
+    {
+        "id": "v5418",
+        "word": "interaction",
+        "translation": "ปฏิสัมพันธ์",
+        "pos": "noun",
+        "example": "Social interaction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5419",
+        "word": "interactive",
+        "translation": "โต้ตอบ",
+        "pos": "adj",
+        "example": "Interactive game.",
+        "level": "basic"
+    },
+    {
+        "id": "v5420",
+        "word": "interest",
+        "translation": "ความสนใจ",
+        "pos": "noun",
+        "example": "Lose interest.",
+        "level": "basic"
+    },
+    {
+        "id": "v5421",
+        "word": "interested",
+        "translation": "สนใจ",
+        "pos": "adj",
+        "example": "I'm interested.",
+        "level": "basic"
+    },
+    {
+        "id": "v5422",
+        "word": "interesting",
+        "translation": "น่าสนใจ",
+        "pos": "adj",
+        "example": "Very interesting.",
+        "level": "basic"
+    },
+    {
+        "id": "v5423",
+        "word": "interestingly",
+        "translation": "น่าสนใจ",
+        "pos": "adv",
+        "example": "Interestingly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5424",
+        "word": "interface",
+        "translation": "อินเทอร์เฟซ",
+        "pos": "noun",
+        "example": "User interface.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5425",
+        "word": "interfere",
+        "translation": "แทรกแซง",
+        "pos": "verb",
+        "example": "Don't interfere.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5426",
+        "word": "interference",
+        "translation": "การแทรกแซง",
+        "pos": "noun",
+        "example": "Government interference.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5427",
+        "word": "interim",
+        "translation": "ชั่วคราว",
+        "pos": "adj",
+        "example": "Interim report.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5428",
+        "word": "interior",
+        "translation": "ภายใน",
+        "pos": "noun",
+        "example": "Interior design.",
+        "level": "basic"
+    },
+    {
+        "id": "v5429",
+        "word": "intermediate",
+        "translation": "ระดับกลาง",
+        "pos": "adj",
+        "example": "Intermediate level.",
+        "level": "basic"
+    },
+    {
+        "id": "v5430",
+        "word": "internal",
+        "translation": "ภายใน",
+        "pos": "adj",
+        "example": "Internal affairs.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5431",
+        "word": "internally",
+        "translation": "ภายใน",
+        "pos": "adv",
+        "example": "Used internally.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5432",
+        "word": "international",
+        "translation": "ระหว่างประเทศ",
+        "pos": "adj",
+        "example": "International law.",
+        "level": "basic"
+    },
+    {
+        "id": "v5433",
+        "word": "internationally",
+        "translation": "ระหว่างประเทศ",
+        "pos": "adv",
+        "example": "Internationally recognized.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5434",
+        "word": "internet",
+        "translation": "อินเทอร์เน็ต",
+        "pos": "noun",
+        "example": "Internet access.",
+        "level": "basic"
+    },
+    {
+        "id": "v5435",
+        "word": "interpret",
+        "translation": "ตีความ",
+        "pos": "verb",
+        "example": "Interpret data.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5436",
+        "word": "interpretation",
+        "translation": "การตีความ",
+        "pos": "noun",
+        "example": "Different interpretation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5437",
+        "word": "interpreter",
+        "translation": "ล่าม",
+        "pos": "noun",
+        "example": "Need an interpreter.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5438",
+        "word": "interrupt",
+        "translation": "ขัดจังหวะ",
+        "pos": "verb",
+        "example": "Don't interrupt.",
+        "level": "basic"
+    },
+    {
+        "id": "v5439",
+        "word": "interruption",
+        "translation": "การขัดจังหวะ",
+        "pos": "noun",
+        "example": "Without interruption.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5440",
+        "word": "interval",
+        "translation": "ช่วงเวลา",
+        "pos": "noun",
+        "example": "Regular intervals.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5441",
+        "word": "intervention",
+        "translation": "การแทรกแซง",
+        "pos": "noun",
+        "example": "Military intervention.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5442",
+        "word": "interview",
+        "translation": "สัมภาษณ์",
+        "pos": "noun",
+        "example": "Job interview.",
+        "level": "basic"
+    },
+    {
+        "id": "v5443",
+        "word": "intimate",
+        "translation": "สนิท",
+        "pos": "adj",
+        "example": "Intimate friend.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5444",
+        "word": "into",
+        "translation": "เข้าไป",
+        "pos": "prep",
+        "example": "Go into.",
+        "level": "basic"
+    },
+    {
+        "id": "v5445",
+        "word": "introduce",
+        "translation": "แนะนำ",
+        "pos": "verb",
+        "example": "Let me introduce.",
+        "level": "basic"
+    },
+    {
+        "id": "v5446",
+        "word": "introduction",
+        "translation": "การแนะนำ",
+        "pos": "noun",
+        "example": "Brief introduction.",
+        "level": "basic"
+    },
+    {
+        "id": "v5447",
+        "word": "invade",
+        "translation": "รุกราน",
+        "pos": "verb",
+        "example": "Invade country.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5448",
+        "word": "invasion",
+        "translation": "การรุกราน",
+        "pos": "noun",
+        "example": "Military invasion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5449",
+        "word": "invent",
+        "translation": "ประดิษฐ์",
+        "pos": "verb",
+        "example": "Invent something.",
+        "level": "basic"
+    },
+    {
+        "id": "v5450",
+        "word": "invention",
+        "translation": "สิ่งประดิษฐ์",
+        "pos": "noun",
+        "example": "Great invention.",
+        "level": "basic"
+    },
+    {
+        "id": "v5451",
+        "word": "inventor",
+        "translation": "นักประดิษฐ์",
+        "pos": "noun",
+        "example": "Famous inventor.",
+        "level": "basic"
+    },
+    {
+        "id": "v5452",
+        "word": "inventory",
+        "translation": "สินค้าคงคลัง",
+        "pos": "noun",
+        "example": "Check inventory.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5453",
+        "word": "invest",
+        "translation": "ลงทุน",
+        "pos": "verb",
+        "example": "Invest money.",
+        "level": "basic"
+    },
+    {
+        "id": "v5454",
+        "word": "investigate",
+        "translation": "สืบสวน",
+        "pos": "verb",
+        "example": "Investigate crime.",
+        "level": "basic"
+    },
+    {
+        "id": "v5455",
+        "word": "investigation",
+        "translation": "การสืบสวน",
+        "pos": "noun",
+        "example": "Criminal investigation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5456",
+        "word": "investigator",
+        "translation": "ผู้สืบสวน",
+        "pos": "noun",
+        "example": "Private investigator.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5457",
+        "word": "investment",
+        "translation": "การลงทุน",
+        "pos": "noun",
+        "example": "Good investment.",
+        "level": "basic"
+    },
+    {
+        "id": "v5458",
+        "word": "investor",
+        "translation": "นักลงทุน",
+        "pos": "noun",
+        "example": "Foreign investor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5459",
+        "word": "invisible",
+        "translation": "มองไม่เห็น",
+        "pos": "adj",
+        "example": "Almost invisible.",
+        "level": "basic"
+    },
+    {
+        "id": "v5460",
+        "word": "invitation",
+        "translation": "คำเชิญ",
+        "pos": "noun",
+        "example": "Wedding invitation.",
+        "level": "basic"
+    },
+    {
+        "id": "v5461",
+        "word": "invite",
+        "translation": "เชิญ",
+        "pos": "verb",
+        "example": "Invite friends.",
+        "level": "basic"
+    },
+    {
+        "id": "v5462",
+        "word": "invoke",
+        "translation": "เรียก",
+        "pos": "verb",
+        "example": "Invoke function.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5463",
+        "word": "involve",
+        "translation": "เกี่ยวข้อง",
+        "pos": "verb",
+        "example": "Involve everyone.",
+        "level": "basic"
+    },
+    {
+        "id": "v5464",
+        "word": "involved",
+        "translation": "เกี่ยวข้อง",
+        "pos": "adj",
+        "example": "Get involved.",
+        "level": "basic"
+    },
+    {
+        "id": "v5465",
+        "word": "involvement",
+        "translation": "การมีส่วนร่วม",
+        "pos": "noun",
+        "example": "Active involvement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5466",
+        "word": "ion",
+        "translation": "ไอออน",
+        "pos": "noun",
+        "example": "Lithium ion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5467",
+        "word": "iron",
+        "translation": "เหล็ก",
+        "pos": "noun",
+        "example": "Iron bar.",
+        "level": "basic"
+    },
+    {
+        "id": "v5468",
+        "word": "irony",
+        "translation": "การประชด",
+        "pos": "noun",
+        "example": "The irony is.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5469",
+        "word": "irregular",
+        "translation": "ไม่สม่ำเสมอ",
+        "pos": "adj",
+        "example": "Irregular pattern.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5470",
+        "word": "irrelevant",
+        "translation": "ไม่เกี่ยวข้อง",
+        "pos": "adj",
+        "example": "Irrelevant information.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5471",
+        "word": "irritate",
+        "translation": "ทำให้หงุดหงิด",
+        "pos": "verb",
+        "example": "Irritate someone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5472",
+        "word": "island",
+        "translation": "เกาะ",
+        "pos": "noun",
+        "example": "Tropical island.",
+        "level": "basic"
+    },
+    {
+        "id": "v5473",
+        "word": "isolate",
+        "translation": "แยกออก",
+        "pos": "verb",
+        "example": "Isolate problem.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5474",
+        "word": "isolated",
+        "translation": "แยกออก",
+        "pos": "adj",
+        "example": "Isolated case.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5475",
+        "word": "isolation",
+        "translation": "การแยกตัว",
+        "pos": "noun",
+        "example": "Social isolation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5476",
+        "word": "issue",
+        "translation": "ปัญหา",
+        "pos": "noun",
+        "example": "Main issue.",
+        "level": "basic"
+    },
+    {
+        "id": "v5477",
+        "word": "it",
+        "translation": "มัน",
+        "pos": "pron",
+        "example": "It is.",
+        "level": "basic"
+    },
+    {
+        "id": "v5478",
+        "word": "italian",
+        "translation": "อิตาลี",
+        "pos": "adj",
+        "example": "Italian food.",
+        "level": "basic"
+    },
+    {
+        "id": "v5479",
+        "word": "item",
+        "translation": "รายการ",
+        "pos": "noun",
+        "example": "Menu item.",
+        "level": "basic"
+    },
+    {
+        "id": "v5480",
+        "word": "its",
+        "translation": "ของมัน",
+        "pos": "pron",
+        "example": "Its color.",
+        "level": "basic"
+    },
+    {
+        "id": "v5481",
+        "word": "itself",
+        "translation": "ตัวมันเอง",
+        "pos": "pron",
+        "example": "By itself.",
+        "level": "basic"
+    },
+    {
+        "id": "v5482",
+        "word": "ivory",
+        "translation": "งาช้าง",
+        "pos": "noun",
+        "example": "Ivory tower.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5483",
+        "word": "jacket",
+        "translation": "เสื้อแจ็คเก็ต",
+        "pos": "noun",
+        "example": "Leather jacket.",
+        "level": "basic"
+    },
+    {
+        "id": "v5484",
+        "word": "jail",
+        "translation": "คุก",
+        "pos": "noun",
+        "example": "Go to jail.",
+        "level": "basic"
+    },
+    {
+        "id": "v5485",
+        "word": "jam",
+        "translation": "แยม",
+        "pos": "noun",
+        "example": "Traffic jam.",
+        "level": "basic"
+    },
+    {
+        "id": "v5486",
+        "word": "january",
+        "translation": "มกราคม",
+        "pos": "noun",
+        "example": "In January.",
+        "level": "basic"
+    },
+    {
+        "id": "v5487",
+        "word": "japanese",
+        "translation": "ญี่ปุ่น",
+        "pos": "adj",
+        "example": "Japanese culture.",
+        "level": "basic"
+    },
+    {
+        "id": "v5488",
+        "word": "jar",
+        "translation": "โหล",
+        "pos": "noun",
+        "example": "Glass jar.",
+        "level": "basic"
+    },
+    {
+        "id": "v5489",
+        "word": "jaw",
+        "translation": "ขากรรไกร",
+        "pos": "noun",
+        "example": "Broken jaw.",
+        "level": "basic"
+    },
+    {
+        "id": "v5490",
+        "word": "jazz",
+        "translation": "แจ๊ส",
+        "pos": "noun",
+        "example": "Jazz music.",
+        "level": "basic"
+    },
+    {
+        "id": "v5491",
+        "word": "jealous",
+        "translation": "อิจฉา",
+        "pos": "adj",
+        "example": "I'm jealous.",
+        "level": "basic"
+    },
+    {
+        "id": "v5492",
+        "word": "jealousy",
+        "translation": "ความอิจฉา",
+        "pos": "noun",
+        "example": "Pure jealousy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5493",
+        "word": "jeans",
+        "translation": "กางเกงยีนส์",
+        "pos": "noun",
+        "example": "Blue jeans.",
+        "level": "basic"
+    },
+    {
+        "id": "v5494",
+        "word": "jelly",
+        "translation": "เยลลี่",
+        "pos": "noun",
+        "example": "Fruit jelly.",
+        "level": "basic"
+    },
+    {
+        "id": "v5495",
+        "word": "jet",
+        "translation": "เครื่องบินเจ็ท",
+        "pos": "noun",
+        "example": "Private jet.",
+        "level": "basic"
+    },
+    {
+        "id": "v5496",
+        "word": "jewel",
+        "translation": "อัญมณี",
+        "pos": "noun",
+        "example": "Precious jewel.",
+        "level": "basic"
+    },
+    {
+        "id": "v5497",
+        "word": "jewelry",
+        "translation": "เครื่องประดับ",
+        "pos": "noun",
+        "example": "Gold jewelry.",
+        "level": "basic"
+    },
+    {
+        "id": "v5498",
+        "word": "jewish",
+        "translation": "ยิว",
+        "pos": "adj",
+        "example": "Jewish holiday.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5499",
+        "word": "job",
+        "translation": "งาน",
+        "pos": "noun",
+        "example": "Good job.",
+        "level": "basic"
+    },
+    {
+        "id": "v5500",
+        "word": "jog",
+        "translation": "วิ่งจ๊อกกิ้ง",
+        "pos": "verb",
+        "example": "Go jogging.",
+        "level": "basic"
+    }
+]

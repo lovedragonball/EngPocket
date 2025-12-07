@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v4601",
+        "word": "extensive",
+        "translation": "กว้างขวาง",
+        "pos": "adj",
+        "example": "Extensive research.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4602",
+        "word": "extensively",
+        "translation": "อย่างกว้างขวาง",
+        "pos": "adv",
+        "example": "Used extensively.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4603",
+        "word": "extent",
+        "translation": "ขอบเขต",
+        "pos": "noun",
+        "example": "To some extent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4604",
+        "word": "external",
+        "translation": "ภายนอก",
+        "pos": "adj",
+        "example": "External factor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4605",
+        "word": "extra",
+        "translation": "พิเศษ",
+        "pos": "adj",
+        "example": "Extra charge.",
+        "level": "basic"
+    },
+    {
+        "id": "v4606",
+        "word": "extract",
+        "translation": "สกัด",
+        "pos": "verb",
+        "example": "Extract information.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4607",
+        "word": "extraordinary",
+        "translation": "พิเศษ",
+        "pos": "adj",
+        "example": "Extraordinary talent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4608",
+        "word": "extreme",
+        "translation": "สุดขั้ว",
+        "pos": "adj",
+        "example": "Extreme weather.",
+        "level": "basic"
+    },
+    {
+        "id": "v4609",
+        "word": "extremely",
+        "translation": "อย่างมาก",
+        "pos": "adv",
+        "example": "Extremely happy.",
+        "level": "basic"
+    },
+    {
+        "id": "v4610",
+        "word": "eye",
+        "translation": "ตา",
+        "pos": "noun",
+        "example": "Blue eyes.",
+        "level": "basic"
+    },
+    {
+        "id": "v4611",
+        "word": "eyebrow",
+        "translation": "คิ้ว",
+        "pos": "noun",
+        "example": "Thick eyebrows.",
+        "level": "basic"
+    },
+    {
+        "id": "v4612",
+        "word": "eyelid",
+        "translation": "เปลือกตา",
+        "pos": "noun",
+        "example": "Close eyelids.",
+        "level": "basic"
+    },
+    {
+        "id": "v4613",
+        "word": "fabric",
+        "translation": "ผ้า",
+        "pos": "noun",
+        "example": "Cotton fabric.",
+        "level": "basic"
+    },
+    {
+        "id": "v4614",
+        "word": "face",
+        "translation": "ใบหน้า",
+        "pos": "noun",
+        "example": "Pretty face.",
+        "level": "basic"
+    },
+    {
+        "id": "v4615",
+        "word": "facebook",
+        "translation": "เฟซบุ๊ก",
+        "pos": "noun",
+        "example": "Post on Facebook.",
+        "level": "basic"
+    },
+    {
+        "id": "v4616",
+        "word": "facial",
+        "translation": "ใบหน้า",
+        "pos": "adj",
+        "example": "Facial expression.",
+        "level": "basic"
+    },
+    {
+        "id": "v4617",
+        "word": "facilitate",
+        "translation": "อำนวยความสะดวก",
+        "pos": "verb",
+        "example": "Facilitate learning.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4618",
+        "word": "facility",
+        "translation": "สิ่งอำนวยความสะดวก",
+        "pos": "noun",
+        "example": "Sports facility.",
+        "level": "basic"
+    },
+    {
+        "id": "v4619",
+        "word": "fact",
+        "translation": "ความจริง",
+        "pos": "noun",
+        "example": "In fact.",
+        "level": "basic"
+    },
+    {
+        "id": "v4620",
+        "word": "faction",
+        "translation": "กลุ่ม",
+        "pos": "noun",
+        "example": "Political faction.",
+        "level": "advanced"
+    },
+    {
+        "id": "v4621",
+        "word": "factor",
+        "translation": "ปัจจัย",
+        "pos": "noun",
+        "example": "Key factor.",
+        "level": "basic"
+    },
+    {
+        "id": "v4622",
+        "word": "factory",
+        "translation": "โรงงาน",
+        "pos": "noun",
+        "example": "Car factory.",
+        "level": "basic"
+    },
+    {
+        "id": "v4623",
+        "word": "factual",
+        "translation": "ตามความเป็นจริง",
+        "pos": "adj",
+        "example": "Factual information.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4624",
+        "word": "faculty",
+        "translation": "คณะ",
+        "pos": "noun",
+        "example": "Faculty of Science.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4625",
+        "word": "fade",
+        "translation": "จางหายไป",
+        "pos": "verb",
+        "example": "Colors fade.",
+        "level": "basic"
+    },
+    {
+        "id": "v4626",
+        "word": "fail",
+        "translation": "ล้มเหลว",
+        "pos": "verb",
+        "example": "Don't fail me.",
+        "level": "basic"
+    },
+    {
+        "id": "v4627",
+        "word": "failed",
+        "translation": "ล้มเหลว",
+        "pos": "adj",
+        "example": "Failed attempt.",
+        "level": "basic"
+    },
+    {
+        "id": "v4628",
+        "word": "failure",
+        "translation": "ความล้มเหลว",
+        "pos": "noun",
+        "example": "Epic failure.",
+        "level": "basic"
+    },
+    {
+        "id": "v4629",
+        "word": "faint",
+        "translation": "เป็นลม",
+        "pos": "verb",
+        "example": "Almost fainted.",
+        "level": "basic"
+    },
+    {
+        "id": "v4630",
+        "word": "fair",
+        "translation": "ยุติธรรม",
+        "pos": "adj",
+        "example": "Fair game.",
+        "level": "basic"
+    },
+    {
+        "id": "v4631",
+        "word": "fairly",
+        "translation": "ค่อนข้าง",
+        "pos": "adv",
+        "example": "Fairly good.",
+        "level": "basic"
+    },
+    {
+        "id": "v4632",
+        "word": "fairness",
+        "translation": "ความยุติธรรม",
+        "pos": "noun",
+        "example": "In fairness.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4633",
+        "word": "fairy",
+        "translation": "นางฟ้า",
+        "pos": "noun",
+        "example": "Fairy tale.",
+        "level": "basic"
+    },
+    {
+        "id": "v4634",
+        "word": "faith",
+        "translation": "ศรัทธา",
+        "pos": "noun",
+        "example": "Have faith.",
+        "level": "basic"
+    },
+    {
+        "id": "v4635",
+        "word": "faithful",
+        "translation": "ซื่อสัตย์",
+        "pos": "adj",
+        "example": "Faithful friend.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4636",
+        "word": "fake",
+        "translation": "ปลอม",
+        "pos": "adj",
+        "example": "Fake news.",
+        "level": "basic"
+    },
+    {
+        "id": "v4637",
+        "word": "fall",
+        "translation": "ตก",
+        "pos": "verb",
+        "example": "Fall down.",
+        "level": "basic"
+    },
+    {
+        "id": "v4638",
+        "word": "fallen",
+        "translation": "ร่วงหล่น",
+        "pos": "adj",
+        "example": "Fallen leaves.",
+        "level": "basic"
+    },
+    {
+        "id": "v4639",
+        "word": "false",
+        "translation": "เท็จ",
+        "pos": "adj",
+        "example": "False alarm.",
+        "level": "basic"
+    },
+    {
+        "id": "v4640",
+        "word": "fame",
+        "translation": "ชื่อเสียง",
+        "pos": "noun",
+        "example": "Achieve fame.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4641",
+        "word": "familiar",
+        "translation": "คุ้นเคย",
+        "pos": "adj",
+        "example": "Look familiar.",
+        "level": "basic"
+    },
+    {
+        "id": "v4642",
+        "word": "family",
+        "translation": "ครอบครัว",
+        "pos": "noun",
+        "example": "My family.",
+        "level": "basic"
+    },
+    {
+        "id": "v4643",
+        "word": "famine",
+        "translation": "ทุพภิกขภัย",
+        "pos": "noun",
+        "example": "Severe famine.",
+        "level": "advanced"
+    },
+    {
+        "id": "v4644",
+        "word": "famous",
+        "translation": "มีชื่อเสียง",
+        "pos": "adj",
+        "example": "Famous person.",
+        "level": "basic"
+    },
+    {
+        "id": "v4645",
+        "word": "fan",
+        "translation": "พัดลม",
+        "pos": "noun",
+        "example": "Big fan.",
+        "level": "basic"
+    },
+    {
+        "id": "v4646",
+        "word": "fancy",
+        "translation": "หรูหรา",
+        "pos": "adj",
+        "example": "Fancy restaurant.",
+        "level": "basic"
+    },
+    {
+        "id": "v4647",
+        "word": "fantastic",
+        "translation": "ยอดเยี่ยม",
+        "pos": "adj",
+        "example": "Fantastic job!",
+        "level": "basic"
+    },
+    {
+        "id": "v4648",
+        "word": "fantasy",
+        "translation": "จินตนาการ",
+        "pos": "noun",
+        "example": "Fantasy world.",
+        "level": "basic"
+    },
+    {
+        "id": "v4649",
+        "word": "far",
+        "translation": "ไกล",
+        "pos": "adv",
+        "example": "Not far.",
+        "level": "basic"
+    },
+    {
+        "id": "v4650",
+        "word": "fare",
+        "translation": "ค่าโดยสาร",
+        "pos": "noun",
+        "example": "Bus fare.",
+        "level": "basic"
+    },
+    {
+        "id": "v4651",
+        "word": "farewell",
+        "translation": "ลาก่อน",
+        "pos": "noun",
+        "example": "Say farewell.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4652",
+        "word": "farm",
+        "translation": "ฟาร์ม",
+        "pos": "noun",
+        "example": "Big farm.",
+        "level": "basic"
+    },
+    {
+        "id": "v4653",
+        "word": "farmer",
+        "translation": "ชาวนา",
+        "pos": "noun",
+        "example": "Rice farmer.",
+        "level": "basic"
+    },
+    {
+        "id": "v4654",
+        "word": "farming",
+        "translation": "การทำนา",
+        "pos": "noun",
+        "example": "Organic farming.",
+        "level": "basic"
+    },
+    {
+        "id": "v4655",
+        "word": "fascinating",
+        "translation": "น่าหลงใหล",
+        "pos": "adj",
+        "example": "Fascinating story.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4656",
+        "word": "fashion",
+        "translation": "แฟชั่น",
+        "pos": "noun",
+        "example": "Fashion show.",
+        "level": "basic"
+    },
+    {
+        "id": "v4657",
+        "word": "fashionable",
+        "translation": "ทันสมัย",
+        "pos": "adj",
+        "example": "Fashionable clothes.",
+        "level": "basic"
+    },
+    {
+        "id": "v4658",
+        "word": "fast",
+        "translation": "เร็ว",
+        "pos": "adj",
+        "example": "Fast car.",
+        "level": "basic"
+    },
+    {
+        "id": "v4659",
+        "word": "fat",
+        "translation": "อ้วน",
+        "pos": "adj",
+        "example": "Fat cat.",
+        "level": "basic"
+    },
+    {
+        "id": "v4660",
+        "word": "fatal",
+        "translation": "ร้ายแรง",
+        "pos": "adj",
+        "example": "Fatal error.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4661",
+        "word": "fate",
+        "translation": "โชคชะตา",
+        "pos": "noun",
+        "example": "Accept fate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4662",
+        "word": "father",
+        "translation": "พ่อ",
+        "pos": "noun",
+        "example": "My father.",
+        "level": "basic"
+    },
+    {
+        "id": "v4663",
+        "word": "fatigue",
+        "translation": "ความเหนื่อยล้า",
+        "pos": "noun",
+        "example": "Chronic fatigue.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4664",
+        "word": "fatty",
+        "translation": "มีไขมันสูง",
+        "pos": "adj",
+        "example": "Fatty food.",
+        "level": "basic"
+    },
+    {
+        "id": "v4665",
+        "word": "fault",
+        "translation": "ความผิด",
+        "pos": "noun",
+        "example": "Not my fault.",
+        "level": "basic"
+    },
+    {
+        "id": "v4666",
+        "word": "favor",
+        "translation": "ความโปรดปราน",
+        "pos": "noun",
+        "example": "Do me a favor.",
+        "level": "basic"
+    },
+    {
+        "id": "v4667",
+        "word": "favorable",
+        "translation": "เป็นที่น่าพอใจ",
+        "pos": "adj",
+        "example": "Favorable conditions.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4668",
+        "word": "favorite",
+        "translation": "ชื่นชอบ",
+        "pos": "adj",
+        "example": "My favorite.",
+        "level": "basic"
+    },
+    {
+        "id": "v4669",
+        "word": "fear",
+        "translation": "ความกลัว",
+        "pos": "noun",
+        "example": "No fear.",
+        "level": "basic"
+    },
+    {
+        "id": "v4670",
+        "word": "feast",
+        "translation": "งานเลี้ยง",
+        "pos": "noun",
+        "example": "Wedding feast.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4671",
+        "word": "feat",
+        "translation": "ความสำเร็จ",
+        "pos": "noun",
+        "example": "Amazing feat.",
+        "level": "advanced"
+    },
+    {
+        "id": "v4672",
+        "word": "feather",
+        "translation": "ขนนก",
+        "pos": "noun",
+        "example": "Bird feather.",
+        "level": "basic"
+    },
+    {
+        "id": "v4673",
+        "word": "feature",
+        "translation": "คุณสมบัติ",
+        "pos": "noun",
+        "example": "New feature.",
+        "level": "basic"
+    },
+    {
+        "id": "v4674",
+        "word": "featured",
+        "translation": "นำเสนอ",
+        "pos": "adj",
+        "example": "Featured article.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4675",
+        "word": "federal",
+        "translation": "สหพันธรัฐ",
+        "pos": "adj",
+        "example": "Federal government.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4676",
+        "word": "federation",
+        "translation": "สหพันธ์",
+        "pos": "noun",
+        "example": "Football federation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4677",
+        "word": "fee",
+        "translation": "ค่าธรรมเนียม",
+        "pos": "noun",
+        "example": "Entrance fee.",
+        "level": "basic"
+    },
+    {
+        "id": "v4678",
+        "word": "feed",
+        "translation": "ป้อน",
+        "pos": "verb",
+        "example": "Feed the dog.",
+        "level": "basic"
+    },
+    {
+        "id": "v4679",
+        "word": "feedback",
+        "translation": "ข้อเสนอแนะ",
+        "pos": "noun",
+        "example": "Give feedback.",
+        "level": "basic"
+    },
+    {
+        "id": "v4680",
+        "word": "feel",
+        "translation": "รู้สึก",
+        "pos": "verb",
+        "example": "I feel good.",
+        "level": "basic"
+    },
+    {
+        "id": "v4681",
+        "word": "feeling",
+        "translation": "ความรู้สึก",
+        "pos": "noun",
+        "example": "Strong feeling.",
+        "level": "basic"
+    },
+    {
+        "id": "v4682",
+        "word": "fellow",
+        "translation": "เพื่อน",
+        "pos": "noun",
+        "example": "Fellow student.",
+        "level": "basic"
+    },
+    {
+        "id": "v4683",
+        "word": "fellowship",
+        "translation": "ทุนการศึกษา",
+        "pos": "noun",
+        "example": "Research fellowship.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4684",
+        "word": "felt",
+        "translation": "รู้สึก",
+        "pos": "verb",
+        "example": "I felt happy.",
+        "level": "basic"
+    },
+    {
+        "id": "v4685",
+        "word": "female",
+        "translation": "ผู้หญิง",
+        "pos": "adj",
+        "example": "Female student.",
+        "level": "basic"
+    },
+    {
+        "id": "v4686",
+        "word": "feminine",
+        "translation": "เป็นผู้หญิง",
+        "pos": "adj",
+        "example": "Feminine style.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4687",
+        "word": "feminist",
+        "translation": "สตรีนิยม",
+        "pos": "noun",
+        "example": "Famous feminist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4688",
+        "word": "fence",
+        "translation": "รั้ว",
+        "pos": "noun",
+        "example": "Wooden fence.",
+        "level": "basic"
+    },
+    {
+        "id": "v4689",
+        "word": "ferry",
+        "translation": "เรือข้ามฟาก",
+        "pos": "noun",
+        "example": "Take the ferry.",
+        "level": "basic"
+    },
+    {
+        "id": "v4690",
+        "word": "fertile",
+        "translation": "อุดมสมบูรณ์",
+        "pos": "adj",
+        "example": "Fertile land.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4691",
+        "word": "festival",
+        "translation": "เทศกาล",
+        "pos": "noun",
+        "example": "Music festival.",
+        "level": "basic"
+    },
+    {
+        "id": "v4692",
+        "word": "fetch",
+        "translation": "ไปเอามา",
+        "pos": "verb",
+        "example": "Fetch water.",
+        "level": "basic"
+    },
+    {
+        "id": "v4693",
+        "word": "fever",
+        "translation": "ไข้",
+        "pos": "noun",
+        "example": "High fever.",
+        "level": "basic"
+    },
+    {
+        "id": "v4694",
+        "word": "few",
+        "translation": "น้อย",
+        "pos": "det",
+        "example": "A few.",
+        "level": "basic"
+    },
+    {
+        "id": "v4695",
+        "word": "fewer",
+        "translation": "น้อยกว่า",
+        "pos": "det",
+        "example": "Fewer people.",
+        "level": "basic"
+    },
+    {
+        "id": "v4696",
+        "word": "fiber",
+        "translation": "เส้นใย",
+        "pos": "noun",
+        "example": "High fiber.",
+        "level": "basic"
+    },
+    {
+        "id": "v4697",
+        "word": "fiction",
+        "translation": "นิยาย",
+        "pos": "noun",
+        "example": "Science fiction.",
+        "level": "basic"
+    },
+    {
+        "id": "v4698",
+        "word": "field",
+        "translation": "สนาม",
+        "pos": "noun",
+        "example": "Football field.",
+        "level": "basic"
+    },
+    {
+        "id": "v4699",
+        "word": "fierce",
+        "translation": "ดุร้าย",
+        "pos": "adj",
+        "example": "Fierce competition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4700",
+        "word": "fifteen",
+        "translation": "สิบห้า",
+        "pos": "num",
+        "example": "Fifteen minutes.",
+        "level": "basic"
+    }
+]

@@ -2,7 +2,7 @@
     {
         "id": "grammar_001",
         "title": "Present Simple",
-        "explanation": "Present Simple Tense ใช้กับเหตุการณ์ที่เป็นความจริงทั่วไป กิจวัตรประจำวัน หรือสิ่งที่เกิดขึ้นซ้ำๆ\n\nโครงสร้าง:\n- บอกเล่า: Subject + V1 (เติม s/es สำหรับ he/she/it)\n- ปฏิเสธ: Subject + do/does + not + V1\n- คำถาม: Do/Does + Subject + V1?\n\nคำบ่งชี้: always, usually, often, sometimes, never, every day",
+        "explanation": "ใช้กับเหตุการณ์ที่เป็นความจริงทั่วไป กิจวัตรประจำวัน หรือสิ่งที่เกิดขึ้นซ้ำๆ\n\nโครงสร้าง:\n- บอกเล่า: Subject + V1 (เติม s/es สำหรับ he/she/it)\n- ปฏิเสธ: Subject + do/does + not + V1\n- คำถาม: Do/Does + Subject + V1?\n\nคำบ่งชี้: always, usually, often, sometimes, never, every day",
         "examples": [
             {
                 "sentenceEn": "She works at a hospital.",
@@ -34,8 +34,41 @@
     },
     {
         "id": "grammar_002",
+        "title": "Present Continuous",
+        "explanation": "ใช้กับเหตุการณ์ที่กำลังเกิดขึ้นในขณะที่พูด หรือเหตุการณ์ชั่วคราว\n\nโครงสร้าง:\n- บอกเล่า: Subject + is/am/are + V-ing\n- ปฏิเสธ: Subject + is/am/are + not + V-ing\n- คำถาม: Is/Am/Are + Subject + V-ing?\n\nคำบ่งชี้: now, right now, at the moment, currently",
+        "examples": [
+            {
+                "sentenceEn": "They are playing football now.",
+                "sentenceTh": "พวกเขากำลังเล่นฟุตบอลอยู่ตอนนี้",
+                "highlight": "are playing"
+            },
+            {
+                "sentenceEn": "I am studying English.",
+                "sentenceTh": "ฉันกำลังเรียนภาษาอังกฤษ",
+                "highlight": "am studying"
+            }
+        ],
+        "quizQuestions": [
+            {
+                "id": "q_gram_002",
+                "stem": "Listen! Someone _____ at the door.",
+                "choices": [
+                    "knock",
+                    "knocks",
+                    "is knocking",
+                    "knocked"
+                ],
+                "correctIndex": 2,
+                "explanation": "ใช้ 'is knocking' เพราะมีคำว่า Listen! แสดงว่าเป็นเหตุการณ์ที่กำลังเกิดขึ้นขณะพูด",
+                "skillType": "grammar",
+                "packId": "grammar_002"
+            }
+        ]
+    },
+    {
+        "id": "grammar_003",
         "title": "Present Perfect",
-        "explanation": "Present Perfect Tense ใช้กับเหตุการณ์ที่เกิดขึ้นในอดีตแต่ยังส่งผลถึงปัจจุบัน หรือประสบการณ์ในอดีต\n\nโครงสร้าง: Subject + have/has + V3\n\nการใช้งาน:\n1. ประสบการณ์ในอดีต (I have visited Japan.)\n2. เหตุการณ์ที่เพิ่งเกิด (She has just arrived.)\n3. สถานการณ์ที่ดำเนินมาถึงปัจจุบัน (I have lived here for 5 years.)\n\nคำบ่งชี้: already, yet, just, ever, never, since, for",
+        "explanation": "ใช้กับเหตุการณ์ที่เกิดขึ้นในอดีตแต่ยังส่งผลถึงปัจจุบัน หรือประสบการณ์ในอดีต\n\nโครงสร้าง: Subject + have/has + V3\n\nการใช้งาน:\n1. ประสบการณ์ในอดีต (I have visited Japan.)\n2. เหตุการณ์ที่เพิ่งเกิด (She has just arrived.)\n3. สถานการณ์ที่ดำเนินมาถึงปัจจุบัน (I have lived here for 5 years.)\n\nคำบ่งชี้: already, yet, just, ever, never, since, for",
         "examples": [
             {
                 "sentenceEn": "I have visited Japan twice.",
@@ -50,7 +83,7 @@
         ],
         "quizQuestions": [
             {
-                "id": "q_gram_002",
+                "id": "q_gram_003",
                 "stem": "I _____ this movie before.",
                 "choices": [
                     "see",
@@ -61,14 +94,311 @@
                 "correctIndex": 2,
                 "explanation": "ใช้ Present Perfect 'have seen' เพราะพูดถึงประสบการณ์ในอดีต (ดูมาก่อนหรือยัง)",
                 "skillType": "grammar",
-                "packId": "grammar_002"
+                "packId": "grammar_003"
             }
         ]
     },
     {
-        "id": "grammar_003",
+        "id": "grammar_004",
+        "title": "Present Perfect Continuous",
+        "explanation": "ใช้เน้นความต่อเนื่องของเหตุการณ์ที่เริ่มในอดีตและดำเนินมาจนถึงปัจจุบัน\n\nโครงสร้าง: Subject + have/has + been + V-ing\n\nข้อแตกต่างจาก Present Perfect: เน้นระยะเวลาและความต่อเนื่องของการกระทำ\n\nคำบ่งชี้: for, since, all day, all week",
+        "examples": [
+            {
+                "sentenceEn": "It has been raining all day.",
+                "sentenceTh": "ฝนตกมาตลอดทั้งวันเลย (ยังไม่หยุด)",
+                "highlight": "has been raining"
+            },
+            {
+                "sentenceEn": "I have been waiting for you for 2 hours.",
+                "sentenceTh": "ฉันรอคุณมา 2 ชั่วโมงแล้วนะ",
+                "highlight": "have been waiting"
+            }
+        ],
+        "quizQuestions": [
+            {
+                "id": "q_gram_004",
+                "stem": "She is tired because she _____ all morning.",
+                "choices": [
+                    "runs",
+                    "ran",
+                    "has run",
+                    "has been running"
+                ],
+                "correctIndex": 3,
+                "explanation": "ใช้ 'has been running' เพื่อเน้นว่าวิ่งต่อเนื่องมาตลอดทั้งเช้าจนเหนื่อย",
+                "skillType": "grammar",
+                "packId": "grammar_004"
+            }
+        ]
+    },
+    {
+        "id": "grammar_005",
+        "title": "Past Simple",
+        "explanation": "ใช้กับเหตุการณ์ที่เกิดขึ้นและจบลงแล้วในอดีต\n\nโครงสร้าง: Subject + V2\n\nคำบ่งชี้: yesterday, last night, last week, ...ago, in 1999",
+        "examples": [
+            {
+                "sentenceEn": "I went to the cinema yesterday.",
+                "sentenceTh": "ฉันไปโรงหนังมาเมื่อวาน",
+                "highlight": "went"
+            },
+            {
+                "sentenceEn": "They bought a new car last month.",
+                "sentenceTh": "พวกเขาซื้อรถใหม่เมื่อเดือนที่แล้ว",
+                "highlight": "bought"
+            }
+        ],
+        "quizQuestions": [
+            {
+                "id": "q_gram_005",
+                "stem": "We _____ him at the party last night.",
+                "choices": [
+                    "meet",
+                    "met",
+                    "have met",
+                    "meeting"
+                ],
+                "correctIndex": 1,
+                "explanation": "ใช้ 'met' (V2) เพราะมีคำบอกเวลา 'last night' แสดงว่าเป็นอดีตที่จบไปแล้ว",
+                "skillType": "grammar",
+                "packId": "grammar_005"
+            }
+        ]
+    },
+    {
+        "id": "grammar_006",
+        "title": "Past Continuous",
+        "explanation": "ใช้กับเหตุการณ์ที่กำลังเกิดขึ้น ณ เวลาหนึ่งในอดีต หรือเหตุการณ์ที่กำลังดำเนินอยู่แล้วมีอีกเหตุการณ์เข้ามาแทรก\n\nโครงสร้าง: Subject + was/were + V-ing\n\nการใช้งาน:\n1. เหตุการณ์กำลังเกิดในอดีต (At 8pm yesterday, I was watching TV.)\n2. เหตุการณ์ถูกแทรก (I was sleeping when the phone rang.)\n\nคำบ่งชี้: while, when, at ... (time in past)",
+        "examples": [
+            {
+                "sentenceEn": "I was reading a book when he came in.",
+                "sentenceTh": "ฉันกำลังอ่านหนังสืออยู่ตอนที่เขาเข้ามา",
+                "highlight": "was reading"
+            },
+            {
+                "sentenceEn": "While she was cooking, she cut her finger.",
+                "sentenceTh": "ขณะที่เธอกำลังทำอาหาร เธอทำมีดบาดนิ้ว",
+                "highlight": "was cooking"
+            }
+        ],
+        "quizQuestions": [
+            {
+                "id": "q_gram_006",
+                "stem": "What _____ you _____ at 9 o'clock last night?",
+                "choices": [
+                    "did / do",
+                    "were / doing",
+                    "are / doing",
+                    "have / done"
+                ],
+                "correctIndex": 1,
+                "explanation": "ใช้ 'were doing' เพราะถามถึงการกระทำที่กำลังดำเนินอยู่ ณ เวลาที่ระบุเจาะจงในอดีต",
+                "skillType": "grammar",
+                "packId": "grammar_006"
+            }
+        ]
+    },
+    {
+        "id": "grammar_007",
+        "title": "Past Perfect",
+        "explanation": "ใช้กับเหตุการณ์ที่เกิดขึ้นและจบลง ก่อนที่จะมีอีกเหตุการณ์หนึ่งเกิดขึ้นในอดีต (อดีตซ้อนอดีต)\n\nโครงสร้าง: Subject + had + V3\n\nหลักการจำ: เกิดก่อนใช้ Past Perfect (had + V3), เกิดทีหลังใช้ Past Simple (V2)\n\nคำบ่งชี้: before, after, by the time",
+        "examples": [
+            {
+                "sentenceEn": "The train had left when we arrived at the station.",
+                "sentenceTh": "รถไฟออกไปแล้ว ตอนที่เราไปถึงสถานี",
+                "highlight": "had left"
+            },
+            {
+                "sentenceEn": "She had finished her work before she went out.",
+                "sentenceTh": "เธอทำงานเสร็จก่อนที่จะออกไปข้างนอก",
+                "highlight": "had finished"
+            }
+        ],
+        "quizQuestions": [
+            {
+                "id": "q_gram_007",
+                "stem": "By the time the police arrived, the thief _____.",
+                "choices": [
+                    "escaped",
+                    "has escaped",
+                    "had escaped",
+                    "was escaping"
+                ],
+                "correctIndex": 2,
+                "explanation": "ใช้ 'had escaped' เพราะโจรหนีไป 'ก่อน' ที่ตำรวจจะมาถึง (เหตุการณ์เกิดก่อนในอดีต)",
+                "skillType": "grammar",
+                "packId": "grammar_007"
+            }
+        ]
+    },
+    {
+        "id": "grammar_008",
+        "title": "Past Perfect Continuous",
+        "explanation": "ใช้คล้าย Past Perfect แต่เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อน\n\nโครงสร้าง: Subject + had + been + V-ing\n\nการใช้งาน: บอกว่าทำอะไรมาอย่างต่อเนื่องเป็นระยะเวลาหนึ่ง ก่อนที่จะมีอีกเหตุการณ์ในอดีตเกิดขึ้น\n\nคำบ่งชี้: for, since, before",
+        "examples": [
+            {
+                "sentenceEn": "He had been waiting for an hour when the bus finally arrived.",
+                "sentenceTh": "เขารอมาเป็นชั่วโมงแล้ว ตอนที่รถเมล์มาถึงในที่สุด",
+                "highlight": "had been waiting"
+            },
+            {
+                "sentenceEn": "They had been playing football for 2 hours before it started to rain.",
+                "sentenceTh": "พวกเขาเล่นฟุตบอลมา 2 ชั่วโมงก่อนที่ฝนจะเริ่มตก",
+                "highlight": "had been playing"
+            }
+        ],
+        "quizQuestions": [
+            {
+                "id": "q_gram_008",
+                "stem": "Her eyes were red because she _____.",
+                "choices": [
+                    "cried",
+                    "has cried",
+                    "had cried",
+                    "had been crying"
+                ],
+                "correctIndex": 3,
+                "explanation": "ใช้ 'had been crying' เพื่ออธิบายสาเหตุในอดีตที่ทำต่อเนื่องมา (ร้องไห้ต่อเนื่องจนตาแดง)",
+                "skillType": "grammar",
+                "packId": "grammar_008"
+            }
+        ]
+    },
+    {
+        "id": "grammar_009",
+        "title": "Future Simple",
+        "explanation": "ใช้กับเหตุการณ์ที่จะเกิดขึ้นในอนาคต การคาดเดา หรือการตัดสินใจทันที\n\nโครงสร้าง: Subject + will + V1\n\nการใช้งาน:\n1. การคาดเดา (I think it will rain.)\n2. สัญญา/เสนอตัว (I will help you.)\n3. ตัดสินใจขณะพูด (I will have coffee.)\n\nคำบ่งชี้: tomorrow, next week, soon, in the future",
+        "examples": [
+            {
+                "sentenceEn": "I will call you tomorrow.",
+                "sentenceTh": "ฉันจะโทรหาคุณพรุ่งนี้",
+                "highlight": "will call"
+            },
+            {
+                "sentenceEn": "Don't worry, I will help you.",
+                "sentenceTh": "ไม่ต้องห่วง ฉันจะช่วยคุณเอง",
+                "highlight": "will help"
+            }
+        ],
+        "quizQuestions": [
+            {
+                "id": "q_gram_009",
+                "stem": "I think it _____ rain soon.",
+                "choices": [
+                    "is",
+                    "will",
+                    "going to",
+                    "wills"
+                ],
+                "correctIndex": 1,
+                "explanation": "ใช้ 'will' สำหรับการคาดเดาเหตุการณ์ในอนาคต",
+                "skillType": "grammar",
+                "packId": "grammar_009"
+            }
+        ]
+    },
+    {
+        "id": "grammar_010",
+        "title": "Future Continuous",
+        "explanation": "ใช้กับเหตุการณ์ที่จะกำลังเกิดขึ้น ณ เวลาที่ระบุเจาะจงในอนาคต\n\nโครงสร้าง: Subject + will + be + V-ing\n\nคำบ่งชี้: at this time tomorrow, at 10 o'clock tomorrow",
+        "examples": [
+            {
+                "sentenceEn": "At this time tomorrow, I will be flying to London.",
+                "sentenceTh": "เวลานี้พรุ่งนี้ ฉันจะกำลังบินไปลอนดอน",
+                "highlight": "will be flying"
+            },
+            {
+                "sentenceEn": "Don't call me at 8. I will be having dinner.",
+                "sentenceTh": "อย่าโทรมาตอน 8 โมงนะ ฉันจะกำลังทานมื้อเย็นอยู่",
+                "highlight": "will be having"
+            }
+        ],
+        "quizQuestions": [
+            {
+                "id": "q_gram_010",
+                "stem": "This time next week, we _____ on the beach.",
+                "choices": [
+                    "lie",
+                    "will lie",
+                    "will be lying",
+                    "are lying"
+                ],
+                "correctIndex": 2,
+                "explanation": "ใช้ 'will be lying' เพราะระบุเวลาเจาะจงในอนาคต (เวลานี้ของสัปดาห์หน้า) ว่าจะกำลังทำอะไรอยู่",
+                "skillType": "grammar",
+                "packId": "grammar_010"
+            }
+        ]
+    },
+    {
+        "id": "grammar_011",
+        "title": "Future Perfect",
+        "explanation": "ใช้กับเหตุการณ์ที่จะทำเสร็จสมบูรณ์ ณ เวลาใดเวลาหนึ่งในอนาคต\n\nโครงสร้าง: Subject + will + have + V3\n\nคำบ่งชี้: by tomorrow, by next year, by the time...",
+        "examples": [
+            {
+                "sentenceEn": "I will have finished this book by next week.",
+                "sentenceTh": "ฉันจะอ่านหนังสือเล่มนี้จบภายในสัปดาห์หน้า",
+                "highlight": "will have finished"
+            },
+            {
+                "sentenceEn": "By the time you arrive, we will have left.",
+                "sentenceTh": "ตอนที่คุณมาถึง พวกเราคงจะออกไปแล้ว",
+                "highlight": "will have left"
+            }
+        ],
+        "quizQuestions": [
+            {
+                "id": "q_gram_011",
+                "stem": "By the end of this year, I _____ here for 10 years.",
+                "choices": [
+                    "work",
+                    "will work",
+                    "will have worked",
+                    "am working"
+                ],
+                "correctIndex": 2,
+                "explanation": "ใช้ 'will have worked' เพื่อบอกว่าเมื่อถึงจุดหนึ่งในอนาคต เหตุการณ์จะดำเนินมาครบกำหนด (ทำงานครบ 10 ปี)",
+                "skillType": "grammar",
+                "packId": "grammar_011"
+            }
+        ]
+    },
+    {
+        "id": "grammar_012",
+        "title": "Future Perfect Continuous",
+        "explanation": "ใช้เน้นระยะเวลาของการกระทำที่จะดำเนินต่อเนื่องไปจนถึงจุดหนึ่งในอนาคต\n\nโครงสร้าง: Subject + will + have + been + V-ing\n\nคำบ่งชี้: by..., for...",
+        "examples": [
+            {
+                "sentenceEn": "By next month, I will have been living here for a year.",
+                "sentenceTh": "เมื่อถึงเดือนหน้า ฉันก็จะอาศัยอยู่ที่นี่ครบ 1 ปีพอดี (และยังอยู่ต่อ)",
+                "highlight": "will have been living"
+            },
+            {
+                "sentenceEn": "When he retires, he will have been teaching for 30 years.",
+                "sentenceTh": "เมื่อเขาเกษียณ เขาจะสอนหนังสือมาครบ 30 ปี",
+                "highlight": "will have been teaching"
+            }
+        ],
+        "quizQuestions": [
+            {
+                "id": "q_gram_012",
+                "stem": "By 5 o'clock, we _____ for 3 hours.",
+                "choices": [
+                    "wait",
+                    "will wait",
+                    "will have waited",
+                    "will have been waiting"
+                ],
+                "correctIndex": 3,
+                "explanation": "ใช้ 'will have been waiting' เน้นระยะเวลาของการรอคอยที่จะต่อเนื่องไปจนถึง 5 โมง",
+                "skillType": "grammar",
+                "packId": "grammar_012"
+            }
+        ]
+    },
+    {
+        "id": "grammar_013",
         "title": "Passive Voice",
-        "explanation": "Passive Voice ใช้เมื่อต้องการเน้นกรรม (ผู้ถูกกระทำ) มากกว่าประธาน (ผู้กระทำ)\n\nโครงสร้าง: Object + be + V3 + (by + Subject)\n\nตัวอย่างการเปลี่ยน:\n- Active: The cat ate the fish.\n- Passive: The fish was eaten by the cat.\n\nใช้เมื่อ:\n1. ไม่รู้ว่าใครเป็นผู้กระทำ\n2. ต้องการเน้นผู้ถูกกระทำ\n3. ผู้กระทำไม่สำคัญ",
+        "explanation": "ใช้เมื่อต้องการเน้นกรรม (ผู้ถูกกระทำ) มากกว่าประธาน (ผู้กระทำ)\n\nโครงสร้าง: Object + be + V3 + (by + Subject)\n\nตัวอย่างการเปลี่ยน:\n- Active: The cat ate the fish.\n- Passive: The fish was eaten by the cat.\n\nใช้เมื่อ:\n1. ไม่รู้ว่าใครเป็นผู้กระทำ\n2. ต้องการเน้นผู้ถูกกระทำ\n3. ผู้กระทำไม่สำคัญ",
         "examples": [
             {
                 "sentenceEn": "The letter was written by John.",
@@ -83,7 +413,7 @@
         ],
         "quizQuestions": [
             {
-                "id": "q_gram_003",
+                "id": "q_gram_013",
                 "stem": "The book _____ by millions of people.",
                 "choices": [
                     "reads",
@@ -94,7 +424,7 @@
                 "correctIndex": 2,
                 "explanation": "ใช้ Passive Voice 'is read' เพราะหนังสือถูกอ่าน (ไม่ได้อ่านเอง)",
                 "skillType": "grammar",
-                "packId": "grammar_003"
+                "packId": "grammar_013"
             }
         ]
     }

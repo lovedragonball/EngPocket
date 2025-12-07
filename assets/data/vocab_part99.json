@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v9701",
+        "word": "column",
+        "translation": "คอลัมน์",
+        "pos": "noun",
+        "example": "Newspaper column.",
+        "level": "basic"
+    },
+    {
+        "id": "v9702",
+        "word": "columnist",
+        "translation": "คอลัมนิสต์",
+        "pos": "noun",
+        "example": "Famous columnist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9703",
+        "word": "coma",
+        "translation": "โคม่า",
+        "pos": "noun",
+        "example": "In a coma.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9704",
+        "word": "combat",
+        "translation": "การต่อสู้",
+        "pos": "noun",
+        "example": "Close combat.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9705",
+        "word": "combination",
+        "translation": "การรวมกัน",
+        "pos": "noun",
+        "example": "Perfect combination.",
+        "level": "basic"
+    },
+    {
+        "id": "v9706",
+        "word": "combine",
+        "translation": "รวม",
+        "pos": "verb",
+        "example": "Combine together.",
+        "level": "basic"
+    },
+    {
+        "id": "v9707",
+        "word": "combined",
+        "translation": "รวม",
+        "pos": "adj",
+        "example": "Combined effort.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9708",
+        "word": "comeback",
+        "translation": "การกลับมา",
+        "pos": "noun",
+        "example": "Great comeback.",
+        "level": "basic"
+    },
+    {
+        "id": "v9709",
+        "word": "comedian",
+        "translation": "นักแสดงตลก",
+        "pos": "noun",
+        "example": "Famous comedian.",
+        "level": "basic"
+    },
+    {
+        "id": "v9710",
+        "word": "comedy",
+        "translation": "ตลก",
+        "pos": "noun",
+        "example": "Comedy show.",
+        "level": "basic"
+    },
+    {
+        "id": "v9711",
+        "word": "comet",
+        "translation": "ดาวหาง",
+        "pos": "noun",
+        "example": "Halley's Comet.",
+        "level": "basic"
+    },
+    {
+        "id": "v9712",
+        "word": "comfort",
+        "translation": "ความสะดวกสบาย",
+        "pos": "noun",
+        "example": "Great comfort.",
+        "level": "basic"
+    },
+    {
+        "id": "v9713",
+        "word": "comfortable",
+        "translation": "สะดวกสบาย",
+        "pos": "adj",
+        "example": "Very comfortable.",
+        "level": "basic"
+    },
+    {
+        "id": "v9714",
+        "word": "comfortably",
+        "translation": "อย่างสบาย",
+        "pos": "adv",
+        "example": "Sit comfortably.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9715",
+        "word": "comic",
+        "translation": "การ์ตูน",
+        "pos": "noun",
+        "example": "Comic book.",
+        "level": "basic"
+    },
+    {
+        "id": "v9716",
+        "word": "comical",
+        "translation": "ตลก",
+        "pos": "adj",
+        "example": "Very comical.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9717",
+        "word": "coming",
+        "translation": "ที่จะมาถึง",
+        "pos": "adj",
+        "example": "Coming soon.",
+        "level": "basic"
+    },
+    {
+        "id": "v9718",
+        "word": "comma",
+        "translation": "จุลภาค",
+        "pos": "noun",
+        "example": "Use comma.",
+        "level": "basic"
+    },
+    {
+        "id": "v9719",
+        "word": "command",
+        "translation": "สั่ง",
+        "pos": "verb",
+        "example": "Take command.",
+        "level": "basic"
+    },
+    {
+        "id": "v9720",
+        "word": "commander",
+        "translation": "ผู้บัญชาการ",
+        "pos": "noun",
+        "example": "Army commander.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9721",
+        "word": "commemorate",
+        "translation": "ระลึก",
+        "pos": "verb",
+        "example": "Commemorate event.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9722",
+        "word": "commemoration",
+        "translation": "การระลึก",
+        "pos": "noun",
+        "example": "In commemoration.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9723",
+        "word": "commence",
+        "translation": "เริ่มต้น",
+        "pos": "verb",
+        "example": "Commence now.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9724",
+        "word": "commencement",
+        "translation": "การเริ่ม",
+        "pos": "noun",
+        "example": "Commencement ceremony.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9725",
+        "word": "commend",
+        "translation": "ยกย่อง",
+        "pos": "verb",
+        "example": "Highly commend.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9726",
+        "word": "commendable",
+        "translation": "น่าชมเชย",
+        "pos": "adj",
+        "example": "Very commendable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9727",
+        "word": "commentary",
+        "translation": "ความคิดเห็น",
+        "pos": "noun",
+        "example": "Sports commentary.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9728",
+        "word": "commentator",
+        "translation": "ผู้วิจารณ์",
+        "pos": "noun",
+        "example": "Political commentator.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9729",
+        "word": "commerce",
+        "translation": "การค้า",
+        "pos": "noun",
+        "example": "E-commerce.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9730",
+        "word": "commercial",
+        "translation": "โฆษณา",
+        "pos": "noun",
+        "example": "TV commercial.",
+        "level": "basic"
+    },
+    {
+        "id": "v9731",
+        "word": "commercially",
+        "translation": "ในเชิงพาณิชย์",
+        "pos": "adv",
+        "example": "Commercially viable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9732",
+        "word": "commission",
+        "translation": "คณะกรรมการ",
+        "pos": "noun",
+        "example": "Sales commission.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9733",
+        "word": "commissioner",
+        "translation": "กรรมาธิการ",
+        "pos": "noun",
+        "example": "Police commissioner.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9734",
+        "word": "commit",
+        "translation": "มุ่งมั่น",
+        "pos": "verb",
+        "example": "Commit to.",
+        "level": "basic"
+    },
+    {
+        "id": "v9735",
+        "word": "commitment",
+        "translation": "ความมุ่งมั่น",
+        "pos": "noun",
+        "example": "Full commitment.",
+        "level": "basic"
+    },
+    {
+        "id": "v9736",
+        "word": "committed",
+        "translation": "มุ่งมั่น",
+        "pos": "adj",
+        "example": "Fully committed.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9737",
+        "word": "committee",
+        "translation": "คณะกรรมการ",
+        "pos": "noun",
+        "example": "Executive committee.",
+        "level": "basic"
+    },
+    {
+        "id": "v9738",
+        "word": "commodity",
+        "translation": "สินค้า",
+        "pos": "noun",
+        "example": "Basic commodity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9739",
+        "word": "commonplace",
+        "translation": "ธรรมดา",
+        "pos": "adj",
+        "example": "Very commonplace.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9740",
+        "word": "commonwealth",
+        "translation": "เครือจักรภพ",
+        "pos": "noun",
+        "example": "British Commonwealth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9741",
+        "word": "communal",
+        "translation": "ส่วนรวม",
+        "pos": "adj",
+        "example": "Communal area.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9742",
+        "word": "commune",
+        "translation": "ชุมชน",
+        "pos": "noun",
+        "example": "Hippie commune.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9743",
+        "word": "communicate",
+        "translation": "สื่อสาร",
+        "pos": "verb",
+        "example": "Communicate clearly.",
+        "level": "basic"
+    },
+    {
+        "id": "v9744",
+        "word": "communication",
+        "translation": "การสื่อสาร",
+        "pos": "noun",
+        "example": "Good communication.",
+        "level": "basic"
+    },
+    {
+        "id": "v9745",
+        "word": "communicative",
+        "translation": "ชอบสื่อสาร",
+        "pos": "adj",
+        "example": "Very communicative.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9746",
+        "word": "communion",
+        "translation": "ศีลมหาสนิท",
+        "pos": "noun",
+        "example": "Holy Communion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9747",
+        "word": "communism",
+        "translation": "คอมมิวนิสต์",
+        "pos": "noun",
+        "example": "Fall of communism.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9748",
+        "word": "communist",
+        "translation": "คอมมิวนิสต์",
+        "pos": "noun",
+        "example": "Communist party.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9749",
+        "word": "community",
+        "translation": "ชุมชน",
+        "pos": "noun",
+        "example": "Local community.",
+        "level": "basic"
+    },
+    {
+        "id": "v9750",
+        "word": "commute",
+        "translation": "เดินทางไปทำงาน",
+        "pos": "verb",
+        "example": "Daily commute.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9751",
+        "word": "commuter",
+        "translation": "ผู้เดินทาง",
+        "pos": "noun",
+        "example": "Daily commuter.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9752",
+        "word": "compact",
+        "translation": "กะทัดรัด",
+        "pos": "adj",
+        "example": "Compact car.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9753",
+        "word": "companion",
+        "translation": "เพื่อน",
+        "pos": "noun",
+        "example": "Travel companion.",
+        "level": "basic"
+    },
+    {
+        "id": "v9754",
+        "word": "companionship",
+        "translation": "มิตรภาพ",
+        "pos": "noun",
+        "example": "Good companionship.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9755",
+        "word": "comparable",
+        "translation": "เทียบได้",
+        "pos": "adj",
+        "example": "Comparable to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9756",
+        "word": "comparative",
+        "translation": "เปรียบเทียบ",
+        "pos": "adj",
+        "example": "Comparative study.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9757",
+        "word": "comparatively",
+        "translation": "โดยเปรียบเทียบ",
+        "pos": "adv",
+        "example": "Comparatively.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9758",
+        "word": "compare",
+        "translation": "เปรียบเทียบ",
+        "pos": "verb",
+        "example": "Compare prices.",
+        "level": "basic"
+    },
+    {
+        "id": "v9759",
+        "word": "compared",
+        "translation": "เมื่อเปรียบเทียบ",
+        "pos": "prep",
+        "example": "Compared to.",
+        "level": "basic"
+    },
+    {
+        "id": "v9760",
+        "word": "comparison",
+        "translation": "การเปรียบเทียบ",
+        "pos": "noun",
+        "example": "Make comparison.",
+        "level": "basic"
+    },
+    {
+        "id": "v9761",
+        "word": "compartment",
+        "translation": "ช่อง",
+        "pos": "noun",
+        "example": "Secret compartment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9762",
+        "word": "compass",
+        "translation": "เข็มทิศ",
+        "pos": "noun",
+        "example": "Use compass.",
+        "level": "basic"
+    },
+    {
+        "id": "v9763",
+        "word": "compassion",
+        "translation": "ความเห็นอกเห็นใจ",
+        "pos": "noun",
+        "example": "Show compassion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9764",
+        "word": "compassionate",
+        "translation": "เห็นอกเห็นใจ",
+        "pos": "adj",
+        "example": "Compassionate person.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9765",
+        "word": "compatibility",
+        "translation": "ความเข้ากันได้",
+        "pos": "noun",
+        "example": "Check compatibility.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9766",
+        "word": "compatible",
+        "translation": "เข้ากันได้",
+        "pos": "adj",
+        "example": "Fully compatible.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9767",
+        "word": "compel",
+        "translation": "บังคับ",
+        "pos": "verb",
+        "example": "Compel to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9768",
+        "word": "compelling",
+        "translation": "น่าสนใจ",
+        "pos": "adj",
+        "example": "Compelling story.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9769",
+        "word": "compensate",
+        "translation": "ชดเชย",
+        "pos": "verb",
+        "example": "Compensate for.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9770",
+        "word": "compensation",
+        "translation": "ค่าตอบแทน",
+        "pos": "noun",
+        "example": "Fair compensation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9771",
+        "word": "compete",
+        "translation": "แข่งขัน",
+        "pos": "verb",
+        "example": "Compete with.",
+        "level": "basic"
+    },
+    {
+        "id": "v9772",
+        "word": "competence",
+        "translation": "ความสามารถ",
+        "pos": "noun",
+        "example": "Professional competence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9773",
+        "word": "competent",
+        "translation": "มีความสามารถ",
+        "pos": "adj",
+        "example": "Very competent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9774",
+        "word": "competing",
+        "translation": "แข่งขัน",
+        "pos": "adj",
+        "example": "Competing interests.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9775",
+        "word": "competition",
+        "translation": "การแข่งขัน",
+        "pos": "noun",
+        "example": "Tough competition.",
+        "level": "basic"
+    },
+    {
+        "id": "v9776",
+        "word": "competitive",
+        "translation": "แข่งขัน",
+        "pos": "adj",
+        "example": "Very competitive.",
+        "level": "basic"
+    },
+    {
+        "id": "v9777",
+        "word": "competitively",
+        "translation": "อย่างแข่งขัน",
+        "pos": "adv",
+        "example": "Price competitively.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9778",
+        "word": "competitiveness",
+        "translation": "ความสามารถในการแข่งขัน",
+        "pos": "noun",
+        "example": "Global competitiveness.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9779",
+        "word": "competitor",
+        "translation": "คู่แข่ง",
+        "pos": "noun",
+        "example": "Main competitor.",
+        "level": "basic"
+    },
+    {
+        "id": "v9780",
+        "word": "compilation",
+        "translation": "การรวบรวม",
+        "pos": "noun",
+        "example": "Music compilation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9781",
+        "word": "compile",
+        "translation": "รวบรวม",
+        "pos": "verb",
+        "example": "Compile data.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9782",
+        "word": "complacent",
+        "translation": "พอใจในตัวเอง",
+        "pos": "adj",
+        "example": "Too complacent.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9783",
+        "word": "complain",
+        "translation": "บ่น",
+        "pos": "verb",
+        "example": "Don't complain.",
+        "level": "basic"
+    },
+    {
+        "id": "v9784",
+        "word": "complaint",
+        "translation": "ข้อร้องเรียน",
+        "pos": "noun",
+        "example": "File complaint.",
+        "level": "basic"
+    },
+    {
+        "id": "v9785",
+        "word": "complement",
+        "translation": "เสริม",
+        "pos": "verb",
+        "example": "Complement each other.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9786",
+        "word": "complementary",
+        "translation": "เสริม",
+        "pos": "adj",
+        "example": "Complementary colors.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9787",
+        "word": "complete",
+        "translation": "เสร็จสมบูรณ์",
+        "pos": "adj",
+        "example": "Task complete.",
+        "level": "basic"
+    },
+    {
+        "id": "v9788",
+        "word": "completed",
+        "translation": "เสร็จสิ้น",
+        "pos": "adj",
+        "example": "Successfully completed.",
+        "level": "basic"
+    },
+    {
+        "id": "v9789",
+        "word": "completely",
+        "translation": "อย่างสมบูรณ์",
+        "pos": "adv",
+        "example": "Completely agree.",
+        "level": "basic"
+    },
+    {
+        "id": "v9790",
+        "word": "completion",
+        "translation": "ความสมบูรณ์",
+        "pos": "noun",
+        "example": "Near completion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9791",
+        "word": "complex",
+        "translation": "ซับซ้อน",
+        "pos": "adj",
+        "example": "Very complex.",
+        "level": "basic"
+    },
+    {
+        "id": "v9792",
+        "word": "complexion",
+        "translation": "ผิวพรรณ",
+        "pos": "noun",
+        "example": "Fair complexion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9793",
+        "word": "complexity",
+        "translation": "ความซับซ้อน",
+        "pos": "noun",
+        "example": "High complexity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9794",
+        "word": "compliance",
+        "translation": "การปฏิบัติตาม",
+        "pos": "noun",
+        "example": "Legal compliance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9795",
+        "word": "compliant",
+        "translation": "ยินยอม",
+        "pos": "adj",
+        "example": "Fully compliant.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9796",
+        "word": "complicate",
+        "translation": "ทำให้ซับซ้อน",
+        "pos": "verb",
+        "example": "Don't complicate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9797",
+        "word": "complicated",
+        "translation": "ซับซ้อน",
+        "pos": "adj",
+        "example": "Very complicated.",
+        "level": "basic"
+    },
+    {
+        "id": "v9798",
+        "word": "complication",
+        "translation": "ภาวะแทรกซ้อน",
+        "pos": "noun",
+        "example": "Medical complication.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9799",
+        "word": "compliment",
+        "translation": "คำชม",
+        "pos": "noun",
+        "example": "Nice compliment.",
+        "level": "basic"
+    },
+    {
+        "id": "v9800",
+        "word": "complimentary",
+        "translation": "ฟรี",
+        "pos": "adj",
+        "example": "Complimentary breakfast.",
+        "level": "intermediate"
+    }
+]

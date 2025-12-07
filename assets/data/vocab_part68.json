@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v6601",
+        "word": "prime",
+        "translation": "หลัก",
+        "pos": "adj",
+        "example": "Prime Minister.",
+        "level": "basic"
+    },
+    {
+        "id": "v6602",
+        "word": "primitive",
+        "translation": "ดั้งเดิม",
+        "pos": "adj",
+        "example": "Primitive society.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6603",
+        "word": "prince",
+        "translation": "เจ้าชาย",
+        "pos": "noun",
+        "example": "Crown Prince.",
+        "level": "basic"
+    },
+    {
+        "id": "v6604",
+        "word": "princess",
+        "translation": "เจ้าหญิง",
+        "pos": "noun",
+        "example": "Beautiful princess.",
+        "level": "basic"
+    },
+    {
+        "id": "v6605",
+        "word": "principal",
+        "translation": "อาจารย์ใหญ่",
+        "pos": "noun",
+        "example": "School principal.",
+        "level": "basic"
+    },
+    {
+        "id": "v6606",
+        "word": "principle",
+        "translation": "หลักการ",
+        "pos": "noun",
+        "example": "Basic principle.",
+        "level": "basic"
+    },
+    {
+        "id": "v6607",
+        "word": "print",
+        "translation": "พิมพ์",
+        "pos": "verb",
+        "example": "Print document.",
+        "level": "basic"
+    },
+    {
+        "id": "v6608",
+        "word": "printer",
+        "translation": "เครื่องพิมพ์",
+        "pos": "noun",
+        "example": "Laser printer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6609",
+        "word": "printing",
+        "translation": "การพิมพ์",
+        "pos": "noun",
+        "example": "Printing press.",
+        "level": "basic"
+    },
+    {
+        "id": "v6610",
+        "word": "prior",
+        "translation": "ก่อน",
+        "pos": "adj",
+        "example": "Prior experience.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6611",
+        "word": "priority",
+        "translation": "ลำดับความสำคัญ",
+        "pos": "noun",
+        "example": "Top priority.",
+        "level": "basic"
+    },
+    {
+        "id": "v6612",
+        "word": "prison",
+        "translation": "คุก",
+        "pos": "noun",
+        "example": "Go to prison.",
+        "level": "basic"
+    },
+    {
+        "id": "v6613",
+        "word": "prisoner",
+        "translation": "นักโทษ",
+        "pos": "noun",
+        "example": "Political prisoner.",
+        "level": "basic"
+    },
+    {
+        "id": "v6614",
+        "word": "privacy",
+        "translation": "ความเป็นส่วนตัว",
+        "pos": "noun",
+        "example": "Protect privacy.",
+        "level": "basic"
+    },
+    {
+        "id": "v6615",
+        "word": "private",
+        "translation": "ส่วนตัว",
+        "pos": "adj",
+        "example": "Private life.",
+        "level": "basic"
+    },
+    {
+        "id": "v6616",
+        "word": "privately",
+        "translation": "เป็นการส่วนตัว",
+        "pos": "adv",
+        "example": "Speak privately.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6617",
+        "word": "privilege",
+        "translation": "สิทธิพิเศษ",
+        "pos": "noun",
+        "example": "Great privilege.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6618",
+        "word": "prize",
+        "translation": "รางวัล",
+        "pos": "noun",
+        "example": "Nobel Prize.",
+        "level": "basic"
+    },
+    {
+        "id": "v6619",
+        "word": "probability",
+        "translation": "ความน่าจะเป็น",
+        "pos": "noun",
+        "example": "High probability.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6620",
+        "word": "probable",
+        "translation": "น่าจะ",
+        "pos": "adj",
+        "example": "Probable cause.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6621",
+        "word": "probably",
+        "translation": "น่าจะ",
+        "pos": "adv",
+        "example": "Probably.",
+        "level": "basic"
+    },
+    {
+        "id": "v6622",
+        "word": "probe",
+        "translation": "สืบสวน",
+        "pos": "verb",
+        "example": "Probe into.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6623",
+        "word": "problem",
+        "translation": "ปัญหา",
+        "pos": "noun",
+        "example": "Big problem.",
+        "level": "basic"
+    },
+    {
+        "id": "v6624",
+        "word": "problematic",
+        "translation": "เป็นปัญหา",
+        "pos": "adj",
+        "example": "Highly problematic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6625",
+        "word": "procedure",
+        "translation": "ขั้นตอน",
+        "pos": "noun",
+        "example": "Standard procedure.",
+        "level": "basic"
+    },
+    {
+        "id": "v6626",
+        "word": "proceed",
+        "translation": "ดำเนินการ",
+        "pos": "verb",
+        "example": "Please proceed.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6627",
+        "word": "proceeding",
+        "translation": "การดำเนินการ",
+        "pos": "noun",
+        "example": "Court proceedings.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6628",
+        "word": "proceeds",
+        "translation": "รายได้",
+        "pos": "noun",
+        "example": "Sales proceeds.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6629",
+        "word": "process",
+        "translation": "กระบวนการ",
+        "pos": "noun",
+        "example": "Long process.",
+        "level": "basic"
+    },
+    {
+        "id": "v6630",
+        "word": "processing",
+        "translation": "การประมวลผล",
+        "pos": "noun",
+        "example": "Data processing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6631",
+        "word": "processor",
+        "translation": "โปรเซสเซอร์",
+        "pos": "noun",
+        "example": "Food processor.",
+        "level": "basic"
+    },
+    {
+        "id": "v6632",
+        "word": "proclaim",
+        "translation": "ประกาศ",
+        "pos": "verb",
+        "example": "Proclaim victory.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6633",
+        "word": "produce",
+        "translation": "ผลิต",
+        "pos": "verb",
+        "example": "Produce goods.",
+        "level": "basic"
+    },
+    {
+        "id": "v6634",
+        "word": "producer",
+        "translation": "ผู้ผลิต",
+        "pos": "noun",
+        "example": "Film producer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6635",
+        "word": "product",
+        "translation": "ผลิตภัณฑ์",
+        "pos": "noun",
+        "example": "New product.",
+        "level": "basic"
+    },
+    {
+        "id": "v6636",
+        "word": "production",
+        "translation": "การผลิต",
+        "pos": "noun",
+        "example": "Mass production.",
+        "level": "basic"
+    },
+    {
+        "id": "v6637",
+        "word": "productive",
+        "translation": "มีประสิทธิผล",
+        "pos": "adj",
+        "example": "Be productive.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6638",
+        "word": "productivity",
+        "translation": "ผลิตภาพ",
+        "pos": "noun",
+        "example": "Increase productivity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6639",
+        "word": "profession",
+        "translation": "อาชีพ",
+        "pos": "noun",
+        "example": "Medical profession.",
+        "level": "basic"
+    },
+    {
+        "id": "v6640",
+        "word": "professional",
+        "translation": "มืออาชีพ",
+        "pos": "adj",
+        "example": "Very professional.",
+        "level": "basic"
+    },
+    {
+        "id": "v6641",
+        "word": "professionally",
+        "translation": "อย่างมืออาชีพ",
+        "pos": "adv",
+        "example": "Act professionally.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6642",
+        "word": "professor",
+        "translation": "ศาสตราจารย์",
+        "pos": "noun",
+        "example": "University professor.",
+        "level": "basic"
+    },
+    {
+        "id": "v6643",
+        "word": "profile",
+        "translation": "โปรไฟล์",
+        "pos": "noun",
+        "example": "User profile.",
+        "level": "basic"
+    },
+    {
+        "id": "v6644",
+        "word": "profit",
+        "translation": "กำไร",
+        "pos": "noun",
+        "example": "Make profit.",
+        "level": "basic"
+    },
+    {
+        "id": "v6645",
+        "word": "profitable",
+        "translation": "ให้ผลกำไร",
+        "pos": "adj",
+        "example": "Very profitable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6646",
+        "word": "profound",
+        "translation": "ลึกซึ้ง",
+        "pos": "adj",
+        "example": "Profound impact.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6647",
+        "word": "program",
+        "translation": "โปรแกรม",
+        "pos": "noun",
+        "example": "TV program.",
+        "level": "basic"
+    },
+    {
+        "id": "v6648",
+        "word": "programmer",
+        "translation": "โปรแกรมเมอร์",
+        "pos": "noun",
+        "example": "Software programmer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6649",
+        "word": "programming",
+        "translation": "การเขียนโปรแกรม",
+        "pos": "noun",
+        "example": "Computer programming.",
+        "level": "basic"
+    },
+    {
+        "id": "v6650",
+        "word": "progress",
+        "translation": "ความก้าวหน้า",
+        "pos": "noun",
+        "example": "Make progress.",
+        "level": "basic"
+    },
+    {
+        "id": "v6651",
+        "word": "progressive",
+        "translation": "ก้าวหน้า",
+        "pos": "adj",
+        "example": "Progressive thinking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6652",
+        "word": "prohibit",
+        "translation": "ห้าม",
+        "pos": "verb",
+        "example": "Smoking prohibited.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6653",
+        "word": "project",
+        "translation": "โครงการ",
+        "pos": "noun",
+        "example": "New project.",
+        "level": "basic"
+    },
+    {
+        "id": "v6654",
+        "word": "projection",
+        "translation": "การคาดการณ์",
+        "pos": "noun",
+        "example": "Sales projection.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6655",
+        "word": "prominent",
+        "translation": "เด่น",
+        "pos": "adj",
+        "example": "Prominent figure.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6656",
+        "word": "promise",
+        "translation": "สัญญา",
+        "pos": "verb",
+        "example": "I promise.",
+        "level": "basic"
+    },
+    {
+        "id": "v6657",
+        "word": "promising",
+        "translation": "มีแววดี",
+        "pos": "adj",
+        "example": "Promising future.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6658",
+        "word": "promote",
+        "translation": "ส่งเสริม",
+        "pos": "verb",
+        "example": "Promote product.",
+        "level": "basic"
+    },
+    {
+        "id": "v6659",
+        "word": "promotion",
+        "translation": "การเลื่อนตำแหน่ง",
+        "pos": "noun",
+        "example": "Get promotion.",
+        "level": "basic"
+    },
+    {
+        "id": "v6660",
+        "word": "prompt",
+        "translation": "รวดเร็ว",
+        "pos": "adj",
+        "example": "Prompt response.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6661",
+        "word": "promptly",
+        "translation": "ทันที",
+        "pos": "adv",
+        "example": "Reply promptly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6662",
+        "word": "pronounce",
+        "translation": "ออกเสียง",
+        "pos": "verb",
+        "example": "Pronounce correctly.",
+        "level": "basic"
+    },
+    {
+        "id": "v6663",
+        "word": "pronunciation",
+        "translation": "การออกเสียง",
+        "pos": "noun",
+        "example": "Correct pronunciation.",
+        "level": "basic"
+    },
+    {
+        "id": "v6664",
+        "word": "proof",
+        "translation": "หลักฐาน",
+        "pos": "noun",
+        "example": "Show proof.",
+        "level": "basic"
+    },
+    {
+        "id": "v6665",
+        "word": "proper",
+        "translation": "เหมาะสม",
+        "pos": "adj",
+        "example": "In proper order.",
+        "level": "basic"
+    },
+    {
+        "id": "v6666",
+        "word": "properly",
+        "translation": "อย่างเหมาะสม",
+        "pos": "adv",
+        "example": "Function properly.",
+        "level": "basic"
+    },
+    {
+        "id": "v6667",
+        "word": "property",
+        "translation": "ทรัพย์สิน",
+        "pos": "noun",
+        "example": "Private property.",
+        "level": "basic"
+    },
+    {
+        "id": "v6668",
+        "word": "proportion",
+        "translation": "สัดส่วน",
+        "pos": "noun",
+        "example": "Right proportion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6669",
+        "word": "proposal",
+        "translation": "ข้อเสนอ",
+        "pos": "noun",
+        "example": "Marriage proposal.",
+        "level": "basic"
+    },
+    {
+        "id": "v6670",
+        "word": "propose",
+        "translation": "เสนอ",
+        "pos": "verb",
+        "example": "Propose idea.",
+        "level": "basic"
+    },
+    {
+        "id": "v6671",
+        "word": "proposed",
+        "translation": "ที่เสนอ",
+        "pos": "adj",
+        "example": "Proposed plan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6672",
+        "word": "proposition",
+        "translation": "ข้อเสนอ",
+        "pos": "noun",
+        "example": "Business proposition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6673",
+        "word": "prose",
+        "translation": "ร้อยแก้ว",
+        "pos": "noun",
+        "example": "Written in prose.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6674",
+        "word": "prosecute",
+        "translation": "ฟ้องร้อง",
+        "pos": "verb",
+        "example": "Prosecute criminals.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6675",
+        "word": "prosecution",
+        "translation": "การฟ้องร้อง",
+        "pos": "noun",
+        "example": "Criminal prosecution.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6676",
+        "word": "prosecutor",
+        "translation": "อัยการ",
+        "pos": "noun",
+        "example": "State prosecutor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6677",
+        "word": "prospect",
+        "translation": "อนาคต",
+        "pos": "noun",
+        "example": "Good prospects.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6678",
+        "word": "prospective",
+        "translation": "ในอนาคต",
+        "pos": "adj",
+        "example": "Prospective buyer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6679",
+        "word": "prosperity",
+        "translation": "ความเจริญรุ่งเรือง",
+        "pos": "noun",
+        "example": "Economic prosperity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6680",
+        "word": "protect",
+        "translation": "ปกป้อง",
+        "pos": "verb",
+        "example": "Protect yourself.",
+        "level": "basic"
+    },
+    {
+        "id": "v6681",
+        "word": "protection",
+        "translation": "การปกป้อง",
+        "pos": "noun",
+        "example": "Need protection.",
+        "level": "basic"
+    },
+    {
+        "id": "v6682",
+        "word": "protective",
+        "translation": "ปกป้อง",
+        "pos": "adj",
+        "example": "Protective gear.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6683",
+        "word": "protein",
+        "translation": "โปรตีน",
+        "pos": "noun",
+        "example": "High protein.",
+        "level": "basic"
+    },
+    {
+        "id": "v6684",
+        "word": "protest",
+        "translation": "ประท้วง",
+        "pos": "noun",
+        "example": "Public protest.",
+        "level": "basic"
+    },
+    {
+        "id": "v6685",
+        "word": "protester",
+        "translation": "ผู้ประท้วง",
+        "pos": "noun",
+        "example": "Street protester.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6686",
+        "word": "protocol",
+        "translation": "ระเบียบการ",
+        "pos": "noun",
+        "example": "Safety protocol.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6687",
+        "word": "proud",
+        "translation": "ภูมิใจ",
+        "pos": "adj",
+        "example": "I'm proud.",
+        "level": "basic"
+    },
+    {
+        "id": "v6688",
+        "word": "proudly",
+        "translation": "อย่างภาคภูมิ",
+        "pos": "adv",
+        "example": "Stand proudly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6689",
+        "word": "prove",
+        "translation": "พิสูจน์",
+        "pos": "verb",
+        "example": "Prove it.",
+        "level": "basic"
+    },
+    {
+        "id": "v6690",
+        "word": "proven",
+        "translation": "พิสูจน์แล้ว",
+        "pos": "adj",
+        "example": "Proven method.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6691",
+        "word": "provide",
+        "translation": "ให้",
+        "pos": "verb",
+        "example": "Provide service.",
+        "level": "basic"
+    },
+    {
+        "id": "v6692",
+        "word": "provided",
+        "translation": "หากว่า",
+        "pos": "conj",
+        "example": "Provided that.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6693",
+        "word": "provider",
+        "translation": "ผู้ให้บริการ",
+        "pos": "noun",
+        "example": "Service provider.",
+        "level": "basic"
+    },
+    {
+        "id": "v6694",
+        "word": "province",
+        "translation": "จังหวัด",
+        "pos": "noun",
+        "example": "Large province.",
+        "level": "basic"
+    },
+    {
+        "id": "v6695",
+        "word": "provincial",
+        "translation": "ของจังหวัด",
+        "pos": "adj",
+        "example": "Provincial government.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6696",
+        "word": "provision",
+        "translation": "บทบัญญัติ",
+        "pos": "noun",
+        "example": "Legal provision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6697",
+        "word": "provoke",
+        "translation": "ยั่วยุ",
+        "pos": "verb",
+        "example": "Provoke anger.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6698",
+        "word": "psychological",
+        "translation": "ทางจิตวิทยา",
+        "pos": "adj",
+        "example": "Psychological effect.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6699",
+        "word": "psychologist",
+        "translation": "นักจิตวิทยา",
+        "pos": "noun",
+        "example": "Clinical psychologist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6700",
+        "word": "psychology",
+        "translation": "จิตวิทยา",
+        "pos": "noun",
+        "example": "Study psychology.",
+        "level": "intermediate"
+    }
+]

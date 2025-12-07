@@ -2,146 +2,332 @@
 library;
 
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../../../../config/app_theme.dart';
+import '../../../../core/services/srs_service.dart';
 import '../widgets/stats_card.dart';
 
-class ProgressHomeScreen extends StatelessWidget {
+class ProgressHomeScreen extends StatefulWidget {
   const ProgressHomeScreen({super.key});
 
   @override
+  State<ProgressHomeScreen> createState() => _ProgressHomeScreenState();
+}
+
+class _ProgressHomeScreenState extends State<ProgressHomeScreen> {
+  final SrsService _srsService = SrsService();
+  bool _isLoading = true;
+
+  // Stats
+  int _streak = 0;
+  int _mastered = 0;
+  int _learned = 0;
+  int _dueToday = 0;
+  int _examsTaken = 0;
+  int _averageScore = 0;
+  List<Map<String, dynamic>> _recentExams = [];
+
+  @override
+  void initState() {
+    super.initState();
+    _loadStats();
+  }
+
+  Future<void> _loadStats() async {
+    await _srsService.init();
+    final prefs = await SharedPreferences.getInstance();
+
+    // Get SRS stats
+    final stats = _srsService.getStats();
+
+    // Get SharedPrefs data
+    final streak = prefs.getInt('streak') ?? 0;
+
+    // Get exam history from SharedPrefs
+    final examHistory = <Map<String, dynamic>>[];
+    final examCount = prefs.getInt('examCount') ?? 0;
+    int totalScore = 0;
+
+    for (int i = 0; i < examCount && i < 5; i++) {
+      final examName = prefs.getString('exam_${i}_name');
+      final examScore = prefs.getInt('exam_${i}_score') ?? 0;
+      final examTotal = prefs.getInt('exam_${i}_total') ?? 1;
+      final examDateStr = prefs.getString('exam_${i}_date');
+
+      if (examName != null) {
+        DateTime? examDate;
+        try {
+          examDate = examDateStr != null
+              ? DateTime.parse(examDateStr)
+              : DateTime.now();
+        } catch (_) {
+          examDate = DateTime.now();
+        }
+
+        examHistory.add({
+          'name': examName,
+          'score': examScore,
+          'total': examTotal,
+          'date': examDate,
+        });
+
+        totalScore += ((examScore / examTotal) * 100).round();
+      }
+    }
+
+    if (mounted) {
+      setState(() {
+        _streak = streak;
+        _mastered = stats['mastered'] ?? 0;
+        _learned = stats['learned'] ?? 0;
+        _dueToday = stats['dueToday'] ?? 0;
+        _examsTaken = examCount;
+        _averageScore = examCount > 0 ? (totalScore / examCount).round() : 0;
+        _recentExams = examHistory;
+        _isLoading = false;
+      });
+    }
+  }
+
+  @override
   Widget build(BuildContext context) {
+    if (_isLoading) {
+      return Scaffold(
+        appBar: AppBar(title: const Text('📊 Progress Pocket')),
+        body: const Center(child: CircularProgressIndicator()),
+      );
+    }
+
     return Scaffold(
       appBar: AppBar(
         title: const Text('📊 Progress Pocket'),
+        actions: [
+          Padding(
+            padding: const EdgeInsets.only(right: 8),
+            child: Material(
+              color: Colors.transparent,
+              child: InkWell(
+                onTap: () => context.push('/statistics'),
+                borderRadius: BorderRadius.circular(12),
+                child: Container(
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                  decoration: BoxDecoration(
+                    gradient: LinearGradient(
+                      colors: [
+                        AppTheme.primaryColor,
+                        AppTheme.primaryColor.withValues(alpha: 0.8),
+                      ],
+                    ),
+                    borderRadius: BorderRadius.circular(12),
+                    boxShadow: [
+                      BoxShadow(
+                        color: AppTheme.primaryColor.withValues(alpha: 0.3),
+                        blurRadius: 8,
+                        offset: const Offset(0, 2),
+                      ),
+                    ],
+                  ),
+                  child: const Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Icon(
+                        Icons.bar_chart_rounded,
+                        color: Colors.white,
+                        size: 20,
+                      ),
+                      SizedBox(width: 4),
+                      Text(
+                        'สถิติ',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontWeight: FontWeight.w600,
+                          fontSize: 13,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ],
       ),
-      body: SingleChildScrollView(
-        padding: const EdgeInsets.all(16),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            // Streak Card
-            Container(
-              width: double.infinity,
-              padding: const EdgeInsets.all(20),
-              decoration: BoxDecoration(
-                gradient: LinearGradient(
-                  begin: Alignment.topLeft,
-                  end: Alignment.bottomRight,
-                  colors: [
-                    AppTheme.progressColor,
-                    AppTheme.progressColor.withValues(alpha: 0.8),
+      body: RefreshIndicator(
+        onRefresh: _loadStats,
+        child: SingleChildScrollView(
+          physics: const AlwaysScrollableScrollPhysics(),
+          padding: const EdgeInsets.all(16),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              // Streak Card
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.all(20),
+                decoration: BoxDecoration(
+                  gradient: LinearGradient(
+                    begin: Alignment.topLeft,
+                    end: Alignment.bottomRight,
+                    colors: [
+                      AppTheme.progressColor,
+                      AppTheme.progressColor.withValues(alpha: 0.8),
+                    ],
+                  ),
+                  borderRadius: BorderRadius.circular(20),
+                ),
+                child: Column(
+                  children: [
+                    const Icon(
+                      Icons.local_fire_department_rounded,
+                      color: Colors.white,
+                      size: 48,
+                    ),
+                    const SizedBox(height: 8),
+                    Text(
+                      '🔥 $_streak วันติดต่อกัน',
+                      style: const TextStyle(
+                        fontSize: 24,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.white,
+                      ),
+                    ),
+                    const SizedBox(height: 4),
+                    Text(
+                      _streak > 0
+                          ? 'สุดยอด! เรียนต่อเนื่องเพื่อรักษา streak!'
+                          : 'เริ่มเรียนวันนี้เพื่อสร้าง streak!',
+                      style: TextStyle(
+                        fontSize: 14,
+                        color: Colors.white.withValues(alpha: 0.8),
+                      ),
+                    ),
                   ],
                 ),
-                borderRadius: BorderRadius.circular(20),
               ),
-              child: Column(
+              const SizedBox(height: 24),
+
+              // Stats Grid
+              const Text(
+                'สถิติของฉัน',
+                style: TextStyle(
+                  fontSize: 18,
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+              const SizedBox(height: 16),
+              GridView.count(
+                shrinkWrap: true,
+                physics: const NeverScrollableScrollPhysics(),
+                crossAxisCount: 2,
+                mainAxisSpacing: 12,
+                crossAxisSpacing: 12,
+                childAspectRatio: 1.2,
                 children: [
-                  const Icon(
-                    Icons.local_fire_department_rounded,
-                    color: Colors.white,
-                    size: 48,
+                  StatsCard(
+                    title: 'คำศัพท์ที่จำได้',
+                    value: '$_mastered',
+                    subtitle: 'เรียนแล้ว $_learned คำ',
+                    icon: Icons.book_rounded,
+                    color: AppTheme.vocabColor,
                   ),
-                  const SizedBox(height: 8),
-                  const Text(
-                    '🔥 5 วันติดต่อกัน',
-                    style: TextStyle(
-                      fontSize: 24,
-                      fontWeight: FontWeight.bold,
-                      color: Colors.white,
-                    ),
+                  StatsCard(
+                    title: 'รอทบทวน',
+                    value: '$_dueToday',
+                    subtitle: 'วันนี้',
+                    icon: Icons.schedule_rounded,
+                    color: AppTheme.warningColor,
                   ),
-                  const SizedBox(height: 4),
-                  Text(
-                    'เรียนต่อเนื่องเพื่อรักษา streak!',
-                    style: TextStyle(
-                      fontSize: 14,
-                      color: Colors.white.withValues(alpha: 0.8),
-                    ),
+                  StatsCard(
+                    title: 'ข้อสอบที่ทำ',
+                    value: '$_examsTaken',
+                    icon: Icons.assignment_rounded,
+                    color: AppTheme.examColor,
+                  ),
+                  StatsCard(
+                    title: 'คะแนนเฉลี่ย',
+                    value: '$_averageScore%',
+                    icon: Icons.trending_up_rounded,
+                    color: _averageScore >= 60
+                        ? AppTheme.successColor
+                        : AppTheme.errorColor,
                   ),
                 ],
               ),
-            ),
-            const SizedBox(height: 24),
+              const SizedBox(height: 24),
 
-            // Stats Grid
-            const Text(
-              'สถิติของฉัน',
-              style: TextStyle(
-                fontSize: 18,
-                fontWeight: FontWeight.w600,
+              // Vocab Progress
+              const Text(
+                'ความก้าวหน้าคำศัพท์',
+                style: TextStyle(
+                  fontSize: 18,
+                  fontWeight: FontWeight.w600,
+                ),
               ),
-            ),
-            const SizedBox(height: 16),
-            GridView.count(
-              shrinkWrap: true,
-              physics: const NeverScrollableScrollPhysics(),
-              crossAxisCount: 2,
-              mainAxisSpacing: 12,
-              crossAxisSpacing: 12,
-              childAspectRatio: 1.2,
-              children: const [
-                StatsCard(
-                  title: 'คำศัพท์ที่จำได้',
-                  value: '82',
-                  subtitle: '+5 สัปดาห์นี้',
-                  icon: Icons.book_rounded,
-                  color: AppTheme.vocabColor,
-                ),
-                StatsCard(
-                  title: 'วันที่เรียน',
-                  value: '15',
-                  icon: Icons.calendar_today_rounded,
-                  color: AppTheme.primaryColor,
-                ),
-                StatsCard(
-                  title: 'ข้อสอบที่ทำ',
-                  value: '8',
-                  icon: Icons.assignment_rounded,
-                  color: AppTheme.examColor,
-                ),
-                StatsCard(
-                  title: 'คะแนนเฉลี่ย',
-                  value: '72%',
-                  icon: Icons.trending_up_rounded,
-                  color: AppTheme.successColor,
-                ),
-              ],
-            ),
-            const SizedBox(height: 24),
+              const SizedBox(height: 16),
+              _buildVocabProgress(),
+              const SizedBox(height: 24),
 
-            // Vocab Progress
-            const Text(
-              'ความก้าวหน้าคำศัพท์',
-              style: TextStyle(
-                fontSize: 18,
-                fontWeight: FontWeight.w600,
+              // Recent Exams
+              const Text(
+                'ข้อสอบล่าสุด',
+                style: TextStyle(
+                  fontSize: 18,
+                  fontWeight: FontWeight.w600,
+                ),
               ),
-            ),
-            const SizedBox(height: 16),
-            _buildVocabProgress(),
-            const SizedBox(height: 24),
-
-            // Recent Exams
-            const Text(
-              'ข้อสอบล่าสุด',
-              style: TextStyle(
-                fontSize: 18,
-                fontWeight: FontWeight.w600,
-              ),
-            ),
-            const SizedBox(height: 16),
-            _buildRecentExam('TGAT Mock Test 1', 24, 30,
-                DateTime.now().subtract(const Duration(days: 1))),
-            const SizedBox(height: 8),
-            _buildRecentExam('A-Level Mock Test 1', 35, 50,
-                DateTime.now().subtract(const Duration(days: 3))),
-          ],
+              const SizedBox(height: 16),
+              if (_recentExams.isEmpty)
+                Container(
+                  width: double.infinity,
+                  padding: const EdgeInsets.all(20),
+                  decoration: BoxDecoration(
+                    color: Colors.grey.shade100,
+                    borderRadius: BorderRadius.circular(12),
+                  ),
+                  child: Column(
+                    children: [
+                      Icon(
+                        Icons.assignment_outlined,
+                        size: 40,
+                        color: Colors.grey.shade400,
+                      ),
+                      const SizedBox(height: 8),
+                      Text(
+                        'ยังไม่มีประวัติการสอบ',
+                        style: TextStyle(color: Colors.grey.shade600),
+                      ),
+                      const SizedBox(height: 8),
+                      ElevatedButton(
+                        onPressed: () => context.go('/exam'),
+                        child: const Text('ไปทำข้อสอบ'),
+                      ),
+                    ],
+                  ),
+                )
+              else
+                ..._recentExams.map((exam) => Padding(
+                      padding: const EdgeInsets.only(bottom: 8),
+                      child: _buildRecentExam(
+                        exam['name'] as String,
+                        exam['score'] as int,
+                        exam['total'] as int,
+                        exam['date'] as DateTime,
+                      ),
+                    )),
+            ],
+          ),
         ),
       ),
     );
   }
 
   Widget _buildVocabProgress() {
+    final total = _mastered + _learned + _dueToday;
+    final displayTotal =
+        total > 0 ? total : 100; // Use 100 as default for display
+
     return Container(
       padding: const EdgeInsets.all(16),
       decoration: BoxDecoration(
@@ -156,12 +342,14 @@ class ProgressHomeScreen extends StatelessWidget {
       ),
       child: Column(
         children: [
-          _buildProgressRow('จำได้แล้ว', 82, 150, AppTheme.successColor),
-          const SizedBox(height: 12),
-          _buildProgressRow('กำลังเรียน', 23, 150, AppTheme.warningColor),
+          _buildProgressRow(
+              'จำได้แล้ว', _mastered, displayTotal, AppTheme.successColor),
           const SizedBox(height: 12),
           _buildProgressRow(
-              'ยังไม่ได้เรียน', 45, 150, AppTheme.textSecondaryColor),
+              'กำลังเรียน', _learned, displayTotal, AppTheme.warningColor),
+          const SizedBox(height: 12),
+          _buildProgressRow(
+              'รอทบทวน', _dueToday, displayTotal, AppTheme.primaryColor),
         ],
       ),
     );
@@ -192,7 +380,7 @@ class ProgressHomeScreen extends StatelessWidget {
         ClipRRect(
           borderRadius: BorderRadius.circular(4),
           child: LinearProgressIndicator(
-            value: value / total,
+            value: total > 0 ? value / total : 0,
             backgroundColor: color.withValues(alpha: 0.2),
             valueColor: AlwaysStoppedAnimation(color),
             minHeight: 8,
@@ -203,7 +391,7 @@ class ProgressHomeScreen extends StatelessWidget {
   }
 
   Widget _buildRecentExam(String name, int score, int total, DateTime date) {
-    final percentage = (score / total * 100).toInt();
+    final percentage = total > 0 ? (score / total * 100).toInt() : 0;
 
     return Container(
       padding: const EdgeInsets.all(16),

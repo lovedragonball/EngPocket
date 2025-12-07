@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v4401",
+        "word": "emerging",
+        "translation": "เกิดใหม่",
+        "pos": "adj",
+        "example": "Emerging market.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4402",
+        "word": "emission",
+        "translation": "การปล่อย",
+        "pos": "noun",
+        "example": "Carbon emission.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4403",
+        "word": "emit",
+        "translation": "ปล่อย",
+        "pos": "verb",
+        "example": "Emit light.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4404",
+        "word": "emotion",
+        "translation": "อารมณ์",
+        "pos": "noun",
+        "example": "Strong emotion.",
+        "level": "basic"
+    },
+    {
+        "id": "v4405",
+        "word": "emotional",
+        "translation": "ทางอารมณ์",
+        "pos": "adj",
+        "example": "Emotional support.",
+        "level": "basic"
+    },
+    {
+        "id": "v4406",
+        "word": "emotionally",
+        "translation": "ทางอารมณ์",
+        "pos": "adv",
+        "example": "Emotionally attached.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4407",
+        "word": "emperor",
+        "translation": "จักรพรรดิ",
+        "pos": "noun",
+        "example": "Roman emperor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4408",
+        "word": "emphasis",
+        "translation": "การเน้นย้ำ",
+        "pos": "noun",
+        "example": "Put emphasis on.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4409",
+        "word": "emphasize",
+        "translation": "เน้น",
+        "pos": "verb",
+        "example": "Emphasize importance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4410",
+        "word": "empire",
+        "translation": "จักรวรรดิ",
+        "pos": "noun",
+        "example": "Roman Empire.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4411",
+        "word": "employ",
+        "translation": "จ้าง",
+        "pos": "verb",
+        "example": "Employ workers.",
+        "level": "basic"
+    },
+    {
+        "id": "v4412",
+        "word": "employee",
+        "translation": "พนักงาน",
+        "pos": "noun",
+        "example": "New employee.",
+        "level": "basic"
+    },
+    {
+        "id": "v4413",
+        "word": "employer",
+        "translation": "นายจ้าง",
+        "pos": "noun",
+        "example": "Good employer.",
+        "level": "basic"
+    },
+    {
+        "id": "v4414",
+        "word": "employment",
+        "translation": "การจ้างงาน",
+        "pos": "noun",
+        "example": "Full employment.",
+        "level": "basic"
+    },
+    {
+        "id": "v4415",
+        "word": "empower",
+        "translation": "ให้อำนาจ",
+        "pos": "verb",
+        "example": "Empower women.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4416",
+        "word": "empty",
+        "translation": "ว่างเปล่า",
+        "pos": "adj",
+        "example": "Empty room.",
+        "level": "basic"
+    },
+    {
+        "id": "v4417",
+        "word": "enable",
+        "translation": "ทำให้สามารถ",
+        "pos": "verb",
+        "example": "Enable feature.",
+        "level": "basic"
+    },
+    {
+        "id": "v4418",
+        "word": "encounter",
+        "translation": "พบเจอ",
+        "pos": "verb",
+        "example": "Encounter problems.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4419",
+        "word": "encourage",
+        "translation": "ให้กำลังใจ",
+        "pos": "verb",
+        "example": "Encourage learning.",
+        "level": "basic"
+    },
+    {
+        "id": "v4420",
+        "word": "encouragement",
+        "translation": "กำลังใจ",
+        "pos": "noun",
+        "example": "Words of encouragement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4421",
+        "word": "encouraging",
+        "translation": "ให้กำลังใจ",
+        "pos": "adj",
+        "example": "Encouraging news.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4422",
+        "word": "end",
+        "translation": "จบ",
+        "pos": "noun",
+        "example": "The end.",
+        "level": "basic"
+    },
+    {
+        "id": "v4423",
+        "word": "endangered",
+        "translation": "ใกล้สูญพันธุ์",
+        "pos": "adj",
+        "example": "Endangered species.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4424",
+        "word": "ending",
+        "translation": "ตอนจบ",
+        "pos": "noun",
+        "example": "Happy ending.",
+        "level": "basic"
+    },
+    {
+        "id": "v4425",
+        "word": "endless",
+        "translation": "ไม่มีที่สิ้นสุด",
+        "pos": "adj",
+        "example": "Endless possibilities.",
+        "level": "basic"
+    },
+    {
+        "id": "v4426",
+        "word": "endorse",
+        "translation": "รับรอง",
+        "pos": "verb",
+        "example": "Endorse product.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4427",
+        "word": "endorsement",
+        "translation": "การรับรอง",
+        "pos": "noun",
+        "example": "Celebrity endorsement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4428",
+        "word": "endure",
+        "translation": "อดทน",
+        "pos": "verb",
+        "example": "Endure hardship.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4429",
+        "word": "enemy",
+        "translation": "ศัตรู",
+        "pos": "noun",
+        "example": "Common enemy.",
+        "level": "basic"
+    },
+    {
+        "id": "v4430",
+        "word": "energy",
+        "translation": "พลังงาน",
+        "pos": "noun",
+        "example": "Clean energy.",
+        "level": "basic"
+    },
+    {
+        "id": "v4431",
+        "word": "enforce",
+        "translation": "บังคับใช้",
+        "pos": "verb",
+        "example": "Enforce law.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4432",
+        "word": "enforcement",
+        "translation": "การบังคับใช้",
+        "pos": "noun",
+        "example": "Law enforcement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4433",
+        "word": "engage",
+        "translation": "มีส่วนร่วม",
+        "pos": "verb",
+        "example": "Engage audience.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4434",
+        "word": "engaged",
+        "translation": "หมั้น",
+        "pos": "adj",
+        "example": "Get engaged.",
+        "level": "basic"
+    },
+    {
+        "id": "v4435",
+        "word": "engagement",
+        "translation": "การหมั้น",
+        "pos": "noun",
+        "example": "Engagement ring.",
+        "level": "basic"
+    },
+    {
+        "id": "v4436",
+        "word": "engaging",
+        "translation": "น่าสนใจ",
+        "pos": "adj",
+        "example": "Engaging content.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4437",
+        "word": "engine",
+        "translation": "เครื่องยนต์",
+        "pos": "noun",
+        "example": "Car engine.",
+        "level": "basic"
+    },
+    {
+        "id": "v4438",
+        "word": "engineer",
+        "translation": "วิศวกร",
+        "pos": "noun",
+        "example": "Software engineer.",
+        "level": "basic"
+    },
+    {
+        "id": "v4439",
+        "word": "engineering",
+        "translation": "วิศวกรรม",
+        "pos": "noun",
+        "example": "Civil engineering.",
+        "level": "basic"
+    },
+    {
+        "id": "v4440",
+        "word": "enhance",
+        "translation": "เพิ่มประสิทธิภาพ",
+        "pos": "verb",
+        "example": "Enhance quality.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4441",
+        "word": "enhanced",
+        "translation": "ที่ปรับปรุง",
+        "pos": "adj",
+        "example": "Enhanced version.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4442",
+        "word": "enhancement",
+        "translation": "การปรับปรุง",
+        "pos": "noun",
+        "example": "Quality enhancement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4443",
+        "word": "enjoy",
+        "translation": "สนุก",
+        "pos": "verb",
+        "example": "Enjoy yourself.",
+        "level": "basic"
+    },
+    {
+        "id": "v4444",
+        "word": "enjoyable",
+        "translation": "น่าสนุก",
+        "pos": "adj",
+        "example": "Enjoyable experience.",
+        "level": "basic"
+    },
+    {
+        "id": "v4445",
+        "word": "enjoyment",
+        "translation": "ความสนุก",
+        "pos": "noun",
+        "example": "Pure enjoyment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4446",
+        "word": "enormous",
+        "translation": "มหาศาล",
+        "pos": "adj",
+        "example": "Enormous size.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4447",
+        "word": "enough",
+        "translation": "พอ",
+        "pos": "adj",
+        "example": "Good enough.",
+        "level": "basic"
+    },
+    {
+        "id": "v4448",
+        "word": "enrich",
+        "translation": "ทำให้อุดม",
+        "pos": "verb",
+        "example": "Enrich experience.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4449",
+        "word": "enroll",
+        "translation": "ลงทะเบียน",
+        "pos": "verb",
+        "example": "Enroll in class.",
+        "level": "basic"
+    },
+    {
+        "id": "v4450",
+        "word": "enrollment",
+        "translation": "การลงทะเบียน",
+        "pos": "noun",
+        "example": "Student enrollment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4451",
+        "word": "ensure",
+        "translation": "ทำให้แน่ใจ",
+        "pos": "verb",
+        "example": "Ensure safety.",
+        "level": "basic"
+    },
+    {
+        "id": "v4452",
+        "word": "enter",
+        "translation": "เข้า",
+        "pos": "verb",
+        "example": "Enter the room.",
+        "level": "basic"
+    },
+    {
+        "id": "v4453",
+        "word": "enterprise",
+        "translation": "กิจการ",
+        "pos": "noun",
+        "example": "Small enterprise.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4454",
+        "word": "entertainment",
+        "translation": "ความบันเทิง",
+        "pos": "noun",
+        "example": "Entertainment industry.",
+        "level": "basic"
+    },
+    {
+        "id": "v4455",
+        "word": "enthusiasm",
+        "translation": "ความกระตือรือร้น",
+        "pos": "noun",
+        "example": "Full of enthusiasm.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4456",
+        "word": "enthusiastic",
+        "translation": "กระตือรือร้น",
+        "pos": "adj",
+        "example": "Very enthusiastic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4457",
+        "word": "entire",
+        "translation": "ทั้งหมด",
+        "pos": "adj",
+        "example": "Entire family.",
+        "level": "basic"
+    },
+    {
+        "id": "v4458",
+        "word": "entirely",
+        "translation": "ทั้งหมด",
+        "pos": "adv",
+        "example": "Entirely different.",
+        "level": "basic"
+    },
+    {
+        "id": "v4459",
+        "word": "entitle",
+        "translation": "ให้สิทธิ์",
+        "pos": "verb",
+        "example": "Entitled to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4460",
+        "word": "entity",
+        "translation": "หน่วยงาน",
+        "pos": "noun",
+        "example": "Legal entity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4461",
+        "word": "entrance",
+        "translation": "ทางเข้า",
+        "pos": "noun",
+        "example": "Main entrance.",
+        "level": "basic"
+    },
+    {
+        "id": "v4462",
+        "word": "entrepreneur",
+        "translation": "ผู้ประกอบการ",
+        "pos": "noun",
+        "example": "Young entrepreneur.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4463",
+        "word": "entry",
+        "translation": "รายการ",
+        "pos": "noun",
+        "example": "Entry form.",
+        "level": "basic"
+    },
+    {
+        "id": "v4464",
+        "word": "envelope",
+        "translation": "ซอง",
+        "pos": "noun",
+        "example": "Mail envelope.",
+        "level": "basic"
+    },
+    {
+        "id": "v4465",
+        "word": "environment",
+        "translation": "สิ่งแวดล้อม",
+        "pos": "noun",
+        "example": "Natural environment.",
+        "level": "basic"
+    },
+    {
+        "id": "v4466",
+        "word": "environmental",
+        "translation": "สิ่งแวดล้อม",
+        "pos": "adj",
+        "example": "Environmental protection.",
+        "level": "basic"
+    },
+    {
+        "id": "v4467",
+        "word": "environmentally",
+        "translation": "ทางสิ่งแวดล้อม",
+        "pos": "adv",
+        "example": "Environmentally friendly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4468",
+        "word": "envy",
+        "translation": "อิจฉา",
+        "pos": "noun",
+        "example": "Green with envy.",
+        "level": "basic"
+    },
+    {
+        "id": "v4469",
+        "word": "epidemic",
+        "translation": "โรคระบาด",
+        "pos": "noun",
+        "example": "Flu epidemic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4470",
+        "word": "episode",
+        "translation": "ตอน",
+        "pos": "noun",
+        "example": "New episode.",
+        "level": "basic"
+    },
+    {
+        "id": "v4471",
+        "word": "equal",
+        "translation": "เท่าเทียม",
+        "pos": "adj",
+        "example": "Equal rights.",
+        "level": "basic"
+    },
+    {
+        "id": "v4472",
+        "word": "equality",
+        "translation": "ความเท่าเทียม",
+        "pos": "noun",
+        "example": "Gender equality.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4473",
+        "word": "equally",
+        "translation": "เท่าๆ กัน",
+        "pos": "adv",
+        "example": "Equally important.",
+        "level": "basic"
+    },
+    {
+        "id": "v4474",
+        "word": "equation",
+        "translation": "สมการ",
+        "pos": "noun",
+        "example": "Math equation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4475",
+        "word": "equip",
+        "translation": "จัดหา",
+        "pos": "verb",
+        "example": "Equip with tools.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4476",
+        "word": "equipment",
+        "translation": "อุปกรณ์",
+        "pos": "noun",
+        "example": "Sports equipment.",
+        "level": "basic"
+    },
+    {
+        "id": "v4477",
+        "word": "equivalent",
+        "translation": "เทียบเท่า",
+        "pos": "adj",
+        "example": "Equivalent amount.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4478",
+        "word": "era",
+        "translation": "ยุค",
+        "pos": "noun",
+        "example": "New era.",
+        "level": "basic"
+    },
+    {
+        "id": "v4479",
+        "word": "erase",
+        "translation": "ลบ",
+        "pos": "verb",
+        "example": "Erase memory.",
+        "level": "basic"
+    },
+    {
+        "id": "v4480",
+        "word": "erect",
+        "translation": "สร้าง",
+        "pos": "verb",
+        "example": "Erect building.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4481",
+        "word": "erosion",
+        "translation": "การกัดเซาะ",
+        "pos": "noun",
+        "example": "Soil erosion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4482",
+        "word": "error",
+        "translation": "ข้อผิดพลาด",
+        "pos": "noun",
+        "example": "System error.",
+        "level": "basic"
+    },
+    {
+        "id": "v4483",
+        "word": "erupt",
+        "translation": "ระเบิด",
+        "pos": "verb",
+        "example": "Volcano erupts.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4484",
+        "word": "escalate",
+        "translation": "ทวีความรุนแรง",
+        "pos": "verb",
+        "example": "Escalate quickly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4485",
+        "word": "escape",
+        "translation": "หนี",
+        "pos": "verb",
+        "example": "Escape plan.",
+        "level": "basic"
+    },
+    {
+        "id": "v4486",
+        "word": "especially",
+        "translation": "โดยเฉพาะ",
+        "pos": "adv",
+        "example": "Especially for you.",
+        "level": "basic"
+    },
+    {
+        "id": "v4487",
+        "word": "essay",
+        "translation": "เรียงความ",
+        "pos": "noun",
+        "example": "Write an essay.",
+        "level": "basic"
+    },
+    {
+        "id": "v4488",
+        "word": "essence",
+        "translation": "แก่นสาร",
+        "pos": "noun",
+        "example": "In essence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4489",
+        "word": "essential",
+        "translation": "จำเป็น",
+        "pos": "adj",
+        "example": "Essential skills.",
+        "level": "basic"
+    },
+    {
+        "id": "v4490",
+        "word": "essentially",
+        "translation": "โดยพื้นฐาน",
+        "pos": "adv",
+        "example": "Essentially true.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4491",
+        "word": "establish",
+        "translation": "ก่อตั้ง",
+        "pos": "verb",
+        "example": "Establish company.",
+        "level": "basic"
+    },
+    {
+        "id": "v4492",
+        "word": "established",
+        "translation": "ที่เป็นที่ยอมรับ",
+        "pos": "adj",
+        "example": "Well established.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4493",
+        "word": "establishment",
+        "translation": "สถาบัน",
+        "pos": "noun",
+        "example": "Political establishment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4494",
+        "word": "estate",
+        "translation": "ที่ดิน",
+        "pos": "noun",
+        "example": "Real estate.",
+        "level": "basic"
+    },
+    {
+        "id": "v4495",
+        "word": "estimate",
+        "translation": "ประมาณ",
+        "pos": "verb",
+        "example": "Estimate cost.",
+        "level": "basic"
+    },
+    {
+        "id": "v4496",
+        "word": "estimated",
+        "translation": "ประมาณการ",
+        "pos": "adj",
+        "example": "Estimated time.",
+        "level": "basic"
+    },
+    {
+        "id": "v4497",
+        "word": "eternal",
+        "translation": "นิรันดร์",
+        "pos": "adj",
+        "example": "Eternal love.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4498",
+        "word": "ethical",
+        "translation": "จริยธรรม",
+        "pos": "adj",
+        "example": "Ethical issue.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4499",
+        "word": "ethics",
+        "translation": "จริยศาสตร์",
+        "pos": "noun",
+        "example": "Business ethics.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4500",
+        "word": "ethnic",
+        "translation": "ชาติพันธุ์",
+        "pos": "adj",
+        "example": "Ethnic group.",
+        "level": "intermediate"
+    }
+]

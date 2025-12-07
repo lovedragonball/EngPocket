@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v2901",
+        "word": "type",
+        "translation": "ประเภท",
+        "pos": "noun",
+        "example": "What type?",
+        "level": "basic"
+    },
+    {
+        "id": "v2902",
+        "word": "typical",
+        "translation": "ทั่วไป",
+        "pos": "adj",
+        "example": "Typical example.",
+        "level": "basic"
+    },
+    {
+        "id": "v2903",
+        "word": "typically",
+        "translation": "โดยทั่วไป",
+        "pos": "adv",
+        "example": "Typically.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2904",
+        "word": "ugly",
+        "translation": "น่าเกลียด",
+        "pos": "adj",
+        "example": "Ugly truth.",
+        "level": "basic"
+    },
+    {
+        "id": "v2905",
+        "word": "ultimate",
+        "translation": "สุดท้าย",
+        "pos": "adj",
+        "example": "Ultimate goal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2906",
+        "word": "ultimately",
+        "translation": "ในที่สุด",
+        "pos": "adv",
+        "example": "Ultimately.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2907",
+        "word": "umbrella",
+        "translation": "ร่ม",
+        "pos": "noun",
+        "example": "Bring an umbrella.",
+        "level": "basic"
+    },
+    {
+        "id": "v2908",
+        "word": "unable",
+        "translation": "ไม่สามารถ",
+        "pos": "adj",
+        "example": "Unable to attend.",
+        "level": "basic"
+    },
+    {
+        "id": "v2909",
+        "word": "uncle",
+        "translation": "ลุง",
+        "pos": "noun",
+        "example": "My uncle.",
+        "level": "basic"
+    },
+    {
+        "id": "v2910",
+        "word": "under",
+        "translation": "ใต้",
+        "pos": "prep",
+        "example": "Under the table.",
+        "level": "basic"
+    },
+    {
+        "id": "v2911",
+        "word": "undergo",
+        "translation": "ผ่าน",
+        "pos": "verb",
+        "example": "Undergo surgery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2912",
+        "word": "underlying",
+        "translation": "พื้นฐาน",
+        "pos": "adj",
+        "example": "Underlying cause.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2913",
+        "word": "understand",
+        "translation": "เข้าใจ",
+        "pos": "verb",
+        "example": "I understand.",
+        "level": "basic"
+    },
+    {
+        "id": "v2914",
+        "word": "understanding",
+        "translation": "ความเข้าใจ",
+        "pos": "noun",
+        "example": "Deep understanding.",
+        "level": "basic"
+    },
+    {
+        "id": "v2915",
+        "word": "unfortunately",
+        "translation": "น่าเสียดาย",
+        "pos": "adv",
+        "example": "Unfortunately.",
+        "level": "basic"
+    },
+    {
+        "id": "v2916",
+        "word": "uniform",
+        "translation": "เครื่องแบบ",
+        "pos": "noun",
+        "example": "School uniform.",
+        "level": "basic"
+    },
+    {
+        "id": "v2917",
+        "word": "union",
+        "translation": "สหภาพ",
+        "pos": "noun",
+        "example": "European Union.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2918",
+        "word": "unique",
+        "translation": "เป็นเอกลักษณ์",
+        "pos": "adj",
+        "example": "Unique style.",
+        "level": "basic"
+    },
+    {
+        "id": "v2919",
+        "word": "unit",
+        "translation": "หน่วย",
+        "pos": "noun",
+        "example": "Single unit.",
+        "level": "basic"
+    },
+    {
+        "id": "v2920",
+        "word": "united",
+        "translation": "รวม",
+        "pos": "adj",
+        "example": "United Nations.",
+        "level": "basic"
+    },
+    {
+        "id": "v2921",
+        "word": "unity",
+        "translation": "ความสามัคคี",
+        "pos": "noun",
+        "example": "National unity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2922",
+        "word": "universal",
+        "translation": "สากล",
+        "pos": "adj",
+        "example": "Universal truth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2923",
+        "word": "universe",
+        "translation": "จักรวาล",
+        "pos": "noun",
+        "example": "The universe.",
+        "level": "basic"
+    },
+    {
+        "id": "v2924",
+        "word": "university",
+        "translation": "มหาวิทยาลัย",
+        "pos": "noun",
+        "example": "Go to university.",
+        "level": "basic"
+    },
+    {
+        "id": "v2925",
+        "word": "unknown",
+        "translation": "ไม่ทราบ",
+        "pos": "adj",
+        "example": "Unknown cause.",
+        "level": "basic"
+    },
+    {
+        "id": "v2926",
+        "word": "unless",
+        "translation": "เว้นแต่",
+        "pos": "conj",
+        "example": "Unless you try.",
+        "level": "basic"
+    },
+    {
+        "id": "v2927",
+        "word": "unlike",
+        "translation": "ไม่เหมือน",
+        "pos": "prep",
+        "example": "Unlike others.",
+        "level": "basic"
+    },
+    {
+        "id": "v2928",
+        "word": "unlikely",
+        "translation": "ไม่น่าจะ",
+        "pos": "adj",
+        "example": "Unlikely to happen.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2929",
+        "word": "until",
+        "translation": "จนกระทั่ง",
+        "pos": "prep",
+        "example": "Until tomorrow.",
+        "level": "basic"
+    },
+    {
+        "id": "v2930",
+        "word": "unusual",
+        "translation": "ผิดปกติ",
+        "pos": "adj",
+        "example": "Unusual behavior.",
+        "level": "basic"
+    },
+    {
+        "id": "v2931",
+        "word": "up",
+        "translation": "ขึ้น",
+        "pos": "adv",
+        "example": "Stand up.",
+        "level": "basic"
+    },
+    {
+        "id": "v2932",
+        "word": "update",
+        "translation": "อัปเดต",
+        "pos": "verb",
+        "example": "Update the app.",
+        "level": "basic"
+    },
+    {
+        "id": "v2933",
+        "word": "upon",
+        "translation": "บน",
+        "pos": "prep",
+        "example": "Once upon a time.",
+        "level": "basic"
+    },
+    {
+        "id": "v2934",
+        "word": "upper",
+        "translation": "บน",
+        "pos": "adj",
+        "example": "Upper floor.",
+        "level": "basic"
+    },
+    {
+        "id": "v2935",
+        "word": "urban",
+        "translation": "เมือง",
+        "pos": "adj",
+        "example": "Urban area.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2936",
+        "word": "urge",
+        "translation": "กระตุ้น",
+        "pos": "verb",
+        "example": "I urge you.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2937",
+        "word": "urgent",
+        "translation": "เร่งด่วน",
+        "pos": "adj",
+        "example": "Urgent matter.",
+        "level": "basic"
+    },
+    {
+        "id": "v2938",
+        "word": "us",
+        "translation": "พวกเรา",
+        "pos": "pron",
+        "example": "Join us.",
+        "level": "basic"
+    },
+    {
+        "id": "v2939",
+        "word": "usage",
+        "translation": "การใช้งาน",
+        "pos": "noun",
+        "example": "Data usage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2940",
+        "word": "use",
+        "translation": "ใช้",
+        "pos": "verb",
+        "example": "Use it wisely.",
+        "level": "basic"
+    },
+    {
+        "id": "v2941",
+        "word": "used",
+        "translation": "ใช้แล้ว",
+        "pos": "adj",
+        "example": "Used car.",
+        "level": "basic"
+    },
+    {
+        "id": "v2942",
+        "word": "useful",
+        "translation": "มีประโยชน์",
+        "pos": "adj",
+        "example": "Very useful.",
+        "level": "basic"
+    },
+    {
+        "id": "v2943",
+        "word": "user",
+        "translation": "ผู้ใช้",
+        "pos": "noun",
+        "example": "New user.",
+        "level": "basic"
+    },
+    {
+        "id": "v2944",
+        "word": "usual",
+        "translation": "ปกติ",
+        "pos": "adj",
+        "example": "As usual.",
+        "level": "basic"
+    },
+    {
+        "id": "v2945",
+        "word": "usually",
+        "translation": "โดยปกติ",
+        "pos": "adv",
+        "example": "Usually.",
+        "level": "basic"
+    },
+    {
+        "id": "v2946",
+        "word": "utility",
+        "translation": "สาธารณูปโภค",
+        "pos": "noun",
+        "example": "Utility bill.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2947",
+        "word": "vacation",
+        "translation": "วันหยุดพักผ่อน",
+        "pos": "noun",
+        "example": "Summer vacation.",
+        "level": "basic"
+    },
+    {
+        "id": "v2948",
+        "word": "vacuum",
+        "translation": "สูญญากาศ",
+        "pos": "noun",
+        "example": "Vacuum cleaner.",
+        "level": "basic"
+    },
+    {
+        "id": "v2949",
+        "word": "valid",
+        "translation": "ใช้ได้",
+        "pos": "adj",
+        "example": "Valid passport.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2950",
+        "word": "valley",
+        "translation": "หุบเขา",
+        "pos": "noun",
+        "example": "Beautiful valley.",
+        "level": "basic"
+    },
+    {
+        "id": "v2951",
+        "word": "valuable",
+        "translation": "มีค่า",
+        "pos": "adj",
+        "example": "Valuable lesson.",
+        "level": "basic"
+    },
+    {
+        "id": "v2952",
+        "word": "value",
+        "translation": "คุณค่า",
+        "pos": "noun",
+        "example": "Great value.",
+        "level": "basic"
+    },
+    {
+        "id": "v2953",
+        "word": "van",
+        "translation": "รถตู้",
+        "pos": "noun",
+        "example": "White van.",
+        "level": "basic"
+    },
+    {
+        "id": "v2954",
+        "word": "variable",
+        "translation": "ตัวแปร",
+        "pos": "noun",
+        "example": "Key variable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2955",
+        "word": "variation",
+        "translation": "การเปลี่ยนแปลง",
+        "pos": "noun",
+        "example": "Slight variation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2956",
+        "word": "variety",
+        "translation": "ความหลากหลาย",
+        "pos": "noun",
+        "example": "Wide variety.",
+        "level": "basic"
+    },
+    {
+        "id": "v2957",
+        "word": "various",
+        "translation": "หลากหลาย",
+        "pos": "adj",
+        "example": "Various reasons.",
+        "level": "basic"
+    },
+    {
+        "id": "v2958",
+        "word": "vary",
+        "translation": "แตกต่าง",
+        "pos": "verb",
+        "example": "Prices vary.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2959",
+        "word": "vast",
+        "translation": "กว้างใหญ่",
+        "pos": "adj",
+        "example": "Vast area.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2960",
+        "word": "vegetable",
+        "translation": "ผัก",
+        "pos": "noun",
+        "example": "Fresh vegetables.",
+        "level": "basic"
+    },
+    {
+        "id": "v2961",
+        "word": "vehicle",
+        "translation": "ยานพาหนะ",
+        "pos": "noun",
+        "example": "Motor vehicle.",
+        "level": "basic"
+    },
+    {
+        "id": "v2962",
+        "word": "venture",
+        "translation": "กิจการ",
+        "pos": "noun",
+        "example": "Joint venture.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2963",
+        "word": "version",
+        "translation": "เวอร์ชัน",
+        "pos": "noun",
+        "example": "New version.",
+        "level": "basic"
+    },
+    {
+        "id": "v2964",
+        "word": "versus",
+        "translation": "เทียบกับ",
+        "pos": "prep",
+        "example": "Team A versus Team B.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2965",
+        "word": "very",
+        "translation": "มาก",
+        "pos": "adv",
+        "example": "Very good.",
+        "level": "basic"
+    },
+    {
+        "id": "v2966",
+        "word": "vessel",
+        "translation": "เรือ",
+        "pos": "noun",
+        "example": "Blood vessel.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2967",
+        "word": "veteran",
+        "translation": "ทหารผ่านศึก",
+        "pos": "noun",
+        "example": "War veteran.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2968",
+        "word": "via",
+        "translation": "ผ่าน",
+        "pos": "prep",
+        "example": "Via email.",
+        "level": "basic"
+    },
+    {
+        "id": "v2969",
+        "word": "victim",
+        "translation": "เหยื่อ",
+        "pos": "noun",
+        "example": "Crime victim.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2970",
+        "word": "victory",
+        "translation": "ชัยชนะ",
+        "pos": "noun",
+        "example": "Sweet victory.",
+        "level": "basic"
+    },
+    {
+        "id": "v2971",
+        "word": "video",
+        "translation": "วิดีโอ",
+        "pos": "noun",
+        "example": "Watch video.",
+        "level": "basic"
+    },
+    {
+        "id": "v2972",
+        "word": "view",
+        "translation": "มุมมอง",
+        "pos": "noun",
+        "example": "Beautiful view.",
+        "level": "basic"
+    },
+    {
+        "id": "v2973",
+        "word": "viewer",
+        "translation": "ผู้ชม",
+        "pos": "noun",
+        "example": "TV viewer.",
+        "level": "basic"
+    },
+    {
+        "id": "v2974",
+        "word": "village",
+        "translation": "หมู่บ้าน",
+        "pos": "noun",
+        "example": "Small village.",
+        "level": "basic"
+    },
+    {
+        "id": "v2975",
+        "word": "violation",
+        "translation": "การละเมิด",
+        "pos": "noun",
+        "example": "Traffic violation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2976",
+        "word": "violence",
+        "translation": "ความรุนแรง",
+        "pos": "noun",
+        "example": "No violence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2977",
+        "word": "violent",
+        "translation": "รุนแรง",
+        "pos": "adj",
+        "example": "Violent crime.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2978",
+        "word": "virtually",
+        "translation": "แทบจะ",
+        "pos": "adv",
+        "example": "Virtually impossible.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2979",
+        "word": "virtue",
+        "translation": "คุณธรรม",
+        "pos": "noun",
+        "example": "By virtue of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2980",
+        "word": "virus",
+        "translation": "ไวรัส",
+        "pos": "noun",
+        "example": "Computer virus.",
+        "level": "basic"
+    },
+    {
+        "id": "v2981",
+        "word": "visible",
+        "translation": "มองเห็นได้",
+        "pos": "adj",
+        "example": "Visible damage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2982",
+        "word": "vision",
+        "translation": "วิสัยทัศน์",
+        "pos": "noun",
+        "example": "Clear vision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2983",
+        "word": "visit",
+        "translation": "เยี่ยม",
+        "pos": "verb",
+        "example": "Visit me.",
+        "level": "basic"
+    },
+    {
+        "id": "v2984",
+        "word": "visitor",
+        "translation": "ผู้เยี่ยมชม",
+        "pos": "noun",
+        "example": "Welcome visitors.",
+        "level": "basic"
+    },
+    {
+        "id": "v2985",
+        "word": "visual",
+        "translation": "ภาพ",
+        "pos": "adj",
+        "example": "Visual effect.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2986",
+        "word": "vital",
+        "translation": "สำคัญยิ่ง",
+        "pos": "adj",
+        "example": "Vital role.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2987",
+        "word": "vocabulary",
+        "translation": "คำศัพท์",
+        "pos": "noun",
+        "example": "Build vocabulary.",
+        "level": "basic"
+    },
+    {
+        "id": "v2988",
+        "word": "voice",
+        "translation": "เสียง",
+        "pos": "noun",
+        "example": "Loud voice.",
+        "level": "basic"
+    },
+    {
+        "id": "v2989",
+        "word": "volume",
+        "translation": "ปริมาณ",
+        "pos": "noun",
+        "example": "Turn up volume.",
+        "level": "basic"
+    },
+    {
+        "id": "v2990",
+        "word": "volunteer",
+        "translation": "อาสาสมัคร",
+        "pos": "noun",
+        "example": "Be a volunteer.",
+        "level": "basic"
+    },
+    {
+        "id": "v2991",
+        "word": "vote",
+        "translation": "ลงคะแนน",
+        "pos": "verb",
+        "example": "Vote now.",
+        "level": "basic"
+    },
+    {
+        "id": "v2992",
+        "word": "voter",
+        "translation": "ผู้ลงคะแนน",
+        "pos": "noun",
+        "example": "Registered voter.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2993",
+        "word": "vulnerable",
+        "translation": "เปราะบาง",
+        "pos": "adj",
+        "example": "Vulnerable group.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2994",
+        "word": "wage",
+        "translation": "ค่าจ้าง",
+        "pos": "noun",
+        "example": "Minimum wage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2995",
+        "word": "wait",
+        "translation": "รอ",
+        "pos": "verb",
+        "example": "Wait here.",
+        "level": "basic"
+    },
+    {
+        "id": "v2996",
+        "word": "wake",
+        "translation": "ตื่น",
+        "pos": "verb",
+        "example": "Wake up.",
+        "level": "basic"
+    },
+    {
+        "id": "v2997",
+        "word": "walk",
+        "translation": "เดิน",
+        "pos": "verb",
+        "example": "Take a walk.",
+        "level": "basic"
+    },
+    {
+        "id": "v2998",
+        "word": "wall",
+        "translation": "กำแพง",
+        "pos": "noun",
+        "example": "Brick wall.",
+        "level": "basic"
+    },
+    {
+        "id": "v2999",
+        "word": "wander",
+        "translation": "เดินเตร็ดเตร่",
+        "pos": "verb",
+        "example": "Wander around.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3000",
+        "word": "want",
+        "translation": "ต้องการ",
+        "pos": "verb",
+        "example": "I want this.",
+        "level": "basic"
+    }
+]

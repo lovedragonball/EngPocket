@@ -7,7 +7,7 @@ import '../config/app_theme.dart';
 
 class MainShell extends StatelessWidget {
   final Widget child;
-  
+
   const MainShell({super.key, required this.child});
 
   @override
@@ -64,7 +64,8 @@ class _BottomNavBar extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       decoration: BoxDecoration(
-        color: Colors.white,
+        color: Theme.of(context).bottomNavigationBarTheme.backgroundColor ??
+            Colors.white,
         boxShadow: [
           BoxShadow(
             color: Colors.black.withValues(alpha: 0.1),
@@ -153,7 +154,12 @@ class _NavItem extends StatelessWidget {
           children: [
             Icon(
               icon,
-              color: isSelected ? color : AppTheme.textSecondaryColor,
+              color: isSelected
+                  ? color
+                  : (Theme.of(context)
+                          .bottomNavigationBarTheme
+                          .unselectedItemColor ??
+                      AppTheme.textSecondaryColor),
               size: 24,
             ),
             const SizedBox(height: 4),
@@ -162,7 +168,12 @@ class _NavItem extends StatelessWidget {
               style: TextStyle(
                 fontSize: 10,
                 fontWeight: isSelected ? FontWeight.w600 : FontWeight.normal,
-                color: isSelected ? color : AppTheme.textSecondaryColor,
+                color: isSelected
+                    ? color
+                    : (Theme.of(context)
+                            .bottomNavigationBarTheme
+                            .unselectedItemColor ??
+                        AppTheme.textSecondaryColor),
               ),
             ),
           ],

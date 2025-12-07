@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v8901",
+        "word": "audible",
+        "translation": "ได้ยิน",
+        "pos": "adj",
+        "example": "Barely audible.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8902",
+        "word": "audience",
+        "translation": "ผู้ชม",
+        "pos": "noun",
+        "example": "Large audience.",
+        "level": "basic"
+    },
+    {
+        "id": "v8903",
+        "word": "audio",
+        "translation": "เสียง",
+        "pos": "noun",
+        "example": "Audio file.",
+        "level": "basic"
+    },
+    {
+        "id": "v8904",
+        "word": "audit",
+        "translation": "ตรวจสอบ",
+        "pos": "noun",
+        "example": "Financial audit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8905",
+        "word": "audition",
+        "translation": "ออดิชั่น",
+        "pos": "noun",
+        "example": "Hold audition.",
+        "level": "basic"
+    },
+    {
+        "id": "v8906",
+        "word": "auditor",
+        "translation": "ผู้ตรวจสอบ",
+        "pos": "noun",
+        "example": "External auditor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8907",
+        "word": "auditorium",
+        "translation": "หอประชุม",
+        "pos": "noun",
+        "example": "School auditorium.",
+        "level": "basic"
+    },
+    {
+        "id": "v8908",
+        "word": "authentic",
+        "translation": "แท้",
+        "pos": "adj",
+        "example": "Authentic food.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8909",
+        "word": "authenticity",
+        "translation": "ความถูกต้อง",
+        "pos": "noun",
+        "example": "Verify authenticity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8910",
+        "word": "author",
+        "translation": "ผู้เขียน",
+        "pos": "noun",
+        "example": "Famous author.",
+        "level": "basic"
+    },
+    {
+        "id": "v8911",
+        "word": "authoritative",
+        "translation": "น่าเชื่อถือ",
+        "pos": "adj",
+        "example": "Authoritative source.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8912",
+        "word": "authority",
+        "translation": "อำนาจ",
+        "pos": "noun",
+        "example": "Have authority.",
+        "level": "basic"
+    },
+    {
+        "id": "v8913",
+        "word": "authorization",
+        "translation": "การอนุญาต",
+        "pos": "noun",
+        "example": "Get authorization.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8914",
+        "word": "authorize",
+        "translation": "อนุญาต",
+        "pos": "verb",
+        "example": "Authorize access.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8915",
+        "word": "authorized",
+        "translation": "ได้รับอนุญาต",
+        "pos": "adj",
+        "example": "Authorized dealer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8916",
+        "word": "auto",
+        "translation": "อัตโนมัติ",
+        "pos": "adj",
+        "example": "Auto save.",
+        "level": "basic"
+    },
+    {
+        "id": "v8917",
+        "word": "autobiography",
+        "translation": "อัตชีวประวัติ",
+        "pos": "noun",
+        "example": "Write autobiography.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8918",
+        "word": "automate",
+        "translation": "ทำให้เป็นอัตโนมัติ",
+        "pos": "verb",
+        "example": "Automate process.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8919",
+        "word": "automated",
+        "translation": "อัตโนมัติ",
+        "pos": "adj",
+        "example": "Automated system.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8920",
+        "word": "automatic",
+        "translation": "อัตโนมัติ",
+        "pos": "adj",
+        "example": "Automatic update.",
+        "level": "basic"
+    },
+    {
+        "id": "v8921",
+        "word": "automatically",
+        "translation": "โดยอัตโนมัติ",
+        "pos": "adv",
+        "example": "Automatically.",
+        "level": "basic"
+    },
+    {
+        "id": "v8922",
+        "word": "automation",
+        "translation": "ระบบอัตโนมัติ",
+        "pos": "noun",
+        "example": "Factory automation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8923",
+        "word": "automobile",
+        "translation": "รถยนต์",
+        "pos": "noun",
+        "example": "Automobile industry.",
+        "level": "basic"
+    },
+    {
+        "id": "v8924",
+        "word": "autonomous",
+        "translation": "เป็นอิสระ",
+        "pos": "adj",
+        "example": "Autonomous region.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8925",
+        "word": "autonomy",
+        "translation": "ความเป็นอิสระ",
+        "pos": "noun",
+        "example": "Grant autonomy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8926",
+        "word": "autumn",
+        "translation": "ฤดูใบไม้ร่วง",
+        "pos": "noun",
+        "example": "Autumn leaves.",
+        "level": "basic"
+    },
+    {
+        "id": "v8927",
+        "word": "availability",
+        "translation": "ความพร้อม",
+        "pos": "noun",
+        "example": "Check availability.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8928",
+        "word": "available",
+        "translation": "มีอยู่",
+        "pos": "adj",
+        "example": "Available now.",
+        "level": "basic"
+    },
+    {
+        "id": "v8929",
+        "word": "avenue",
+        "translation": "ถนน",
+        "pos": "noun",
+        "example": "Fifth Avenue.",
+        "level": "basic"
+    },
+    {
+        "id": "v8930",
+        "word": "average",
+        "translation": "เฉลี่ย",
+        "pos": "adj",
+        "example": "On average.",
+        "level": "basic"
+    },
+    {
+        "id": "v8931",
+        "word": "aviation",
+        "translation": "การบิน",
+        "pos": "noun",
+        "example": "Civil aviation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8932",
+        "word": "avid",
+        "translation": "กระตือรือร้น",
+        "pos": "adj",
+        "example": "Avid reader.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8933",
+        "word": "avocado",
+        "translation": "อะโวคาโด",
+        "pos": "noun",
+        "example": "Fresh avocado.",
+        "level": "basic"
+    },
+    {
+        "id": "v8934",
+        "word": "avoid",
+        "translation": "หลีกเลี่ยง",
+        "pos": "verb",
+        "example": "Avoid danger.",
+        "level": "basic"
+    },
+    {
+        "id": "v8935",
+        "word": "avoidance",
+        "translation": "การหลีกเลี่ยง",
+        "pos": "noun",
+        "example": "Tax avoidance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8936",
+        "word": "await",
+        "translation": "รอคอย",
+        "pos": "verb",
+        "example": "Await reply.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8937",
+        "word": "awake",
+        "translation": "ตื่น",
+        "pos": "adj",
+        "example": "Stay awake.",
+        "level": "basic"
+    },
+    {
+        "id": "v8938",
+        "word": "awaken",
+        "translation": "ปลุก",
+        "pos": "verb",
+        "example": "Awaken interest.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8939",
+        "word": "award",
+        "translation": "รางวัล",
+        "pos": "noun",
+        "example": "Win award.",
+        "level": "basic"
+    },
+    {
+        "id": "v8940",
+        "word": "awarded",
+        "translation": "ได้รับรางวัล",
+        "pos": "adj",
+        "example": "Award-winning.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8941",
+        "word": "aware",
+        "translation": "ตระหนัก",
+        "pos": "adj",
+        "example": "Be aware.",
+        "level": "basic"
+    },
+    {
+        "id": "v8942",
+        "word": "awareness",
+        "translation": "การตระหนัก",
+        "pos": "noun",
+        "example": "Raise awareness.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8943",
+        "word": "away",
+        "translation": "ห่างไป",
+        "pos": "adv",
+        "example": "Go away.",
+        "level": "basic"
+    },
+    {
+        "id": "v8944",
+        "word": "awe",
+        "translation": "ความยำเกรง",
+        "pos": "noun",
+        "example": "In awe.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8945",
+        "word": "awesome",
+        "translation": "สุดยอด",
+        "pos": "adj",
+        "example": "That's awesome!",
+        "level": "basic"
+    },
+    {
+        "id": "v8946",
+        "word": "awful",
+        "translation": "แย่มาก",
+        "pos": "adj",
+        "example": "Awful weather.",
+        "level": "basic"
+    },
+    {
+        "id": "v8947",
+        "word": "awfully",
+        "translation": "มาก",
+        "pos": "adv",
+        "example": "Awfully sorry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8948",
+        "word": "awkward",
+        "translation": "อึดอัด",
+        "pos": "adj",
+        "example": "Awkward situation.",
+        "level": "basic"
+    },
+    {
+        "id": "v8949",
+        "word": "awkwardly",
+        "translation": "อย่างอึดอัด",
+        "pos": "adv",
+        "example": "Stand awkwardly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8950",
+        "word": "axis",
+        "translation": "แกน",
+        "pos": "noun",
+        "example": "X-axis.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8951",
+        "word": "babysit",
+        "translation": "เลี้ยงเด็ก",
+        "pos": "verb",
+        "example": "Babysit tonight.",
+        "level": "basic"
+    },
+    {
+        "id": "v8952",
+        "word": "babysitter",
+        "translation": "พี่เลี้ยงเด็ก",
+        "pos": "noun",
+        "example": "Hire babysitter.",
+        "level": "basic"
+    },
+    {
+        "id": "v8953",
+        "word": "bachelor",
+        "translation": "ปริญญาตรี",
+        "pos": "noun",
+        "example": "Bachelor's degree.",
+        "level": "basic"
+    },
+    {
+        "id": "v8954",
+        "word": "backbone",
+        "translation": "กระดูกสันหลัง",
+        "pos": "noun",
+        "example": "Economic backbone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8955",
+        "word": "backdrop",
+        "translation": "ฉากหลัง",
+        "pos": "noun",
+        "example": "Beautiful backdrop.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8956",
+        "word": "backer",
+        "translation": "ผู้สนับสนุน",
+        "pos": "noun",
+        "example": "Financial backer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8957",
+        "word": "backlash",
+        "translation": "ปฏิกิริยาตอบโต้",
+        "pos": "noun",
+        "example": "Public backlash.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8958",
+        "word": "backup",
+        "translation": "สำรอง",
+        "pos": "noun",
+        "example": "Data backup.",
+        "level": "basic"
+    },
+    {
+        "id": "v8959",
+        "word": "backyard",
+        "translation": "หลังบ้าน",
+        "pos": "noun",
+        "example": "In the backyard.",
+        "level": "basic"
+    },
+    {
+        "id": "v8960",
+        "word": "bacon",
+        "translation": "เบคอน",
+        "pos": "noun",
+        "example": "Crispy bacon.",
+        "level": "basic"
+    },
+    {
+        "id": "v8961",
+        "word": "bacteria",
+        "translation": "แบคทีเรีย",
+        "pos": "noun",
+        "example": "Kill bacteria.",
+        "level": "basic"
+    },
+    {
+        "id": "v8962",
+        "word": "bacterial",
+        "translation": "แบคทีเรีย",
+        "pos": "adj",
+        "example": "Bacterial infection.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8963",
+        "word": "badge",
+        "translation": "เข็มกลัด",
+        "pos": "noun",
+        "example": "ID badge.",
+        "level": "basic"
+    },
+    {
+        "id": "v8964",
+        "word": "badly",
+        "translation": "อย่างแย่",
+        "pos": "adv",
+        "example": "Badly injured.",
+        "level": "basic"
+    },
+    {
+        "id": "v8965",
+        "word": "badminton",
+        "translation": "แบดมินตัน",
+        "pos": "noun",
+        "example": "Play badminton.",
+        "level": "basic"
+    },
+    {
+        "id": "v8966",
+        "word": "baffle",
+        "translation": "ทำให้งง",
+        "pos": "verb",
+        "example": "Baffle experts.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8967",
+        "word": "baggage",
+        "translation": "กระเป๋าเดินทาง",
+        "pos": "noun",
+        "example": "Check baggage.",
+        "level": "basic"
+    },
+    {
+        "id": "v8968",
+        "word": "bail",
+        "translation": "ประกันตัว",
+        "pos": "noun",
+        "example": "Post bail.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8969",
+        "word": "bait",
+        "translation": "เหยื่อ",
+        "pos": "noun",
+        "example": "Fish bait.",
+        "level": "basic"
+    },
+    {
+        "id": "v8970",
+        "word": "baker",
+        "translation": "คนทำขนมปัง",
+        "pos": "noun",
+        "example": "Local baker.",
+        "level": "basic"
+    },
+    {
+        "id": "v8971",
+        "word": "bakery",
+        "translation": "ร้านเบเกอรี่",
+        "pos": "noun",
+        "example": "Fresh bakery.",
+        "level": "basic"
+    },
+    {
+        "id": "v8972",
+        "word": "balcony",
+        "translation": "ระเบียง",
+        "pos": "noun",
+        "example": "Hotel balcony.",
+        "level": "basic"
+    },
+    {
+        "id": "v8973",
+        "word": "bald",
+        "translation": "หัวล้าน",
+        "pos": "adj",
+        "example": "Go bald.",
+        "level": "basic"
+    },
+    {
+        "id": "v8974",
+        "word": "ballet",
+        "translation": "บัลเล่ต์",
+        "pos": "noun",
+        "example": "Ballet dancer.",
+        "level": "basic"
+    },
+    {
+        "id": "v8975",
+        "word": "balloon",
+        "translation": "ลูกโป่ง",
+        "pos": "noun",
+        "example": "Birthday balloon.",
+        "level": "basic"
+    },
+    {
+        "id": "v8976",
+        "word": "ballot",
+        "translation": "บัตรลงคะแนน",
+        "pos": "noun",
+        "example": "Cast ballot.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8977",
+        "word": "bamboo",
+        "translation": "ไม้ไผ่",
+        "pos": "noun",
+        "example": "Bamboo forest.",
+        "level": "basic"
+    },
+    {
+        "id": "v8978",
+        "word": "ban",
+        "translation": "ห้าม",
+        "pos": "verb",
+        "example": "Ban smoking.",
+        "level": "basic"
+    },
+    {
+        "id": "v8979",
+        "word": "banana",
+        "translation": "กล้วย",
+        "pos": "noun",
+        "example": "Ripe banana.",
+        "level": "basic"
+    },
+    {
+        "id": "v8980",
+        "word": "bandwidth",
+        "translation": "แบนด์วิดท์",
+        "pos": "noun",
+        "example": "High bandwidth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8981",
+        "word": "banker",
+        "translation": "นายธนาคาร",
+        "pos": "noun",
+        "example": "Investment banker.",
+        "level": "basic"
+    },
+    {
+        "id": "v8982",
+        "word": "banking",
+        "translation": "การธนาคาร",
+        "pos": "noun",
+        "example": "Online banking.",
+        "level": "basic"
+    },
+    {
+        "id": "v8983",
+        "word": "bankrupt",
+        "translation": "ล้มละลาย",
+        "pos": "adj",
+        "example": "Go bankrupt.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8984",
+        "word": "bankruptcy",
+        "translation": "การล้มละลาย",
+        "pos": "noun",
+        "example": "File for bankruptcy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8985",
+        "word": "banner",
+        "translation": "ป้าย",
+        "pos": "noun",
+        "example": "Banner ad.",
+        "level": "basic"
+    },
+    {
+        "id": "v8986",
+        "word": "banquet",
+        "translation": "งานเลี้ยง",
+        "pos": "noun",
+        "example": "Wedding banquet.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8987",
+        "word": "bar",
+        "translation": "บาร์",
+        "pos": "noun",
+        "example": "Coffee bar.",
+        "level": "basic"
+    },
+    {
+        "id": "v8988",
+        "word": "barbecue",
+        "translation": "บาร์บีคิว",
+        "pos": "noun",
+        "example": "Barbecue party.",
+        "level": "basic"
+    },
+    {
+        "id": "v8989",
+        "word": "barber",
+        "translation": "ช่างตัดผม",
+        "pos": "noun",
+        "example": "Barber shop.",
+        "level": "basic"
+    },
+    {
+        "id": "v8990",
+        "word": "bare",
+        "translation": "เปลือย",
+        "pos": "adj",
+        "example": "Bare minimum.",
+        "level": "basic"
+    },
+    {
+        "id": "v8991",
+        "word": "barely",
+        "translation": "แทบจะไม่",
+        "pos": "adv",
+        "example": "Barely enough.",
+        "level": "basic"
+    },
+    {
+        "id": "v8992",
+        "word": "bargain",
+        "translation": "ต่อรอง",
+        "pos": "noun",
+        "example": "Good bargain.",
+        "level": "basic"
+    },
+    {
+        "id": "v8993",
+        "word": "barn",
+        "translation": "โรงนา",
+        "pos": "noun",
+        "example": "Farm barn.",
+        "level": "basic"
+    },
+    {
+        "id": "v8994",
+        "word": "barrel",
+        "translation": "ถัง",
+        "pos": "noun",
+        "example": "Oil barrel.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8995",
+        "word": "barren",
+        "translation": "แห้งแล้ง",
+        "pos": "adj",
+        "example": "Barren land.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8996",
+        "word": "barrier",
+        "translation": "อุปสรรค",
+        "pos": "noun",
+        "example": "Language barrier.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8997",
+        "word": "basement",
+        "translation": "ห้องใต้ดิน",
+        "pos": "noun",
+        "example": "In the basement.",
+        "level": "basic"
+    },
+    {
+        "id": "v8998",
+        "word": "bash",
+        "translation": "งานเลี้ยง",
+        "pos": "noun",
+        "example": "Birthday bash.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8999",
+        "word": "basin",
+        "translation": "อ่าง",
+        "pos": "noun",
+        "example": "River basin.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9000",
+        "word": "basket",
+        "translation": "ตะกร้า",
+        "pos": "noun",
+        "example": "Shopping basket.",
+        "level": "basic"
+    }
+]

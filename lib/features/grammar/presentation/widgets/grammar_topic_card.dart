@@ -57,7 +57,7 @@ class GrammarTopicCard extends StatelessWidget {
                     const SizedBox(height: 4),
                     Text(
                       subtitle,
-                      style: TextStyle(
+                      style: const TextStyle(
                         fontSize: 13,
                         color: AppTheme.textSecondaryColor,
                       ),
@@ -67,7 +67,7 @@ class GrammarTopicCard extends StatelessWidget {
                     const SizedBox(height: 8),
                     Row(
                       children: [
-                        Icon(
+                        const Icon(
                           Icons.quiz_outlined,
                           size: 14,
                           color: AppTheme.grammarColor,
@@ -75,7 +75,7 @@ class GrammarTopicCard extends StatelessWidget {
                         const SizedBox(width: 4),
                         Text(
                           '$questionsCount คำถาม',
-                          style: TextStyle(
+                          style: const TextStyle(
                             fontSize: 12,
                             color: AppTheme.grammarColor,
                             fontWeight: FontWeight.w500,
@@ -86,7 +86,7 @@ class GrammarTopicCard extends StatelessWidget {
                   ],
                 ),
               ),
-              Icon(
+              const Icon(
                 Icons.chevron_right_rounded,
                 color: AppTheme.textSecondaryColor,
               ),

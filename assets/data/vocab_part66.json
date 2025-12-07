@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v6401",
+        "word": "phase",
+        "translation": "ระยะ",
+        "pos": "noun",
+        "example": "Next phase.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6402",
+        "word": "phenomenon",
+        "translation": "ปรากฏการณ์",
+        "pos": "noun",
+        "example": "Natural phenomenon.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6403",
+        "word": "philosopher",
+        "translation": "นักปรัชญา",
+        "pos": "noun",
+        "example": "Greek philosopher.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6404",
+        "word": "philosophical",
+        "translation": "ทางปรัชญา",
+        "pos": "adj",
+        "example": "Philosophical question.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6405",
+        "word": "philosophy",
+        "translation": "ปรัชญา",
+        "pos": "noun",
+        "example": "Study philosophy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6406",
+        "word": "phone",
+        "translation": "โทรศัพท์",
+        "pos": "noun",
+        "example": "Mobile phone.",
+        "level": "basic"
+    },
+    {
+        "id": "v6407",
+        "word": "photo",
+        "translation": "รูปถ่าย",
+        "pos": "noun",
+        "example": "Take a photo.",
+        "level": "basic"
+    },
+    {
+        "id": "v6408",
+        "word": "photograph",
+        "translation": "ภาพถ่าย",
+        "pos": "noun",
+        "example": "Old photograph.",
+        "level": "basic"
+    },
+    {
+        "id": "v6409",
+        "word": "photographer",
+        "translation": "ช่างภาพ",
+        "pos": "noun",
+        "example": "Professional photographer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6410",
+        "word": "photography",
+        "translation": "การถ่ายภาพ",
+        "pos": "noun",
+        "example": "Love photography.",
+        "level": "basic"
+    },
+    {
+        "id": "v6411",
+        "word": "phrase",
+        "translation": "วลี",
+        "pos": "noun",
+        "example": "Common phrase.",
+        "level": "basic"
+    },
+    {
+        "id": "v6412",
+        "word": "physical",
+        "translation": "ทางกายภาพ",
+        "pos": "adj",
+        "example": "Physical exercise.",
+        "level": "basic"
+    },
+    {
+        "id": "v6413",
+        "word": "physically",
+        "translation": "ทางกาย",
+        "pos": "adv",
+        "example": "Physically fit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6414",
+        "word": "physician",
+        "translation": "แพทย์",
+        "pos": "noun",
+        "example": "Family physician.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6415",
+        "word": "physics",
+        "translation": "ฟิสิกส์",
+        "pos": "noun",
+        "example": "Study physics.",
+        "level": "basic"
+    },
+    {
+        "id": "v6416",
+        "word": "piano",
+        "translation": "เปียโน",
+        "pos": "noun",
+        "example": "Play piano.",
+        "level": "basic"
+    },
+    {
+        "id": "v6417",
+        "word": "pick",
+        "translation": "เลือก",
+        "pos": "verb",
+        "example": "Pick one.",
+        "level": "basic"
+    },
+    {
+        "id": "v6418",
+        "word": "pickle",
+        "translation": "ผักดอง",
+        "pos": "noun",
+        "example": "Dill pickle.",
+        "level": "basic"
+    },
+    {
+        "id": "v6419",
+        "word": "picnic",
+        "translation": "ปิกนิก",
+        "pos": "noun",
+        "example": "Family picnic.",
+        "level": "basic"
+    },
+    {
+        "id": "v6420",
+        "word": "picture",
+        "translation": "รูปภาพ",
+        "pos": "noun",
+        "example": "Take a picture.",
+        "level": "basic"
+    },
+    {
+        "id": "v6421",
+        "word": "pie",
+        "translation": "พาย",
+        "pos": "noun",
+        "example": "Apple pie.",
+        "level": "basic"
+    },
+    {
+        "id": "v6422",
+        "word": "piece",
+        "translation": "ชิ้น",
+        "pos": "noun",
+        "example": "A piece of.",
+        "level": "basic"
+    },
+    {
+        "id": "v6423",
+        "word": "pier",
+        "translation": "ท่าเรือ",
+        "pos": "noun",
+        "example": "Fishing pier.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6424",
+        "word": "pig",
+        "translation": "หมู",
+        "pos": "noun",
+        "example": "Farm pig.",
+        "level": "basic"
+    },
+    {
+        "id": "v6425",
+        "word": "pile",
+        "translation": "กอง",
+        "pos": "noun",
+        "example": "Pile of books.",
+        "level": "basic"
+    },
+    {
+        "id": "v6426",
+        "word": "pill",
+        "translation": "ยา",
+        "pos": "noun",
+        "example": "Take a pill.",
+        "level": "basic"
+    },
+    {
+        "id": "v6427",
+        "word": "pillar",
+        "translation": "เสา",
+        "pos": "noun",
+        "example": "Stone pillar.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6428",
+        "word": "pillow",
+        "translation": "หมอน",
+        "pos": "noun",
+        "example": "Soft pillow.",
+        "level": "basic"
+    },
+    {
+        "id": "v6429",
+        "word": "pilot",
+        "translation": "นักบิน",
+        "pos": "noun",
+        "example": "Airline pilot.",
+        "level": "basic"
+    },
+    {
+        "id": "v6430",
+        "word": "pin",
+        "translation": "เข็มหมุด",
+        "pos": "noun",
+        "example": "Safety pin.",
+        "level": "basic"
+    },
+    {
+        "id": "v6431",
+        "word": "pine",
+        "translation": "ต้นสน",
+        "pos": "noun",
+        "example": "Pine tree.",
+        "level": "basic"
+    },
+    {
+        "id": "v6432",
+        "word": "pink",
+        "translation": "สีชมพู",
+        "pos": "adj",
+        "example": "Pink dress.",
+        "level": "basic"
+    },
+    {
+        "id": "v6433",
+        "word": "pioneer",
+        "translation": "ผู้บุกเบิก",
+        "pos": "noun",
+        "example": "Industry pioneer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6434",
+        "word": "pipe",
+        "translation": "ท่อ",
+        "pos": "noun",
+        "example": "Water pipe.",
+        "level": "basic"
+    },
+    {
+        "id": "v6435",
+        "word": "pipeline",
+        "translation": "ท่อส่ง",
+        "pos": "noun",
+        "example": "Oil pipeline.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6436",
+        "word": "pit",
+        "translation": "หลุม",
+        "pos": "noun",
+        "example": "Deep pit.",
+        "level": "basic"
+    },
+    {
+        "id": "v6437",
+        "word": "pitch",
+        "translation": "เสียง",
+        "pos": "noun",
+        "example": "High pitch.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6438",
+        "word": "pizza",
+        "translation": "พิซซ่า",
+        "pos": "noun",
+        "example": "Order pizza.",
+        "level": "basic"
+    },
+    {
+        "id": "v6439",
+        "word": "place",
+        "translation": "สถานที่",
+        "pos": "noun",
+        "example": "Nice place.",
+        "level": "basic"
+    },
+    {
+        "id": "v6440",
+        "word": "placement",
+        "translation": "การจัดวาง",
+        "pos": "noun",
+        "example": "Job placement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6441",
+        "word": "plague",
+        "translation": "โรคระบาด",
+        "pos": "noun",
+        "example": "Bubonic plague.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6442",
+        "word": "plain",
+        "translation": "ที่ราบ",
+        "pos": "noun",
+        "example": "Large plain.",
+        "level": "basic"
+    },
+    {
+        "id": "v6443",
+        "word": "plaintiff",
+        "translation": "โจทก์",
+        "pos": "noun",
+        "example": "Plaintiff lawyer.",
+        "level": "advanced"
+    },
+    {
+        "id": "v6444",
+        "word": "plan",
+        "translation": "แผน",
+        "pos": "noun",
+        "example": "Make a plan.",
+        "level": "basic"
+    },
+    {
+        "id": "v6445",
+        "word": "plane",
+        "translation": "เครื่องบิน",
+        "pos": "noun",
+        "example": "Take a plane.",
+        "level": "basic"
+    },
+    {
+        "id": "v6446",
+        "word": "planet",
+        "translation": "ดาวเคราะห์",
+        "pos": "noun",
+        "example": "Planet Earth.",
+        "level": "basic"
+    },
+    {
+        "id": "v6447",
+        "word": "planned",
+        "translation": "วางแผนไว้",
+        "pos": "adj",
+        "example": "Planned event.",
+        "level": "basic"
+    },
+    {
+        "id": "v6448",
+        "word": "planner",
+        "translation": "ผู้วางแผน",
+        "pos": "noun",
+        "example": "Event planner.",
+        "level": "basic"
+    },
+    {
+        "id": "v6449",
+        "word": "planning",
+        "translation": "การวางแผน",
+        "pos": "noun",
+        "example": "City planning.",
+        "level": "basic"
+    },
+    {
+        "id": "v6450",
+        "word": "plant",
+        "translation": "พืช",
+        "pos": "noun",
+        "example": "Green plant.",
+        "level": "basic"
+    },
+    {
+        "id": "v6451",
+        "word": "plantation",
+        "translation": "ไร่",
+        "pos": "noun",
+        "example": "Tea plantation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6452",
+        "word": "plasma",
+        "translation": "พลาสมา",
+        "pos": "noun",
+        "example": "Blood plasma.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6453",
+        "word": "plastic",
+        "translation": "พลาสติก",
+        "pos": "noun",
+        "example": "Plastic bag.",
+        "level": "basic"
+    },
+    {
+        "id": "v6454",
+        "word": "plate",
+        "translation": "จาน",
+        "pos": "noun",
+        "example": "Dinner plate.",
+        "level": "basic"
+    },
+    {
+        "id": "v6455",
+        "word": "platform",
+        "translation": "แพลตฟอร์ม",
+        "pos": "noun",
+        "example": "Social media platform.",
+        "level": "basic"
+    },
+    {
+        "id": "v6456",
+        "word": "play",
+        "translation": "เล่น",
+        "pos": "verb",
+        "example": "Play games.",
+        "level": "basic"
+    },
+    {
+        "id": "v6457",
+        "word": "player",
+        "translation": "ผู้เล่น",
+        "pos": "noun",
+        "example": "Team player.",
+        "level": "basic"
+    },
+    {
+        "id": "v6458",
+        "word": "playground",
+        "translation": "สนามเด็กเล่น",
+        "pos": "noun",
+        "example": "School playground.",
+        "level": "basic"
+    },
+    {
+        "id": "v6459",
+        "word": "playoff",
+        "translation": "รอบเพลย์ออฟ",
+        "pos": "noun",
+        "example": "Playoff game.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6460",
+        "word": "plaza",
+        "translation": "ลาน",
+        "pos": "noun",
+        "example": "Shopping plaza.",
+        "level": "basic"
+    },
+    {
+        "id": "v6461",
+        "word": "plea",
+        "translation": "คำร้องขอ",
+        "pos": "noun",
+        "example": "Desperate plea.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6462",
+        "word": "plead",
+        "translation": "ขอร้อง",
+        "pos": "verb",
+        "example": "Plead guilty.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6463",
+        "word": "pleasant",
+        "translation": "น่าพอใจ",
+        "pos": "adj",
+        "example": "Pleasant weather.",
+        "level": "basic"
+    },
+    {
+        "id": "v6464",
+        "word": "please",
+        "translation": "กรุณา",
+        "pos": "adv",
+        "example": "Please help.",
+        "level": "basic"
+    },
+    {
+        "id": "v6465",
+        "word": "pleased",
+        "translation": "พอใจ",
+        "pos": "adj",
+        "example": "I'm pleased.",
+        "level": "basic"
+    },
+    {
+        "id": "v6466",
+        "word": "pleasing",
+        "translation": "น่าพอใจ",
+        "pos": "adj",
+        "example": "Pleasing result.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6467",
+        "word": "pleasure",
+        "translation": "ความยินดี",
+        "pos": "noun",
+        "example": "My pleasure.",
+        "level": "basic"
+    },
+    {
+        "id": "v6468",
+        "word": "pledge",
+        "translation": "คำมั่น",
+        "pos": "noun",
+        "example": "Make a pledge.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6469",
+        "word": "plenty",
+        "translation": "มากมาย",
+        "pos": "noun",
+        "example": "Plenty of.",
+        "level": "basic"
+    },
+    {
+        "id": "v6470",
+        "word": "plot",
+        "translation": "พล็อต",
+        "pos": "noun",
+        "example": "Story plot.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6471",
+        "word": "plug",
+        "translation": "ปลั๊ก",
+        "pos": "noun",
+        "example": "Power plug.",
+        "level": "basic"
+    },
+    {
+        "id": "v6472",
+        "word": "plunge",
+        "translation": "ดิ่งลง",
+        "pos": "verb",
+        "example": "Plunge into water.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6473",
+        "word": "plus",
+        "translation": "บวก",
+        "pos": "prep",
+        "example": "Two plus two.",
+        "level": "basic"
+    },
+    {
+        "id": "v6474",
+        "word": "pocket",
+        "translation": "กระเป๋า",
+        "pos": "noun",
+        "example": "Back pocket.",
+        "level": "basic"
+    },
+    {
+        "id": "v6475",
+        "word": "poem",
+        "translation": "บทกวี",
+        "pos": "noun",
+        "example": "Write a poem.",
+        "level": "basic"
+    },
+    {
+        "id": "v6476",
+        "word": "poet",
+        "translation": "กวี",
+        "pos": "noun",
+        "example": "Famous poet.",
+        "level": "basic"
+    },
+    {
+        "id": "v6477",
+        "word": "poetry",
+        "translation": "บทกวี",
+        "pos": "noun",
+        "example": "Love poetry.",
+        "level": "basic"
+    },
+    {
+        "id": "v6478",
+        "word": "point",
+        "translation": "จุด",
+        "pos": "noun",
+        "example": "Main point.",
+        "level": "basic"
+    },
+    {
+        "id": "v6479",
+        "word": "pointed",
+        "translation": "แหลม",
+        "pos": "adj",
+        "example": "Pointed remarks.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6480",
+        "word": "pointer",
+        "translation": "ตัวชี้",
+        "pos": "noun",
+        "example": "Laser pointer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6481",
+        "word": "poison",
+        "translation": "พิษ",
+        "pos": "noun",
+        "example": "Deadly poison.",
+        "level": "basic"
+    },
+    {
+        "id": "v6482",
+        "word": "poisonous",
+        "translation": "มีพิษ",
+        "pos": "adj",
+        "example": "Poisonous snake.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6483",
+        "word": "polar",
+        "translation": "ขั้วโลก",
+        "pos": "adj",
+        "example": "Polar bear.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6484",
+        "word": "pole",
+        "translation": "เสา",
+        "pos": "noun",
+        "example": "North Pole.",
+        "level": "basic"
+    },
+    {
+        "id": "v6485",
+        "word": "police",
+        "translation": "ตำรวจ",
+        "pos": "noun",
+        "example": "Call police.",
+        "level": "basic"
+    },
+    {
+        "id": "v6486",
+        "word": "policeman",
+        "translation": "ตำรวจ",
+        "pos": "noun",
+        "example": "Local policeman.",
+        "level": "basic"
+    },
+    {
+        "id": "v6487",
+        "word": "policy",
+        "translation": "นโยบาย",
+        "pos": "noun",
+        "example": "Company policy.",
+        "level": "basic"
+    },
+    {
+        "id": "v6488",
+        "word": "polish",
+        "translation": "ขัด",
+        "pos": "verb",
+        "example": "Polish shoes.",
+        "level": "basic"
+    },
+    {
+        "id": "v6489",
+        "word": "polite",
+        "translation": "สุภาพ",
+        "pos": "adj",
+        "example": "Very polite.",
+        "level": "basic"
+    },
+    {
+        "id": "v6490",
+        "word": "politely",
+        "translation": "อย่างสุภาพ",
+        "pos": "adv",
+        "example": "Ask politely.",
+        "level": "basic"
+    },
+    {
+        "id": "v6491",
+        "word": "political",
+        "translation": "ทางการเมือง",
+        "pos": "adj",
+        "example": "Political party.",
+        "level": "basic"
+    },
+    {
+        "id": "v6492",
+        "word": "politically",
+        "translation": "ทางการเมือง",
+        "pos": "adv",
+        "example": "Politically correct.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6493",
+        "word": "politician",
+        "translation": "นักการเมือง",
+        "pos": "noun",
+        "example": "Corrupt politician.",
+        "level": "basic"
+    },
+    {
+        "id": "v6494",
+        "word": "politics",
+        "translation": "การเมือง",
+        "pos": "noun",
+        "example": "Study politics.",
+        "level": "basic"
+    },
+    {
+        "id": "v6495",
+        "word": "poll",
+        "translation": "โพล",
+        "pos": "noun",
+        "example": "Opinion poll.",
+        "level": "basic"
+    },
+    {
+        "id": "v6496",
+        "word": "pollution",
+        "translation": "มลพิษ",
+        "pos": "noun",
+        "example": "Air pollution.",
+        "level": "basic"
+    },
+    {
+        "id": "v6497",
+        "word": "pond",
+        "translation": "บ่อ",
+        "pos": "noun",
+        "example": "Fish pond.",
+        "level": "basic"
+    },
+    {
+        "id": "v6498",
+        "word": "pool",
+        "translation": "สระน้ำ",
+        "pos": "noun",
+        "example": "Swimming pool.",
+        "level": "basic"
+    },
+    {
+        "id": "v6499",
+        "word": "poor",
+        "translation": "จน",
+        "pos": "adj",
+        "example": "Poor family.",
+        "level": "basic"
+    },
+    {
+        "id": "v6500",
+        "word": "poorly",
+        "translation": "ไม่ดี",
+        "pos": "adv",
+        "example": "Poorly designed.",
+        "level": "intermediate"
+    }
+]

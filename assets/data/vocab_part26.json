@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v2401",
+        "word": "seem",
+        "translation": "ดูเหมือน",
+        "pos": "verb",
+        "example": "It seems so.",
+        "level": "basic"
+    },
+    {
+        "id": "v2402",
+        "word": "segment",
+        "translation": "ส่วน",
+        "pos": "noun",
+        "example": "Market segment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2403",
+        "word": "seize",
+        "translation": "ยึด",
+        "pos": "verb",
+        "example": "Seize the opportunity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2404",
+        "word": "select",
+        "translation": "เลือก",
+        "pos": "verb",
+        "example": "Select an option.",
+        "level": "basic"
+    },
+    {
+        "id": "v2405",
+        "word": "selection",
+        "translation": "การเลือก",
+        "pos": "noun",
+        "example": "Wide selection.",
+        "level": "basic"
+    },
+    {
+        "id": "v2406",
+        "word": "self",
+        "translation": "ตัวเอง",
+        "pos": "noun",
+        "example": "True self.",
+        "level": "basic"
+    },
+    {
+        "id": "v2407",
+        "word": "sell",
+        "translation": "ขาย",
+        "pos": "verb",
+        "example": "Sell products.",
+        "level": "basic"
+    },
+    {
+        "id": "v2408",
+        "word": "seller",
+        "translation": "ผู้ขาย",
+        "pos": "noun",
+        "example": "Best seller.",
+        "level": "basic"
+    },
+    {
+        "id": "v2409",
+        "word": "senate",
+        "translation": "วุฒิสภา",
+        "pos": "noun",
+        "example": "US Senate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2410",
+        "word": "senator",
+        "translation": "วุฒิสมาชิก",
+        "pos": "noun",
+        "example": "Senator John.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2411",
+        "word": "send",
+        "translation": "ส่ง",
+        "pos": "verb",
+        "example": "Send a message.",
+        "level": "basic"
+    },
+    {
+        "id": "v2412",
+        "word": "senior",
+        "translation": "อาวุโส",
+        "pos": "adj",
+        "example": "Senior manager.",
+        "level": "basic"
+    },
+    {
+        "id": "v2413",
+        "word": "sense",
+        "translation": "ความรู้สึก",
+        "pos": "noun",
+        "example": "Common sense.",
+        "level": "basic"
+    },
+    {
+        "id": "v2414",
+        "word": "sensitive",
+        "translation": "อ่อนไหว",
+        "pos": "adj",
+        "example": "Sensitive skin.",
+        "level": "basic"
+    },
+    {
+        "id": "v2415",
+        "word": "sentence",
+        "translation": "ประโยค",
+        "pos": "noun",
+        "example": "Complete sentence.",
+        "level": "basic"
+    },
+    {
+        "id": "v2416",
+        "word": "separate",
+        "translation": "แยก",
+        "pos": "verb",
+        "example": "Separate them.",
+        "level": "basic"
+    },
+    {
+        "id": "v2417",
+        "word": "separately",
+        "translation": "แยกกัน",
+        "pos": "adv",
+        "example": "Live separately.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2418",
+        "word": "separation",
+        "translation": "การแยก",
+        "pos": "noun",
+        "example": "Job separation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2419",
+        "word": "september",
+        "translation": "กันยายน",
+        "pos": "noun",
+        "example": "In September.",
+        "level": "basic"
+    },
+    {
+        "id": "v2420",
+        "word": "sequence",
+        "translation": "ลำดับ",
+        "pos": "noun",
+        "example": "In sequence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2421",
+        "word": "series",
+        "translation": "ซีรีส์",
+        "pos": "noun",
+        "example": "TV series.",
+        "level": "basic"
+    },
+    {
+        "id": "v2422",
+        "word": "serious",
+        "translation": "จริงจัง",
+        "pos": "adj",
+        "example": "Serious problem.",
+        "level": "basic"
+    },
+    {
+        "id": "v2423",
+        "word": "seriously",
+        "translation": "อย่างจริงจัง",
+        "pos": "adv",
+        "example": "Seriously injured.",
+        "level": "basic"
+    },
+    {
+        "id": "v2424",
+        "word": "servant",
+        "translation": "คนรับใช้",
+        "pos": "noun",
+        "example": "Public servant.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2425",
+        "word": "serve",
+        "translation": "บริการ",
+        "pos": "verb",
+        "example": "Serve customers.",
+        "level": "basic"
+    },
+    {
+        "id": "v2426",
+        "word": "server",
+        "translation": "เซิร์ฟเวอร์",
+        "pos": "noun",
+        "example": "Web server.",
+        "level": "basic"
+    },
+    {
+        "id": "v2427",
+        "word": "service",
+        "translation": "บริการ",
+        "pos": "noun",
+        "example": "Good service.",
+        "level": "basic"
+    },
+    {
+        "id": "v2428",
+        "word": "session",
+        "translation": "เซสชัน",
+        "pos": "noun",
+        "example": "Study session.",
+        "level": "basic"
+    },
+    {
+        "id": "v2429",
+        "word": "set",
+        "translation": "ตั้ง",
+        "pos": "verb",
+        "example": "Set the alarm.",
+        "level": "basic"
+    },
+    {
+        "id": "v2430",
+        "word": "setting",
+        "translation": "การตั้งค่า",
+        "pos": "noun",
+        "example": "Privacy settings.",
+        "level": "basic"
+    },
+    {
+        "id": "v2431",
+        "word": "settle",
+        "translation": "ตั้งถิ่นฐาน",
+        "pos": "verb",
+        "example": "Settle down.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2432",
+        "word": "settlement",
+        "translation": "การตั้งถิ่นฐาน",
+        "pos": "noun",
+        "example": "Reach a settlement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2433",
+        "word": "seven",
+        "translation": "เจ็ด",
+        "pos": "num",
+        "example": "Seven days.",
+        "level": "basic"
+    },
+    {
+        "id": "v2434",
+        "word": "several",
+        "translation": "หลาย",
+        "pos": "det",
+        "example": "Several times.",
+        "level": "basic"
+    },
+    {
+        "id": "v2435",
+        "word": "severe",
+        "translation": "รุนแรง",
+        "pos": "adj",
+        "example": "Severe weather.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2436",
+        "word": "sex",
+        "translation": "เพศ",
+        "pos": "noun",
+        "example": "Same sex.",
+        "level": "basic"
+    },
+    {
+        "id": "v2437",
+        "word": "sexual",
+        "translation": "ทางเพศ",
+        "pos": "adj",
+        "example": "Sexual harassment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2438",
+        "word": "shade",
+        "translation": "ร่มเงา",
+        "pos": "noun",
+        "example": "In the shade.",
+        "level": "basic"
+    },
+    {
+        "id": "v2439",
+        "word": "shadow",
+        "translation": "เงา",
+        "pos": "noun",
+        "example": "In the shadow.",
+        "level": "basic"
+    },
+    {
+        "id": "v2440",
+        "word": "shake",
+        "translation": "เขย่า",
+        "pos": "verb",
+        "example": "Shake hands.",
+        "level": "basic"
+    },
+    {
+        "id": "v2441",
+        "word": "shall",
+        "translation": "จะ",
+        "pos": "verb",
+        "example": "Shall we go?",
+        "level": "basic"
+    },
+    {
+        "id": "v2442",
+        "word": "shame",
+        "translation": "ความอาย",
+        "pos": "noun",
+        "example": "What a shame!",
+        "level": "basic"
+    },
+    {
+        "id": "v2443",
+        "word": "shape",
+        "translation": "รูปร่าง",
+        "pos": "noun",
+        "example": "In good shape.",
+        "level": "basic"
+    },
+    {
+        "id": "v2444",
+        "word": "share",
+        "translation": "แบ่งปัน",
+        "pos": "verb",
+        "example": "Share with friends.",
+        "level": "basic"
+    },
+    {
+        "id": "v2445",
+        "word": "sharp",
+        "translation": "แหลม",
+        "pos": "adj",
+        "example": "Sharp knife.",
+        "level": "basic"
+    },
+    {
+        "id": "v2446",
+        "word": "she",
+        "translation": "เธอ",
+        "pos": "pron",
+        "example": "She is here.",
+        "level": "basic"
+    },
+    {
+        "id": "v2447",
+        "word": "sheet",
+        "translation": "แผ่น",
+        "pos": "noun",
+        "example": "Bed sheet.",
+        "level": "basic"
+    },
+    {
+        "id": "v2448",
+        "word": "shelf",
+        "translation": "ชั้นวาง",
+        "pos": "noun",
+        "example": "Book shelf.",
+        "level": "basic"
+    },
+    {
+        "id": "v2449",
+        "word": "shell",
+        "translation": "เปลือก",
+        "pos": "noun",
+        "example": "Sea shell.",
+        "level": "basic"
+    },
+    {
+        "id": "v2450",
+        "word": "shelter",
+        "translation": "ที่พักพิง",
+        "pos": "noun",
+        "example": "Animal shelter.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2451",
+        "word": "shift",
+        "translation": "กะ",
+        "pos": "noun",
+        "example": "Night shift.",
+        "level": "basic"
+    },
+    {
+        "id": "v2452",
+        "word": "shine",
+        "translation": "ส่องแสง",
+        "pos": "verb",
+        "example": "The sun shines.",
+        "level": "basic"
+    },
+    {
+        "id": "v2453",
+        "word": "ship",
+        "translation": "เรือ",
+        "pos": "noun",
+        "example": "Cruise ship.",
+        "level": "basic"
+    },
+    {
+        "id": "v2454",
+        "word": "shipping",
+        "translation": "การจัดส่ง",
+        "pos": "noun",
+        "example": "Free shipping.",
+        "level": "basic"
+    },
+    {
+        "id": "v2455",
+        "word": "shirt",
+        "translation": "เสื้อ",
+        "pos": "noun",
+        "example": "White shirt.",
+        "level": "basic"
+    },
+    {
+        "id": "v2456",
+        "word": "shock",
+        "translation": "ช็อค",
+        "pos": "noun",
+        "example": "In shock.",
+        "level": "basic"
+    },
+    {
+        "id": "v2457",
+        "word": "shoe",
+        "translation": "รองเท้า",
+        "pos": "noun",
+        "example": "New shoes.",
+        "level": "basic"
+    },
+    {
+        "id": "v2458",
+        "word": "shoot",
+        "translation": "ยิง",
+        "pos": "verb",
+        "example": "Shoot the ball.",
+        "level": "basic"
+    },
+    {
+        "id": "v2459",
+        "word": "shooting",
+        "translation": "การยิง",
+        "pos": "noun",
+        "example": "Photo shooting.",
+        "level": "basic"
+    },
+    {
+        "id": "v2460",
+        "word": "shop",
+        "translation": "ร้านค้า",
+        "pos": "noun",
+        "example": "Coffee shop.",
+        "level": "basic"
+    },
+    {
+        "id": "v2461",
+        "word": "shopping",
+        "translation": "ช้อปปิ้ง",
+        "pos": "noun",
+        "example": "Go shopping.",
+        "level": "basic"
+    },
+    {
+        "id": "v2462",
+        "word": "shore",
+        "translation": "ชายฝั่ง",
+        "pos": "noun",
+        "example": "By the shore.",
+        "level": "basic"
+    },
+    {
+        "id": "v2463",
+        "word": "short",
+        "translation": "สั้น",
+        "pos": "adj",
+        "example": "Short hair.",
+        "level": "basic"
+    },
+    {
+        "id": "v2464",
+        "word": "shortly",
+        "translation": "ในไม่ช้า",
+        "pos": "adv",
+        "example": "Coming shortly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2465",
+        "word": "shot",
+        "translation": "การยิง",
+        "pos": "noun",
+        "example": "Good shot!",
+        "level": "basic"
+    },
+    {
+        "id": "v2466",
+        "word": "should",
+        "translation": "ควร",
+        "pos": "verb",
+        "example": "You should go.",
+        "level": "basic"
+    },
+    {
+        "id": "v2467",
+        "word": "shoulder",
+        "translation": "ไหล่",
+        "pos": "noun",
+        "example": "Shoulder pain.",
+        "level": "basic"
+    },
+    {
+        "id": "v2468",
+        "word": "shout",
+        "translation": "ตะโกน",
+        "pos": "verb",
+        "example": "Don't shout.",
+        "level": "basic"
+    },
+    {
+        "id": "v2469",
+        "word": "show",
+        "translation": "แสดง",
+        "pos": "verb",
+        "example": "Show me.",
+        "level": "basic"
+    },
+    {
+        "id": "v2470",
+        "word": "shower",
+        "translation": "ฝักบัว",
+        "pos": "noun",
+        "example": "Take a shower.",
+        "level": "basic"
+    },
+    {
+        "id": "v2471",
+        "word": "shut",
+        "translation": "ปิด",
+        "pos": "verb",
+        "example": "Shut the door.",
+        "level": "basic"
+    },
+    {
+        "id": "v2472",
+        "word": "shy",
+        "translation": "ขี้อาย",
+        "pos": "adj",
+        "example": "Don't be shy.",
+        "level": "basic"
+    },
+    {
+        "id": "v2473",
+        "word": "sick",
+        "translation": "ป่วย",
+        "pos": "adj",
+        "example": "Feel sick.",
+        "level": "basic"
+    },
+    {
+        "id": "v2474",
+        "word": "side",
+        "translation": "ด้าน",
+        "pos": "noun",
+        "example": "Both sides.",
+        "level": "basic"
+    },
+    {
+        "id": "v2475",
+        "word": "sign",
+        "translation": "ป้าย",
+        "pos": "noun",
+        "example": "Road sign.",
+        "level": "basic"
+    },
+    {
+        "id": "v2476",
+        "word": "signal",
+        "translation": "สัญญาณ",
+        "pos": "noun",
+        "example": "Phone signal.",
+        "level": "basic"
+    },
+    {
+        "id": "v2477",
+        "word": "signature",
+        "translation": "ลายเซ็น",
+        "pos": "noun",
+        "example": "Your signature.",
+        "level": "basic"
+    },
+    {
+        "id": "v2478",
+        "word": "significance",
+        "translation": "ความสำคัญ",
+        "pos": "noun",
+        "example": "Great significance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2479",
+        "word": "significant",
+        "translation": "สำคัญ",
+        "pos": "adj",
+        "example": "Significant change.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2480",
+        "word": "significantly",
+        "translation": "อย่างมีนัยสำคัญ",
+        "pos": "adv",
+        "example": "Significantly better.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2481",
+        "word": "silence",
+        "translation": "ความเงียบ",
+        "pos": "noun",
+        "example": "Complete silence.",
+        "level": "basic"
+    },
+    {
+        "id": "v2482",
+        "word": "silent",
+        "translation": "เงียบ",
+        "pos": "adj",
+        "example": "Stay silent.",
+        "level": "basic"
+    },
+    {
+        "id": "v2483",
+        "word": "silk",
+        "translation": "ไหม",
+        "pos": "noun",
+        "example": "Silk dress.",
+        "level": "basic"
+    },
+    {
+        "id": "v2484",
+        "word": "silly",
+        "translation": "โง่",
+        "pos": "adj",
+        "example": "Silly question.",
+        "level": "basic"
+    },
+    {
+        "id": "v2485",
+        "word": "silver",
+        "translation": "เงิน",
+        "pos": "noun",
+        "example": "Silver ring.",
+        "level": "basic"
+    },
+    {
+        "id": "v2486",
+        "word": "similar",
+        "translation": "คล้ายกัน",
+        "pos": "adj",
+        "example": "Very similar.",
+        "level": "basic"
+    },
+    {
+        "id": "v2487",
+        "word": "similarly",
+        "translation": "ในทำนองเดียวกัน",
+        "pos": "adv",
+        "example": "Similarly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2488",
+        "word": "simple",
+        "translation": "ง่าย",
+        "pos": "adj",
+        "example": "Simple solution.",
+        "level": "basic"
+    },
+    {
+        "id": "v2489",
+        "word": "simply",
+        "translation": "เพียงแค่",
+        "pos": "adv",
+        "example": "Simply put.",
+        "level": "basic"
+    },
+    {
+        "id": "v2490",
+        "word": "sin",
+        "translation": "บาป",
+        "pos": "noun",
+        "example": "Commit a sin.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2491",
+        "word": "since",
+        "translation": "ตั้งแต่",
+        "pos": "prep",
+        "example": "Since then.",
+        "level": "basic"
+    },
+    {
+        "id": "v2492",
+        "word": "sing",
+        "translation": "ร้องเพลง",
+        "pos": "verb",
+        "example": "Sing a song.",
+        "level": "basic"
+    },
+    {
+        "id": "v2493",
+        "word": "singer",
+        "translation": "นักร้อง",
+        "pos": "noun",
+        "example": "Famous singer.",
+        "level": "basic"
+    },
+    {
+        "id": "v2494",
+        "word": "single",
+        "translation": "โสด",
+        "pos": "adj",
+        "example": "Single person.",
+        "level": "basic"
+    },
+    {
+        "id": "v2495",
+        "word": "sink",
+        "translation": "อ่างล้าง",
+        "pos": "noun",
+        "example": "Kitchen sink.",
+        "level": "basic"
+    },
+    {
+        "id": "v2496",
+        "word": "sir",
+        "translation": "ท่าน",
+        "pos": "noun",
+        "example": "Yes, sir.",
+        "level": "basic"
+    },
+    {
+        "id": "v2497",
+        "word": "sister",
+        "translation": "พี่สาว",
+        "pos": "noun",
+        "example": "My sister.",
+        "level": "basic"
+    },
+    {
+        "id": "v2498",
+        "word": "sit",
+        "translation": "นั่ง",
+        "pos": "verb",
+        "example": "Sit down.",
+        "level": "basic"
+    },
+    {
+        "id": "v2499",
+        "word": "site",
+        "translation": "ไซต์",
+        "pos": "noun",
+        "example": "Website.",
+        "level": "basic"
+    },
+    {
+        "id": "v2500",
+        "word": "situation",
+        "translation": "สถานการณ์",
+        "pos": "noun",
+        "example": "Current situation.",
+        "level": "basic"
+    }
+]

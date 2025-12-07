@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v0151",
+        "word": "asset",
+        "translation": "ทรัพย์สิน",
+        "pos": "noun",
+        "example": "Knowledge is a valuable asset.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0152",
+        "word": "assign",
+        "translation": "มอบหมาย",
+        "pos": "verb",
+        "example": "The task was assigned to me.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0153",
+        "word": "assignment",
+        "translation": "งานที่มอบหมาย",
+        "pos": "noun",
+        "example": "Complete your assignment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0154",
+        "word": "assist",
+        "translation": "ช่วยเหลือ",
+        "pos": "verb",
+        "example": "Can I assist you?",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0155",
+        "word": "assistance",
+        "translation": "ความช่วยเหลือ",
+        "pos": "noun",
+        "example": "Thank you for your assistance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0156",
+        "word": "assistant",
+        "translation": "ผู้ช่วย",
+        "pos": "noun",
+        "example": "She is my assistant.",
+        "level": "basic"
+    },
+    {
+        "id": "v0157",
+        "word": "associate",
+        "translation": "เชื่อมโยง",
+        "pos": "verb",
+        "example": "I associate summer with beach.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0158",
+        "word": "association",
+        "translation": "สมาคม",
+        "pos": "noun",
+        "example": "He joined the association.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0159",
+        "word": "assume",
+        "translation": "สันนิษฐาน",
+        "pos": "verb",
+        "example": "I assume you agree.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0160",
+        "word": "assumption",
+        "translation": "สมมติฐาน",
+        "pos": "noun",
+        "example": "Your assumption is wrong.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0161",
+        "word": "assure",
+        "translation": "รับรอง",
+        "pos": "verb",
+        "example": "I assure you it's safe.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0162",
+        "word": "at",
+        "translation": "ที่",
+        "pos": "prep",
+        "example": "I'm at home.",
+        "level": "basic"
+    },
+    {
+        "id": "v0163",
+        "word": "athlete",
+        "translation": "นักกีฬา",
+        "pos": "noun",
+        "example": "He is a professional athlete.",
+        "level": "basic"
+    },
+    {
+        "id": "v0164",
+        "word": "atmosphere",
+        "translation": "บรรยากาศ",
+        "pos": "noun",
+        "example": "The atmosphere was tense.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0165",
+        "word": "attach",
+        "translation": "แนบ",
+        "pos": "verb",
+        "example": "Attach the file to the email.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0166",
+        "word": "attack",
+        "translation": "โจมตี",
+        "pos": "verb",
+        "example": "The army attacked at dawn.",
+        "level": "basic"
+    },
+    {
+        "id": "v0167",
+        "word": "attempt",
+        "translation": "พยายาม",
+        "pos": "verb",
+        "example": "He attempted to escape.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0168",
+        "word": "attend",
+        "translation": "เข้าร่วม",
+        "pos": "verb",
+        "example": "I will attend the meeting.",
+        "level": "basic"
+    },
+    {
+        "id": "v0169",
+        "word": "attention",
+        "translation": "ความสนใจ",
+        "pos": "noun",
+        "example": "Pay attention to me.",
+        "level": "basic"
+    },
+    {
+        "id": "v0170",
+        "word": "attitude",
+        "translation": "ทัศนคติ",
+        "pos": "noun",
+        "example": "Have a positive attitude.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0171",
+        "word": "attorney",
+        "translation": "ทนายความ",
+        "pos": "noun",
+        "example": "Consult your attorney.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0172",
+        "word": "attract",
+        "translation": "ดึงดูด",
+        "pos": "verb",
+        "example": "Flowers attract bees.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0173",
+        "word": "attractive",
+        "translation": "น่าดึงดูด",
+        "pos": "adj",
+        "example": "She is very attractive.",
+        "level": "basic"
+    },
+    {
+        "id": "v0174",
+        "word": "audience",
+        "translation": "ผู้ชม",
+        "pos": "noun",
+        "example": "The audience applauded.",
+        "level": "basic"
+    },
+    {
+        "id": "v0175",
+        "word": "august",
+        "translation": "สิงหาคม",
+        "pos": "noun",
+        "example": "School starts in August.",
+        "level": "basic"
+    },
+    {
+        "id": "v0176",
+        "word": "aunt",
+        "translation": "ป้า",
+        "pos": "noun",
+        "example": "My aunt lives nearby.",
+        "level": "basic"
+    },
+    {
+        "id": "v0177",
+        "word": "author",
+        "translation": "ผู้เขียน",
+        "pos": "noun",
+        "example": "Who is the author?",
+        "level": "basic"
+    },
+    {
+        "id": "v0178",
+        "word": "authority",
+        "translation": "อำนาจ",
+        "pos": "noun",
+        "example": "He has no authority here.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0179",
+        "word": "automatic",
+        "translation": "อัตโนมัติ",
+        "pos": "adj",
+        "example": "The door is automatic.",
+        "level": "basic"
+    },
+    {
+        "id": "v0180",
+        "word": "available",
+        "translation": "มีอยู่",
+        "pos": "adj",
+        "example": "Is this seat available?",
+        "level": "basic"
+    },
+    {
+        "id": "v0181",
+        "word": "average",
+        "translation": "เฉลี่ย",
+        "pos": "adj",
+        "example": "The average score is 70.",
+        "level": "basic"
+    },
+    {
+        "id": "v0182",
+        "word": "avoid",
+        "translation": "หลีกเลี่ยง",
+        "pos": "verb",
+        "example": "Avoid making mistakes.",
+        "level": "basic"
+    },
+    {
+        "id": "v0183",
+        "word": "award",
+        "translation": "รางวัล",
+        "pos": "noun",
+        "example": "She won an award.",
+        "level": "basic"
+    },
+    {
+        "id": "v0184",
+        "word": "aware",
+        "translation": "ตระหนัก",
+        "pos": "adj",
+        "example": "Be aware of the danger.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0185",
+        "word": "awareness",
+        "translation": "ความตระหนัก",
+        "pos": "noun",
+        "example": "Raise awareness about health.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0186",
+        "word": "away",
+        "translation": "ห่างออกไป",
+        "pos": "adv",
+        "example": "Go away!",
+        "level": "basic"
+    },
+    {
+        "id": "v0187",
+        "word": "awful",
+        "translation": "แย่มาก",
+        "pos": "adj",
+        "example": "The weather is awful.",
+        "level": "basic"
+    },
+    {
+        "id": "v0188",
+        "word": "baby",
+        "translation": "ทารก",
+        "pos": "noun",
+        "example": "The baby is sleeping.",
+        "level": "basic"
+    },
+    {
+        "id": "v0189",
+        "word": "back",
+        "translation": "หลัง",
+        "pos": "noun",
+        "example": "My back hurts.",
+        "level": "basic"
+    },
+    {
+        "id": "v0190",
+        "word": "background",
+        "translation": "ภูมิหลัง",
+        "pos": "noun",
+        "example": "What is your background?",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0191",
+        "word": "bad",
+        "translation": "ไม่ดี",
+        "pos": "adj",
+        "example": "That's a bad idea.",
+        "level": "basic"
+    },
+    {
+        "id": "v0192",
+        "word": "badly",
+        "translation": "อย่างแย่",
+        "pos": "adv",
+        "example": "He performed badly.",
+        "level": "basic"
+    },
+    {
+        "id": "v0193",
+        "word": "bag",
+        "translation": "กระเป๋า",
+        "pos": "noun",
+        "example": "Put it in the bag.",
+        "level": "basic"
+    },
+    {
+        "id": "v0194",
+        "word": "balance",
+        "translation": "สมดุล",
+        "pos": "noun",
+        "example": "Keep your balance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0195",
+        "word": "ball",
+        "translation": "ลูกบอล",
+        "pos": "noun",
+        "example": "Throw the ball.",
+        "level": "basic"
+    },
+    {
+        "id": "v0196",
+        "word": "ban",
+        "translation": "ห้าม",
+        "pos": "verb",
+        "example": "Smoking is banned here.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0197",
+        "word": "band",
+        "translation": "วงดนตรี",
+        "pos": "noun",
+        "example": "The band played well.",
+        "level": "basic"
+    },
+    {
+        "id": "v0198",
+        "word": "bank",
+        "translation": "ธนาคาร",
+        "pos": "noun",
+        "example": "I went to the bank.",
+        "level": "basic"
+    },
+    {
+        "id": "v0199",
+        "word": "bar",
+        "translation": "บาร์",
+        "pos": "noun",
+        "example": "Let's meet at the bar.",
+        "level": "basic"
+    },
+    {
+        "id": "v0200",
+        "word": "barrier",
+        "translation": "อุปสรรค",
+        "pos": "noun",
+        "example": "Language is a barrier.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0201",
+        "word": "base",
+        "translation": "ฐาน",
+        "pos": "noun",
+        "example": "The base is strong.",
+        "level": "basic"
+    },
+    {
+        "id": "v0202",
+        "word": "baseball",
+        "translation": "เบสบอล",
+        "pos": "noun",
+        "example": "He plays baseball.",
+        "level": "basic"
+    },
+    {
+        "id": "v0203",
+        "word": "basic",
+        "translation": "พื้นฐาน",
+        "pos": "adj",
+        "example": "Learn the basics first.",
+        "level": "basic"
+    },
+    {
+        "id": "v0204",
+        "word": "basically",
+        "translation": "โดยพื้นฐาน",
+        "pos": "adv",
+        "example": "Basically, I agree.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0205",
+        "word": "basis",
+        "translation": "พื้นฐาน",
+        "pos": "noun",
+        "example": "On a daily basis.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0206",
+        "word": "basket",
+        "translation": "ตะกร้า",
+        "pos": "noun",
+        "example": "Put the fruits in the basket.",
+        "level": "basic"
+    },
+    {
+        "id": "v0207",
+        "word": "basketball",
+        "translation": "บาสเกตบอล",
+        "pos": "noun",
+        "example": "She loves basketball.",
+        "level": "basic"
+    },
+    {
+        "id": "v0208",
+        "word": "bathroom",
+        "translation": "ห้องน้ำ",
+        "pos": "noun",
+        "example": "Where is the bathroom?",
+        "level": "basic"
+    },
+    {
+        "id": "v0209",
+        "word": "battery",
+        "translation": "แบตเตอรี่",
+        "pos": "noun",
+        "example": "The battery is dead.",
+        "level": "basic"
+    },
+    {
+        "id": "v0210",
+        "word": "battle",
+        "translation": "การต่อสู้",
+        "pos": "noun",
+        "example": "The battle was fierce.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0211",
+        "word": "be",
+        "translation": "เป็น",
+        "pos": "verb",
+        "example": "To be or not to be.",
+        "level": "basic"
+    },
+    {
+        "id": "v0212",
+        "word": "beach",
+        "translation": "ชายหาด",
+        "pos": "noun",
+        "example": "Let's go to the beach.",
+        "level": "basic"
+    },
+    {
+        "id": "v0213",
+        "word": "bear",
+        "translation": "หมี",
+        "pos": "noun",
+        "example": "Bears live in the forest.",
+        "level": "basic"
+    },
+    {
+        "id": "v0214",
+        "word": "beat",
+        "translation": "ตี",
+        "pos": "verb",
+        "example": "My heart beats fast.",
+        "level": "basic"
+    },
+    {
+        "id": "v0215",
+        "word": "beautiful",
+        "translation": "สวยงาม",
+        "pos": "adj",
+        "example": "What a beautiful day!",
+        "level": "basic"
+    },
+    {
+        "id": "v0216",
+        "word": "beauty",
+        "translation": "ความงาม",
+        "pos": "noun",
+        "example": "Beauty is in the eye of the beholder.",
+        "level": "basic"
+    },
+    {
+        "id": "v0217",
+        "word": "because",
+        "translation": "เพราะว่า",
+        "pos": "conj",
+        "example": "I'm happy because you're here.",
+        "level": "basic"
+    },
+    {
+        "id": "v0218",
+        "word": "become",
+        "translation": "กลายเป็น",
+        "pos": "verb",
+        "example": "She became a doctor.",
+        "level": "basic"
+    },
+    {
+        "id": "v0219",
+        "word": "bed",
+        "translation": "เตียง",
+        "pos": "noun",
+        "example": "Go to bed early.",
+        "level": "basic"
+    },
+    {
+        "id": "v0220",
+        "word": "bedroom",
+        "translation": "ห้องนอน",
+        "pos": "noun",
+        "example": "My bedroom is upstairs.",
+        "level": "basic"
+    },
+    {
+        "id": "v0221",
+        "word": "beer",
+        "translation": "เบียร์",
+        "pos": "noun",
+        "example": "Would you like a beer?",
+        "level": "basic"
+    },
+    {
+        "id": "v0222",
+        "word": "before",
+        "translation": "ก่อน",
+        "pos": "prep",
+        "example": "Wash your hands before eating.",
+        "level": "basic"
+    },
+    {
+        "id": "v0223",
+        "word": "begin",
+        "translation": "เริ่มต้น",
+        "pos": "verb",
+        "example": "Let's begin the lesson.",
+        "level": "basic"
+    },
+    {
+        "id": "v0224",
+        "word": "beginning",
+        "translation": "จุดเริ่มต้น",
+        "pos": "noun",
+        "example": "In the beginning.",
+        "level": "basic"
+    },
+    {
+        "id": "v0225",
+        "word": "behavior",
+        "translation": "พฤติกรรม",
+        "pos": "noun",
+        "example": "His behavior is strange.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0226",
+        "word": "behind",
+        "translation": "ข้างหลัง",
+        "pos": "prep",
+        "example": "Stand behind me.",
+        "level": "basic"
+    },
+    {
+        "id": "v0227",
+        "word": "belief",
+        "translation": "ความเชื่อ",
+        "pos": "noun",
+        "example": "I respect your beliefs.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0228",
+        "word": "believe",
+        "translation": "เชื่อ",
+        "pos": "verb",
+        "example": "I believe in you.",
+        "level": "basic"
+    },
+    {
+        "id": "v0229",
+        "word": "bell",
+        "translation": "กระดิ่ง",
+        "pos": "noun",
+        "example": "Ring the bell.",
+        "level": "basic"
+    },
+    {
+        "id": "v0230",
+        "word": "belong",
+        "translation": "เป็นของ",
+        "pos": "verb",
+        "example": "This belongs to me.",
+        "level": "basic"
+    },
+    {
+        "id": "v0231",
+        "word": "below",
+        "translation": "ข้างล่าง",
+        "pos": "prep",
+        "example": "Look below the table.",
+        "level": "basic"
+    },
+    {
+        "id": "v0232",
+        "word": "belt",
+        "translation": "เข็มขัด",
+        "pos": "noun",
+        "example": "Fasten your seatbelt.",
+        "level": "basic"
+    },
+    {
+        "id": "v0233",
+        "word": "bench",
+        "translation": "ม้านั่ง",
+        "pos": "noun",
+        "example": "Sit on the bench.",
+        "level": "basic"
+    },
+    {
+        "id": "v0234",
+        "word": "bend",
+        "translation": "งอ",
+        "pos": "verb",
+        "example": "Bend your knees.",
+        "level": "basic"
+    },
+    {
+        "id": "v0235",
+        "word": "beneath",
+        "translation": "ใต้",
+        "pos": "prep",
+        "example": "Beneath the surface.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0236",
+        "word": "benefit",
+        "translation": "ประโยชน์",
+        "pos": "noun",
+        "example": "Exercise has many benefits.",
+        "level": "basic"
+    },
+    {
+        "id": "v0237",
+        "word": "beside",
+        "translation": "ข้างๆ",
+        "pos": "prep",
+        "example": "Sit beside me.",
+        "level": "basic"
+    },
+    {
+        "id": "v0238",
+        "word": "besides",
+        "translation": "นอกจากนี้",
+        "pos": "prep",
+        "example": "Besides, I'm tired.",
+        "level": "basic"
+    },
+    {
+        "id": "v0239",
+        "word": "best",
+        "translation": "ดีที่สุด",
+        "pos": "adj",
+        "example": "You are the best.",
+        "level": "basic"
+    },
+    {
+        "id": "v0240",
+        "word": "bet",
+        "translation": "พนัน",
+        "pos": "verb",
+        "example": "I bet you can't do it.",
+        "level": "basic"
+    },
+    {
+        "id": "v0241",
+        "word": "better",
+        "translation": "ดีกว่า",
+        "pos": "adj",
+        "example": "This is better.",
+        "level": "basic"
+    },
+    {
+        "id": "v0242",
+        "word": "between",
+        "translation": "ระหว่าง",
+        "pos": "prep",
+        "example": "Between you and me.",
+        "level": "basic"
+    },
+    {
+        "id": "v0243",
+        "word": "beyond",
+        "translation": "เกินกว่า",
+        "pos": "prep",
+        "example": "Beyond my expectations.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0244",
+        "word": "bicycle",
+        "translation": "จักรยาน",
+        "pos": "noun",
+        "example": "I ride my bicycle to work.",
+        "level": "basic"
+    },
+    {
+        "id": "v0245",
+        "word": "big",
+        "translation": "ใหญ่",
+        "pos": "adj",
+        "example": "That's a big house.",
+        "level": "basic"
+    },
+    {
+        "id": "v0246",
+        "word": "bill",
+        "translation": "ใบเรียกเก็บเงิน",
+        "pos": "noun",
+        "example": "Pay the bill please.",
+        "level": "basic"
+    },
+    {
+        "id": "v0247",
+        "word": "billion",
+        "translation": "พันล้าน",
+        "pos": "num",
+        "example": "7 billion people on Earth.",
+        "level": "basic"
+    },
+    {
+        "id": "v0248",
+        "word": "bird",
+        "translation": "นก",
+        "pos": "noun",
+        "example": "The bird is singing.",
+        "level": "basic"
+    },
+    {
+        "id": "v0249",
+        "word": "birth",
+        "translation": "การเกิด",
+        "pos": "noun",
+        "example": "Date of birth.",
+        "level": "basic"
+    },
+    {
+        "id": "v0250",
+        "word": "birthday",
+        "translation": "วันเกิด",
+        "pos": "noun",
+        "example": "Happy birthday!",
+        "level": "basic"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v9501",
+        "word": "cheat",
+        "translation": "โกง",
+        "pos": "verb",
+        "example": "Don't cheat.",
+        "level": "basic"
+    },
+    {
+        "id": "v9502",
+        "word": "cheating",
+        "translation": "การโกง",
+        "pos": "noun",
+        "example": "Stop cheating.",
+        "level": "basic"
+    },
+    {
+        "id": "v9503",
+        "word": "checklist",
+        "translation": "รายการตรวจสอบ",
+        "pos": "noun",
+        "example": "Safety checklist.",
+        "level": "basic"
+    },
+    {
+        "id": "v9504",
+        "word": "checkout",
+        "translation": "เช็คเอาท์",
+        "pos": "noun",
+        "example": "Checkout counter.",
+        "level": "basic"
+    },
+    {
+        "id": "v9505",
+        "word": "checkpoint",
+        "translation": "จุดตรวจ",
+        "pos": "noun",
+        "example": "Security checkpoint.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9506",
+        "word": "checkup",
+        "translation": "ตรวจสุขภาพ",
+        "pos": "noun",
+        "example": "Annual checkup.",
+        "level": "basic"
+    },
+    {
+        "id": "v9507",
+        "word": "cheek",
+        "translation": "แก้ม",
+        "pos": "noun",
+        "example": "Rosy cheeks.",
+        "level": "basic"
+    },
+    {
+        "id": "v9508",
+        "word": "cheer",
+        "translation": "เชียร์",
+        "pos": "verb",
+        "example": "Cheer up!",
+        "level": "basic"
+    },
+    {
+        "id": "v9509",
+        "word": "cheerful",
+        "translation": "ร่าเริง",
+        "pos": "adj",
+        "example": "Very cheerful.",
+        "level": "basic"
+    },
+    {
+        "id": "v9510",
+        "word": "cheerfully",
+        "translation": "อย่างร่าเริง",
+        "pos": "adv",
+        "example": "Smile cheerfully.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9511",
+        "word": "cheering",
+        "translation": "เสียงเชียร์",
+        "pos": "noun",
+        "example": "Crowd cheering.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9512",
+        "word": "cheers",
+        "translation": "ไชโย",
+        "pos": "interj",
+        "example": "Cheers!",
+        "level": "basic"
+    },
+    {
+        "id": "v9513",
+        "word": "chef",
+        "translation": "เชฟ",
+        "pos": "noun",
+        "example": "Head chef.",
+        "level": "basic"
+    },
+    {
+        "id": "v9514",
+        "word": "chemical",
+        "translation": "เคมี",
+        "pos": "adj",
+        "example": "Chemical reaction.",
+        "level": "basic"
+    },
+    {
+        "id": "v9515",
+        "word": "chemist",
+        "translation": "นักเคมี",
+        "pos": "noun",
+        "example": "Famous chemist.",
+        "level": "basic"
+    },
+    {
+        "id": "v9516",
+        "word": "chemistry",
+        "translation": "วิชาเคมี",
+        "pos": "noun",
+        "example": "Study chemistry.",
+        "level": "basic"
+    },
+    {
+        "id": "v9517",
+        "word": "cheque",
+        "translation": "เช็ค",
+        "pos": "noun",
+        "example": "Write a cheque.",
+        "level": "basic"
+    },
+    {
+        "id": "v9518",
+        "word": "cherish",
+        "translation": "รัก",
+        "pos": "verb",
+        "example": "Cherish memories.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9519",
+        "word": "cherry",
+        "translation": "เชอร์รี่",
+        "pos": "noun",
+        "example": "Cherry blossom.",
+        "level": "basic"
+    },
+    {
+        "id": "v9520",
+        "word": "chess",
+        "translation": "หมากรุก",
+        "pos": "noun",
+        "example": "Play chess.",
+        "level": "basic"
+    },
+    {
+        "id": "v9521",
+        "word": "chest",
+        "translation": "หน้าอก",
+        "pos": "noun",
+        "example": "Treasure chest.",
+        "level": "basic"
+    },
+    {
+        "id": "v9522",
+        "word": "chestnut",
+        "translation": "เกาลัด",
+        "pos": "noun",
+        "example": "Roasted chestnuts.",
+        "level": "basic"
+    },
+    {
+        "id": "v9523",
+        "word": "chew",
+        "translation": "เคี้ยว",
+        "pos": "verb",
+        "example": "Chew gum.",
+        "level": "basic"
+    },
+    {
+        "id": "v9524",
+        "word": "chewing",
+        "translation": "การเคี้ยว",
+        "pos": "noun",
+        "example": "Chewing gum.",
+        "level": "basic"
+    },
+    {
+        "id": "v9525",
+        "word": "chick",
+        "translation": "ลูกไก่",
+        "pos": "noun",
+        "example": "Baby chick.",
+        "level": "basic"
+    },
+    {
+        "id": "v9526",
+        "word": "chicken",
+        "translation": "ไก่",
+        "pos": "noun",
+        "example": "Fried chicken.",
+        "level": "basic"
+    },
+    {
+        "id": "v9527",
+        "word": "chief",
+        "translation": "หัวหน้า",
+        "pos": "noun",
+        "example": "Chief executive.",
+        "level": "basic"
+    },
+    {
+        "id": "v9528",
+        "word": "chiefly",
+        "translation": "โดยเฉพาะ",
+        "pos": "adv",
+        "example": "Chiefly because.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9529",
+        "word": "childhood",
+        "translation": "วัยเด็ก",
+        "pos": "noun",
+        "example": "Happy childhood.",
+        "level": "basic"
+    },
+    {
+        "id": "v9530",
+        "word": "childish",
+        "translation": "เด็กๆ",
+        "pos": "adj",
+        "example": "Childish behavior.",
+        "level": "basic"
+    },
+    {
+        "id": "v9531",
+        "word": "chill",
+        "translation": "เย็น",
+        "pos": "noun",
+        "example": "Chill out.",
+        "level": "basic"
+    },
+    {
+        "id": "v9532",
+        "word": "chilled",
+        "translation": "เย็น",
+        "pos": "adj",
+        "example": "Chilled water.",
+        "level": "basic"
+    },
+    {
+        "id": "v9533",
+        "word": "chilling",
+        "translation": "น่าสยอง",
+        "pos": "adj",
+        "example": "Chilling story.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9534",
+        "word": "chilly",
+        "translation": "หนาว",
+        "pos": "adj",
+        "example": "Chilly weather.",
+        "level": "basic"
+    },
+    {
+        "id": "v9535",
+        "word": "chime",
+        "translation": "เสียงระฆัง",
+        "pos": "noun",
+        "example": "Wind chime.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9536",
+        "word": "chimney",
+        "translation": "ปล่องไฟ",
+        "pos": "noun",
+        "example": "Brick chimney.",
+        "level": "basic"
+    },
+    {
+        "id": "v9537",
+        "word": "chimpanzee",
+        "translation": "ชิมแปนซี",
+        "pos": "noun",
+        "example": "Wild chimpanzee.",
+        "level": "basic"
+    },
+    {
+        "id": "v9538",
+        "word": "chin",
+        "translation": "คาง",
+        "pos": "noun",
+        "example": "Pointed chin.",
+        "level": "basic"
+    },
+    {
+        "id": "v9539",
+        "word": "chip",
+        "translation": "ชิป",
+        "pos": "noun",
+        "example": "Computer chip.",
+        "level": "basic"
+    },
+    {
+        "id": "v9540",
+        "word": "chlorine",
+        "translation": "คลอรีน",
+        "pos": "noun",
+        "example": "Pool chlorine.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9541",
+        "word": "chocolate",
+        "translation": "ช็อกโกแลต",
+        "pos": "noun",
+        "example": "Dark chocolate.",
+        "level": "basic"
+    },
+    {
+        "id": "v9542",
+        "word": "choir",
+        "translation": "คณะนักร้อง",
+        "pos": "noun",
+        "example": "Church choir.",
+        "level": "basic"
+    },
+    {
+        "id": "v9543",
+        "word": "choke",
+        "translation": "สำลัก",
+        "pos": "verb",
+        "example": "Don't choke.",
+        "level": "basic"
+    },
+    {
+        "id": "v9544",
+        "word": "cholesterol",
+        "translation": "คอเลสเตอรอล",
+        "pos": "noun",
+        "example": "High cholesterol.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9545",
+        "word": "chord",
+        "translation": "คอร์ด",
+        "pos": "noun",
+        "example": "Guitar chord.",
+        "level": "basic"
+    },
+    {
+        "id": "v9546",
+        "word": "chore",
+        "translation": "งานบ้าน",
+        "pos": "noun",
+        "example": "Daily chores.",
+        "level": "basic"
+    },
+    {
+        "id": "v9547",
+        "word": "choreography",
+        "translation": "การออกแบบท่าเต้น",
+        "pos": "noun",
+        "example": "Dance choreography.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9548",
+        "word": "chorus",
+        "translation": "คอรัส",
+        "pos": "noun",
+        "example": "Sing chorus.",
+        "level": "basic"
+    },
+    {
+        "id": "v9549",
+        "word": "christ",
+        "translation": "พระคริสต์",
+        "pos": "noun",
+        "example": "Jesus Christ.",
+        "level": "basic"
+    },
+    {
+        "id": "v9550",
+        "word": "christian",
+        "translation": "คริสเตียน",
+        "pos": "noun",
+        "example": "Devout Christian.",
+        "level": "basic"
+    },
+    {
+        "id": "v9551",
+        "word": "christianity",
+        "translation": "ศาสนาคริสต์",
+        "pos": "noun",
+        "example": "Practice Christianity.",
+        "level": "basic"
+    },
+    {
+        "id": "v9552",
+        "word": "christmas",
+        "translation": "คริสต์มาส",
+        "pos": "noun",
+        "example": "Merry Christmas!",
+        "level": "basic"
+    },
+    {
+        "id": "v9553",
+        "word": "chrome",
+        "translation": "โครม",
+        "pos": "noun",
+        "example": "Chrome browser.",
+        "level": "basic"
+    },
+    {
+        "id": "v9554",
+        "word": "chronic",
+        "translation": "เรื้อรัง",
+        "pos": "adj",
+        "example": "Chronic pain.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9555",
+        "word": "chronically",
+        "translation": "เรื้อรัง",
+        "pos": "adv",
+        "example": "Chronically ill.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9556",
+        "word": "chronicle",
+        "translation": "บันทึก",
+        "pos": "noun",
+        "example": "Newspaper chronicle.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9557",
+        "word": "chronological",
+        "translation": "ตามลำดับเวลา",
+        "pos": "adj",
+        "example": "Chronological order.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9558",
+        "word": "chunk",
+        "translation": "ชิ้น",
+        "pos": "noun",
+        "example": "Large chunk.",
+        "level": "basic"
+    },
+    {
+        "id": "v9559",
+        "word": "cigarette",
+        "translation": "บุหรี่",
+        "pos": "noun",
+        "example": "Smoke cigarette.",
+        "level": "basic"
+    },
+    {
+        "id": "v9560",
+        "word": "cinema",
+        "translation": "โรงภาพยนตร์",
+        "pos": "noun",
+        "example": "Go to cinema.",
+        "level": "basic"
+    },
+    {
+        "id": "v9561",
+        "word": "cinematic",
+        "translation": "ทางภาพยนตร์",
+        "pos": "adj",
+        "example": "Cinematic experience.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9562",
+        "word": "cinnamon",
+        "translation": "อบเชย",
+        "pos": "noun",
+        "example": "Cinnamon roll.",
+        "level": "basic"
+    },
+    {
+        "id": "v9563",
+        "word": "circuit",
+        "translation": "วงจร",
+        "pos": "noun",
+        "example": "Electric circuit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9564",
+        "word": "circular",
+        "translation": "วงกลม",
+        "pos": "adj",
+        "example": "Circular motion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9565",
+        "word": "circulate",
+        "translation": "หมุนเวียน",
+        "pos": "verb",
+        "example": "Circulate air.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9566",
+        "word": "circulation",
+        "translation": "การหมุนเวียน",
+        "pos": "noun",
+        "example": "Blood circulation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9567",
+        "word": "circumstance",
+        "translation": "สถานการณ์",
+        "pos": "noun",
+        "example": "Under circumstances.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9568",
+        "word": "circus",
+        "translation": "ละครสัตว์",
+        "pos": "noun",
+        "example": "Circus show.",
+        "level": "basic"
+    },
+    {
+        "id": "v9569",
+        "word": "cite",
+        "translation": "อ้างอิง",
+        "pos": "verb",
+        "example": "Cite sources.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9570",
+        "word": "citizen",
+        "translation": "พลเมือง",
+        "pos": "noun",
+        "example": "Good citizen.",
+        "level": "basic"
+    },
+    {
+        "id": "v9571",
+        "word": "citizenship",
+        "translation": "สัญชาติ",
+        "pos": "noun",
+        "example": "Apply for citizenship.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9572",
+        "word": "citrus",
+        "translation": "ส้ม",
+        "pos": "noun",
+        "example": "Citrus fruit.",
+        "level": "basic"
+    },
+    {
+        "id": "v9573",
+        "word": "civic",
+        "translation": "พลเมือง",
+        "pos": "adj",
+        "example": "Civic duty.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9574",
+        "word": "civil",
+        "translation": "พลเรือน",
+        "pos": "adj",
+        "example": "Civil war.",
+        "level": "basic"
+    },
+    {
+        "id": "v9575",
+        "word": "civilian",
+        "translation": "พลเรือน",
+        "pos": "noun",
+        "example": "Innocent civilians.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9576",
+        "word": "civilization",
+        "translation": "อารยธรรม",
+        "pos": "noun",
+        "example": "Ancient civilization.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9577",
+        "word": "civilized",
+        "translation": "มีอารยธรรม",
+        "pos": "adj",
+        "example": "Civilized society.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9578",
+        "word": "claim",
+        "translation": "อ้างสิทธิ์",
+        "pos": "verb",
+        "example": "Claim responsibility.",
+        "level": "basic"
+    },
+    {
+        "id": "v9579",
+        "word": "clam",
+        "translation": "หอย",
+        "pos": "noun",
+        "example": "Fresh clams.",
+        "level": "basic"
+    },
+    {
+        "id": "v9580",
+        "word": "clan",
+        "translation": "ตระกูล",
+        "pos": "noun",
+        "example": "Family clan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9581",
+        "word": "clap",
+        "translation": "ปรบมือ",
+        "pos": "verb",
+        "example": "Clap hands.",
+        "level": "basic"
+    },
+    {
+        "id": "v9582",
+        "word": "clarification",
+        "translation": "คำชี้แจง",
+        "pos": "noun",
+        "example": "Need clarification.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9583",
+        "word": "clarify",
+        "translation": "ชี้แจง",
+        "pos": "verb",
+        "example": "Please clarify.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9584",
+        "word": "clarity",
+        "translation": "ความชัดเจน",
+        "pos": "noun",
+        "example": "Need clarity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9585",
+        "word": "clash",
+        "translation": "ปะทะ",
+        "pos": "noun",
+        "example": "Cultural clash.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9586",
+        "word": "clasp",
+        "translation": "กุม",
+        "pos": "verb",
+        "example": "Clasp hands.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9587",
+        "word": "classic",
+        "translation": "คลาสสิก",
+        "pos": "adj",
+        "example": "Classic movie.",
+        "level": "basic"
+    },
+    {
+        "id": "v9588",
+        "word": "classical",
+        "translation": "คลาสสิก",
+        "pos": "adj",
+        "example": "Classical music.",
+        "level": "basic"
+    },
+    {
+        "id": "v9589",
+        "word": "classification",
+        "translation": "การจำแนก",
+        "pos": "noun",
+        "example": "Data classification.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9590",
+        "word": "classified",
+        "translation": "ลับ",
+        "pos": "adj",
+        "example": "Classified information.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9591",
+        "word": "classify",
+        "translation": "จำแนก",
+        "pos": "verb",
+        "example": "Classify data.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9592",
+        "word": "classmate",
+        "translation": "เพื่อนร่วมชั้น",
+        "pos": "noun",
+        "example": "Old classmate.",
+        "level": "basic"
+    },
+    {
+        "id": "v9593",
+        "word": "classroom",
+        "translation": "ห้องเรียน",
+        "pos": "noun",
+        "example": "Empty classroom.",
+        "level": "basic"
+    },
+    {
+        "id": "v9594",
+        "word": "clause",
+        "translation": "ข้อ",
+        "pos": "noun",
+        "example": "Contract clause.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9595",
+        "word": "claw",
+        "translation": "กรงเล็บ",
+        "pos": "noun",
+        "example": "Cat's claw.",
+        "level": "basic"
+    },
+    {
+        "id": "v9596",
+        "word": "clay",
+        "translation": "ดินเหนียว",
+        "pos": "noun",
+        "example": "Pottery clay.",
+        "level": "basic"
+    },
+    {
+        "id": "v9597",
+        "word": "cleaner",
+        "translation": "คนทำความสะอาด",
+        "pos": "noun",
+        "example": "Office cleaner.",
+        "level": "basic"
+    },
+    {
+        "id": "v9598",
+        "word": "cleaning",
+        "translation": "การทำความสะอาด",
+        "pos": "noun",
+        "example": "Spring cleaning.",
+        "level": "basic"
+    },
+    {
+        "id": "v9599",
+        "word": "cleanse",
+        "translation": "ชำระล้าง",
+        "pos": "verb",
+        "example": "Cleanse skin.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9600",
+        "word": "cleanser",
+        "translation": "น้ำยาทำความสะอาด",
+        "pos": "noun",
+        "example": "Facial cleanser.",
+        "level": "intermediate"
+    }
+]

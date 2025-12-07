@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v9001",
+        "word": "basketball",
+        "translation": "บาสเก็ตบอล",
+        "pos": "noun",
+        "example": "Play basketball.",
+        "level": "basic"
+    },
+    {
+        "id": "v9002",
+        "word": "bat",
+        "translation": "ค้างคาว",
+        "pos": "noun",
+        "example": "Baseball bat.",
+        "level": "basic"
+    },
+    {
+        "id": "v9003",
+        "word": "batch",
+        "translation": "ชุด",
+        "pos": "noun",
+        "example": "Batch processing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9004",
+        "word": "bath",
+        "translation": "อาบน้ำ",
+        "pos": "noun",
+        "example": "Take a bath.",
+        "level": "basic"
+    },
+    {
+        "id": "v9005",
+        "word": "bathe",
+        "translation": "อาบ",
+        "pos": "verb",
+        "example": "Bathe in.",
+        "level": "basic"
+    },
+    {
+        "id": "v9006",
+        "word": "bathing",
+        "translation": "การอาบน้ำ",
+        "pos": "noun",
+        "example": "Bathing suit.",
+        "level": "basic"
+    },
+    {
+        "id": "v9007",
+        "word": "bathroom",
+        "translation": "ห้องน้ำ",
+        "pos": "noun",
+        "example": "Use bathroom.",
+        "level": "basic"
+    },
+    {
+        "id": "v9008",
+        "word": "batter",
+        "translation": "แป้งผสม",
+        "pos": "noun",
+        "example": "Cake batter.",
+        "level": "basic"
+    },
+    {
+        "id": "v9009",
+        "word": "battery",
+        "translation": "แบตเตอรี่",
+        "pos": "noun",
+        "example": "Low battery.",
+        "level": "basic"
+    },
+    {
+        "id": "v9010",
+        "word": "battlefield",
+        "translation": "สนามรบ",
+        "pos": "noun",
+        "example": "On the battlefield.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9011",
+        "word": "bay",
+        "translation": "อ่าว",
+        "pos": "noun",
+        "example": "Hudson Bay.",
+        "level": "basic"
+    },
+    {
+        "id": "v9012",
+        "word": "bazaar",
+        "translation": "ตลาดนัด",
+        "pos": "noun",
+        "example": "Grand bazaar.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9013",
+        "word": "beacon",
+        "translation": "แสงสัญญาณ",
+        "pos": "noun",
+        "example": "Beacon of hope.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9014",
+        "word": "bead",
+        "translation": "ลูกปัด",
+        "pos": "noun",
+        "example": "Glass beads.",
+        "level": "basic"
+    },
+    {
+        "id": "v9015",
+        "word": "beak",
+        "translation": "จงอย",
+        "pos": "noun",
+        "example": "Bird's beak.",
+        "level": "basic"
+    },
+    {
+        "id": "v9016",
+        "word": "beam",
+        "translation": "ลำแสง",
+        "pos": "noun",
+        "example": "Light beam.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9017",
+        "word": "bean",
+        "translation": "เม็ดถั่ว",
+        "pos": "noun",
+        "example": "Coffee bean.",
+        "level": "basic"
+    },
+    {
+        "id": "v9018",
+        "word": "bear",
+        "translation": "หมี",
+        "pos": "noun",
+        "example": "Polar bear.",
+        "level": "basic"
+    },
+    {
+        "id": "v9019",
+        "word": "beard",
+        "translation": "เครา",
+        "pos": "noun",
+        "example": "Long beard.",
+        "level": "basic"
+    },
+    {
+        "id": "v9020",
+        "word": "bearing",
+        "translation": "ทิศทาง",
+        "pos": "noun",
+        "example": "Lose bearing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9021",
+        "word": "beast",
+        "translation": "สัตว์ร้าย",
+        "pos": "noun",
+        "example": "Wild beast.",
+        "level": "basic"
+    },
+    {
+        "id": "v9022",
+        "word": "beat",
+        "translation": "ตี",
+        "pos": "verb",
+        "example": "Beat the drum.",
+        "level": "basic"
+    },
+    {
+        "id": "v9023",
+        "word": "beaten",
+        "translation": "พ่ายแพ้",
+        "pos": "adj",
+        "example": "Beaten team.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9024",
+        "word": "beating",
+        "translation": "การตี",
+        "pos": "noun",
+        "example": "Heart beating.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9025",
+        "word": "beautician",
+        "translation": "ช่างเสริมสวย",
+        "pos": "noun",
+        "example": "Professional beautician.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9026",
+        "word": "beautifully",
+        "translation": "อย่างสวยงาม",
+        "pos": "adv",
+        "example": "Sing beautifully.",
+        "level": "basic"
+    },
+    {
+        "id": "v9027",
+        "word": "beaver",
+        "translation": "บีเวอร์",
+        "pos": "noun",
+        "example": "Busy beaver.",
+        "level": "basic"
+    },
+    {
+        "id": "v9028",
+        "word": "beckon",
+        "translation": "โบกมือเรียก",
+        "pos": "verb",
+        "example": "Beckon someone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9029",
+        "word": "bedroom",
+        "translation": "ห้องนอน",
+        "pos": "noun",
+        "example": "Master bedroom.",
+        "level": "basic"
+    },
+    {
+        "id": "v9030",
+        "word": "bedtime",
+        "translation": "เวลานอน",
+        "pos": "noun",
+        "example": "At bedtime.",
+        "level": "basic"
+    },
+    {
+        "id": "v9031",
+        "word": "bee",
+        "translation": "ผึ้ง",
+        "pos": "noun",
+        "example": "Honey bee.",
+        "level": "basic"
+    },
+    {
+        "id": "v9032",
+        "word": "beef",
+        "translation": "เนื้อวัว",
+        "pos": "noun",
+        "example": "Beef steak.",
+        "level": "basic"
+    },
+    {
+        "id": "v9033",
+        "word": "beehive",
+        "translation": "รังผึ้ง",
+        "pos": "noun",
+        "example": "Active beehive.",
+        "level": "basic"
+    },
+    {
+        "id": "v9034",
+        "word": "beer",
+        "translation": "เบียร์",
+        "pos": "noun",
+        "example": "Cold beer.",
+        "level": "basic"
+    },
+    {
+        "id": "v9035",
+        "word": "beetle",
+        "translation": "ด้วง",
+        "pos": "noun",
+        "example": "Beetle car.",
+        "level": "basic"
+    },
+    {
+        "id": "v9036",
+        "word": "beforehand",
+        "translation": "ล่วงหน้า",
+        "pos": "adv",
+        "example": "Plan beforehand.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9037",
+        "word": "beg",
+        "translation": "ขอ",
+        "pos": "verb",
+        "example": "Beg for.",
+        "level": "basic"
+    },
+    {
+        "id": "v9038",
+        "word": "beggar",
+        "translation": "ขอทาน",
+        "pos": "noun",
+        "example": "Street beggar.",
+        "level": "basic"
+    },
+    {
+        "id": "v9039",
+        "word": "beginner",
+        "translation": "ผู้เริ่มต้น",
+        "pos": "noun",
+        "example": "For beginners.",
+        "level": "basic"
+    },
+    {
+        "id": "v9040",
+        "word": "behavioral",
+        "translation": "ทางพฤติกรรม",
+        "pos": "adj",
+        "example": "Behavioral change.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9041",
+        "word": "being",
+        "translation": "การเป็น",
+        "pos": "noun",
+        "example": "Human being.",
+        "level": "basic"
+    },
+    {
+        "id": "v9042",
+        "word": "belly",
+        "translation": "พุง",
+        "pos": "noun",
+        "example": "Beer belly.",
+        "level": "basic"
+    },
+    {
+        "id": "v9043",
+        "word": "belonging",
+        "translation": "ทรัพย์สิน",
+        "pos": "noun",
+        "example": "Personal belongings.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9044",
+        "word": "beloved",
+        "translation": "ที่รัก",
+        "pos": "adj",
+        "example": "My beloved.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9045",
+        "word": "belt",
+        "translation": "เข็มขัด",
+        "pos": "noun",
+        "example": "Leather belt.",
+        "level": "basic"
+    },
+    {
+        "id": "v9046",
+        "word": "benchmark",
+        "translation": "มาตรฐาน",
+        "pos": "noun",
+        "example": "Set benchmark.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9047",
+        "word": "bend",
+        "translation": "งอ",
+        "pos": "verb",
+        "example": "Bend down.",
+        "level": "basic"
+    },
+    {
+        "id": "v9048",
+        "word": "beneath",
+        "translation": "ใต้",
+        "pos": "prep",
+        "example": "Beneath the surface.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9049",
+        "word": "beneficial",
+        "translation": "เป็นประโยชน์",
+        "pos": "adj",
+        "example": "Very beneficial.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9050",
+        "word": "beneficiary",
+        "translation": "ผู้รับผลประโยชน์",
+        "pos": "noun",
+        "example": "Main beneficiary.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9051",
+        "word": "benevolent",
+        "translation": "ใจบุญ",
+        "pos": "adj",
+        "example": "Benevolent ruler.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9052",
+        "word": "bent",
+        "translation": "งอ",
+        "pos": "adj",
+        "example": "Bent metal.",
+        "level": "basic"
+    },
+    {
+        "id": "v9053",
+        "word": "berate",
+        "translation": "ด่าว่า",
+        "pos": "verb",
+        "example": "Berate someone.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9054",
+        "word": "berth",
+        "translation": "ท่าจอดเรือ",
+        "pos": "noun",
+        "example": "Ship's berth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9055",
+        "word": "beset",
+        "translation": "รุมเร้า",
+        "pos": "verb",
+        "example": "Beset by problems.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9056",
+        "word": "beside",
+        "translation": "ข้าง",
+        "pos": "prep",
+        "example": "Beside you.",
+        "level": "basic"
+    },
+    {
+        "id": "v9057",
+        "word": "besides",
+        "translation": "นอกจากนี้",
+        "pos": "prep",
+        "example": "Besides that.",
+        "level": "basic"
+    },
+    {
+        "id": "v9058",
+        "word": "besiege",
+        "translation": "ล้อม",
+        "pos": "verb",
+        "example": "Besiege city.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9059",
+        "word": "bestseller",
+        "translation": "หนังสือขายดี",
+        "pos": "noun",
+        "example": "New York bestseller.",
+        "level": "basic"
+    },
+    {
+        "id": "v9060",
+        "word": "betray",
+        "translation": "ทรยศ",
+        "pos": "verb",
+        "example": "Betray trust.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9061",
+        "word": "betrayal",
+        "translation": "การทรยศ",
+        "pos": "noun",
+        "example": "Act of betrayal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9062",
+        "word": "beverage",
+        "translation": "เครื่องดื่ม",
+        "pos": "noun",
+        "example": "Hot beverage.",
+        "level": "basic"
+    },
+    {
+        "id": "v9063",
+        "word": "beware",
+        "translation": "ระวัง",
+        "pos": "verb",
+        "example": "Beware of.",
+        "level": "basic"
+    },
+    {
+        "id": "v9064",
+        "word": "bewilder",
+        "translation": "ทำให้งง",
+        "pos": "verb",
+        "example": "Bewilder everyone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9065",
+        "word": "bewildered",
+        "translation": "งงงวย",
+        "pos": "adj",
+        "example": "Look bewildered.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9066",
+        "word": "bias",
+        "translation": "อคติ",
+        "pos": "noun",
+        "example": "Show bias.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9067",
+        "word": "biased",
+        "translation": "มีอคติ",
+        "pos": "adj",
+        "example": "Biased opinion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9068",
+        "word": "bible",
+        "translation": "พระคัมภีร์",
+        "pos": "noun",
+        "example": "Holy Bible.",
+        "level": "basic"
+    },
+    {
+        "id": "v9069",
+        "word": "biblical",
+        "translation": "ในพระคัมภีร์",
+        "pos": "adj",
+        "example": "Biblical story.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9070",
+        "word": "bibliography",
+        "translation": "บรรณานุกรม",
+        "pos": "noun",
+        "example": "Include bibliography.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9071",
+        "word": "bicep",
+        "translation": "กล้ามเนื้อหน้าแขน",
+        "pos": "noun",
+        "example": "Build biceps.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9072",
+        "word": "bicycle",
+        "translation": "จักรยาน",
+        "pos": "noun",
+        "example": "Ride bicycle.",
+        "level": "basic"
+    },
+    {
+        "id": "v9073",
+        "word": "bid",
+        "translation": "ประมูล",
+        "pos": "verb",
+        "example": "Bid farewell.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9074",
+        "word": "bidder",
+        "translation": "ผู้ประมูล",
+        "pos": "noun",
+        "example": "Highest bidder.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9075",
+        "word": "bidding",
+        "translation": "การประมูล",
+        "pos": "noun",
+        "example": "Online bidding.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9076",
+        "word": "bilateral",
+        "translation": "ทวิภาคี",
+        "pos": "adj",
+        "example": "Bilateral agreement.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9077",
+        "word": "bile",
+        "translation": "น้ำดี",
+        "pos": "noun",
+        "example": "Bile duct.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9078",
+        "word": "bilingual",
+        "translation": "สองภาษา",
+        "pos": "adj",
+        "example": "Bilingual education.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9079",
+        "word": "billion",
+        "translation": "พันล้าน",
+        "pos": "num",
+        "example": "One billion.",
+        "level": "basic"
+    },
+    {
+        "id": "v9080",
+        "word": "billionaire",
+        "translation": "มหาเศรษฐี",
+        "pos": "noun",
+        "example": "Tech billionaire.",
+        "level": "basic"
+    },
+    {
+        "id": "v9081",
+        "word": "bin",
+        "translation": "ถังขยะ",
+        "pos": "noun",
+        "example": "Recycle bin.",
+        "level": "basic"
+    },
+    {
+        "id": "v9082",
+        "word": "bind",
+        "translation": "ผูก",
+        "pos": "verb",
+        "example": "Bind together.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9083",
+        "word": "binding",
+        "translation": "การผูกมัด",
+        "pos": "noun",
+        "example": "Legally binding.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9084",
+        "word": "bingo",
+        "translation": "บิงโก",
+        "pos": "noun",
+        "example": "Play bingo.",
+        "level": "basic"
+    },
+    {
+        "id": "v9085",
+        "word": "binoculars",
+        "translation": "กล้องส่องทางไกล",
+        "pos": "noun",
+        "example": "Use binoculars.",
+        "level": "basic"
+    },
+    {
+        "id": "v9086",
+        "word": "biochemistry",
+        "translation": "ชีวเคมี",
+        "pos": "noun",
+        "example": "Study biochemistry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9087",
+        "word": "biodiversity",
+        "translation": "ความหลากหลายทางชีวภาพ",
+        "pos": "noun",
+        "example": "Protect biodiversity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9088",
+        "word": "biography",
+        "translation": "ชีวประวัติ",
+        "pos": "noun",
+        "example": "Write biography.",
+        "level": "basic"
+    },
+    {
+        "id": "v9089",
+        "word": "biological",
+        "translation": "ทางชีววิทยา",
+        "pos": "adj",
+        "example": "Biological father.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9090",
+        "word": "biologist",
+        "translation": "นักชีววิทยา",
+        "pos": "noun",
+        "example": "Marine biologist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9091",
+        "word": "biology",
+        "translation": "ชีววิทยา",
+        "pos": "noun",
+        "example": "Study biology.",
+        "level": "basic"
+    },
+    {
+        "id": "v9092",
+        "word": "biometric",
+        "translation": "ไบโอเมตริก",
+        "pos": "adj",
+        "example": "Biometric data.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9093",
+        "word": "biopsy",
+        "translation": "การตัดชิ้นเนื้อ",
+        "pos": "noun",
+        "example": "Perform biopsy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9094",
+        "word": "biotechnology",
+        "translation": "เทคโนโลยีชีวภาพ",
+        "pos": "noun",
+        "example": "Biotech company.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9095",
+        "word": "bipartisan",
+        "translation": "สองพรรค",
+        "pos": "adj",
+        "example": "Bipartisan support.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9096",
+        "word": "birch",
+        "translation": "ต้นเบิร์ช",
+        "pos": "noun",
+        "example": "Birch tree.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9097",
+        "word": "birdwatching",
+        "translation": "การดูนก",
+        "pos": "noun",
+        "example": "Go birdwatching.",
+        "level": "basic"
+    },
+    {
+        "id": "v9098",
+        "word": "birthday",
+        "translation": "วันเกิด",
+        "pos": "noun",
+        "example": "Happy birthday!",
+        "level": "basic"
+    },
+    {
+        "id": "v9099",
+        "word": "birthplace",
+        "translation": "สถานที่เกิด",
+        "pos": "noun",
+        "example": "Famous birthplace.",
+        "level": "basic"
+    },
+    {
+        "id": "v9100",
+        "word": "biscuit",
+        "translation": "บิสกิต",
+        "pos": "noun",
+        "example": "Chocolate biscuit.",
+        "level": "basic"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v4101",
+        "word": "depend",
+        "translation": "ขึ้นอยู่กับ",
+        "pos": "verb",
+        "example": "It depends.",
+        "level": "basic"
+    },
+    {
+        "id": "v4102",
+        "word": "dependent",
+        "translation": "พึ่งพา",
+        "pos": "adj",
+        "example": "Dependent on.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4103",
+        "word": "depending",
+        "translation": "ขึ้นอยู่กับ",
+        "pos": "prep",
+        "example": "Depending on.",
+        "level": "basic"
+    },
+    {
+        "id": "v4104",
+        "word": "depict",
+        "translation": "พรรณนา",
+        "pos": "verb",
+        "example": "Depict the scene.",
+        "level": "advanced"
+    },
+    {
+        "id": "v4105",
+        "word": "deploy",
+        "translation": "ใช้งาน",
+        "pos": "verb",
+        "example": "Deploy troops.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4106",
+        "word": "deployment",
+        "translation": "การติดตั้ง",
+        "pos": "noun",
+        "example": "Software deployment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4107",
+        "word": "deposit",
+        "translation": "เงินฝาก",
+        "pos": "noun",
+        "example": "Bank deposit.",
+        "level": "basic"
+    },
+    {
+        "id": "v4108",
+        "word": "depressed",
+        "translation": "ซึมเศร้า",
+        "pos": "adj",
+        "example": "Feel depressed.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4109",
+        "word": "depression",
+        "translation": "ความซึมเศร้า",
+        "pos": "noun",
+        "example": "Clinical depression.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4110",
+        "word": "depth",
+        "translation": "ความลึก",
+        "pos": "noun",
+        "example": "In depth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4111",
+        "word": "deputy",
+        "translation": "รอง",
+        "pos": "noun",
+        "example": "Deputy director.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4112",
+        "word": "derive",
+        "translation": "ได้มาจาก",
+        "pos": "verb",
+        "example": "Derived from.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4113",
+        "word": "descend",
+        "translation": "ลง",
+        "pos": "verb",
+        "example": "Descend stairs.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4114",
+        "word": "descendant",
+        "translation": "ลูกหลาน",
+        "pos": "noun",
+        "example": "Direct descendant.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4115",
+        "word": "describe",
+        "translation": "อธิบาย",
+        "pos": "verb",
+        "example": "Describe yourself.",
+        "level": "basic"
+    },
+    {
+        "id": "v4116",
+        "word": "description",
+        "translation": "คำอธิบาย",
+        "pos": "noun",
+        "example": "Job description.",
+        "level": "basic"
+    },
+    {
+        "id": "v4117",
+        "word": "desert",
+        "translation": "ทะเลทราย",
+        "pos": "noun",
+        "example": "Sahara Desert.",
+        "level": "basic"
+    },
+    {
+        "id": "v4118",
+        "word": "deserve",
+        "translation": "สมควร",
+        "pos": "verb",
+        "example": "You deserve it.",
+        "level": "basic"
+    },
+    {
+        "id": "v4119",
+        "word": "design",
+        "translation": "ออกแบบ",
+        "pos": "verb",
+        "example": "Design a logo.",
+        "level": "basic"
+    },
+    {
+        "id": "v4120",
+        "word": "designer",
+        "translation": "นักออกแบบ",
+        "pos": "noun",
+        "example": "Fashion designer.",
+        "level": "basic"
+    },
+    {
+        "id": "v4121",
+        "word": "desirable",
+        "translation": "พึงประสงค์",
+        "pos": "adj",
+        "example": "Highly desirable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4122",
+        "word": "desire",
+        "translation": "ความปรารถนา",
+        "pos": "noun",
+        "example": "Strong desire.",
+        "level": "basic"
+    },
+    {
+        "id": "v4123",
+        "word": "desk",
+        "translation": "โต๊ะ",
+        "pos": "noun",
+        "example": "Office desk.",
+        "level": "basic"
+    },
+    {
+        "id": "v4124",
+        "word": "desperate",
+        "translation": "สิ้นหวัง",
+        "pos": "adj",
+        "example": "Desperate situation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4125",
+        "word": "desperately",
+        "translation": "อย่างสิ้นหวัง",
+        "pos": "adv",
+        "example": "Desperately need.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4126",
+        "word": "despite",
+        "translation": "แม้ว่า",
+        "pos": "prep",
+        "example": "Despite the rain.",
+        "level": "basic"
+    },
+    {
+        "id": "v4127",
+        "word": "dessert",
+        "translation": "ของหวาน",
+        "pos": "noun",
+        "example": "Order dessert.",
+        "level": "basic"
+    },
+    {
+        "id": "v4128",
+        "word": "destination",
+        "translation": "จุดหมาย",
+        "pos": "noun",
+        "example": "Final destination.",
+        "level": "basic"
+    },
+    {
+        "id": "v4129",
+        "word": "destiny",
+        "translation": "โชคชะตา",
+        "pos": "noun",
+        "example": "Accept destiny.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4130",
+        "word": "destroy",
+        "translation": "ทำลาย",
+        "pos": "verb",
+        "example": "Destroy everything.",
+        "level": "basic"
+    },
+    {
+        "id": "v4131",
+        "word": "destruction",
+        "translation": "การทำลาย",
+        "pos": "noun",
+        "example": "Total destruction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4132",
+        "word": "detail",
+        "translation": "รายละเอียด",
+        "pos": "noun",
+        "example": "In detail.",
+        "level": "basic"
+    },
+    {
+        "id": "v4133",
+        "word": "detailed",
+        "translation": "ละเอียด",
+        "pos": "adj",
+        "example": "Detailed report.",
+        "level": "basic"
+    },
+    {
+        "id": "v4134",
+        "word": "detect",
+        "translation": "ตรวจจับ",
+        "pos": "verb",
+        "example": "Detect problem.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4135",
+        "word": "detection",
+        "translation": "การตรวจจับ",
+        "pos": "noun",
+        "example": "Early detection.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4136",
+        "word": "detective",
+        "translation": "นักสืบ",
+        "pos": "noun",
+        "example": "Private detective.",
+        "level": "basic"
+    },
+    {
+        "id": "v4137",
+        "word": "determination",
+        "translation": "ความมุ่งมั่น",
+        "pos": "noun",
+        "example": "Strong determination.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4138",
+        "word": "determine",
+        "translation": "กำหนด",
+        "pos": "verb",
+        "example": "Determine the cause.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4139",
+        "word": "determined",
+        "translation": "ตั้งใจแน่วแน่",
+        "pos": "adj",
+        "example": "Determined to win.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4140",
+        "word": "devastating",
+        "translation": "ร้ายแรง",
+        "pos": "adj",
+        "example": "Devastating news.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4141",
+        "word": "develop",
+        "translation": "พัฒนา",
+        "pos": "verb",
+        "example": "Develop skills.",
+        "level": "basic"
+    },
+    {
+        "id": "v4142",
+        "word": "developer",
+        "translation": "นักพัฒนา",
+        "pos": "noun",
+        "example": "App developer.",
+        "level": "basic"
+    },
+    {
+        "id": "v4143",
+        "word": "developing",
+        "translation": "กำลังพัฒนา",
+        "pos": "adj",
+        "example": "Developing country.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4144",
+        "word": "development",
+        "translation": "การพัฒนา",
+        "pos": "noun",
+        "example": "New development.",
+        "level": "basic"
+    },
+    {
+        "id": "v4145",
+        "word": "device",
+        "translation": "อุปกรณ์",
+        "pos": "noun",
+        "example": "Mobile device.",
+        "level": "basic"
+    },
+    {
+        "id": "v4146",
+        "word": "devil",
+        "translation": "ปีศาจ",
+        "pos": "noun",
+        "example": "Speak of the devil.",
+        "level": "basic"
+    },
+    {
+        "id": "v4147",
+        "word": "devise",
+        "translation": "คิดค้น",
+        "pos": "verb",
+        "example": "Devise a plan.",
+        "level": "advanced"
+    },
+    {
+        "id": "v4148",
+        "word": "devote",
+        "translation": "อุทิศ",
+        "pos": "verb",
+        "example": "Devote time to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4149",
+        "word": "devoted",
+        "translation": "ทุ่มเท",
+        "pos": "adj",
+        "example": "Devoted fan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4150",
+        "word": "dialogue",
+        "translation": "บทสนทนา",
+        "pos": "noun",
+        "example": "Open dialogue.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4151",
+        "word": "diamond",
+        "translation": "เพชร",
+        "pos": "noun",
+        "example": "Diamond ring.",
+        "level": "basic"
+    },
+    {
+        "id": "v4152",
+        "word": "diary",
+        "translation": "ไดอารี่",
+        "pos": "noun",
+        "example": "Write diary.",
+        "level": "basic"
+    },
+    {
+        "id": "v4153",
+        "word": "dictator",
+        "translation": "เผด็จการ",
+        "pos": "noun",
+        "example": "Military dictator.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4154",
+        "word": "dictionary",
+        "translation": "พจนานุกรม",
+        "pos": "noun",
+        "example": "English dictionary.",
+        "level": "basic"
+    },
+    {
+        "id": "v4155",
+        "word": "die",
+        "translation": "ตาย",
+        "pos": "verb",
+        "example": "Never die.",
+        "level": "basic"
+    },
+    {
+        "id": "v4156",
+        "word": "diet",
+        "translation": "อาหาร",
+        "pos": "noun",
+        "example": "Healthy diet.",
+        "level": "basic"
+    },
+    {
+        "id": "v4157",
+        "word": "differ",
+        "translation": "แตกต่าง",
+        "pos": "verb",
+        "example": "Opinions differ.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4158",
+        "word": "difference",
+        "translation": "ความแตกต่าง",
+        "pos": "noun",
+        "example": "Make a difference.",
+        "level": "basic"
+    },
+    {
+        "id": "v4159",
+        "word": "different",
+        "translation": "แตกต่าง",
+        "pos": "adj",
+        "example": "Very different.",
+        "level": "basic"
+    },
+    {
+        "id": "v4160",
+        "word": "differently",
+        "translation": "แตกต่างกัน",
+        "pos": "adv",
+        "example": "Think differently.",
+        "level": "basic"
+    },
+    {
+        "id": "v4161",
+        "word": "difficult",
+        "translation": "ยาก",
+        "pos": "adj",
+        "example": "Too difficult.",
+        "level": "basic"
+    },
+    {
+        "id": "v4162",
+        "word": "difficulty",
+        "translation": "ความยาก",
+        "pos": "noun",
+        "example": "With difficulty.",
+        "level": "basic"
+    },
+    {
+        "id": "v4163",
+        "word": "dig",
+        "translation": "ขุด",
+        "pos": "verb",
+        "example": "Dig a hole.",
+        "level": "basic"
+    },
+    {
+        "id": "v4164",
+        "word": "digit",
+        "translation": "ตัวเลข",
+        "pos": "noun",
+        "example": "Single digit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4165",
+        "word": "digital",
+        "translation": "ดิจิทัล",
+        "pos": "adj",
+        "example": "Digital age.",
+        "level": "basic"
+    },
+    {
+        "id": "v4166",
+        "word": "dignity",
+        "translation": "ศักดิ์ศรี",
+        "pos": "noun",
+        "example": "Human dignity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4167",
+        "word": "dilemma",
+        "translation": "ภาวะกลืนไม่เข้าคายไม่ออก",
+        "pos": "noun",
+        "example": "Face a dilemma.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4168",
+        "word": "dimension",
+        "translation": "มิติ",
+        "pos": "noun",
+        "example": "New dimension.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4169",
+        "word": "diminish",
+        "translation": "ลดลง",
+        "pos": "verb",
+        "example": "Diminish over time.",
+        "level": "advanced"
+    },
+    {
+        "id": "v4170",
+        "word": "dine",
+        "translation": "รับประทานอาหาร",
+        "pos": "verb",
+        "example": "Dine out.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4171",
+        "word": "dining",
+        "translation": "การรับประทานอาหาร",
+        "pos": "noun",
+        "example": "Dining room.",
+        "level": "basic"
+    },
+    {
+        "id": "v4172",
+        "word": "dinner",
+        "translation": "อาหารเย็น",
+        "pos": "noun",
+        "example": "Eat dinner.",
+        "level": "basic"
+    },
+    {
+        "id": "v4173",
+        "word": "dinosaur",
+        "translation": "ไดโนเสาร์",
+        "pos": "noun",
+        "example": "Giant dinosaur.",
+        "level": "basic"
+    },
+    {
+        "id": "v4174",
+        "word": "diplomatic",
+        "translation": "ทางการทูต",
+        "pos": "adj",
+        "example": "Diplomatic relations.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4175",
+        "word": "direct",
+        "translation": "ตรง",
+        "pos": "adj",
+        "example": "Direct flight.",
+        "level": "basic"
+    },
+    {
+        "id": "v4176",
+        "word": "direction",
+        "translation": "ทิศทาง",
+        "pos": "noun",
+        "example": "Wrong direction.",
+        "level": "basic"
+    },
+    {
+        "id": "v4177",
+        "word": "directly",
+        "translation": "โดยตรง",
+        "pos": "adv",
+        "example": "Contact directly.",
+        "level": "basic"
+    },
+    {
+        "id": "v4178",
+        "word": "director",
+        "translation": "ผู้อำนวยการ",
+        "pos": "noun",
+        "example": "Film director.",
+        "level": "basic"
+    },
+    {
+        "id": "v4179",
+        "word": "directory",
+        "translation": "ไดเร็กทอรี",
+        "pos": "noun",
+        "example": "Phone directory.",
+        "level": "basic"
+    },
+    {
+        "id": "v4180",
+        "word": "dirt",
+        "translation": "สิ่งสกปรก",
+        "pos": "noun",
+        "example": "Dirt road.",
+        "level": "basic"
+    },
+    {
+        "id": "v4181",
+        "word": "dirty",
+        "translation": "สกปรก",
+        "pos": "adj",
+        "example": "Dirty hands.",
+        "level": "basic"
+    },
+    {
+        "id": "v4182",
+        "word": "disability",
+        "translation": "ความพิการ",
+        "pos": "noun",
+        "example": "Physical disability.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4183",
+        "word": "disabled",
+        "translation": "พิการ",
+        "pos": "adj",
+        "example": "Disabled person.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4184",
+        "word": "disadvantage",
+        "translation": "ข้อเสีย",
+        "pos": "noun",
+        "example": "Put at disadvantage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4185",
+        "word": "disagree",
+        "translation": "ไม่เห็นด้วย",
+        "pos": "verb",
+        "example": "I disagree.",
+        "level": "basic"
+    },
+    {
+        "id": "v4186",
+        "word": "disagreement",
+        "translation": "ความไม่ลงรอย",
+        "pos": "noun",
+        "example": "Resolve disagreement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4187",
+        "word": "disappear",
+        "translation": "หายไป",
+        "pos": "verb",
+        "example": "Suddenly disappeared.",
+        "level": "basic"
+    },
+    {
+        "id": "v4188",
+        "word": "disappoint",
+        "translation": "ทำให้ผิดหวัง",
+        "pos": "verb",
+        "example": "Don't disappoint me.",
+        "level": "basic"
+    },
+    {
+        "id": "v4189",
+        "word": "disappointed",
+        "translation": "ผิดหวัง",
+        "pos": "adj",
+        "example": "I'm disappointed.",
+        "level": "basic"
+    },
+    {
+        "id": "v4190",
+        "word": "disappointing",
+        "translation": "น่าผิดหวัง",
+        "pos": "adj",
+        "example": "Disappointing result.",
+        "level": "basic"
+    },
+    {
+        "id": "v4191",
+        "word": "disappointment",
+        "translation": "ความผิดหวัง",
+        "pos": "noun",
+        "example": "Big disappointment.",
+        "level": "basic"
+    },
+    {
+        "id": "v4192",
+        "word": "disaster",
+        "translation": "ภัยพิบัติ",
+        "pos": "noun",
+        "example": "Natural disaster.",
+        "level": "basic"
+    },
+    {
+        "id": "v4193",
+        "word": "disc",
+        "translation": "แผ่น",
+        "pos": "noun",
+        "example": "CD disc.",
+        "level": "basic"
+    },
+    {
+        "id": "v4194",
+        "word": "discharge",
+        "translation": "ปล่อย",
+        "pos": "verb",
+        "example": "Discharge patient.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4195",
+        "word": "discipline",
+        "translation": "วินัย",
+        "pos": "noun",
+        "example": "Self discipline.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4196",
+        "word": "disclose",
+        "translation": "เปิดเผย",
+        "pos": "verb",
+        "example": "Disclose information.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4197",
+        "word": "disclosure",
+        "translation": "การเปิดเผย",
+        "pos": "noun",
+        "example": "Full disclosure.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4198",
+        "word": "disco",
+        "translation": "ดิสโก้",
+        "pos": "noun",
+        "example": "Disco music.",
+        "level": "basic"
+    },
+    {
+        "id": "v4199",
+        "word": "discount",
+        "translation": "ส่วนลด",
+        "pos": "noun",
+        "example": "Big discount.",
+        "level": "basic"
+    },
+    {
+        "id": "v4200",
+        "word": "discourse",
+        "translation": "วาทกรรม",
+        "pos": "noun",
+        "example": "Public discourse.",
+        "level": "advanced"
+    }
+]

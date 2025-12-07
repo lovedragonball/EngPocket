@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v1251",
+        "word": "hungry",
+        "translation": "หิว",
+        "pos": "adj",
+        "example": "I'm hungry.",
+        "level": "basic"
+    },
+    {
+        "id": "v1252",
+        "word": "hunt",
+        "translation": "ล่า",
+        "pos": "verb",
+        "example": "Hunt for food.",
+        "level": "basic"
+    },
+    {
+        "id": "v1253",
+        "word": "hunter",
+        "translation": "นักล่า",
+        "pos": "noun",
+        "example": "Animal hunter.",
+        "level": "basic"
+    },
+    {
+        "id": "v1254",
+        "word": "hurry",
+        "translation": "รีบ",
+        "pos": "verb",
+        "example": "Hurry up!",
+        "level": "basic"
+    },
+    {
+        "id": "v1255",
+        "word": "hurt",
+        "translation": "เจ็บ",
+        "pos": "verb",
+        "example": "It hurts.",
+        "level": "basic"
+    },
+    {
+        "id": "v1256",
+        "word": "husband",
+        "translation": "สามี",
+        "pos": "noun",
+        "example": "My husband.",
+        "level": "basic"
+    },
+    {
+        "id": "v1257",
+        "word": "hypothesis",
+        "translation": "สมมติฐาน",
+        "pos": "noun",
+        "example": "Test the hypothesis.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1258",
+        "word": "ice",
+        "translation": "น้ำแข็ง",
+        "pos": "noun",
+        "example": "Ice cream.",
+        "level": "basic"
+    },
+    {
+        "id": "v1259",
+        "word": "idea",
+        "translation": "ความคิด",
+        "pos": "noun",
+        "example": "Good idea!",
+        "level": "basic"
+    },
+    {
+        "id": "v1260",
+        "word": "ideal",
+        "translation": "อุดมคติ",
+        "pos": "adj",
+        "example": "Ideal situation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1261",
+        "word": "identify",
+        "translation": "ระบุ",
+        "pos": "verb",
+        "example": "Identify the problem.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1262",
+        "word": "identity",
+        "translation": "ตัวตน",
+        "pos": "noun",
+        "example": "Identity card.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1263",
+        "word": "if",
+        "translation": "ถ้า",
+        "pos": "conj",
+        "example": "If possible.",
+        "level": "basic"
+    },
+    {
+        "id": "v1264",
+        "word": "ignore",
+        "translation": "เพิกเฉย",
+        "pos": "verb",
+        "example": "Don't ignore me.",
+        "level": "basic"
+    },
+    {
+        "id": "v1265",
+        "word": "ill",
+        "translation": "ป่วย",
+        "pos": "adj",
+        "example": "Feel ill.",
+        "level": "basic"
+    },
+    {
+        "id": "v1266",
+        "word": "illegal",
+        "translation": "ผิดกฎหมาย",
+        "pos": "adj",
+        "example": "Illegal activity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1267",
+        "word": "illness",
+        "translation": "ความเจ็บป่วย",
+        "pos": "noun",
+        "example": "Mental illness.",
+        "level": "basic"
+    },
+    {
+        "id": "v1268",
+        "word": "illustrate",
+        "translation": "แสดงให้เห็น",
+        "pos": "verb",
+        "example": "Illustrate the point.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1269",
+        "word": "image",
+        "translation": "ภาพ",
+        "pos": "noun",
+        "example": "Brand image.",
+        "level": "basic"
+    },
+    {
+        "id": "v1270",
+        "word": "imagination",
+        "translation": "จินตนาการ",
+        "pos": "noun",
+        "example": "Use imagination.",
+        "level": "basic"
+    },
+    {
+        "id": "v1271",
+        "word": "imagine",
+        "translation": "จินตนาการ",
+        "pos": "verb",
+        "example": "Can you imagine?",
+        "level": "basic"
+    },
+    {
+        "id": "v1272",
+        "word": "immediate",
+        "translation": "ทันที",
+        "pos": "adj",
+        "example": "Immediate action.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1273",
+        "word": "immediately",
+        "translation": "ทันที",
+        "pos": "adv",
+        "example": "Come immediately.",
+        "level": "basic"
+    },
+    {
+        "id": "v1274",
+        "word": "immigrant",
+        "translation": "ผู้อพยพ",
+        "pos": "noun",
+        "example": "Illegal immigrant.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1275",
+        "word": "immigration",
+        "translation": "การอพยพ",
+        "pos": "noun",
+        "example": "Immigration office.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1276",
+        "word": "impact",
+        "translation": "ผลกระทบ",
+        "pos": "noun",
+        "example": "Big impact.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1277",
+        "word": "implement",
+        "translation": "ดำเนินการ",
+        "pos": "verb",
+        "example": "Implement the plan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1278",
+        "word": "implication",
+        "translation": "ความหมายแฝง",
+        "pos": "noun",
+        "example": "Serious implications.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1279",
+        "word": "imply",
+        "translation": "บอกเป็นนัย",
+        "pos": "verb",
+        "example": "What do you imply?",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1280",
+        "word": "import",
+        "translation": "นำเข้า",
+        "pos": "verb",
+        "example": "Import goods.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1281",
+        "word": "importance",
+        "translation": "ความสำคัญ",
+        "pos": "noun",
+        "example": "Great importance.",
+        "level": "basic"
+    },
+    {
+        "id": "v1282",
+        "word": "important",
+        "translation": "สำคัญ",
+        "pos": "adj",
+        "example": "Very important.",
+        "level": "basic"
+    },
+    {
+        "id": "v1283",
+        "word": "impose",
+        "translation": "กำหนด",
+        "pos": "verb",
+        "example": "Impose a tax.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1284",
+        "word": "impossible",
+        "translation": "เป็นไปไม่ได้",
+        "pos": "adj",
+        "example": "Nothing is impossible.",
+        "level": "basic"
+    },
+    {
+        "id": "v1285",
+        "word": "impress",
+        "translation": "ทำให้ประทับใจ",
+        "pos": "verb",
+        "example": "Impress the boss.",
+        "level": "basic"
+    },
+    {
+        "id": "v1286",
+        "word": "impressed",
+        "translation": "ประทับใจ",
+        "pos": "adj",
+        "example": "I'm impressed.",
+        "level": "basic"
+    },
+    {
+        "id": "v1287",
+        "word": "impression",
+        "translation": "ความประทับใจ",
+        "pos": "noun",
+        "example": "First impression.",
+        "level": "basic"
+    },
+    {
+        "id": "v1288",
+        "word": "impressive",
+        "translation": "น่าประทับใจ",
+        "pos": "adj",
+        "example": "Impressive work.",
+        "level": "basic"
+    },
+    {
+        "id": "v1289",
+        "word": "improve",
+        "translation": "ปรับปรุง",
+        "pos": "verb",
+        "example": "Improve your skills.",
+        "level": "basic"
+    },
+    {
+        "id": "v1290",
+        "word": "improvement",
+        "translation": "การปรับปรุง",
+        "pos": "noun",
+        "example": "Big improvement.",
+        "level": "basic"
+    },
+    {
+        "id": "v1291",
+        "word": "in",
+        "translation": "ใน",
+        "pos": "prep",
+        "example": "In the box.",
+        "level": "basic"
+    },
+    {
+        "id": "v1292",
+        "word": "incentive",
+        "translation": "สิ่งจูงใจ",
+        "pos": "noun",
+        "example": "Tax incentive.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1293",
+        "word": "inch",
+        "translation": "นิ้ว",
+        "pos": "noun",
+        "example": "Two inches.",
+        "level": "basic"
+    },
+    {
+        "id": "v1294",
+        "word": "incident",
+        "translation": "เหตุการณ์",
+        "pos": "noun",
+        "example": "Minor incident.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1295",
+        "word": "include",
+        "translation": "รวม",
+        "pos": "verb",
+        "example": "Include everyone.",
+        "level": "basic"
+    },
+    {
+        "id": "v1296",
+        "word": "including",
+        "translation": "รวมถึง",
+        "pos": "prep",
+        "example": "Everyone, including you.",
+        "level": "basic"
+    },
+    {
+        "id": "v1297",
+        "word": "income",
+        "translation": "รายได้",
+        "pos": "noun",
+        "example": "Monthly income.",
+        "level": "basic"
+    },
+    {
+        "id": "v1298",
+        "word": "incorporate",
+        "translation": "รวมเข้า",
+        "pos": "verb",
+        "example": "Incorporate changes.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1299",
+        "word": "increase",
+        "translation": "เพิ่ม",
+        "pos": "verb",
+        "example": "Increase speed.",
+        "level": "basic"
+    },
+    {
+        "id": "v1300",
+        "word": "increased",
+        "translation": "เพิ่มขึ้น",
+        "pos": "adj",
+        "example": "Increased demand.",
+        "level": "basic"
+    },
+    {
+        "id": "v1301",
+        "word": "increasing",
+        "translation": "กำลังเพิ่มขึ้น",
+        "pos": "adj",
+        "example": "Increasing numbers.",
+        "level": "basic"
+    },
+    {
+        "id": "v1302",
+        "word": "increasingly",
+        "translation": "มากขึ้น",
+        "pos": "adv",
+        "example": "Increasingly popular.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1303",
+        "word": "incredible",
+        "translation": "เหลือเชื่อ",
+        "pos": "adj",
+        "example": "Incredible!",
+        "level": "basic"
+    },
+    {
+        "id": "v1304",
+        "word": "indeed",
+        "translation": "อันที่จริง",
+        "pos": "adv",
+        "example": "Indeed.",
+        "level": "basic"
+    },
+    {
+        "id": "v1305",
+        "word": "independence",
+        "translation": "ความเป็นอิสระ",
+        "pos": "noun",
+        "example": "Financial independence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1306",
+        "word": "independent",
+        "translation": "อิสระ",
+        "pos": "adj",
+        "example": "Independent study.",
+        "level": "basic"
+    },
+    {
+        "id": "v1307",
+        "word": "index",
+        "translation": "ดัชนี",
+        "pos": "noun",
+        "example": "Stock index.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1308",
+        "word": "indicate",
+        "translation": "บ่งชี้",
+        "pos": "verb",
+        "example": "Results indicate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1309",
+        "word": "indication",
+        "translation": "สัญญาณ",
+        "pos": "noun",
+        "example": "Clear indication.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1310",
+        "word": "individual",
+        "translation": "บุคคล",
+        "pos": "noun",
+        "example": "Each individual.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1311",
+        "word": "industrial",
+        "translation": "อุตสาหกรรม",
+        "pos": "adj",
+        "example": "Industrial zone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1312",
+        "word": "industry",
+        "translation": "อุตสาหกรรม",
+        "pos": "noun",
+        "example": "Movie industry.",
+        "level": "basic"
+    },
+    {
+        "id": "v1313",
+        "word": "infant",
+        "translation": "ทารก",
+        "pos": "noun",
+        "example": "Infant care.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1314",
+        "word": "infection",
+        "translation": "การติดเชื้อ",
+        "pos": "noun",
+        "example": "Prevent infection.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1315",
+        "word": "inflation",
+        "translation": "เงินเฟ้อ",
+        "pos": "noun",
+        "example": "High inflation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1316",
+        "word": "influence",
+        "translation": "อิทธิพล",
+        "pos": "noun",
+        "example": "Bad influence.",
+        "level": "basic"
+    },
+    {
+        "id": "v1317",
+        "word": "inform",
+        "translation": "แจ้ง",
+        "pos": "verb",
+        "example": "Please inform me.",
+        "level": "basic"
+    },
+    {
+        "id": "v1318",
+        "word": "information",
+        "translation": "ข้อมูล",
+        "pos": "noun",
+        "example": "More information.",
+        "level": "basic"
+    },
+    {
+        "id": "v1319",
+        "word": "ingredient",
+        "translation": "ส่วนผสม",
+        "pos": "noun",
+        "example": "Main ingredients.",
+        "level": "basic"
+    },
+    {
+        "id": "v1320",
+        "word": "initial",
+        "translation": "เริ่มต้น",
+        "pos": "adj",
+        "example": "Initial stage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1321",
+        "word": "initially",
+        "translation": "ในตอนแรก",
+        "pos": "adv",
+        "example": "Initially planned.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1322",
+        "word": "initiative",
+        "translation": "ความคิดริเริ่ม",
+        "pos": "noun",
+        "example": "Take initiative.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1323",
+        "word": "injury",
+        "translation": "บาดเจ็บ",
+        "pos": "noun",
+        "example": "Serious injury.",
+        "level": "basic"
+    },
+    {
+        "id": "v1324",
+        "word": "inner",
+        "translation": "ภายใน",
+        "pos": "adj",
+        "example": "Inner peace.",
+        "level": "basic"
+    },
+    {
+        "id": "v1325",
+        "word": "innocent",
+        "translation": "บริสุทธิ์",
+        "pos": "adj",
+        "example": "Innocent child.",
+        "level": "basic"
+    },
+    {
+        "id": "v1326",
+        "word": "innovation",
+        "translation": "นวัตกรรม",
+        "pos": "noun",
+        "example": "Technological innovation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1327",
+        "word": "innovative",
+        "translation": "นวัตกรรม",
+        "pos": "adj",
+        "example": "Innovative ideas.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1328",
+        "word": "input",
+        "translation": "ข้อมูลนำเข้า",
+        "pos": "noun",
+        "example": "Your input.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1329",
+        "word": "inquiry",
+        "translation": "การสอบถาม",
+        "pos": "noun",
+        "example": "Customer inquiry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1330",
+        "word": "insect",
+        "translation": "แมลง",
+        "pos": "noun",
+        "example": "Small insect.",
+        "level": "basic"
+    },
+    {
+        "id": "v1331",
+        "word": "insert",
+        "translation": "แทรก",
+        "pos": "verb",
+        "example": "Insert the key.",
+        "level": "basic"
+    },
+    {
+        "id": "v1332",
+        "word": "inside",
+        "translation": "ข้างใน",
+        "pos": "prep",
+        "example": "Inside the box.",
+        "level": "basic"
+    },
+    {
+        "id": "v1333",
+        "word": "insist",
+        "translation": "ยืนยัน",
+        "pos": "verb",
+        "example": "I insist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1334",
+        "word": "inspection",
+        "translation": "การตรวจสอบ",
+        "pos": "noun",
+        "example": "Safety inspection.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1335",
+        "word": "inspire",
+        "translation": "สร้างแรงบันดาลใจ",
+        "pos": "verb",
+        "example": "Inspire others.",
+        "level": "basic"
+    },
+    {
+        "id": "v1336",
+        "word": "install",
+        "translation": "ติดตั้ง",
+        "pos": "verb",
+        "example": "Install the app.",
+        "level": "basic"
+    },
+    {
+        "id": "v1337",
+        "word": "instance",
+        "translation": "ตัวอย่าง",
+        "pos": "noun",
+        "example": "For instance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1338",
+        "word": "instant",
+        "translation": "ทันที",
+        "pos": "adj",
+        "example": "Instant noodles.",
+        "level": "basic"
+    },
+    {
+        "id": "v1339",
+        "word": "instead",
+        "translation": "แทน",
+        "pos": "adv",
+        "example": "Do this instead.",
+        "level": "basic"
+    },
+    {
+        "id": "v1340",
+        "word": "institute",
+        "translation": "สถาบัน",
+        "pos": "noun",
+        "example": "Research institute.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1341",
+        "word": "institution",
+        "translation": "สถาบัน",
+        "pos": "noun",
+        "example": "Financial institution.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1342",
+        "word": "instruction",
+        "translation": "คำสั่ง",
+        "pos": "noun",
+        "example": "Follow instructions.",
+        "level": "basic"
+    },
+    {
+        "id": "v1343",
+        "word": "instructor",
+        "translation": "ผู้สอน",
+        "pos": "noun",
+        "example": "Yoga instructor.",
+        "level": "basic"
+    },
+    {
+        "id": "v1344",
+        "word": "instrument",
+        "translation": "เครื่องมือ",
+        "pos": "noun",
+        "example": "Musical instrument.",
+        "level": "basic"
+    },
+    {
+        "id": "v1345",
+        "word": "insurance",
+        "translation": "ประกัน",
+        "pos": "noun",
+        "example": "Health insurance.",
+        "level": "basic"
+    },
+    {
+        "id": "v1346",
+        "word": "intellectual",
+        "translation": "ทางปัญญา",
+        "pos": "adj",
+        "example": "Intellectual property.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1347",
+        "word": "intelligence",
+        "translation": "ความฉลาด",
+        "pos": "noun",
+        "example": "Artificial intelligence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1348",
+        "word": "intelligent",
+        "translation": "ฉลาด",
+        "pos": "adj",
+        "example": "Intelligent student.",
+        "level": "basic"
+    },
+    {
+        "id": "v1349",
+        "word": "intend",
+        "translation": "ตั้งใจ",
+        "pos": "verb",
+        "example": "I intend to go.",
+        "level": "basic"
+    },
+    {
+        "id": "v1350",
+        "word": "intense",
+        "translation": "เข้มข้น",
+        "pos": "adj",
+        "example": "Intense heat.",
+        "level": "intermediate"
+    }
+]

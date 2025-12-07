@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v8801",
+        "word": "aquarium",
+        "translation": "พิพิธภัณฑ์สัตว์น้ำ",
+        "pos": "noun",
+        "example": "Fish aquarium.",
+        "level": "basic"
+    },
+    {
+        "id": "v8802",
+        "word": "arbitrary",
+        "translation": "ตามอำเภอใจ",
+        "pos": "adj",
+        "example": "Arbitrary decision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8803",
+        "word": "arc",
+        "translation": "ส่วนโค้ง",
+        "pos": "noun",
+        "example": "Story arc.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8804",
+        "word": "arcade",
+        "translation": "อาเขต",
+        "pos": "noun",
+        "example": "Game arcade.",
+        "level": "basic"
+    },
+    {
+        "id": "v8805",
+        "word": "arch",
+        "translation": "โค้ง",
+        "pos": "noun",
+        "example": "Stone arch.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8806",
+        "word": "archaeology",
+        "translation": "โบราณคดี",
+        "pos": "noun",
+        "example": "Study archaeology.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8807",
+        "word": "architect",
+        "translation": "สถาปนิก",
+        "pos": "noun",
+        "example": "Famous architect.",
+        "level": "basic"
+    },
+    {
+        "id": "v8808",
+        "word": "architectural",
+        "translation": "ทางสถาปัตยกรรม",
+        "pos": "adj",
+        "example": "Architectural design.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8809",
+        "word": "architecture",
+        "translation": "สถาปัตยกรรม",
+        "pos": "noun",
+        "example": "Modern architecture.",
+        "level": "basic"
+    },
+    {
+        "id": "v8810",
+        "word": "archive",
+        "translation": "คลังเก็บ",
+        "pos": "noun",
+        "example": "Digital archive.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8811",
+        "word": "arena",
+        "translation": "สนามกีฬา",
+        "pos": "noun",
+        "example": "Sports arena.",
+        "level": "basic"
+    },
+    {
+        "id": "v8812",
+        "word": "arguably",
+        "translation": "มีข้อโต้แย้ง",
+        "pos": "adv",
+        "example": "Arguably.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8813",
+        "word": "arise",
+        "translation": "เกิดขึ้น",
+        "pos": "verb",
+        "example": "Problems arise.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8814",
+        "word": "aristocracy",
+        "translation": "ชนชั้นสูง",
+        "pos": "noun",
+        "example": "British aristocracy.",
+        "level": "advanced"
+    },
+    {
+        "id": "v8815",
+        "word": "arithmetic",
+        "translation": "เลขคณิต",
+        "pos": "noun",
+        "example": "Basic arithmetic.",
+        "level": "basic"
+    },
+    {
+        "id": "v8816",
+        "word": "armchair",
+        "translation": "เก้าอี้เท้าแขน",
+        "pos": "noun",
+        "example": "Leather armchair.",
+        "level": "basic"
+    },
+    {
+        "id": "v8817",
+        "word": "armed",
+        "translation": "ติดอาวุธ",
+        "pos": "adj",
+        "example": "Armed forces.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8818",
+        "word": "armor",
+        "translation": "เกราะ",
+        "pos": "noun",
+        "example": "Body armor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8819",
+        "word": "arms",
+        "translation": "อาวุธ",
+        "pos": "noun",
+        "example": "Nuclear arms.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8820",
+        "word": "aroma",
+        "translation": "กลิ่นหอม",
+        "pos": "noun",
+        "example": "Coffee aroma.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8821",
+        "word": "aromatic",
+        "translation": "มีกลิ่นหอม",
+        "pos": "adj",
+        "example": "Aromatic herbs.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8822",
+        "word": "arouse",
+        "translation": "ปลุกเร้า",
+        "pos": "verb",
+        "example": "Arouse curiosity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8823",
+        "word": "array",
+        "translation": "อาร์เรย์",
+        "pos": "noun",
+        "example": "Wide array.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8824",
+        "word": "arrow",
+        "translation": "ลูกศร",
+        "pos": "noun",
+        "example": "Arrow key.",
+        "level": "basic"
+    },
+    {
+        "id": "v8825",
+        "word": "artery",
+        "translation": "เส้นเลือด",
+        "pos": "noun",
+        "example": "Blocked artery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8826",
+        "word": "article",
+        "translation": "บทความ",
+        "pos": "noun",
+        "example": "News article.",
+        "level": "basic"
+    },
+    {
+        "id": "v8827",
+        "word": "articulate",
+        "translation": "พูดชัด",
+        "pos": "verb",
+        "example": "Articulate clearly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8828",
+        "word": "artifact",
+        "translation": "สิ่งประดิษฐ์",
+        "pos": "noun",
+        "example": "Ancient artifact.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8829",
+        "word": "artificial",
+        "translation": "เทียม",
+        "pos": "adj",
+        "example": "Artificial intelligence.",
+        "level": "basic"
+    },
+    {
+        "id": "v8830",
+        "word": "artificially",
+        "translation": "อย่างเทียม",
+        "pos": "adv",
+        "example": "Artificially made.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8831",
+        "word": "artillery",
+        "translation": "ปืนใหญ่",
+        "pos": "noun",
+        "example": "Heavy artillery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8832",
+        "word": "artistic",
+        "translation": "ทางศิลปะ",
+        "pos": "adj",
+        "example": "Artistic talent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8833",
+        "word": "artwork",
+        "translation": "งานศิลปะ",
+        "pos": "noun",
+        "example": "Beautiful artwork.",
+        "level": "basic"
+    },
+    {
+        "id": "v8834",
+        "word": "ascend",
+        "translation": "ขึ้น",
+        "pos": "verb",
+        "example": "Ascend stairs.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8835",
+        "word": "ascent",
+        "translation": "การขึ้น",
+        "pos": "noun",
+        "example": "Steep ascent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8836",
+        "word": "ash",
+        "translation": "ขี้เถ้า",
+        "pos": "noun",
+        "example": "Volcanic ash.",
+        "level": "basic"
+    },
+    {
+        "id": "v8837",
+        "word": "ashamed",
+        "translation": "อับอาย",
+        "pos": "adj",
+        "example": "Feel ashamed.",
+        "level": "basic"
+    },
+    {
+        "id": "v8838",
+        "word": "ashore",
+        "translation": "ขึ้นฝั่ง",
+        "pos": "adv",
+        "example": "Go ashore.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8839",
+        "word": "asian",
+        "translation": "เอเชีย",
+        "pos": "adj",
+        "example": "Asian cuisine.",
+        "level": "basic"
+    },
+    {
+        "id": "v8840",
+        "word": "aside",
+        "translation": "ข้าง",
+        "pos": "adv",
+        "example": "Set aside.",
+        "level": "basic"
+    },
+    {
+        "id": "v8841",
+        "word": "assassination",
+        "translation": "การลอบสังหาร",
+        "pos": "noun",
+        "example": "Attempted assassination.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8842",
+        "word": "assault",
+        "translation": "การทำร้าย",
+        "pos": "noun",
+        "example": "Sexual assault.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8843",
+        "word": "assemble",
+        "translation": "ประกอบ",
+        "pos": "verb",
+        "example": "Assemble furniture.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8844",
+        "word": "assembly",
+        "translation": "การประกอบ",
+        "pos": "noun",
+        "example": "General assembly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8845",
+        "word": "assert",
+        "translation": "ยืนยัน",
+        "pos": "verb",
+        "example": "Assert rights.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8846",
+        "word": "assertion",
+        "translation": "การยืนยัน",
+        "pos": "noun",
+        "example": "Bold assertion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8847",
+        "word": "assess",
+        "translation": "ประเมิน",
+        "pos": "verb",
+        "example": "Assess situation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8848",
+        "word": "assessment",
+        "translation": "การประเมิน",
+        "pos": "noun",
+        "example": "Risk assessment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8849",
+        "word": "asset",
+        "translation": "ทรัพย์สิน",
+        "pos": "noun",
+        "example": "Company assets.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8850",
+        "word": "assign",
+        "translation": "มอบหมาย",
+        "pos": "verb",
+        "example": "Assign task.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8851",
+        "word": "assigned",
+        "translation": "ที่มอบหมาย",
+        "pos": "adj",
+        "example": "Assigned role.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8852",
+        "word": "assignment",
+        "translation": "งานที่ได้รับมอบหมาย",
+        "pos": "noun",
+        "example": "Homework assignment.",
+        "level": "basic"
+    },
+    {
+        "id": "v8853",
+        "word": "assist",
+        "translation": "ช่วยเหลือ",
+        "pos": "verb",
+        "example": "Assist customer.",
+        "level": "basic"
+    },
+    {
+        "id": "v8854",
+        "word": "assistance",
+        "translation": "ความช่วยเหลือ",
+        "pos": "noun",
+        "example": "Need assistance.",
+        "level": "basic"
+    },
+    {
+        "id": "v8855",
+        "word": "assistant",
+        "translation": "ผู้ช่วย",
+        "pos": "noun",
+        "example": "Personal assistant.",
+        "level": "basic"
+    },
+    {
+        "id": "v8856",
+        "word": "associate",
+        "translation": "ร่วม",
+        "pos": "verb",
+        "example": "Associate with.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8857",
+        "word": "associated",
+        "translation": "ที่เกี่ยวข้อง",
+        "pos": "adj",
+        "example": "Associated with.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8858",
+        "word": "association",
+        "translation": "สมาคม",
+        "pos": "noun",
+        "example": "Alumni association.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8859",
+        "word": "assume",
+        "translation": "สันนิษฐาน",
+        "pos": "verb",
+        "example": "I assume.",
+        "level": "basic"
+    },
+    {
+        "id": "v8860",
+        "word": "assumed",
+        "translation": "ที่สันนิษฐาน",
+        "pos": "adj",
+        "example": "Assumed name.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8861",
+        "word": "assumption",
+        "translation": "สมมติฐาน",
+        "pos": "noun",
+        "example": "Wrong assumption.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8862",
+        "word": "assurance",
+        "translation": "การประกัน",
+        "pos": "noun",
+        "example": "Quality assurance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8863",
+        "word": "assure",
+        "translation": "รับรอง",
+        "pos": "verb",
+        "example": "I assure you.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8864",
+        "word": "assured",
+        "translation": "มั่นใจ",
+        "pos": "adj",
+        "example": "Rest assured.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8865",
+        "word": "asthma",
+        "translation": "หอบหืด",
+        "pos": "noun",
+        "example": "Asthma attack.",
+        "level": "basic"
+    },
+    {
+        "id": "v8866",
+        "word": "astonish",
+        "translation": "ทำให้ประหลาดใจ",
+        "pos": "verb",
+        "example": "Astonish everyone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8867",
+        "word": "astonished",
+        "translation": "ประหลาดใจ",
+        "pos": "adj",
+        "example": "I was astonished.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8868",
+        "word": "astonishing",
+        "translation": "น่าประหลาดใจ",
+        "pos": "adj",
+        "example": "Astonishing result.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8869",
+        "word": "astronaut",
+        "translation": "นักบินอวกาศ",
+        "pos": "noun",
+        "example": "Famous astronaut.",
+        "level": "basic"
+    },
+    {
+        "id": "v8870",
+        "word": "astronomer",
+        "translation": "นักดาราศาสตร์",
+        "pos": "noun",
+        "example": "Famous astronomer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8871",
+        "word": "astronomical",
+        "translation": "ทางดาราศาสตร์",
+        "pos": "adj",
+        "example": "Astronomical observation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8872",
+        "word": "astronomy",
+        "translation": "ดาราศาสตร์",
+        "pos": "noun",
+        "example": "Study astronomy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8873",
+        "word": "asylum",
+        "translation": "ที่ลี้ภัย",
+        "pos": "noun",
+        "example": "Political asylum.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8874",
+        "word": "atheist",
+        "translation": "ผู้ไม่เชื่อในพระเจ้า",
+        "pos": "noun",
+        "example": "Admitted atheist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8875",
+        "word": "athlete",
+        "translation": "นักกีฬา",
+        "pos": "noun",
+        "example": "Professional athlete.",
+        "level": "basic"
+    },
+    {
+        "id": "v8876",
+        "word": "athletic",
+        "translation": "ทางกีฬา",
+        "pos": "adj",
+        "example": "Athletic ability.",
+        "level": "basic"
+    },
+    {
+        "id": "v8877",
+        "word": "athletics",
+        "translation": "กรีฑา",
+        "pos": "noun",
+        "example": "Track athletics.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8878",
+        "word": "atmosphere",
+        "translation": "บรรยากาศ",
+        "pos": "noun",
+        "example": "Nice atmosphere.",
+        "level": "basic"
+    },
+    {
+        "id": "v8879",
+        "word": "atmospheric",
+        "translation": "ทางบรรยากาศ",
+        "pos": "adj",
+        "example": "Atmospheric pressure.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8880",
+        "word": "atom",
+        "translation": "อะตอม",
+        "pos": "noun",
+        "example": "Single atom.",
+        "level": "basic"
+    },
+    {
+        "id": "v8881",
+        "word": "atomic",
+        "translation": "อะตอม",
+        "pos": "adj",
+        "example": "Atomic bomb.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8882",
+        "word": "attach",
+        "translation": "แนบ",
+        "pos": "verb",
+        "example": "Attach file.",
+        "level": "basic"
+    },
+    {
+        "id": "v8883",
+        "word": "attached",
+        "translation": "แนบ",
+        "pos": "adj",
+        "example": "File attached.",
+        "level": "basic"
+    },
+    {
+        "id": "v8884",
+        "word": "attachment",
+        "translation": "ไฟล์แนบ",
+        "pos": "noun",
+        "example": "Email attachment.",
+        "level": "basic"
+    },
+    {
+        "id": "v8885",
+        "word": "attain",
+        "translation": "บรรลุ",
+        "pos": "verb",
+        "example": "Attain goal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8886",
+        "word": "attainment",
+        "translation": "การบรรลุ",
+        "pos": "noun",
+        "example": "Educational attainment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8887",
+        "word": "attempt",
+        "translation": "พยายาม",
+        "pos": "verb",
+        "example": "Attempt to.",
+        "level": "basic"
+    },
+    {
+        "id": "v8888",
+        "word": "attempted",
+        "translation": "พยายาม",
+        "pos": "adj",
+        "example": "Attempted murder.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8889",
+        "word": "attend",
+        "translation": "เข้าร่วม",
+        "pos": "verb",
+        "example": "Attend meeting.",
+        "level": "basic"
+    },
+    {
+        "id": "v8890",
+        "word": "attendance",
+        "translation": "การเข้าร่วม",
+        "pos": "noun",
+        "example": "High attendance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8891",
+        "word": "attendant",
+        "translation": "พนักงานต้อนรับ",
+        "pos": "noun",
+        "example": "Flight attendant.",
+        "level": "basic"
+    },
+    {
+        "id": "v8892",
+        "word": "attentive",
+        "translation": "เอาใจใส่",
+        "pos": "adj",
+        "example": "Very attentive.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8893",
+        "word": "attic",
+        "translation": "ห้องใต้หลังคา",
+        "pos": "noun",
+        "example": "In the attic.",
+        "level": "basic"
+    },
+    {
+        "id": "v8894",
+        "word": "attitude",
+        "translation": "ทัศนคติ",
+        "pos": "noun",
+        "example": "Positive attitude.",
+        "level": "basic"
+    },
+    {
+        "id": "v8895",
+        "word": "attorney",
+        "translation": "ทนายความ",
+        "pos": "noun",
+        "example": "Hire attorney.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8896",
+        "word": "attract",
+        "translation": "ดึงดูด",
+        "pos": "verb",
+        "example": "Attract attention.",
+        "level": "basic"
+    },
+    {
+        "id": "v8897",
+        "word": "attraction",
+        "translation": "ความน่าดึงดูด",
+        "pos": "noun",
+        "example": "Tourist attraction.",
+        "level": "basic"
+    },
+    {
+        "id": "v8898",
+        "word": "attractive",
+        "translation": "น่าดึงดูด",
+        "pos": "adj",
+        "example": "Very attractive.",
+        "level": "basic"
+    },
+    {
+        "id": "v8899",
+        "word": "attribute",
+        "translation": "คุณลักษณะ",
+        "pos": "noun",
+        "example": "Key attribute.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8900",
+        "word": "auction",
+        "translation": "การประมูล",
+        "pos": "noun",
+        "example": "Art auction.",
+        "level": "intermediate"
+    }
+]

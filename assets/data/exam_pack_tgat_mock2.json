@@ -1,0 +1,437 @@
+{
+    "packs": [
+        {
+            "id": "tgat_mock_2",
+            "name": "TGAT Mock Test 2",
+            "description": "ข้อสอบจำลอง TGAT English ชุดที่ 2 - Advanced Grammar & Reading",
+            "examType": "TGAT",
+            "numQuestions": 30,
+            "timeLimit": 60,
+            "difficulty": "hard",
+            "version": 1,
+            "remoteUrl": null
+        }
+    ],
+    "questions": [
+        {
+            "id": "tgat2_001",
+            "stem": "The manager insisted that the report _____ submitted by Friday.",
+            "choices": [
+                "be",
+                "is",
+                "was",
+                "will be"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ Subjunctive Mood หลัง 'insisted that' ต้องใช้ V1 (be) ไม่ผัน",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_002",
+            "stem": "Hardly _____ the meeting when the fire alarm went off.",
+            "choices": [
+                "had we started",
+                "we had started",
+                "did we start",
+                "we started"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ Inversion หลัง Hardly: Hardly + had + S + V3",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_003",
+            "stem": "The word 'ubiquitous' means:",
+            "choices": [
+                "rare",
+                "present everywhere",
+                "expensive",
+                "ancient"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Ubiquitous' หมายถึง มีอยู่ทุกหนทุกแห่ง พบได้ทั่วไป",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_004",
+            "stem": "Were it not for his help, we _____ the project on time.",
+            "choices": [
+                "would finish",
+                "would have finished",
+                "wouldn't finish",
+                "wouldn't have finished"
+            ],
+            "correctIndex": 3,
+            "explanation": "ประโยค If-clause Type 3 แบบ Inversion ใช้ wouldn't have finished",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_005",
+            "stem": "'Exacerbate' is closest in meaning to:",
+            "choices": [
+                "improve",
+                "make worse",
+                "ignore",
+                "explain"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Exacerbate' หมายถึง ทำให้แย่ลง ทำให้รุนแรงขึ้น",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_006",
+            "stem": "The CEO, along with the board members, _____ attending the conference.",
+            "choices": [
+                "is",
+                "are",
+                "were",
+                "have been"
+            ],
+            "correctIndex": 0,
+            "explanation": "เมื่อประธานหลักเป็นเอกพจน์ (The CEO) ใช้ is แม้จะมี 'along with' คั่น",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_007",
+            "stem": "The antonym of 'benevolent' is:",
+            "choices": [
+                "kind",
+                "generous",
+                "malevolent",
+                "helpful"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Benevolent' แปลว่า ใจดี มีเมตตา ตรงข้ามกับ 'malevolent' ที่แปลว่า มุ่งร้าย",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_008",
+            "stem": "Not until I arrived home _____ realize I had left my wallet.",
+            "choices": [
+                "I did",
+                "did I",
+                "I had",
+                "had I"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion หลัง Not until: Not until... did + S + V1",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_009",
+            "stem": "'Ephemeral' means:",
+            "choices": [
+                "lasting forever",
+                "short-lived",
+                "important",
+                "forgotten"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Ephemeral' หมายถึง ชั่วคราว อยู่ได้ไม่นาน",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_010",
+            "stem": "It is imperative that every student _____ the safety guidelines.",
+            "choices": [
+                "follows",
+                "follow",
+                "followed",
+                "following"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Subjunctive Mood หลัง 'It is imperative that' ต้องใช้ V1 ไม่ผัน",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_011",
+            "stem": "'Conundrum' is closest in meaning to:",
+            "choices": [
+                "solution",
+                "puzzle",
+                "agreement",
+                "celebration"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Conundrum' หมายถึง ปริศนา ปัญหาที่ยากจะแก้",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_012",
+            "stem": "_____ had the plane taken off _____ it encountered technical problems.",
+            "choices": [
+                "No sooner / than",
+                "Hardly / when",
+                "Scarcely / than",
+                "Not only / but"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ No sooner...than สำหรับเหตุการณ์ที่เกิดต่อเนื่องกันทันที",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_013",
+            "stem": "The synonym of 'scrutinize' is:",
+            "choices": [
+                "ignore",
+                "examine closely",
+                "approve",
+                "reject"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Scrutinize' แปลว่า ตรวจสอบอย่างละเอียด",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_014",
+            "stem": "The more effort you put in, _____ your results will be.",
+            "choices": [
+                "better",
+                "the better",
+                "best",
+                "the best"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้โครงสร้าง The + comparative, the + comparative",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_015",
+            "stem": "'Paradigm' means:",
+            "choices": [
+                "example",
+                "model or pattern",
+                "problem",
+                "solution"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Paradigm' หมายถึง กรอบความคิด รูปแบบ แบบอย่าง",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_016",
+            "stem": "She demanded that he _____ an apology.",
+            "choices": [
+                "makes",
+                "make",
+                "made",
+                "making"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Subjunctive Mood หลัง 'demanded that' ต้องใช้ V1 ไม่ผัน",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_017",
+            "stem": "The antonym of 'verbose' is:",
+            "choices": [
+                "wordy",
+                "lengthy",
+                "concise",
+                "detailed"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Verbose' แปลว่า ใช้คำมาก ยืดยาว ตรงข้ามกับ 'concise' ที่แปลว่า กระชับ",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_018",
+            "stem": "Little _____ he know that the test would be cancelled.",
+            "choices": [
+                "does",
+                "did",
+                "had",
+                "has"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion: Little + did + S + V1 (สำหรับอดีต)",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_019",
+            "stem": "'Pernicious' is closest in meaning to:",
+            "choices": [
+                "beneficial",
+                "harmful",
+                "obvious",
+                "temporary"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Pernicious' หมายถึง เป็นอันตราย ร้ายแรง",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_020",
+            "stem": "Only when she finished the report _____ go home.",
+            "choices": [
+                "she could",
+                "could she",
+                "she can",
+                "can she"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion หลัง Only when: Only when... could + S",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_021",
+            "stem": "'Ameliorate' means:",
+            "choices": [
+                "worsen",
+                "improve",
+                "explain",
+                "ignore"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Ameliorate' หมายถึง ทำให้ดีขึ้น ปรับปรุง",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_022",
+            "stem": "The company recommends that employees _____ the new software.",
+            "choices": [
+                "use",
+                "uses",
+                "used",
+                "using"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ Subjunctive Mood หลัง 'recommends that' ต้องใช้ V1 ไม่ผัน",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_023",
+            "stem": "The synonym of 'tenacious' is:",
+            "choices": [
+                "weak",
+                "persistent",
+                "lazy",
+                "careless"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Tenacious' แปลว่า เหนียวแน่น ไม่ยอมแพ้ เหมือน 'persistent'",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_024",
+            "stem": "So difficult _____ that few students passed.",
+            "choices": [
+                "the exam was",
+                "was the exam",
+                "the exam is",
+                "is the exam"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion: So + adjective + verb + subject",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_025",
+            "stem": "'Equivocal' is the opposite of:",
+            "choices": [
+                "ambiguous",
+                "unclear",
+                "unambiguous",
+                "uncertain"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Equivocal' แปลว่า กำกวม ตรงข้ามกับ 'unambiguous' ที่แปลว่า ชัดเจน",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_026",
+            "stem": "It is vital that the patient _____ this medication regularly.",
+            "choices": [
+                "takes",
+                "take",
+                "took",
+                "taking"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Subjunctive Mood หลัง 'It is vital that' ต้องใช้ V1 ไม่ผัน",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_027",
+            "stem": "'Juxtapose' means:",
+            "choices": [
+                "separate",
+                "place side by side",
+                "remove",
+                "hide"
+            ],
+            "correctIndex": 1,
+            "explanation": "'Juxtapose' หมายถึง วางเคียงกัน เปรียบเทียบกัน",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_028",
+            "stem": "Under no circumstances _____ this information to anyone.",
+            "choices": [
+                "you should reveal",
+                "should you reveal",
+                "you reveal",
+                "reveal you"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Inversion หลัง Under no circumstances: should + S + V",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_029",
+            "stem": "The antonym of 'prolific' is:",
+            "choices": [
+                "productive",
+                "creative",
+                "unproductive",
+                "talented"
+            ],
+            "correctIndex": 2,
+            "explanation": "'Prolific' แปลว่า มีผลงานมาก ตรงข้ามกับ 'unproductive'",
+            "skillType": "vocab",
+            "packId": "tgat_mock_2"
+        },
+        {
+            "id": "tgat2_030",
+            "stem": "The doctor suggested that she _____ more rest.",
+            "choices": [
+                "gets",
+                "get",
+                "got",
+                "getting"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ Subjunctive Mood หลัง 'suggested that' ต้องใช้ V1 ไม่ผัน",
+            "skillType": "grammar",
+            "packId": "tgat_mock_2"
+        }
+    ]
+}

@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v0251",
+        "word": "bit",
+        "translation": "นิดหน่อย",
+        "pos": "noun",
+        "example": "Wait a bit.",
+        "level": "basic"
+    },
+    {
+        "id": "v0252",
+        "word": "bite",
+        "translation": "กัด",
+        "pos": "verb",
+        "example": "The dog might bite.",
+        "level": "basic"
+    },
+    {
+        "id": "v0253",
+        "word": "black",
+        "translation": "สีดำ",
+        "pos": "adj",
+        "example": "She wears black.",
+        "level": "basic"
+    },
+    {
+        "id": "v0254",
+        "word": "blade",
+        "translation": "ใบมีด",
+        "pos": "noun",
+        "example": "The blade is sharp.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0255",
+        "word": "blame",
+        "translation": "ตำหนิ",
+        "pos": "verb",
+        "example": "Don't blame me.",
+        "level": "basic"
+    },
+    {
+        "id": "v0256",
+        "word": "blank",
+        "translation": "ว่างเปล่า",
+        "pos": "adj",
+        "example": "Fill in the blank.",
+        "level": "basic"
+    },
+    {
+        "id": "v0257",
+        "word": "blanket",
+        "translation": "ผ้าห่ม",
+        "pos": "noun",
+        "example": "Cover with a blanket.",
+        "level": "basic"
+    },
+    {
+        "id": "v0258",
+        "word": "blind",
+        "translation": "ตาบอด",
+        "pos": "adj",
+        "example": "He is blind.",
+        "level": "basic"
+    },
+    {
+        "id": "v0259",
+        "word": "block",
+        "translation": "บล็อก",
+        "pos": "noun",
+        "example": "Walk three blocks.",
+        "level": "basic"
+    },
+    {
+        "id": "v0260",
+        "word": "blood",
+        "translation": "เลือด",
+        "pos": "noun",
+        "example": "Blood is red.",
+        "level": "basic"
+    },
+    {
+        "id": "v0261",
+        "word": "blow",
+        "translation": "เป่า",
+        "pos": "verb",
+        "example": "Blow out the candles.",
+        "level": "basic"
+    },
+    {
+        "id": "v0262",
+        "word": "blue",
+        "translation": "สีน้ำเงิน",
+        "pos": "adj",
+        "example": "The sky is blue.",
+        "level": "basic"
+    },
+    {
+        "id": "v0263",
+        "word": "board",
+        "translation": "กระดาน",
+        "pos": "noun",
+        "example": "Write on the board.",
+        "level": "basic"
+    },
+    {
+        "id": "v0264",
+        "word": "boat",
+        "translation": "เรือ",
+        "pos": "noun",
+        "example": "We sailed a boat.",
+        "level": "basic"
+    },
+    {
+        "id": "v0265",
+        "word": "body",
+        "translation": "ร่างกาย",
+        "pos": "noun",
+        "example": "Keep your body healthy.",
+        "level": "basic"
+    },
+    {
+        "id": "v0266",
+        "word": "boil",
+        "translation": "ต้ม",
+        "pos": "verb",
+        "example": "Boil the water.",
+        "level": "basic"
+    },
+    {
+        "id": "v0267",
+        "word": "bomb",
+        "translation": "ระเบิด",
+        "pos": "noun",
+        "example": "A bomb exploded.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0268",
+        "word": "bond",
+        "translation": "พันธะ",
+        "pos": "noun",
+        "example": "The bond between friends.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0269",
+        "word": "bone",
+        "translation": "กระดูก",
+        "pos": "noun",
+        "example": "The dog likes bones.",
+        "level": "basic"
+    },
+    {
+        "id": "v0270",
+        "word": "book",
+        "translation": "หนังสือ",
+        "pos": "noun",
+        "example": "Read a book.",
+        "level": "basic"
+    },
+    {
+        "id": "v0271",
+        "word": "boom",
+        "translation": "เฟื่องฟู",
+        "pos": "noun",
+        "example": "Economic boom.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0272",
+        "word": "boot",
+        "translation": "รองเท้าบูท",
+        "pos": "noun",
+        "example": "Wear your boots.",
+        "level": "basic"
+    },
+    {
+        "id": "v0273",
+        "word": "border",
+        "translation": "ชายแดน",
+        "pos": "noun",
+        "example": "Cross the border.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0274",
+        "word": "bore",
+        "translation": "ทำให้เบื่อ",
+        "pos": "verb",
+        "example": "Don't bore me.",
+        "level": "basic"
+    },
+    {
+        "id": "v0275",
+        "word": "boring",
+        "translation": "น่าเบื่อ",
+        "pos": "adj",
+        "example": "The movie was boring.",
+        "level": "basic"
+    },
+    {
+        "id": "v0276",
+        "word": "born",
+        "translation": "เกิด",
+        "pos": "verb",
+        "example": "I was born in Bangkok.",
+        "level": "basic"
+    },
+    {
+        "id": "v0277",
+        "word": "borrow",
+        "translation": "ยืม",
+        "pos": "verb",
+        "example": "Can I borrow your pen?",
+        "level": "basic"
+    },
+    {
+        "id": "v0278",
+        "word": "boss",
+        "translation": "เจ้านาย",
+        "pos": "noun",
+        "example": "My boss is nice.",
+        "level": "basic"
+    },
+    {
+        "id": "v0279",
+        "word": "both",
+        "translation": "ทั้งคู่",
+        "pos": "det",
+        "example": "Both of them came.",
+        "level": "basic"
+    },
+    {
+        "id": "v0280",
+        "word": "bother",
+        "translation": "รบกวน",
+        "pos": "verb",
+        "example": "Sorry to bother you.",
+        "level": "basic"
+    },
+    {
+        "id": "v0281",
+        "word": "bottle",
+        "translation": "ขวด",
+        "pos": "noun",
+        "example": "A bottle of water.",
+        "level": "basic"
+    },
+    {
+        "id": "v0282",
+        "word": "bottom",
+        "translation": "ด้านล่าง",
+        "pos": "noun",
+        "example": "At the bottom of the page.",
+        "level": "basic"
+    },
+    {
+        "id": "v0283",
+        "word": "bowl",
+        "translation": "ชาม",
+        "pos": "noun",
+        "example": "A bowl of rice.",
+        "level": "basic"
+    },
+    {
+        "id": "v0284",
+        "word": "box",
+        "translation": "กล่อง",
+        "pos": "noun",
+        "example": "Open the box.",
+        "level": "basic"
+    },
+    {
+        "id": "v0285",
+        "word": "boy",
+        "translation": "เด็กผู้ชาย",
+        "pos": "noun",
+        "example": "The boy is playing.",
+        "level": "basic"
+    },
+    {
+        "id": "v0286",
+        "word": "boyfriend",
+        "translation": "แฟนผู้ชาย",
+        "pos": "noun",
+        "example": "He is my boyfriend.",
+        "level": "basic"
+    },
+    {
+        "id": "v0287",
+        "word": "brain",
+        "translation": "สมอง",
+        "pos": "noun",
+        "example": "Use your brain.",
+        "level": "basic"
+    },
+    {
+        "id": "v0288",
+        "word": "branch",
+        "translation": "สาขา",
+        "pos": "noun",
+        "example": "The bank has many branches.",
+        "level": "basic"
+    },
+    {
+        "id": "v0289",
+        "word": "brand",
+        "translation": "แบรนด์",
+        "pos": "noun",
+        "example": "What brand is this?",
+        "level": "basic"
+    },
+    {
+        "id": "v0290",
+        "word": "brave",
+        "translation": "กล้าหาญ",
+        "pos": "adj",
+        "example": "Be brave!",
+        "level": "basic"
+    },
+    {
+        "id": "v0291",
+        "word": "bread",
+        "translation": "ขนมปัง",
+        "pos": "noun",
+        "example": "I love fresh bread.",
+        "level": "basic"
+    },
+    {
+        "id": "v0292",
+        "word": "break",
+        "translation": "พัก",
+        "pos": "verb",
+        "example": "Take a break.",
+        "level": "basic"
+    },
+    {
+        "id": "v0293",
+        "word": "breakfast",
+        "translation": "อาหารเช้า",
+        "pos": "noun",
+        "example": "What's for breakfast?",
+        "level": "basic"
+    },
+    {
+        "id": "v0294",
+        "word": "breath",
+        "translation": "ลมหายใจ",
+        "pos": "noun",
+        "example": "Take a deep breath.",
+        "level": "basic"
+    },
+    {
+        "id": "v0295",
+        "word": "breathe",
+        "translation": "หายใจ",
+        "pos": "verb",
+        "example": "Breathe slowly.",
+        "level": "basic"
+    },
+    {
+        "id": "v0296",
+        "word": "brick",
+        "translation": "อิฐ",
+        "pos": "noun",
+        "example": "A brick wall.",
+        "level": "basic"
+    },
+    {
+        "id": "v0297",
+        "word": "bridge",
+        "translation": "สะพาน",
+        "pos": "noun",
+        "example": "Cross the bridge.",
+        "level": "basic"
+    },
+    {
+        "id": "v0298",
+        "word": "brief",
+        "translation": "สั้น",
+        "pos": "adj",
+        "example": "Keep it brief.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0299",
+        "word": "bright",
+        "translation": "สว่าง",
+        "pos": "adj",
+        "example": "The sun is bright.",
+        "level": "basic"
+    },
+    {
+        "id": "v0300",
+        "word": "brilliant",
+        "translation": "ยอดเยี่ยม",
+        "pos": "adj",
+        "example": "That's a brilliant idea!",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0301",
+        "word": "bring",
+        "translation": "นำมา",
+        "pos": "verb",
+        "example": "Bring your book.",
+        "level": "basic"
+    },
+    {
+        "id": "v0302",
+        "word": "broad",
+        "translation": "กว้าง",
+        "pos": "adj",
+        "example": "A broad range of options.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0303",
+        "word": "broadcast",
+        "translation": "แพร่ภาพ",
+        "pos": "verb",
+        "example": "The show was broadcast live.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0304",
+        "word": "brother",
+        "translation": "พี่ชาย/น้องชาย",
+        "pos": "noun",
+        "example": "My brother is older.",
+        "level": "basic"
+    },
+    {
+        "id": "v0305",
+        "word": "brown",
+        "translation": "สีน้ำตาล",
+        "pos": "adj",
+        "example": "Brown eyes.",
+        "level": "basic"
+    },
+    {
+        "id": "v0306",
+        "word": "brush",
+        "translation": "แปรง",
+        "pos": "noun",
+        "example": "Brush your teeth.",
+        "level": "basic"
+    },
+    {
+        "id": "v0307",
+        "word": "budget",
+        "translation": "งบประมาณ",
+        "pos": "noun",
+        "example": "Stay within budget.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0308",
+        "word": "build",
+        "translation": "สร้าง",
+        "pos": "verb",
+        "example": "Build a house.",
+        "level": "basic"
+    },
+    {
+        "id": "v0309",
+        "word": "building",
+        "translation": "ตึก",
+        "pos": "noun",
+        "example": "A tall building.",
+        "level": "basic"
+    },
+    {
+        "id": "v0310",
+        "word": "bunch",
+        "translation": "กลุ่ม",
+        "pos": "noun",
+        "example": "A bunch of flowers.",
+        "level": "basic"
+    },
+    {
+        "id": "v0311",
+        "word": "burden",
+        "translation": "ภาระ",
+        "pos": "noun",
+        "example": "Don't be a burden.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0312",
+        "word": "burn",
+        "translation": "เผา",
+        "pos": "verb",
+        "example": "Don't burn yourself.",
+        "level": "basic"
+    },
+    {
+        "id": "v0313",
+        "word": "bury",
+        "translation": "ฝัง",
+        "pos": "verb",
+        "example": "Bury the treasure.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0314",
+        "word": "bus",
+        "translation": "รถประจำทาง",
+        "pos": "noun",
+        "example": "Take the bus.",
+        "level": "basic"
+    },
+    {
+        "id": "v0315",
+        "word": "business",
+        "translation": "ธุรกิจ",
+        "pos": "noun",
+        "example": "Start a business.",
+        "level": "basic"
+    },
+    {
+        "id": "v0316",
+        "word": "busy",
+        "translation": "ยุ่ง",
+        "pos": "adj",
+        "example": "I'm very busy.",
+        "level": "basic"
+    },
+    {
+        "id": "v0317",
+        "word": "but",
+        "translation": "แต่",
+        "pos": "conj",
+        "example": "I tried but failed.",
+        "level": "basic"
+    },
+    {
+        "id": "v0318",
+        "word": "butter",
+        "translation": "เนย",
+        "pos": "noun",
+        "example": "Spread some butter.",
+        "level": "basic"
+    },
+    {
+        "id": "v0319",
+        "word": "button",
+        "translation": "ปุ่ม",
+        "pos": "noun",
+        "example": "Press the button.",
+        "level": "basic"
+    },
+    {
+        "id": "v0320",
+        "word": "buy",
+        "translation": "ซื้อ",
+        "pos": "verb",
+        "example": "I want to buy this.",
+        "level": "basic"
+    },
+    {
+        "id": "v0321",
+        "word": "buyer",
+        "translation": "ผู้ซื้อ",
+        "pos": "noun",
+        "example": "The buyer paid cash.",
+        "level": "basic"
+    },
+    {
+        "id": "v0322",
+        "word": "by",
+        "translation": "โดย",
+        "pos": "prep",
+        "example": "Made by hand.",
+        "level": "basic"
+    },
+    {
+        "id": "v0323",
+        "word": "cabin",
+        "translation": "กระท่อม",
+        "pos": "noun",
+        "example": "A cabin in the woods.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0324",
+        "word": "cable",
+        "translation": "สายเคเบิล",
+        "pos": "noun",
+        "example": "Connect the cable.",
+        "level": "basic"
+    },
+    {
+        "id": "v0325",
+        "word": "cake",
+        "translation": "เค้ก",
+        "pos": "noun",
+        "example": "Birthday cake.",
+        "level": "basic"
+    },
+    {
+        "id": "v0326",
+        "word": "calculate",
+        "translation": "คำนวณ",
+        "pos": "verb",
+        "example": "Calculate the total.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0327",
+        "word": "calendar",
+        "translation": "ปฏิทิน",
+        "pos": "noun",
+        "example": "Check the calendar.",
+        "level": "basic"
+    },
+    {
+        "id": "v0328",
+        "word": "call",
+        "translation": "โทร",
+        "pos": "verb",
+        "example": "Call me later.",
+        "level": "basic"
+    },
+    {
+        "id": "v0329",
+        "word": "calm",
+        "translation": "สงบ",
+        "pos": "adj",
+        "example": "Stay calm.",
+        "level": "basic"
+    },
+    {
+        "id": "v0330",
+        "word": "camera",
+        "translation": "กล้อง",
+        "pos": "noun",
+        "example": "Take a picture with the camera.",
+        "level": "basic"
+    },
+    {
+        "id": "v0331",
+        "word": "camp",
+        "translation": "ค่าย",
+        "pos": "noun",
+        "example": "Summer camp.",
+        "level": "basic"
+    },
+    {
+        "id": "v0332",
+        "word": "campaign",
+        "translation": "แคมเปญ",
+        "pos": "noun",
+        "example": "Marketing campaign.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0333",
+        "word": "campus",
+        "translation": "มหาวิทยาลัย",
+        "pos": "noun",
+        "example": "On campus.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0334",
+        "word": "can",
+        "translation": "สามารถ",
+        "pos": "verb",
+        "example": "I can do it.",
+        "level": "basic"
+    },
+    {
+        "id": "v0335",
+        "word": "cancel",
+        "translation": "ยกเลิก",
+        "pos": "verb",
+        "example": "Cancel the meeting.",
+        "level": "basic"
+    },
+    {
+        "id": "v0336",
+        "word": "cancer",
+        "translation": "มะเร็ง",
+        "pos": "noun",
+        "example": "Cancer research.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0337",
+        "word": "candidate",
+        "translation": "ผู้สมัคร",
+        "pos": "noun",
+        "example": "The best candidate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0338",
+        "word": "cap",
+        "translation": "หมวก",
+        "pos": "noun",
+        "example": "Wear a cap.",
+        "level": "basic"
+    },
+    {
+        "id": "v0339",
+        "word": "capable",
+        "translation": "สามารถ",
+        "pos": "adj",
+        "example": "She is capable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0340",
+        "word": "capacity",
+        "translation": "ความจุ",
+        "pos": "noun",
+        "example": "Full capacity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0341",
+        "word": "capital",
+        "translation": "เมืองหลวง",
+        "pos": "noun",
+        "example": "Bangkok is the capital.",
+        "level": "basic"
+    },
+    {
+        "id": "v0342",
+        "word": "captain",
+        "translation": "กัปตัน",
+        "pos": "noun",
+        "example": "The team captain.",
+        "level": "basic"
+    },
+    {
+        "id": "v0343",
+        "word": "capture",
+        "translation": "จับ",
+        "pos": "verb",
+        "example": "Capture the moment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0344",
+        "word": "car",
+        "translation": "รถยนต์",
+        "pos": "noun",
+        "example": "Drive a car.",
+        "level": "basic"
+    },
+    {
+        "id": "v0345",
+        "word": "card",
+        "translation": "บัตร",
+        "pos": "noun",
+        "example": "Credit card.",
+        "level": "basic"
+    },
+    {
+        "id": "v0346",
+        "word": "care",
+        "translation": "ดูแล",
+        "pos": "verb",
+        "example": "Take care of yourself.",
+        "level": "basic"
+    },
+    {
+        "id": "v0347",
+        "word": "career",
+        "translation": "อาชีพ",
+        "pos": "noun",
+        "example": "Career development.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0348",
+        "word": "careful",
+        "translation": "ระวัง",
+        "pos": "adj",
+        "example": "Be careful!",
+        "level": "basic"
+    },
+    {
+        "id": "v0349",
+        "word": "carefully",
+        "translation": "อย่างระวัง",
+        "pos": "adv",
+        "example": "Drive carefully.",
+        "level": "basic"
+    },
+    {
+        "id": "v0350",
+        "word": "carry",
+        "translation": "แบก",
+        "pos": "verb",
+        "example": "Carry this bag.",
+        "level": "basic"
+    }
+]

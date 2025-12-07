@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v8501",
+        "word": "wound",
+        "translation": "บาดแผล",
+        "pos": "noun",
+        "example": "Deep wound.",
+        "level": "basic"
+    },
+    {
+        "id": "v8502",
+        "word": "wounded",
+        "translation": "บาดเจ็บ",
+        "pos": "adj",
+        "example": "Wounded soldier.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8503",
+        "word": "wrap",
+        "translation": "ห่อ",
+        "pos": "verb",
+        "example": "Wrap gift.",
+        "level": "basic"
+    },
+    {
+        "id": "v8504",
+        "word": "wrapper",
+        "translation": "กระดาษห่อ",
+        "pos": "noun",
+        "example": "Candy wrapper.",
+        "level": "basic"
+    },
+    {
+        "id": "v8505",
+        "word": "wrapping",
+        "translation": "การห่อ",
+        "pos": "noun",
+        "example": "Gift wrapping.",
+        "level": "basic"
+    },
+    {
+        "id": "v8506",
+        "word": "wreck",
+        "translation": "ซาก",
+        "pos": "noun",
+        "example": "Car wreck.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8507",
+        "word": "wrestle",
+        "translation": "มวยปล้ำ",
+        "pos": "verb",
+        "example": "Wrestle with.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8508",
+        "word": "wrestling",
+        "translation": "มวยปล้ำ",
+        "pos": "noun",
+        "example": "Pro wrestling.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8509",
+        "word": "wrist",
+        "translation": "ข้อมือ",
+        "pos": "noun",
+        "example": "Broken wrist.",
+        "level": "basic"
+    },
+    {
+        "id": "v8510",
+        "word": "write",
+        "translation": "เขียน",
+        "pos": "verb",
+        "example": "Write down.",
+        "level": "basic"
+    },
+    {
+        "id": "v8511",
+        "word": "writer",
+        "translation": "นักเขียน",
+        "pos": "noun",
+        "example": "Famous writer.",
+        "level": "basic"
+    },
+    {
+        "id": "v8512",
+        "word": "writing",
+        "translation": "การเขียน",
+        "pos": "noun",
+        "example": "Creative writing.",
+        "level": "basic"
+    },
+    {
+        "id": "v8513",
+        "word": "written",
+        "translation": "เป็นลายลักษณ์อักษร",
+        "pos": "adj",
+        "example": "Written test.",
+        "level": "basic"
+    },
+    {
+        "id": "v8514",
+        "word": "wrong",
+        "translation": "ผิด",
+        "pos": "adj",
+        "example": "Something wrong.",
+        "level": "basic"
+    },
+    {
+        "id": "v8515",
+        "word": "wrongly",
+        "translation": "อย่างผิดพลาด",
+        "pos": "adv",
+        "example": "Wrongly accused.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8516",
+        "word": "yard",
+        "translation": "หลา",
+        "pos": "noun",
+        "example": "Back yard.",
+        "level": "basic"
+    },
+    {
+        "id": "v8517",
+        "word": "yarn",
+        "translation": "เส้นด้าย",
+        "pos": "noun",
+        "example": "Ball of yarn.",
+        "level": "basic"
+    },
+    {
+        "id": "v8518",
+        "word": "yeah",
+        "translation": "ใช่",
+        "pos": "interj",
+        "example": "Oh yeah.",
+        "level": "basic"
+    },
+    {
+        "id": "v8519",
+        "word": "year",
+        "translation": "ปี",
+        "pos": "noun",
+        "example": "New year.",
+        "level": "basic"
+    },
+    {
+        "id": "v8520",
+        "word": "yearly",
+        "translation": "รายปี",
+        "pos": "adj",
+        "example": "Yearly report.",
+        "level": "basic"
+    },
+    {
+        "id": "v8521",
+        "word": "yell",
+        "translation": "ตะโกน",
+        "pos": "verb",
+        "example": "Don't yell.",
+        "level": "basic"
+    },
+    {
+        "id": "v8522",
+        "word": "yellow",
+        "translation": "สีเหลือง",
+        "pos": "adj",
+        "example": "Yellow color.",
+        "level": "basic"
+    },
+    {
+        "id": "v8523",
+        "word": "yes",
+        "translation": "ใช่",
+        "pos": "interj",
+        "example": "Yes please.",
+        "level": "basic"
+    },
+    {
+        "id": "v8524",
+        "word": "yesterday",
+        "translation": "เมื่อวาน",
+        "pos": "adv",
+        "example": "Yesterday.",
+        "level": "basic"
+    },
+    {
+        "id": "v8525",
+        "word": "yet",
+        "translation": "ยัง",
+        "pos": "adv",
+        "example": "Not yet.",
+        "level": "basic"
+    },
+    {
+        "id": "v8526",
+        "word": "yield",
+        "translation": "ผลผลิต",
+        "pos": "noun",
+        "example": "High yield.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8527",
+        "word": "yoga",
+        "translation": "โยคะ",
+        "pos": "noun",
+        "example": "Do yoga.",
+        "level": "basic"
+    },
+    {
+        "id": "v8528",
+        "word": "yogurt",
+        "translation": "โยเกิร์ต",
+        "pos": "noun",
+        "example": "Greek yogurt.",
+        "level": "basic"
+    },
+    {
+        "id": "v8529",
+        "word": "you",
+        "translation": "คุณ",
+        "pos": "pron",
+        "example": "Thank you.",
+        "level": "basic"
+    },
+    {
+        "id": "v8530",
+        "word": "young",
+        "translation": "หนุ่มสาว",
+        "pos": "adj",
+        "example": "Very young.",
+        "level": "basic"
+    },
+    {
+        "id": "v8531",
+        "word": "youngster",
+        "translation": "หนุ่มสาว",
+        "pos": "noun",
+        "example": "Local youngsters.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8532",
+        "word": "your",
+        "translation": "ของคุณ",
+        "pos": "pron",
+        "example": "Your name.",
+        "level": "basic"
+    },
+    {
+        "id": "v8533",
+        "word": "yours",
+        "translation": "ของคุณ",
+        "pos": "pron",
+        "example": "It's yours.",
+        "level": "basic"
+    },
+    {
+        "id": "v8534",
+        "word": "yourself",
+        "translation": "ตัวคุณเอง",
+        "pos": "pron",
+        "example": "Be yourself.",
+        "level": "basic"
+    },
+    {
+        "id": "v8535",
+        "word": "yourselves",
+        "translation": "ตัวคุณเอง",
+        "pos": "pron",
+        "example": "Help yourselves.",
+        "level": "basic"
+    },
+    {
+        "id": "v8536",
+        "word": "youth",
+        "translation": "เยาวชน",
+        "pos": "noun",
+        "example": "Youth group.",
+        "level": "basic"
+    },
+    {
+        "id": "v8537",
+        "word": "youthful",
+        "translation": "ดูหนุ่มสาว",
+        "pos": "adj",
+        "example": "Very youthful.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8538",
+        "word": "zebra",
+        "translation": "ม้าลาย",
+        "pos": "noun",
+        "example": "Zebra crossing.",
+        "level": "basic"
+    },
+    {
+        "id": "v8539",
+        "word": "zero",
+        "translation": "ศูนย์",
+        "pos": "num",
+        "example": "Zero tolerance.",
+        "level": "basic"
+    },
+    {
+        "id": "v8540",
+        "word": "zinc",
+        "translation": "สังกะสี",
+        "pos": "noun",
+        "example": "Zinc supplement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8541",
+        "word": "zip",
+        "translation": "ซิป",
+        "pos": "noun",
+        "example": "Zip code.",
+        "level": "basic"
+    },
+    {
+        "id": "v8542",
+        "word": "zipper",
+        "translation": "ซิป",
+        "pos": "noun",
+        "example": "Broken zipper.",
+        "level": "basic"
+    },
+    {
+        "id": "v8543",
+        "word": "zombie",
+        "translation": "ซอมบี้",
+        "pos": "noun",
+        "example": "Zombie movie.",
+        "level": "basic"
+    },
+    {
+        "id": "v8544",
+        "word": "zone",
+        "translation": "โซน",
+        "pos": "noun",
+        "example": "Time zone.",
+        "level": "basic"
+    },
+    {
+        "id": "v8545",
+        "word": "zoo",
+        "translation": "สวนสัตว์",
+        "pos": "noun",
+        "example": "Visit zoo.",
+        "level": "basic"
+    },
+    {
+        "id": "v8546",
+        "word": "abandon",
+        "translation": "ละทิ้ง",
+        "pos": "verb",
+        "example": "Abandon ship.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8547",
+        "word": "abbreviate",
+        "translation": "ย่อ",
+        "pos": "verb",
+        "example": "Abbreviate word.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8548",
+        "word": "abbreviation",
+        "translation": "ตัวย่อ",
+        "pos": "noun",
+        "example": "Common abbreviation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8549",
+        "word": "abdomen",
+        "translation": "ช่องท้อง",
+        "pos": "noun",
+        "example": "Pain in abdomen.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8550",
+        "word": "abide",
+        "translation": "ปฏิบัติตาม",
+        "pos": "verb",
+        "example": "Abide by rules.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8551",
+        "word": "abnormal",
+        "translation": "ผิดปกติ",
+        "pos": "adj",
+        "example": "Abnormal behavior.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8552",
+        "word": "abolish",
+        "translation": "ยกเลิก",
+        "pos": "verb",
+        "example": "Abolish slavery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8553",
+        "word": "abortion",
+        "translation": "การทำแท้ง",
+        "pos": "noun",
+        "example": "Abortion debate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8554",
+        "word": "abound",
+        "translation": "มีมากมาย",
+        "pos": "verb",
+        "example": "Opportunities abound.",
+        "level": "advanced"
+    },
+    {
+        "id": "v8555",
+        "word": "abrupt",
+        "translation": "กะทันหัน",
+        "pos": "adj",
+        "example": "Abrupt change.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8556",
+        "word": "abruptly",
+        "translation": "อย่างกะทันหัน",
+        "pos": "adv",
+        "example": "Stop abruptly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8557",
+        "word": "absurd",
+        "translation": "ไร้สาระ",
+        "pos": "adj",
+        "example": "Absolutely absurd.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8558",
+        "word": "abundance",
+        "translation": "ความอุดมสมบูรณ์",
+        "pos": "noun",
+        "example": "In abundance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8559",
+        "word": "abundant",
+        "translation": "อุดมสมบูรณ์",
+        "pos": "adj",
+        "example": "Abundant resources.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8560",
+        "word": "abuse",
+        "translation": "การละเมิด",
+        "pos": "noun",
+        "example": "Child abuse.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8561",
+        "word": "accelerate",
+        "translation": "เร่ง",
+        "pos": "verb",
+        "example": "Accelerate growth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8562",
+        "word": "acceleration",
+        "translation": "การเร่ง",
+        "pos": "noun",
+        "example": "Rapid acceleration.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8563",
+        "word": "accent",
+        "translation": "สำเนียง",
+        "pos": "noun",
+        "example": "Foreign accent.",
+        "level": "basic"
+    },
+    {
+        "id": "v8564",
+        "word": "acceptable",
+        "translation": "ยอมรับได้",
+        "pos": "adj",
+        "example": "Acceptable behavior.",
+        "level": "basic"
+    },
+    {
+        "id": "v8565",
+        "word": "acceptance",
+        "translation": "การยอมรับ",
+        "pos": "noun",
+        "example": "Gain acceptance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8566",
+        "word": "accessible",
+        "translation": "เข้าถึงได้",
+        "pos": "adj",
+        "example": "Easily accessible.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8567",
+        "word": "accessory",
+        "translation": "เครื่องประดับ",
+        "pos": "noun",
+        "example": "Fashion accessory.",
+        "level": "basic"
+    },
+    {
+        "id": "v8568",
+        "word": "accidental",
+        "translation": "โดยบังเอิญ",
+        "pos": "adj",
+        "example": "Accidental death.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8569",
+        "word": "accidentally",
+        "translation": "โดยบังเอิญ",
+        "pos": "adv",
+        "example": "Accidentally deleted.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8570",
+        "word": "accommodate",
+        "translation": "รองรับ",
+        "pos": "verb",
+        "example": "Accommodate guests.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8571",
+        "word": "accommodation",
+        "translation": "ที่พัก",
+        "pos": "noun",
+        "example": "Find accommodation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8572",
+        "word": "accompany",
+        "translation": "ติดตาม",
+        "pos": "verb",
+        "example": "Accompany someone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8573",
+        "word": "accomplish",
+        "translation": "บรรลุ",
+        "pos": "verb",
+        "example": "Accomplish goal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8574",
+        "word": "accomplishment",
+        "translation": "ความสำเร็จ",
+        "pos": "noun",
+        "example": "Great accomplishment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8575",
+        "word": "accord",
+        "translation": "ความตกลง",
+        "pos": "noun",
+        "example": "In accord with.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8576",
+        "word": "accordance",
+        "translation": "ความสอดคล้อง",
+        "pos": "noun",
+        "example": "In accordance with.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8577",
+        "word": "accordingly",
+        "translation": "ตามนั้น",
+        "pos": "adv",
+        "example": "Act accordingly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8578",
+        "word": "accountable",
+        "translation": "รับผิดชอบ",
+        "pos": "adj",
+        "example": "Hold accountable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8579",
+        "word": "accountant",
+        "translation": "นักบัญชี",
+        "pos": "noun",
+        "example": "Hire accountant.",
+        "level": "basic"
+    },
+    {
+        "id": "v8580",
+        "word": "accounting",
+        "translation": "การบัญชี",
+        "pos": "noun",
+        "example": "Accounting department.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8581",
+        "word": "accumulate",
+        "translation": "สะสม",
+        "pos": "verb",
+        "example": "Accumulate wealth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8582",
+        "word": "accumulation",
+        "translation": "การสะสม",
+        "pos": "noun",
+        "example": "Gradual accumulation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8583",
+        "word": "accurate",
+        "translation": "แม่นยำ",
+        "pos": "adj",
+        "example": "Very accurate.",
+        "level": "basic"
+    },
+    {
+        "id": "v8584",
+        "word": "accurately",
+        "translation": "อย่างแม่นยำ",
+        "pos": "adv",
+        "example": "Measure accurately.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8585",
+        "word": "accusation",
+        "translation": "ข้อกล่าวหา",
+        "pos": "noun",
+        "example": "False accusation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8586",
+        "word": "accuse",
+        "translation": "กล่าวหา",
+        "pos": "verb",
+        "example": "Accuse of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8587",
+        "word": "accused",
+        "translation": "จำเลย",
+        "pos": "noun",
+        "example": "The accused.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8588",
+        "word": "ache",
+        "translation": "ปวด",
+        "pos": "verb",
+        "example": "Head ache.",
+        "level": "basic"
+    },
+    {
+        "id": "v8589",
+        "word": "achievement",
+        "translation": "ความสำเร็จ",
+        "pos": "noun",
+        "example": "Great achievement.",
+        "level": "basic"
+    },
+    {
+        "id": "v8590",
+        "word": "acknowledge",
+        "translation": "รับทราบ",
+        "pos": "verb",
+        "example": "Acknowledge receipt.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8591",
+        "word": "acknowledgement",
+        "translation": "การรับทราบ",
+        "pos": "noun",
+        "example": "Send acknowledgement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8592",
+        "word": "acoustic",
+        "translation": "เกี่ยวกับเสียง",
+        "pos": "adj",
+        "example": "Acoustic guitar.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8593",
+        "word": "acquaintance",
+        "translation": "คนรู้จัก",
+        "pos": "noun",
+        "example": "Old acquaintance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8594",
+        "word": "acquire",
+        "translation": "ได้มา",
+        "pos": "verb",
+        "example": "Acquire skill.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8595",
+        "word": "acquisition",
+        "translation": "การได้มา",
+        "pos": "noun",
+        "example": "Company acquisition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8596",
+        "word": "acre",
+        "translation": "เอเคอร์",
+        "pos": "noun",
+        "example": "Ten acres.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8597",
+        "word": "activate",
+        "translation": "เปิดใช้งาน",
+        "pos": "verb",
+        "example": "Activate account.",
+        "level": "basic"
+    },
+    {
+        "id": "v8598",
+        "word": "activation",
+        "translation": "การเปิดใช้งาน",
+        "pos": "noun",
+        "example": "Account activation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8599",
+        "word": "activist",
+        "translation": "นักเคลื่อนไหว",
+        "pos": "noun",
+        "example": "Social activist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8600",
+        "word": "actively",
+        "translation": "อย่างตื่นตัว",
+        "pos": "adv",
+        "example": "Actively participate.",
+        "level": "intermediate"
+    }
+]

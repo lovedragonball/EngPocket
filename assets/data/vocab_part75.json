@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v7301",
+        "word": "sibling",
+        "translation": "พี่น้อง",
+        "pos": "noun",
+        "example": "Three siblings.",
+        "level": "basic"
+    },
+    {
+        "id": "v7302",
+        "word": "sick",
+        "translation": "ป่วย",
+        "pos": "adj",
+        "example": "Feel sick.",
+        "level": "basic"
+    },
+    {
+        "id": "v7303",
+        "word": "sickness",
+        "translation": "ความเจ็บป่วย",
+        "pos": "noun",
+        "example": "Motion sickness.",
+        "level": "basic"
+    },
+    {
+        "id": "v7304",
+        "word": "side",
+        "translation": "ข้าง",
+        "pos": "noun",
+        "example": "Both sides.",
+        "level": "basic"
+    },
+    {
+        "id": "v7305",
+        "word": "sidewalk",
+        "translation": "ทางเท้า",
+        "pos": "noun",
+        "example": "Walk on sidewalk.",
+        "level": "basic"
+    },
+    {
+        "id": "v7306",
+        "word": "sigh",
+        "translation": "ถอนหายใจ",
+        "pos": "verb",
+        "example": "Sigh deeply.",
+        "level": "basic"
+    },
+    {
+        "id": "v7307",
+        "word": "sight",
+        "translation": "สายตา",
+        "pos": "noun",
+        "example": "At first sight.",
+        "level": "basic"
+    },
+    {
+        "id": "v7308",
+        "word": "sightseeing",
+        "translation": "เที่ยวชมสถานที่",
+        "pos": "noun",
+        "example": "Go sightseeing.",
+        "level": "basic"
+    },
+    {
+        "id": "v7309",
+        "word": "sign",
+        "translation": "ป้าย",
+        "pos": "noun",
+        "example": "Road sign.",
+        "level": "basic"
+    },
+    {
+        "id": "v7310",
+        "word": "signal",
+        "translation": "สัญญาณ",
+        "pos": "noun",
+        "example": "Warning signal.",
+        "level": "basic"
+    },
+    {
+        "id": "v7311",
+        "word": "signature",
+        "translation": "ลายเซ็น",
+        "pos": "noun",
+        "example": "Digital signature.",
+        "level": "basic"
+    },
+    {
+        "id": "v7312",
+        "word": "significance",
+        "translation": "ความสำคัญ",
+        "pos": "noun",
+        "example": "Great significance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7313",
+        "word": "significant",
+        "translation": "สำคัญ",
+        "pos": "adj",
+        "example": "Significant change.",
+        "level": "basic"
+    },
+    {
+        "id": "v7314",
+        "word": "significantly",
+        "translation": "อย่างมาก",
+        "pos": "adv",
+        "example": "Significantly different.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7315",
+        "word": "silence",
+        "translation": "ความเงียบ",
+        "pos": "noun",
+        "example": "Complete silence.",
+        "level": "basic"
+    },
+    {
+        "id": "v7316",
+        "word": "silent",
+        "translation": "เงียบ",
+        "pos": "adj",
+        "example": "Stay silent.",
+        "level": "basic"
+    },
+    {
+        "id": "v7317",
+        "word": "silently",
+        "translation": "อย่างเงียบๆ",
+        "pos": "adv",
+        "example": "Walk silently.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7318",
+        "word": "silk",
+        "translation": "ผ้าไหม",
+        "pos": "noun",
+        "example": "Thai silk.",
+        "level": "basic"
+    },
+    {
+        "id": "v7319",
+        "word": "silly",
+        "translation": "โง่",
+        "pos": "adj",
+        "example": "Don't be silly.",
+        "level": "basic"
+    },
+    {
+        "id": "v7320",
+        "word": "silver",
+        "translation": "เงิน",
+        "pos": "noun",
+        "example": "Silver medal.",
+        "level": "basic"
+    },
+    {
+        "id": "v7321",
+        "word": "similar",
+        "translation": "คล้าย",
+        "pos": "adj",
+        "example": "Very similar.",
+        "level": "basic"
+    },
+    {
+        "id": "v7322",
+        "word": "similarity",
+        "translation": "ความคล้ายคลึง",
+        "pos": "noun",
+        "example": "Show similarity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7323",
+        "word": "similarly",
+        "translation": "ในทำนองเดียวกัน",
+        "pos": "adv",
+        "example": "Similarly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7324",
+        "word": "simple",
+        "translation": "ง่าย",
+        "pos": "adj",
+        "example": "Very simple.",
+        "level": "basic"
+    },
+    {
+        "id": "v7325",
+        "word": "simplicity",
+        "translation": "ความเรียบง่าย",
+        "pos": "noun",
+        "example": "Beauty in simplicity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7326",
+        "word": "simplify",
+        "translation": "ทำให้ง่าย",
+        "pos": "verb",
+        "example": "Simplify process.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7327",
+        "word": "simply",
+        "translation": "เพียง",
+        "pos": "adv",
+        "example": "Simply put.",
+        "level": "basic"
+    },
+    {
+        "id": "v7328",
+        "word": "simulation",
+        "translation": "การจำลอง",
+        "pos": "noun",
+        "example": "Flight simulation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7329",
+        "word": "simultaneous",
+        "translation": "พร้อมกัน",
+        "pos": "adj",
+        "example": "Simultaneous translation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7330",
+        "word": "simultaneously",
+        "translation": "พร้อมกัน",
+        "pos": "adv",
+        "example": "Happen simultaneously.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7331",
+        "word": "sin",
+        "translation": "บาป",
+        "pos": "noun",
+        "example": "Deadly sin.",
+        "level": "basic"
+    },
+    {
+        "id": "v7332",
+        "word": "since",
+        "translation": "ตั้งแต่",
+        "pos": "prep",
+        "example": "Since then.",
+        "level": "basic"
+    },
+    {
+        "id": "v7333",
+        "word": "sincere",
+        "translation": "จริงใจ",
+        "pos": "adj",
+        "example": "Sincere apology.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7334",
+        "word": "sincerely",
+        "translation": "อย่างจริงใจ",
+        "pos": "adv",
+        "example": "Sincerely yours.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7335",
+        "word": "sing",
+        "translation": "ร้องเพลง",
+        "pos": "verb",
+        "example": "Sing a song.",
+        "level": "basic"
+    },
+    {
+        "id": "v7336",
+        "word": "singer",
+        "translation": "นักร้อง",
+        "pos": "noun",
+        "example": "Famous singer.",
+        "level": "basic"
+    },
+    {
+        "id": "v7337",
+        "word": "singing",
+        "translation": "การร้องเพลง",
+        "pos": "noun",
+        "example": "Love singing.",
+        "level": "basic"
+    },
+    {
+        "id": "v7338",
+        "word": "single",
+        "translation": "โสด",
+        "pos": "adj",
+        "example": "Still single.",
+        "level": "basic"
+    },
+    {
+        "id": "v7339",
+        "word": "sink",
+        "translation": "อ่าง",
+        "pos": "noun",
+        "example": "Kitchen sink.",
+        "level": "basic"
+    },
+    {
+        "id": "v7340",
+        "word": "sir",
+        "translation": "ท่าน",
+        "pos": "noun",
+        "example": "Yes, sir.",
+        "level": "basic"
+    },
+    {
+        "id": "v7341",
+        "word": "sister",
+        "translation": "พี่สาว/น้องสาว",
+        "pos": "noun",
+        "example": "My sister.",
+        "level": "basic"
+    },
+    {
+        "id": "v7342",
+        "word": "sit",
+        "translation": "นั่ง",
+        "pos": "verb",
+        "example": "Please sit.",
+        "level": "basic"
+    },
+    {
+        "id": "v7343",
+        "word": "site",
+        "translation": "เว็บไซต์",
+        "pos": "noun",
+        "example": "Web site.",
+        "level": "basic"
+    },
+    {
+        "id": "v7344",
+        "word": "sitting",
+        "translation": "นั่ง",
+        "pos": "adj",
+        "example": "Sitting position.",
+        "level": "basic"
+    },
+    {
+        "id": "v7345",
+        "word": "situated",
+        "translation": "ตั้งอยู่",
+        "pos": "adj",
+        "example": "Centrally situated.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7346",
+        "word": "situation",
+        "translation": "สถานการณ์",
+        "pos": "noun",
+        "example": "Current situation.",
+        "level": "basic"
+    },
+    {
+        "id": "v7347",
+        "word": "six",
+        "translation": "หก",
+        "pos": "num",
+        "example": "Six months.",
+        "level": "basic"
+    },
+    {
+        "id": "v7348",
+        "word": "sixteen",
+        "translation": "สิบหก",
+        "pos": "num",
+        "example": "Sixteen years.",
+        "level": "basic"
+    },
+    {
+        "id": "v7349",
+        "word": "sixth",
+        "translation": "ที่หก",
+        "pos": "ord",
+        "example": "Sixth sense.",
+        "level": "basic"
+    },
+    {
+        "id": "v7350",
+        "word": "sixty",
+        "translation": "หกสิบ",
+        "pos": "num",
+        "example": "Sixty percent.",
+        "level": "basic"
+    },
+    {
+        "id": "v7351",
+        "word": "size",
+        "translation": "ขนาด",
+        "pos": "noun",
+        "example": "What size?",
+        "level": "basic"
+    },
+    {
+        "id": "v7352",
+        "word": "skate",
+        "translation": "สเก็ต",
+        "pos": "verb",
+        "example": "Ice skate.",
+        "level": "basic"
+    },
+    {
+        "id": "v7353",
+        "word": "skating",
+        "translation": "การเล่นสเก็ต",
+        "pos": "noun",
+        "example": "Figure skating.",
+        "level": "basic"
+    },
+    {
+        "id": "v7354",
+        "word": "skeleton",
+        "translation": "โครงกระดูก",
+        "pos": "noun",
+        "example": "Human skeleton.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7355",
+        "word": "sketch",
+        "translation": "ร่าง",
+        "pos": "noun",
+        "example": "Quick sketch.",
+        "level": "basic"
+    },
+    {
+        "id": "v7356",
+        "word": "ski",
+        "translation": "สกี",
+        "pos": "verb",
+        "example": "Go skiing.",
+        "level": "basic"
+    },
+    {
+        "id": "v7357",
+        "word": "skiing",
+        "translation": "การเล่นสกี",
+        "pos": "noun",
+        "example": "Water skiing.",
+        "level": "basic"
+    },
+    {
+        "id": "v7358",
+        "word": "skill",
+        "translation": "ทักษะ",
+        "pos": "noun",
+        "example": "New skill.",
+        "level": "basic"
+    },
+    {
+        "id": "v7359",
+        "word": "skilled",
+        "translation": "มีทักษะ",
+        "pos": "adj",
+        "example": "Highly skilled.",
+        "level": "basic"
+    },
+    {
+        "id": "v7360",
+        "word": "skillful",
+        "translation": "ชำนาญ",
+        "pos": "adj",
+        "example": "Skillful player.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7361",
+        "word": "skin",
+        "translation": "ผิวหนัง",
+        "pos": "noun",
+        "example": "Dry skin.",
+        "level": "basic"
+    },
+    {
+        "id": "v7362",
+        "word": "skinny",
+        "translation": "ผอม",
+        "pos": "adj",
+        "example": "Too skinny.",
+        "level": "basic"
+    },
+    {
+        "id": "v7363",
+        "word": "skip",
+        "translation": "ข้าม",
+        "pos": "verb",
+        "example": "Skip breakfast.",
+        "level": "basic"
+    },
+    {
+        "id": "v7364",
+        "word": "skirt",
+        "translation": "กระโปรง",
+        "pos": "noun",
+        "example": "Short skirt.",
+        "level": "basic"
+    },
+    {
+        "id": "v7365",
+        "word": "skull",
+        "translation": "กะโหลก",
+        "pos": "noun",
+        "example": "Human skull.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7366",
+        "word": "sky",
+        "translation": "ท้องฟ้า",
+        "pos": "noun",
+        "example": "Blue sky.",
+        "level": "basic"
+    },
+    {
+        "id": "v7367",
+        "word": "slam",
+        "translation": "กระแทก",
+        "pos": "verb",
+        "example": "Slam door.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7368",
+        "word": "slap",
+        "translation": "ตบ",
+        "pos": "verb",
+        "example": "Slap face.",
+        "level": "basic"
+    },
+    {
+        "id": "v7369",
+        "word": "slave",
+        "translation": "ทาส",
+        "pos": "noun",
+        "example": "Former slave.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7370",
+        "word": "slavery",
+        "translation": "ระบบทาส",
+        "pos": "noun",
+        "example": "Abolish slavery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7371",
+        "word": "sleep",
+        "translation": "นอน",
+        "pos": "verb",
+        "example": "Go to sleep.",
+        "level": "basic"
+    },
+    {
+        "id": "v7372",
+        "word": "sleeping",
+        "translation": "นอนหลับ",
+        "pos": "adj",
+        "example": "Sleeping baby.",
+        "level": "basic"
+    },
+    {
+        "id": "v7373",
+        "word": "sleepy",
+        "translation": "ง่วงนอน",
+        "pos": "adj",
+        "example": "Feel sleepy.",
+        "level": "basic"
+    },
+    {
+        "id": "v7374",
+        "word": "sleeve",
+        "translation": "แขนเสื้อ",
+        "pos": "noun",
+        "example": "Long sleeve.",
+        "level": "basic"
+    },
+    {
+        "id": "v7375",
+        "word": "slice",
+        "translation": "ชิ้น",
+        "pos": "noun",
+        "example": "Slice of pizza.",
+        "level": "basic"
+    },
+    {
+        "id": "v7376",
+        "word": "slide",
+        "translation": "เลื่อน",
+        "pos": "verb",
+        "example": "Slide down.",
+        "level": "basic"
+    },
+    {
+        "id": "v7377",
+        "word": "slight",
+        "translation": "เล็กน้อย",
+        "pos": "adj",
+        "example": "Slight delay.",
+        "level": "basic"
+    },
+    {
+        "id": "v7378",
+        "word": "slightly",
+        "translation": "เล็กน้อย",
+        "pos": "adv",
+        "example": "Slightly different.",
+        "level": "basic"
+    },
+    {
+        "id": "v7379",
+        "word": "slim",
+        "translation": "ผอมบาง",
+        "pos": "adj",
+        "example": "Very slim.",
+        "level": "basic"
+    },
+    {
+        "id": "v7380",
+        "word": "slip",
+        "translation": "ลื่น",
+        "pos": "verb",
+        "example": "Don't slip.",
+        "level": "basic"
+    },
+    {
+        "id": "v7381",
+        "word": "slippery",
+        "translation": "ลื่น",
+        "pos": "adj",
+        "example": "Slippery floor.",
+        "level": "basic"
+    },
+    {
+        "id": "v7382",
+        "word": "slope",
+        "translation": "ทางลาด",
+        "pos": "noun",
+        "example": "Mountain slope.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7383",
+        "word": "slot",
+        "translation": "ช่อง",
+        "pos": "noun",
+        "example": "Time slot.",
+        "level": "basic"
+    },
+    {
+        "id": "v7384",
+        "word": "slow",
+        "translation": "ช้า",
+        "pos": "adj",
+        "example": "Too slow.",
+        "level": "basic"
+    },
+    {
+        "id": "v7385",
+        "word": "slowly",
+        "translation": "ช้าๆ",
+        "pos": "adv",
+        "example": "Walk slowly.",
+        "level": "basic"
+    },
+    {
+        "id": "v7386",
+        "word": "small",
+        "translation": "เล็ก",
+        "pos": "adj",
+        "example": "Very small.",
+        "level": "basic"
+    },
+    {
+        "id": "v7387",
+        "word": "smart",
+        "translation": "ฉลาด",
+        "pos": "adj",
+        "example": "Very smart.",
+        "level": "basic"
+    },
+    {
+        "id": "v7388",
+        "word": "smartphone",
+        "translation": "สมาร์ทโฟน",
+        "pos": "noun",
+        "example": "New smartphone.",
+        "level": "basic"
+    },
+    {
+        "id": "v7389",
+        "word": "smell",
+        "translation": "กลิ่น",
+        "pos": "noun",
+        "example": "Bad smell.",
+        "level": "basic"
+    },
+    {
+        "id": "v7390",
+        "word": "smile",
+        "translation": "ยิ้ม",
+        "pos": "verb",
+        "example": "Just smile.",
+        "level": "basic"
+    },
+    {
+        "id": "v7391",
+        "word": "smoke",
+        "translation": "ควัน",
+        "pos": "noun",
+        "example": "No smoke.",
+        "level": "basic"
+    },
+    {
+        "id": "v7392",
+        "word": "smoking",
+        "translation": "การสูบบุหรี่",
+        "pos": "noun",
+        "example": "No smoking.",
+        "level": "basic"
+    },
+    {
+        "id": "v7393",
+        "word": "smooth",
+        "translation": "เรียบ",
+        "pos": "adj",
+        "example": "Very smooth.",
+        "level": "basic"
+    },
+    {
+        "id": "v7394",
+        "word": "smoothly",
+        "translation": "อย่างราบรื่น",
+        "pos": "adv",
+        "example": "Run smoothly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7395",
+        "word": "snack",
+        "translation": "ขนม",
+        "pos": "noun",
+        "example": "Healthy snack.",
+        "level": "basic"
+    },
+    {
+        "id": "v7396",
+        "word": "snake",
+        "translation": "งู",
+        "pos": "noun",
+        "example": "Poisonous snake.",
+        "level": "basic"
+    },
+    {
+        "id": "v7397",
+        "word": "snap",
+        "translation": "หัก",
+        "pos": "verb",
+        "example": "Snap fingers.",
+        "level": "basic"
+    },
+    {
+        "id": "v7398",
+        "word": "snapshot",
+        "translation": "ภาพถ่าย",
+        "pos": "noun",
+        "example": "Quick snapshot.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7399",
+        "word": "sneaker",
+        "translation": "รองเท้าผ้าใบ",
+        "pos": "noun",
+        "example": "White sneakers.",
+        "level": "basic"
+    },
+    {
+        "id": "v7400",
+        "word": "snow",
+        "translation": "หิมะ",
+        "pos": "noun",
+        "example": "White snow.",
+        "level": "basic"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v3601",
+        "word": "child",
+        "translation": "เด็ก",
+        "pos": "noun",
+        "example": "Little child.",
+        "level": "basic"
+    },
+    {
+        "id": "v3602",
+        "word": "childhood",
+        "translation": "วัยเด็ก",
+        "pos": "noun",
+        "example": "Happy childhood.",
+        "level": "basic"
+    },
+    {
+        "id": "v3603",
+        "word": "children",
+        "translation": "เด็กๆ",
+        "pos": "noun",
+        "example": "Many children.",
+        "level": "basic"
+    },
+    {
+        "id": "v3604",
+        "word": "chin",
+        "translation": "คาง",
+        "pos": "noun",
+        "example": "Pointed chin.",
+        "level": "basic"
+    },
+    {
+        "id": "v3605",
+        "word": "chip",
+        "translation": "ชิป",
+        "pos": "noun",
+        "example": "Computer chip.",
+        "level": "basic"
+    },
+    {
+        "id": "v3606",
+        "word": "chocolate",
+        "translation": "ช็อกโกแลต",
+        "pos": "noun",
+        "example": "Dark chocolate.",
+        "level": "basic"
+    },
+    {
+        "id": "v3607",
+        "word": "choice",
+        "translation": "ทางเลือก",
+        "pos": "noun",
+        "example": "Good choice.",
+        "level": "basic"
+    },
+    {
+        "id": "v3608",
+        "word": "choir",
+        "translation": "คณะนักร้อง",
+        "pos": "noun",
+        "example": "Church choir.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3609",
+        "word": "choose",
+        "translation": "เลือก",
+        "pos": "verb",
+        "example": "Choose wisely.",
+        "level": "basic"
+    },
+    {
+        "id": "v3610",
+        "word": "chop",
+        "translation": "สับ",
+        "pos": "verb",
+        "example": "Chop vegetables.",
+        "level": "basic"
+    },
+    {
+        "id": "v3611",
+        "word": "chord",
+        "translation": "คอร์ด",
+        "pos": "noun",
+        "example": "Guitar chord.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3612",
+        "word": "chore",
+        "translation": "งานบ้าน",
+        "pos": "noun",
+        "example": "Daily chores.",
+        "level": "basic"
+    },
+    {
+        "id": "v3613",
+        "word": "chronic",
+        "translation": "เรื้อรัง",
+        "pos": "adj",
+        "example": "Chronic disease.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3614",
+        "word": "chunk",
+        "translation": "ก้อน",
+        "pos": "noun",
+        "example": "Big chunk.",
+        "level": "basic"
+    },
+    {
+        "id": "v3615",
+        "word": "church",
+        "translation": "โบสถ์",
+        "pos": "noun",
+        "example": "Go to church.",
+        "level": "basic"
+    },
+    {
+        "id": "v3616",
+        "word": "cigar",
+        "translation": "ซิการ์",
+        "pos": "noun",
+        "example": "Cuban cigar.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3617",
+        "word": "cigarette",
+        "translation": "บุหรี่",
+        "pos": "noun",
+        "example": "No cigarettes.",
+        "level": "basic"
+    },
+    {
+        "id": "v3618",
+        "word": "cinema",
+        "translation": "โรงภาพยนตร์",
+        "pos": "noun",
+        "example": "Go to cinema.",
+        "level": "basic"
+    },
+    {
+        "id": "v3619",
+        "word": "circle",
+        "translation": "วงกลม",
+        "pos": "noun",
+        "example": "Draw a circle.",
+        "level": "basic"
+    },
+    {
+        "id": "v3620",
+        "word": "circuit",
+        "translation": "วงจร",
+        "pos": "noun",
+        "example": "Electric circuit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3621",
+        "word": "circular",
+        "translation": "วงกลม",
+        "pos": "adj",
+        "example": "Circular motion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3622",
+        "word": "circulate",
+        "translation": "หมุนเวียน",
+        "pos": "verb",
+        "example": "Circulate blood.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3623",
+        "word": "circulation",
+        "translation": "การไหลเวียน",
+        "pos": "noun",
+        "example": "Blood circulation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3624",
+        "word": "circumstance",
+        "translation": "สถานการณ์",
+        "pos": "noun",
+        "example": "Under any circumstance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3625",
+        "word": "cite",
+        "translation": "อ้างอิง",
+        "pos": "verb",
+        "example": "Cite the source.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3626",
+        "word": "citizen",
+        "translation": "พลเมือง",
+        "pos": "noun",
+        "example": "Thai citizen.",
+        "level": "basic"
+    },
+    {
+        "id": "v3627",
+        "word": "citizenship",
+        "translation": "สัญชาติ",
+        "pos": "noun",
+        "example": "Dual citizenship.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3628",
+        "word": "city",
+        "translation": "เมือง",
+        "pos": "noun",
+        "example": "Big city.",
+        "level": "basic"
+    },
+    {
+        "id": "v3629",
+        "word": "civic",
+        "translation": "พลเมือง",
+        "pos": "adj",
+        "example": "Civic duty.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3630",
+        "word": "civil",
+        "translation": "พลเรือน",
+        "pos": "adj",
+        "example": "Civil war.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3631",
+        "word": "civilian",
+        "translation": "พลเรือน",
+        "pos": "noun",
+        "example": "Innocent civilian.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3632",
+        "word": "civilization",
+        "translation": "อารยธรรม",
+        "pos": "noun",
+        "example": "Ancient civilization.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3633",
+        "word": "claim",
+        "translation": "อ้างสิทธิ์",
+        "pos": "verb",
+        "example": "File a claim.",
+        "level": "basic"
+    },
+    {
+        "id": "v3634",
+        "word": "clarify",
+        "translation": "ชี้แจง",
+        "pos": "verb",
+        "example": "Please clarify.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3635",
+        "word": "clarity",
+        "translation": "ความชัดเจน",
+        "pos": "noun",
+        "example": "Crystal clarity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3636",
+        "word": "clash",
+        "translation": "ปะทะ",
+        "pos": "noun",
+        "example": "Culture clash.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3637",
+        "word": "class",
+        "translation": "ชั้นเรียน",
+        "pos": "noun",
+        "example": "English class.",
+        "level": "basic"
+    },
+    {
+        "id": "v3638",
+        "word": "classic",
+        "translation": "คลาสสิก",
+        "pos": "adj",
+        "example": "Classic style.",
+        "level": "basic"
+    },
+    {
+        "id": "v3639",
+        "word": "classical",
+        "translation": "คลาสสิค",
+        "pos": "adj",
+        "example": "Classical music.",
+        "level": "basic"
+    },
+    {
+        "id": "v3640",
+        "word": "classification",
+        "translation": "การจำแนก",
+        "pos": "noun",
+        "example": "Classification system.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3641",
+        "word": "classify",
+        "translation": "จัดประเภท",
+        "pos": "verb",
+        "example": "Classify data.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3642",
+        "word": "classmate",
+        "translation": "เพื่อนร่วมชั้น",
+        "pos": "noun",
+        "example": "My classmate.",
+        "level": "basic"
+    },
+    {
+        "id": "v3643",
+        "word": "classroom",
+        "translation": "ห้องเรียน",
+        "pos": "noun",
+        "example": "Enter the classroom.",
+        "level": "basic"
+    },
+    {
+        "id": "v3644",
+        "word": "clause",
+        "translation": "ข้อกำหนด",
+        "pos": "noun",
+        "example": "Contract clause.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3645",
+        "word": "clay",
+        "translation": "ดินเหนียว",
+        "pos": "noun",
+        "example": "Clay pot.",
+        "level": "basic"
+    },
+    {
+        "id": "v3646",
+        "word": "clean",
+        "translation": "สะอาด",
+        "pos": "adj",
+        "example": "Keep it clean.",
+        "level": "basic"
+    },
+    {
+        "id": "v3647",
+        "word": "cleaner",
+        "translation": "คนทำความสะอาด",
+        "pos": "noun",
+        "example": "Vacuum cleaner.",
+        "level": "basic"
+    },
+    {
+        "id": "v3648",
+        "word": "clear",
+        "translation": "ชัดเจน",
+        "pos": "adj",
+        "example": "Crystal clear.",
+        "level": "basic"
+    },
+    {
+        "id": "v3649",
+        "word": "clearance",
+        "translation": "ระยะห่าง",
+        "pos": "noun",
+        "example": "Security clearance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3650",
+        "word": "clearly",
+        "translation": "อย่างชัดเจน",
+        "pos": "adv",
+        "example": "Speak clearly.",
+        "level": "basic"
+    },
+    {
+        "id": "v3651",
+        "word": "clerk",
+        "translation": "เสมียน",
+        "pos": "noun",
+        "example": "Office clerk.",
+        "level": "basic"
+    },
+    {
+        "id": "v3652",
+        "word": "clever",
+        "translation": "ฉลาด",
+        "pos": "adj",
+        "example": "Very clever.",
+        "level": "basic"
+    },
+    {
+        "id": "v3653",
+        "word": "click",
+        "translation": "คลิก",
+        "pos": "verb",
+        "example": "Click here.",
+        "level": "basic"
+    },
+    {
+        "id": "v3654",
+        "word": "client",
+        "translation": "ลูกค้า",
+        "pos": "noun",
+        "example": "New client.",
+        "level": "basic"
+    },
+    {
+        "id": "v3655",
+        "word": "cliff",
+        "translation": "หน้าผา",
+        "pos": "noun",
+        "example": "High cliff.",
+        "level": "basic"
+    },
+    {
+        "id": "v3656",
+        "word": "climate",
+        "translation": "ภูมิอากาศ",
+        "pos": "noun",
+        "example": "Climate change.",
+        "level": "basic"
+    },
+    {
+        "id": "v3657",
+        "word": "climb",
+        "translation": "ปีน",
+        "pos": "verb",
+        "example": "Climb mountain.",
+        "level": "basic"
+    },
+    {
+        "id": "v3658",
+        "word": "clinic",
+        "translation": "คลินิก",
+        "pos": "noun",
+        "example": "Medical clinic.",
+        "level": "basic"
+    },
+    {
+        "id": "v3659",
+        "word": "clinical",
+        "translation": "ทางคลินิก",
+        "pos": "adj",
+        "example": "Clinical trial.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3660",
+        "word": "clip",
+        "translation": "คลิป",
+        "pos": "noun",
+        "example": "Video clip.",
+        "level": "basic"
+    },
+    {
+        "id": "v3661",
+        "word": "clock",
+        "translation": "นาฬิกา",
+        "pos": "noun",
+        "example": "Wall clock.",
+        "level": "basic"
+    },
+    {
+        "id": "v3662",
+        "word": "clone",
+        "translation": "โคลน",
+        "pos": "noun",
+        "example": "Clone sheep.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3663",
+        "word": "close",
+        "translation": "ปิด",
+        "pos": "verb",
+        "example": "Close the door.",
+        "level": "basic"
+    },
+    {
+        "id": "v3664",
+        "word": "closely",
+        "translation": "อย่างใกล้ชิด",
+        "pos": "adv",
+        "example": "Watch closely.",
+        "level": "basic"
+    },
+    {
+        "id": "v3665",
+        "word": "closest",
+        "translation": "ใกล้ที่สุด",
+        "pos": "adj",
+        "example": "Closest friend.",
+        "level": "basic"
+    },
+    {
+        "id": "v3666",
+        "word": "closet",
+        "translation": "ตู้เสื้อผ้า",
+        "pos": "noun",
+        "example": "Walk-in closet.",
+        "level": "basic"
+    },
+    {
+        "id": "v3667",
+        "word": "closing",
+        "translation": "การปิด",
+        "pos": "noun",
+        "example": "Closing time.",
+        "level": "basic"
+    },
+    {
+        "id": "v3668",
+        "word": "closure",
+        "translation": "การปิดตัว",
+        "pos": "noun",
+        "example": "Road closure.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3669",
+        "word": "cloth",
+        "translation": "ผ้า",
+        "pos": "noun",
+        "example": "Cotton cloth.",
+        "level": "basic"
+    },
+    {
+        "id": "v3670",
+        "word": "clothes",
+        "translation": "เสื้อผ้า",
+        "pos": "noun",
+        "example": "New clothes.",
+        "level": "basic"
+    },
+    {
+        "id": "v3671",
+        "word": "clothing",
+        "translation": "เครื่องแต่งกาย",
+        "pos": "noun",
+        "example": "Clothing store.",
+        "level": "basic"
+    },
+    {
+        "id": "v3672",
+        "word": "cloud",
+        "translation": "เมฆ",
+        "pos": "noun",
+        "example": "White cloud.",
+        "level": "basic"
+    },
+    {
+        "id": "v3673",
+        "word": "cloudy",
+        "translation": "มีเมฆมาก",
+        "pos": "adj",
+        "example": "Cloudy sky.",
+        "level": "basic"
+    },
+    {
+        "id": "v3674",
+        "word": "club",
+        "translation": "สโมสร",
+        "pos": "noun",
+        "example": "Night club.",
+        "level": "basic"
+    },
+    {
+        "id": "v3675",
+        "word": "clue",
+        "translation": "เบาะแส",
+        "pos": "noun",
+        "example": "Find a clue.",
+        "level": "basic"
+    },
+    {
+        "id": "v3676",
+        "word": "cluster",
+        "translation": "กลุ่ม",
+        "pos": "noun",
+        "example": "Star cluster.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3677",
+        "word": "coach",
+        "translation": "โค้ช",
+        "pos": "noun",
+        "example": "Football coach.",
+        "level": "basic"
+    },
+    {
+        "id": "v3678",
+        "word": "coal",
+        "translation": "ถ่านหิน",
+        "pos": "noun",
+        "example": "Coal mine.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3679",
+        "word": "coalition",
+        "translation": "พันธมิตร",
+        "pos": "noun",
+        "example": "Form a coalition.",
+        "level": "advanced"
+    },
+    {
+        "id": "v3680",
+        "word": "coast",
+        "translation": "ชายฝั่ง",
+        "pos": "noun",
+        "example": "East coast.",
+        "level": "basic"
+    },
+    {
+        "id": "v3681",
+        "word": "coastal",
+        "translation": "ชายฝั่ง",
+        "pos": "adj",
+        "example": "Coastal area.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3682",
+        "word": "coat",
+        "translation": "เสื้อโค้ท",
+        "pos": "noun",
+        "example": "Winter coat.",
+        "level": "basic"
+    },
+    {
+        "id": "v3683",
+        "word": "code",
+        "translation": "รหัส",
+        "pos": "noun",
+        "example": "Zip code.",
+        "level": "basic"
+    },
+    {
+        "id": "v3684",
+        "word": "coffee",
+        "translation": "กาแฟ",
+        "pos": "noun",
+        "example": "Hot coffee.",
+        "level": "basic"
+    },
+    {
+        "id": "v3685",
+        "word": "cognitive",
+        "translation": "เกี่ยวกับการรับรู้",
+        "pos": "adj",
+        "example": "Cognitive skills.",
+        "level": "advanced"
+    },
+    {
+        "id": "v3686",
+        "word": "coin",
+        "translation": "เหรียญ",
+        "pos": "noun",
+        "example": "Gold coin.",
+        "level": "basic"
+    },
+    {
+        "id": "v3687",
+        "word": "coincidence",
+        "translation": "ความบังเอิญ",
+        "pos": "noun",
+        "example": "What a coincidence!",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3688",
+        "word": "cold",
+        "translation": "เย็น",
+        "pos": "adj",
+        "example": "Cold water.",
+        "level": "basic"
+    },
+    {
+        "id": "v3689",
+        "word": "collaborate",
+        "translation": "ร่วมมือ",
+        "pos": "verb",
+        "example": "Collaborate together.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3690",
+        "word": "collaboration",
+        "translation": "ความร่วมมือ",
+        "pos": "noun",
+        "example": "Team collaboration.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3691",
+        "word": "collapse",
+        "translation": "พังทลาย",
+        "pos": "verb",
+        "example": "Building collapse.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3692",
+        "word": "collar",
+        "translation": "คอเสื้อ",
+        "pos": "noun",
+        "example": "White collar.",
+        "level": "basic"
+    },
+    {
+        "id": "v3693",
+        "word": "colleague",
+        "translation": "เพื่อนร่วมงาน",
+        "pos": "noun",
+        "example": "My colleague.",
+        "level": "basic"
+    },
+    {
+        "id": "v3694",
+        "word": "collect",
+        "translation": "เก็บ",
+        "pos": "verb",
+        "example": "Collect data.",
+        "level": "basic"
+    },
+    {
+        "id": "v3695",
+        "word": "collection",
+        "translation": "คอลเลกชัน",
+        "pos": "noun",
+        "example": "Art collection.",
+        "level": "basic"
+    },
+    {
+        "id": "v3696",
+        "word": "collective",
+        "translation": "ร่วม",
+        "pos": "adj",
+        "example": "Collective effort.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3697",
+        "word": "collector",
+        "translation": "นักสะสม",
+        "pos": "noun",
+        "example": "Art collector.",
+        "level": "basic"
+    },
+    {
+        "id": "v3698",
+        "word": "college",
+        "translation": "วิทยาลัย",
+        "pos": "noun",
+        "example": "Go to college.",
+        "level": "basic"
+    },
+    {
+        "id": "v3699",
+        "word": "colonial",
+        "translation": "อาณานิคม",
+        "pos": "adj",
+        "example": "Colonial era.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3700",
+        "word": "colony",
+        "translation": "อาณานิคม",
+        "pos": "noun",
+        "example": "British colony.",
+        "level": "intermediate"
+    }
+]

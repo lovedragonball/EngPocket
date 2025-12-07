@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v9801",
+        "word": "comply",
+        "translation": "ปฏิบัติตาม",
+        "pos": "verb",
+        "example": "Comply with.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9802",
+        "word": "component",
+        "translation": "ส่วนประกอบ",
+        "pos": "noun",
+        "example": "Key component.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9803",
+        "word": "compose",
+        "translation": "แต่ง",
+        "pos": "verb",
+        "example": "Compose music.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9804",
+        "word": "composed",
+        "translation": "สงบ",
+        "pos": "adj",
+        "example": "Stay composed.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9805",
+        "word": "composer",
+        "translation": "นักแต่งเพลง",
+        "pos": "noun",
+        "example": "Famous composer.",
+        "level": "basic"
+    },
+    {
+        "id": "v9806",
+        "word": "composite",
+        "translation": "ผสม",
+        "pos": "adj",
+        "example": "Composite material.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9807",
+        "word": "composition",
+        "translation": "องค์ประกอบ",
+        "pos": "noun",
+        "example": "Musical composition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9808",
+        "word": "compound",
+        "translation": "สารประกอบ",
+        "pos": "noun",
+        "example": "Chemical compound.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9809",
+        "word": "comprehend",
+        "translation": "เข้าใจ",
+        "pos": "verb",
+        "example": "Cannot comprehend.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9810",
+        "word": "comprehension",
+        "translation": "ความเข้าใจ",
+        "pos": "noun",
+        "example": "Reading comprehension.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9811",
+        "word": "comprehensive",
+        "translation": "ครอบคลุม",
+        "pos": "adj",
+        "example": "Comprehensive plan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9812",
+        "word": "compress",
+        "translation": "บีบอัด",
+        "pos": "verb",
+        "example": "Compress file.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9813",
+        "word": "compression",
+        "translation": "การบีบอัด",
+        "pos": "noun",
+        "example": "Data compression.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9814",
+        "word": "comprise",
+        "translation": "ประกอบด้วย",
+        "pos": "verb",
+        "example": "Comprise of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9815",
+        "word": "compromise",
+        "translation": "ประนีประนอม",
+        "pos": "noun",
+        "example": "Reach compromise.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9816",
+        "word": "compulsory",
+        "translation": "บังคับ",
+        "pos": "adj",
+        "example": "Compulsory education.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9817",
+        "word": "compute",
+        "translation": "คำนวณ",
+        "pos": "verb",
+        "example": "Compute results.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9818",
+        "word": "computational",
+        "translation": "ทางคอมพิวเตอร์",
+        "pos": "adj",
+        "example": "Computational power.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9819",
+        "word": "computed",
+        "translation": "คำนวณแล้ว",
+        "pos": "adj",
+        "example": "Computed average.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9820",
+        "word": "computing",
+        "translation": "การประมวลผล",
+        "pos": "noun",
+        "example": "Cloud computing.",
+        "level": "basic"
+    },
+    {
+        "id": "v9821",
+        "word": "comrade",
+        "translation": "สหาย",
+        "pos": "noun",
+        "example": "War comrade.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9822",
+        "word": "conceal",
+        "translation": "ซ่อน",
+        "pos": "verb",
+        "example": "Conceal truth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9823",
+        "word": "concede",
+        "translation": "ยอมรับ",
+        "pos": "verb",
+        "example": "Concede defeat.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9824",
+        "word": "conceit",
+        "translation": "ความทะนงตัว",
+        "pos": "noun",
+        "example": "Pure conceit.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9825",
+        "word": "conceivable",
+        "translation": "เป็นไปได้",
+        "pos": "adj",
+        "example": "Conceivable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9826",
+        "word": "conceive",
+        "translation": "ตั้งครรภ์",
+        "pos": "verb",
+        "example": "Conceive idea.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9827",
+        "word": "concentrate",
+        "translation": "มุ่งเน้น",
+        "pos": "verb",
+        "example": "Concentrate hard.",
+        "level": "basic"
+    },
+    {
+        "id": "v9828",
+        "word": "concentrated",
+        "translation": "เข้มข้น",
+        "pos": "adj",
+        "example": "Concentrated juice.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9829",
+        "word": "concentration",
+        "translation": "สมาธิ",
+        "pos": "noun",
+        "example": "Need concentration.",
+        "level": "basic"
+    },
+    {
+        "id": "v9830",
+        "word": "concept",
+        "translation": "แนวคิด",
+        "pos": "noun",
+        "example": "New concept.",
+        "level": "basic"
+    },
+    {
+        "id": "v9831",
+        "word": "conception",
+        "translation": "แนวคิด",
+        "pos": "noun",
+        "example": "Original conception.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9832",
+        "word": "conceptual",
+        "translation": "เชิงแนวคิด",
+        "pos": "adj",
+        "example": "Conceptual framework.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9833",
+        "word": "concern",
+        "translation": "ความกังวล",
+        "pos": "noun",
+        "example": "Main concern.",
+        "level": "basic"
+    },
+    {
+        "id": "v9834",
+        "word": "concerned",
+        "translation": "กังวล",
+        "pos": "adj",
+        "example": "Very concerned.",
+        "level": "basic"
+    },
+    {
+        "id": "v9835",
+        "word": "concerning",
+        "translation": "เกี่ยวกับ",
+        "pos": "prep",
+        "example": "Concerning this.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9836",
+        "word": "concert",
+        "translation": "คอนเสิร์ต",
+        "pos": "noun",
+        "example": "Live concert.",
+        "level": "basic"
+    },
+    {
+        "id": "v9837",
+        "word": "concerted",
+        "translation": "ร่วมกัน",
+        "pos": "adj",
+        "example": "Concerted effort.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9838",
+        "word": "concession",
+        "translation": "การผ่อนปรน",
+        "pos": "noun",
+        "example": "Make concession.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9839",
+        "word": "concise",
+        "translation": "กระชับ",
+        "pos": "adj",
+        "example": "Be concise.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9840",
+        "word": "conclude",
+        "translation": "สรุป",
+        "pos": "verb",
+        "example": "To conclude.",
+        "level": "basic"
+    },
+    {
+        "id": "v9841",
+        "word": "concluding",
+        "translation": "สุดท้าย",
+        "pos": "adj",
+        "example": "Concluding remarks.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9842",
+        "word": "conclusion",
+        "translation": "บทสรุป",
+        "pos": "noun",
+        "example": "In conclusion.",
+        "level": "basic"
+    },
+    {
+        "id": "v9843",
+        "word": "conclusive",
+        "translation": "เด็ดขาด",
+        "pos": "adj",
+        "example": "Conclusive evidence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9844",
+        "word": "concrete",
+        "translation": "คอนกรีต",
+        "pos": "noun",
+        "example": "Concrete floor.",
+        "level": "basic"
+    },
+    {
+        "id": "v9845",
+        "word": "concur",
+        "translation": "เห็นด้วย",
+        "pos": "verb",
+        "example": "I concur.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9846",
+        "word": "concurrent",
+        "translation": "พร้อมกัน",
+        "pos": "adj",
+        "example": "Concurrent events.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9847",
+        "word": "concurrently",
+        "translation": "พร้อมกัน",
+        "pos": "adv",
+        "example": "Run concurrently.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9848",
+        "word": "condemn",
+        "translation": "ประณาม",
+        "pos": "verb",
+        "example": "Strongly condemn.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9849",
+        "word": "condemnation",
+        "translation": "การประณาม",
+        "pos": "noun",
+        "example": "Public condemnation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9850",
+        "word": "condensed",
+        "translation": "ย่อ",
+        "pos": "adj",
+        "example": "Condensed milk.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9851",
+        "word": "conditioner",
+        "translation": "ครีมนวด",
+        "pos": "noun",
+        "example": "Hair conditioner.",
+        "level": "basic"
+    },
+    {
+        "id": "v9852",
+        "word": "conditioning",
+        "translation": "การปรับ",
+        "pos": "noun",
+        "example": "Air conditioning.",
+        "level": "basic"
+    },
+    {
+        "id": "v9853",
+        "word": "condo",
+        "translation": "คอนโด",
+        "pos": "noun",
+        "example": "New condo.",
+        "level": "basic"
+    },
+    {
+        "id": "v9854",
+        "word": "condominium",
+        "translation": "คอนโดมิเนียม",
+        "pos": "noun",
+        "example": "Luxury condominium.",
+        "level": "basic"
+    },
+    {
+        "id": "v9855",
+        "word": "condone",
+        "translation": "ยกโทษ",
+        "pos": "verb",
+        "example": "Cannot condone.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9856",
+        "word": "conduct",
+        "translation": "ดำเนินการ",
+        "pos": "verb",
+        "example": "Conduct research.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9857",
+        "word": "conductor",
+        "translation": "ผู้ควบคุม",
+        "pos": "noun",
+        "example": "Conductor of orchestra.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9858",
+        "word": "cone",
+        "translation": "กรวย",
+        "pos": "noun",
+        "example": "Ice cream cone.",
+        "level": "basic"
+    },
+    {
+        "id": "v9859",
+        "word": "confederation",
+        "translation": "สมาพันธ์",
+        "pos": "noun",
+        "example": "Sports confederation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9860",
+        "word": "confer",
+        "translation": "ปรึกษา",
+        "pos": "verb",
+        "example": "Confer with.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9861",
+        "word": "conference",
+        "translation": "การประชุม",
+        "pos": "noun",
+        "example": "Press conference.",
+        "level": "basic"
+    },
+    {
+        "id": "v9862",
+        "word": "confess",
+        "translation": "สารภาพ",
+        "pos": "verb",
+        "example": "Confess guilt.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9863",
+        "word": "confession",
+        "translation": "การสารภาพ",
+        "pos": "noun",
+        "example": "Full confession.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9864",
+        "word": "confide",
+        "translation": "เปิดเผยความลับ",
+        "pos": "verb",
+        "example": "Confide in.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9865",
+        "word": "confidence",
+        "translation": "ความมั่นใจ",
+        "pos": "noun",
+        "example": "Self-confidence.",
+        "level": "basic"
+    },
+    {
+        "id": "v9866",
+        "word": "confident",
+        "translation": "มั่นใจ",
+        "pos": "adj",
+        "example": "Feel confident.",
+        "level": "basic"
+    },
+    {
+        "id": "v9867",
+        "word": "confidential",
+        "translation": "ความลับ",
+        "pos": "adj",
+        "example": "Confidential information.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9868",
+        "word": "confidentiality",
+        "translation": "ความลับ",
+        "pos": "noun",
+        "example": "Maintain confidentiality.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9869",
+        "word": "confidently",
+        "translation": "อย่างมั่นใจ",
+        "pos": "adv",
+        "example": "Speak confidently.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9870",
+        "word": "configuration",
+        "translation": "การกำหนดค่า",
+        "pos": "noun",
+        "example": "System configuration.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9871",
+        "word": "configure",
+        "translation": "กำหนดค่า",
+        "pos": "verb",
+        "example": "Configure settings.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9872",
+        "word": "confine",
+        "translation": "จำกัด",
+        "pos": "verb",
+        "example": "Confine to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9873",
+        "word": "confined",
+        "translation": "จำกัด",
+        "pos": "adj",
+        "example": "Confined space.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9874",
+        "word": "confinement",
+        "translation": "การกักขัง",
+        "pos": "noun",
+        "example": "Solitary confinement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9875",
+        "word": "confirm",
+        "translation": "ยืนยัน",
+        "pos": "verb",
+        "example": "Please confirm.",
+        "level": "basic"
+    },
+    {
+        "id": "v9876",
+        "word": "confirmation",
+        "translation": "การยืนยัน",
+        "pos": "noun",
+        "example": "Order confirmation.",
+        "level": "basic"
+    },
+    {
+        "id": "v9877",
+        "word": "confirmed",
+        "translation": "ยืนยัน",
+        "pos": "adj",
+        "example": "Confirmed booking.",
+        "level": "basic"
+    },
+    {
+        "id": "v9878",
+        "word": "confiscate",
+        "translation": "ยึด",
+        "pos": "verb",
+        "example": "Confiscate property.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9879",
+        "word": "conflict",
+        "translation": "ความขัดแย้ง",
+        "pos": "noun",
+        "example": "Armed conflict.",
+        "level": "basic"
+    },
+    {
+        "id": "v9880",
+        "word": "conflicting",
+        "translation": "ขัดแย้ง",
+        "pos": "adj",
+        "example": "Conflicting views.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9881",
+        "word": "conform",
+        "translation": "ปฏิบัติตาม",
+        "pos": "verb",
+        "example": "Conform to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9882",
+        "word": "conformity",
+        "translation": "ความสอดคล้อง",
+        "pos": "noun",
+        "example": "Social conformity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9883",
+        "word": "confront",
+        "translation": "เผชิญหน้า",
+        "pos": "verb",
+        "example": "Confront problem.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9884",
+        "word": "confrontation",
+        "translation": "การเผชิญหน้า",
+        "pos": "noun",
+        "example": "Avoid confrontation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9885",
+        "word": "confuse",
+        "translation": "ทำให้สับสน",
+        "pos": "verb",
+        "example": "Don't confuse.",
+        "level": "basic"
+    },
+    {
+        "id": "v9886",
+        "word": "confused",
+        "translation": "สับสน",
+        "pos": "adj",
+        "example": "Feel confused.",
+        "level": "basic"
+    },
+    {
+        "id": "v9887",
+        "word": "confusing",
+        "translation": "น่าสับสน",
+        "pos": "adj",
+        "example": "Very confusing.",
+        "level": "basic"
+    },
+    {
+        "id": "v9888",
+        "word": "confusion",
+        "translation": "ความสับสน",
+        "pos": "noun",
+        "example": "Cause confusion.",
+        "level": "basic"
+    },
+    {
+        "id": "v9889",
+        "word": "congested",
+        "translation": "แออัด",
+        "pos": "adj",
+        "example": "Congested road.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9890",
+        "word": "congestion",
+        "translation": "ความแออัด",
+        "pos": "noun",
+        "example": "Traffic congestion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9891",
+        "word": "congratulate",
+        "translation": "แสดงความยินดี",
+        "pos": "verb",
+        "example": "Congratulate you.",
+        "level": "basic"
+    },
+    {
+        "id": "v9892",
+        "word": "congratulation",
+        "translation": "ความยินดี",
+        "pos": "noun",
+        "example": "Congratulations!",
+        "level": "basic"
+    },
+    {
+        "id": "v9893",
+        "word": "congregation",
+        "translation": "ชุมนุมชน",
+        "pos": "noun",
+        "example": "Church congregation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9894",
+        "word": "congress",
+        "translation": "รัฐสภา",
+        "pos": "noun",
+        "example": "US Congress.",
+        "level": "basic"
+    },
+    {
+        "id": "v9895",
+        "word": "congressional",
+        "translation": "รัฐสภา",
+        "pos": "adj",
+        "example": "Congressional hearing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9896",
+        "word": "congressman",
+        "translation": "สมาชิกสภา",
+        "pos": "noun",
+        "example": "Local congressman.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9897",
+        "word": "conjunction",
+        "translation": "คำเชื่อม",
+        "pos": "noun",
+        "example": "In conjunction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9898",
+        "word": "connect",
+        "translation": "เชื่อมต่อ",
+        "pos": "verb",
+        "example": "Connect to WiFi.",
+        "level": "basic"
+    },
+    {
+        "id": "v9899",
+        "word": "connected",
+        "translation": "เชื่อมต่อ",
+        "pos": "adj",
+        "example": "Stay connected.",
+        "level": "basic"
+    },
+    {
+        "id": "v9900",
+        "word": "connection",
+        "translation": "การเชื่อมต่อ",
+        "pos": "noun",
+        "example": "Internet connection.",
+        "level": "basic"
+    }
+]

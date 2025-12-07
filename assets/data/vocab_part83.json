@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v8101",
+        "word": "turning",
+        "translation": "ทางเลี้ยว",
+        "pos": "noun",
+        "example": "At the turning.",
+        "level": "basic"
+    },
+    {
+        "id": "v8102",
+        "word": "turnout",
+        "translation": "ผู้มาร่วม",
+        "pos": "noun",
+        "example": "High turnout.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8103",
+        "word": "turnover",
+        "translation": "อัตราการลาออก",
+        "pos": "noun",
+        "example": "Staff turnover.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8104",
+        "word": "turtle",
+        "translation": "เต่า",
+        "pos": "noun",
+        "example": "Sea turtle.",
+        "level": "basic"
+    },
+    {
+        "id": "v8105",
+        "word": "tutor",
+        "translation": "ครูสอนพิเศษ",
+        "pos": "noun",
+        "example": "Private tutor.",
+        "level": "basic"
+    },
+    {
+        "id": "v8106",
+        "word": "tutorial",
+        "translation": "บทเรียน",
+        "pos": "noun",
+        "example": "Video tutorial.",
+        "level": "basic"
+    },
+    {
+        "id": "v8107",
+        "word": "twelve",
+        "translation": "สิบสอง",
+        "pos": "num",
+        "example": "Twelve months.",
+        "level": "basic"
+    },
+    {
+        "id": "v8108",
+        "word": "twenty",
+        "translation": "ยี่สิบ",
+        "pos": "num",
+        "example": "Twenty years.",
+        "level": "basic"
+    },
+    {
+        "id": "v8109",
+        "word": "twice",
+        "translation": "สองครั้ง",
+        "pos": "adv",
+        "example": "Think twice.",
+        "level": "basic"
+    },
+    {
+        "id": "v8110",
+        "word": "twin",
+        "translation": "แฝด",
+        "pos": "noun",
+        "example": "Twin brother.",
+        "level": "basic"
+    },
+    {
+        "id": "v8111",
+        "word": "twist",
+        "translation": "บิด",
+        "pos": "verb",
+        "example": "Plot twist.",
+        "level": "basic"
+    },
+    {
+        "id": "v8112",
+        "word": "twisted",
+        "translation": "บิดเบี้ยว",
+        "pos": "adj",
+        "example": "Twisted logic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8113",
+        "word": "two",
+        "translation": "สอง",
+        "pos": "num",
+        "example": "Two people.",
+        "level": "basic"
+    },
+    {
+        "id": "v8114",
+        "word": "type",
+        "translation": "ประเภท",
+        "pos": "noun",
+        "example": "Different type.",
+        "level": "basic"
+    },
+    {
+        "id": "v8115",
+        "word": "typical",
+        "translation": "ทั่วไป",
+        "pos": "adj",
+        "example": "Typical example.",
+        "level": "basic"
+    },
+    {
+        "id": "v8116",
+        "word": "typically",
+        "translation": "โดยทั่วไป",
+        "pos": "adv",
+        "example": "Typically.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8117",
+        "word": "ugly",
+        "translation": "น่าเกลียด",
+        "pos": "adj",
+        "example": "Ugly truth.",
+        "level": "basic"
+    },
+    {
+        "id": "v8118",
+        "word": "ultimate",
+        "translation": "สุดยอด",
+        "pos": "adj",
+        "example": "Ultimate goal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8119",
+        "word": "ultimately",
+        "translation": "ในที่สุด",
+        "pos": "adv",
+        "example": "Ultimately.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8120",
+        "word": "ultra",
+        "translation": "อัลตร้า",
+        "pos": "adj",
+        "example": "Ultra fast.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8121",
+        "word": "umbrella",
+        "translation": "ร่ม",
+        "pos": "noun",
+        "example": "Rain umbrella.",
+        "level": "basic"
+    },
+    {
+        "id": "v8122",
+        "word": "unable",
+        "translation": "ไม่สามารถ",
+        "pos": "adj",
+        "example": "Unable to.",
+        "level": "basic"
+    },
+    {
+        "id": "v8123",
+        "word": "unacceptable",
+        "translation": "ยอมรับไม่ได้",
+        "pos": "adj",
+        "example": "Totally unacceptable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8124",
+        "word": "unanimous",
+        "translation": "เป็นเอกฉันท์",
+        "pos": "adj",
+        "example": "Unanimous decision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8125",
+        "word": "uncertain",
+        "translation": "ไม่แน่นอน",
+        "pos": "adj",
+        "example": "Uncertain future.",
+        "level": "basic"
+    },
+    {
+        "id": "v8126",
+        "word": "uncertainty",
+        "translation": "ความไม่แน่นอน",
+        "pos": "noun",
+        "example": "Economic uncertainty.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8127",
+        "word": "unchanged",
+        "translation": "ไม่เปลี่ยนแปลง",
+        "pos": "adj",
+        "example": "Remain unchanged.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8128",
+        "word": "uncle",
+        "translation": "ลุง",
+        "pos": "noun",
+        "example": "My uncle.",
+        "level": "basic"
+    },
+    {
+        "id": "v8129",
+        "word": "unclear",
+        "translation": "ไม่ชัดเจน",
+        "pos": "adj",
+        "example": "Still unclear.",
+        "level": "basic"
+    },
+    {
+        "id": "v8130",
+        "word": "uncomfortable",
+        "translation": "ไม่สบาย",
+        "pos": "adj",
+        "example": "Feel uncomfortable.",
+        "level": "basic"
+    },
+    {
+        "id": "v8131",
+        "word": "unconscious",
+        "translation": "หมดสติ",
+        "pos": "adj",
+        "example": "Unconscious mind.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8132",
+        "word": "uncover",
+        "translation": "เปิดเผย",
+        "pos": "verb",
+        "example": "Uncover truth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8133",
+        "word": "under",
+        "translation": "ใต้",
+        "pos": "prep",
+        "example": "Under the table.",
+        "level": "basic"
+    },
+    {
+        "id": "v8134",
+        "word": "undergo",
+        "translation": "ประสบ",
+        "pos": "verb",
+        "example": "Undergo surgery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8135",
+        "word": "undergraduate",
+        "translation": "ปริญญาตรี",
+        "pos": "noun",
+        "example": "Undergraduate student.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8136",
+        "word": "underground",
+        "translation": "ใต้ดิน",
+        "pos": "adj",
+        "example": "Underground station.",
+        "level": "basic"
+    },
+    {
+        "id": "v8137",
+        "word": "underlie",
+        "translation": "อยู่ใต้",
+        "pos": "verb",
+        "example": "Underlying cause.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8138",
+        "word": "underlying",
+        "translation": "พื้นฐาน",
+        "pos": "adj",
+        "example": "Underlying problem.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8139",
+        "word": "undermine",
+        "translation": "บ่อนทำลาย",
+        "pos": "verb",
+        "example": "Undermine confidence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8140",
+        "word": "underneath",
+        "translation": "ใต้",
+        "pos": "prep",
+        "example": "Underneath it.",
+        "level": "basic"
+    },
+    {
+        "id": "v8141",
+        "word": "understand",
+        "translation": "เข้าใจ",
+        "pos": "verb",
+        "example": "I understand.",
+        "level": "basic"
+    },
+    {
+        "id": "v8142",
+        "word": "understanding",
+        "translation": "ความเข้าใจ",
+        "pos": "noun",
+        "example": "Good understanding.",
+        "level": "basic"
+    },
+    {
+        "id": "v8143",
+        "word": "undertake",
+        "translation": "รับภาระ",
+        "pos": "verb",
+        "example": "Undertake project.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8144",
+        "word": "underwater",
+        "translation": "ใต้น้ำ",
+        "pos": "adj",
+        "example": "Underwater camera.",
+        "level": "basic"
+    },
+    {
+        "id": "v8145",
+        "word": "underway",
+        "translation": "กำลังดำเนินการ",
+        "pos": "adj",
+        "example": "Already underway.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8146",
+        "word": "undoubtedly",
+        "translation": "อย่างไม่ต้องสงสัย",
+        "pos": "adv",
+        "example": "Undoubtedly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8147",
+        "word": "uneasy",
+        "translation": "กระวนกระวาย",
+        "pos": "adj",
+        "example": "Feel uneasy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8148",
+        "word": "unemployed",
+        "translation": "ว่างงาน",
+        "pos": "adj",
+        "example": "Currently unemployed.",
+        "level": "basic"
+    },
+    {
+        "id": "v8149",
+        "word": "unemployment",
+        "translation": "การว่างงาน",
+        "pos": "noun",
+        "example": "High unemployment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8150",
+        "word": "unexpected",
+        "translation": "ไม่คาดคิด",
+        "pos": "adj",
+        "example": "Completely unexpected.",
+        "level": "basic"
+    },
+    {
+        "id": "v8151",
+        "word": "unexpectedly",
+        "translation": "โดยไม่คาดคิด",
+        "pos": "adv",
+        "example": "Unexpectedly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8152",
+        "word": "unfair",
+        "translation": "ไม่ยุติธรรม",
+        "pos": "adj",
+        "example": "Very unfair.",
+        "level": "basic"
+    },
+    {
+        "id": "v8153",
+        "word": "unfamiliar",
+        "translation": "ไม่คุ้นเคย",
+        "pos": "adj",
+        "example": "Unfamiliar territory.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8154",
+        "word": "unfortunate",
+        "translation": "โชคร้าย",
+        "pos": "adj",
+        "example": "Unfortunate event.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8155",
+        "word": "unfortunately",
+        "translation": "น่าเสียดาย",
+        "pos": "adv",
+        "example": "Unfortunately.",
+        "level": "basic"
+    },
+    {
+        "id": "v8156",
+        "word": "unhappy",
+        "translation": "ไม่มีความสุข",
+        "pos": "adj",
+        "example": "Very unhappy.",
+        "level": "basic"
+    },
+    {
+        "id": "v8157",
+        "word": "unhealthy",
+        "translation": "ไม่สุขภาพดี",
+        "pos": "adj",
+        "example": "Unhealthy food.",
+        "level": "basic"
+    },
+    {
+        "id": "v8158",
+        "word": "uniform",
+        "translation": "เครื่องแบบ",
+        "pos": "noun",
+        "example": "School uniform.",
+        "level": "basic"
+    },
+    {
+        "id": "v8159",
+        "word": "union",
+        "translation": "สหภาพ",
+        "pos": "noun",
+        "example": "Trade union.",
+        "level": "basic"
+    },
+    {
+        "id": "v8160",
+        "word": "unique",
+        "translation": "เป็นเอกลักษณ์",
+        "pos": "adj",
+        "example": "Very unique.",
+        "level": "basic"
+    },
+    {
+        "id": "v8161",
+        "word": "uniquely",
+        "translation": "โดยเฉพาะ",
+        "pos": "adv",
+        "example": "Uniquely designed.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8162",
+        "word": "unit",
+        "translation": "หน่วย",
+        "pos": "noun",
+        "example": "Business unit.",
+        "level": "basic"
+    },
+    {
+        "id": "v8163",
+        "word": "unite",
+        "translation": "รวมตัว",
+        "pos": "verb",
+        "example": "Unite together.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8164",
+        "word": "united",
+        "translation": "รวม",
+        "pos": "adj",
+        "example": "United Nations.",
+        "level": "basic"
+    },
+    {
+        "id": "v8165",
+        "word": "unity",
+        "translation": "ความสามัคคี",
+        "pos": "noun",
+        "example": "National unity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8166",
+        "word": "universal",
+        "translation": "สากล",
+        "pos": "adj",
+        "example": "Universal truth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8167",
+        "word": "universe",
+        "translation": "จักรวาล",
+        "pos": "noun",
+        "example": "The universe.",
+        "level": "basic"
+    },
+    {
+        "id": "v8168",
+        "word": "university",
+        "translation": "มหาวิทยาลัย",
+        "pos": "noun",
+        "example": "Top university.",
+        "level": "basic"
+    },
+    {
+        "id": "v8169",
+        "word": "unknown",
+        "translation": "ไม่รู้จัก",
+        "pos": "adj",
+        "example": "Unknown reason.",
+        "level": "basic"
+    },
+    {
+        "id": "v8170",
+        "word": "unless",
+        "translation": "เว้นแต่",
+        "pos": "conj",
+        "example": "Unless you.",
+        "level": "basic"
+    },
+    {
+        "id": "v8171",
+        "word": "unlike",
+        "translation": "ไม่เหมือน",
+        "pos": "prep",
+        "example": "Unlike others.",
+        "level": "basic"
+    },
+    {
+        "id": "v8172",
+        "word": "unlikely",
+        "translation": "ไม่น่าจะ",
+        "pos": "adj",
+        "example": "Highly unlikely.",
+        "level": "basic"
+    },
+    {
+        "id": "v8173",
+        "word": "unnecessary",
+        "translation": "ไม่จำเป็น",
+        "pos": "adj",
+        "example": "Totally unnecessary.",
+        "level": "basic"
+    },
+    {
+        "id": "v8174",
+        "word": "unprecedented",
+        "translation": "ไม่เคยมีมาก่อน",
+        "pos": "adj",
+        "example": "An unprecedented move.",
+        "level": "advanced"
+    },
+    {
+        "id": "v8175",
+        "word": "unpredictable",
+        "translation": "คาดเดาไม่ได้",
+        "pos": "adj",
+        "example": "Very unpredictable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8176",
+        "word": "unrealistic",
+        "translation": "ไม่สมจริง",
+        "pos": "adj",
+        "example": "Unrealistic expectations.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8177",
+        "word": "unrelated",
+        "translation": "ไม่เกี่ยวข้อง",
+        "pos": "adj",
+        "example": "Completely unrelated.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8178",
+        "word": "unstable",
+        "translation": "ไม่มั่นคง",
+        "pos": "adj",
+        "example": "Politically unstable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8179",
+        "word": "unsuccessful",
+        "translation": "ไม่ประสบความสำเร็จ",
+        "pos": "adj",
+        "example": "Unsuccessful attempt.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8180",
+        "word": "until",
+        "translation": "จนกระทั่ง",
+        "pos": "prep",
+        "example": "Wait until.",
+        "level": "basic"
+    },
+    {
+        "id": "v8181",
+        "word": "unusual",
+        "translation": "ผิดปกติ",
+        "pos": "adj",
+        "example": "Very unusual.",
+        "level": "basic"
+    },
+    {
+        "id": "v8182",
+        "word": "unusually",
+        "translation": "ผิดปกติ",
+        "pos": "adv",
+        "example": "Unusually quiet.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8183",
+        "word": "unwilling",
+        "translation": "ไม่เต็มใจ",
+        "pos": "adj",
+        "example": "Unwilling to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8184",
+        "word": "up",
+        "translation": "ขึ้น",
+        "pos": "adv",
+        "example": "Wake up.",
+        "level": "basic"
+    },
+    {
+        "id": "v8185",
+        "word": "upcoming",
+        "translation": "ที่จะมาถึง",
+        "pos": "adj",
+        "example": "Upcoming event.",
+        "level": "basic"
+    },
+    {
+        "id": "v8186",
+        "word": "update",
+        "translation": "อัปเดต",
+        "pos": "verb",
+        "example": "Update software.",
+        "level": "basic"
+    },
+    {
+        "id": "v8187",
+        "word": "upgrade",
+        "translation": "อัพเกรด",
+        "pos": "verb",
+        "example": "Upgrade system.",
+        "level": "basic"
+    },
+    {
+        "id": "v8188",
+        "word": "uphold",
+        "translation": "สนับสนุน",
+        "pos": "verb",
+        "example": "Uphold law.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8189",
+        "word": "upload",
+        "translation": "อัปโหลด",
+        "pos": "verb",
+        "example": "Upload file.",
+        "level": "basic"
+    },
+    {
+        "id": "v8190",
+        "word": "upon",
+        "translation": "บน",
+        "pos": "prep",
+        "example": "Upon arrival.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8191",
+        "word": "upper",
+        "translation": "ส่วนบน",
+        "pos": "adj",
+        "example": "Upper floor.",
+        "level": "basic"
+    },
+    {
+        "id": "v8192",
+        "word": "upright",
+        "translation": "ตั้งตรง",
+        "pos": "adj",
+        "example": "Stand upright.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8193",
+        "word": "uprising",
+        "translation": "การลุกฮือ",
+        "pos": "noun",
+        "example": "Popular uprising.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8194",
+        "word": "upset",
+        "translation": "อารมณ์เสีย",
+        "pos": "adj",
+        "example": "Feel upset.",
+        "level": "basic"
+    },
+    {
+        "id": "v8195",
+        "word": "upside",
+        "translation": "ข้อดี",
+        "pos": "noun",
+        "example": "Upside down.",
+        "level": "basic"
+    },
+    {
+        "id": "v8196",
+        "word": "upstairs",
+        "translation": "ชั้นบน",
+        "pos": "adv",
+        "example": "Go upstairs.",
+        "level": "basic"
+    },
+    {
+        "id": "v8197",
+        "word": "upstream",
+        "translation": "ต้นน้ำ",
+        "pos": "adv",
+        "example": "Upstream river.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8198",
+        "word": "upward",
+        "translation": "ขึ้นไป",
+        "pos": "adj",
+        "example": "Upward trend.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8199",
+        "word": "urban",
+        "translation": "เมือง",
+        "pos": "adj",
+        "example": "Urban area.",
+        "level": "basic"
+    },
+    {
+        "id": "v8200",
+        "word": "urge",
+        "translation": "กระตุ้น",
+        "pos": "verb",
+        "example": "Urge someone.",
+        "level": "intermediate"
+    }
+]

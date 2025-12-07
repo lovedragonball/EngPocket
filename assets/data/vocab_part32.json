@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v3001",
+        "word": "war",
+        "translation": "สงคราม",
+        "pos": "noun",
+        "example": "World war.",
+        "level": "basic"
+    },
+    {
+        "id": "v3002",
+        "word": "warm",
+        "translation": "อบอุ่น",
+        "pos": "adj",
+        "example": "Warm weather.",
+        "level": "basic"
+    },
+    {
+        "id": "v3003",
+        "word": "warn",
+        "translation": "เตือน",
+        "pos": "verb",
+        "example": "I warned you.",
+        "level": "basic"
+    },
+    {
+        "id": "v3004",
+        "word": "warning",
+        "translation": "คำเตือน",
+        "pos": "noun",
+        "example": "Final warning.",
+        "level": "basic"
+    },
+    {
+        "id": "v3005",
+        "word": "wash",
+        "translation": "ล้าง",
+        "pos": "verb",
+        "example": "Wash hands.",
+        "level": "basic"
+    },
+    {
+        "id": "v3006",
+        "word": "waste",
+        "translation": "ของเสีย",
+        "pos": "noun",
+        "example": "Don't waste time.",
+        "level": "basic"
+    },
+    {
+        "id": "v3007",
+        "word": "watch",
+        "translation": "ดู",
+        "pos": "verb",
+        "example": "Watch TV.",
+        "level": "basic"
+    },
+    {
+        "id": "v3008",
+        "word": "water",
+        "translation": "น้ำ",
+        "pos": "noun",
+        "example": "Drink water.",
+        "level": "basic"
+    },
+    {
+        "id": "v3009",
+        "word": "wave",
+        "translation": "คลื่น",
+        "pos": "noun",
+        "example": "Big wave.",
+        "level": "basic"
+    },
+    {
+        "id": "v3010",
+        "word": "way",
+        "translation": "ทาง",
+        "pos": "noun",
+        "example": "This way.",
+        "level": "basic"
+    },
+    {
+        "id": "v3011",
+        "word": "we",
+        "translation": "พวกเรา",
+        "pos": "pron",
+        "example": "We are here.",
+        "level": "basic"
+    },
+    {
+        "id": "v3012",
+        "word": "weak",
+        "translation": "อ่อนแอ",
+        "pos": "adj",
+        "example": "Weak signal.",
+        "level": "basic"
+    },
+    {
+        "id": "v3013",
+        "word": "weakness",
+        "translation": "จุดอ่อน",
+        "pos": "noun",
+        "example": "Know your weakness.",
+        "level": "basic"
+    },
+    {
+        "id": "v3014",
+        "word": "wealth",
+        "translation": "ความมั่งคั่ง",
+        "pos": "noun",
+        "example": "Great wealth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3015",
+        "word": "wealthy",
+        "translation": "ร่ำรวย",
+        "pos": "adj",
+        "example": "Wealthy family.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3016",
+        "word": "weapon",
+        "translation": "อาวุธ",
+        "pos": "noun",
+        "example": "Deadly weapon.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3017",
+        "word": "wear",
+        "translation": "สวม",
+        "pos": "verb",
+        "example": "Wear a mask.",
+        "level": "basic"
+    },
+    {
+        "id": "v3018",
+        "word": "weather",
+        "translation": "สภาพอากาศ",
+        "pos": "noun",
+        "example": "Nice weather.",
+        "level": "basic"
+    },
+    {
+        "id": "v3019",
+        "word": "web",
+        "translation": "เว็บ",
+        "pos": "noun",
+        "example": "Web browser.",
+        "level": "basic"
+    },
+    {
+        "id": "v3020",
+        "word": "website",
+        "translation": "เว็บไซต์",
+        "pos": "noun",
+        "example": "Visit our website.",
+        "level": "basic"
+    },
+    {
+        "id": "v3021",
+        "word": "wedding",
+        "translation": "แต่งงาน",
+        "pos": "noun",
+        "example": "Wedding day.",
+        "level": "basic"
+    },
+    {
+        "id": "v3022",
+        "word": "wednesday",
+        "translation": "วันพุธ",
+        "pos": "noun",
+        "example": "This Wednesday.",
+        "level": "basic"
+    },
+    {
+        "id": "v3023",
+        "word": "week",
+        "translation": "สัปดาห์",
+        "pos": "noun",
+        "example": "Next week.",
+        "level": "basic"
+    },
+    {
+        "id": "v3024",
+        "word": "weekend",
+        "translation": "สุดสัปดาห์",
+        "pos": "noun",
+        "example": "This weekend.",
+        "level": "basic"
+    },
+    {
+        "id": "v3025",
+        "word": "weekly",
+        "translation": "รายสัปดาห์",
+        "pos": "adj",
+        "example": "Weekly report.",
+        "level": "basic"
+    },
+    {
+        "id": "v3026",
+        "word": "weigh",
+        "translation": "ชั่งน้ำหนัก",
+        "pos": "verb",
+        "example": "Weigh yourself.",
+        "level": "basic"
+    },
+    {
+        "id": "v3027",
+        "word": "weight",
+        "translation": "น้ำหนัก",
+        "pos": "noun",
+        "example": "Lose weight.",
+        "level": "basic"
+    },
+    {
+        "id": "v3028",
+        "word": "weird",
+        "translation": "แปลก",
+        "pos": "adj",
+        "example": "That's weird.",
+        "level": "basic"
+    },
+    {
+        "id": "v3029",
+        "word": "welcome",
+        "translation": "ยินดีต้อนรับ",
+        "pos": "verb",
+        "example": "Welcome home.",
+        "level": "basic"
+    },
+    {
+        "id": "v3030",
+        "word": "welfare",
+        "translation": "สวัสดิการ",
+        "pos": "noun",
+        "example": "Social welfare.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3031",
+        "word": "well",
+        "translation": "ดี",
+        "pos": "adv",
+        "example": "All is well.",
+        "level": "basic"
+    },
+    {
+        "id": "v3032",
+        "word": "west",
+        "translation": "ตะวันตก",
+        "pos": "noun",
+        "example": "Go west.",
+        "level": "basic"
+    },
+    {
+        "id": "v3033",
+        "word": "western",
+        "translation": "ทางตะวันตก",
+        "pos": "adj",
+        "example": "Western culture.",
+        "level": "basic"
+    },
+    {
+        "id": "v3034",
+        "word": "wet",
+        "translation": "เปียก",
+        "pos": "adj",
+        "example": "Wet floor.",
+        "level": "basic"
+    },
+    {
+        "id": "v3035",
+        "word": "what",
+        "translation": "อะไร",
+        "pos": "pron",
+        "example": "What is it?",
+        "level": "basic"
+    },
+    {
+        "id": "v3036",
+        "word": "whatever",
+        "translation": "อะไรก็ตาม",
+        "pos": "pron",
+        "example": "Whatever you want.",
+        "level": "basic"
+    },
+    {
+        "id": "v3037",
+        "word": "wheat",
+        "translation": "ข้าวสาลี",
+        "pos": "noun",
+        "example": "Whole wheat.",
+        "level": "basic"
+    },
+    {
+        "id": "v3038",
+        "word": "wheel",
+        "translation": "ล้อ",
+        "pos": "noun",
+        "example": "Steering wheel.",
+        "level": "basic"
+    },
+    {
+        "id": "v3039",
+        "word": "when",
+        "translation": "เมื่อไหร่",
+        "pos": "adv",
+        "example": "When is it?",
+        "level": "basic"
+    },
+    {
+        "id": "v3040",
+        "word": "whenever",
+        "translation": "เมื่อไหร่ก็ตาม",
+        "pos": "adv",
+        "example": "Whenever you're ready.",
+        "level": "basic"
+    },
+    {
+        "id": "v3041",
+        "word": "where",
+        "translation": "ที่ไหน",
+        "pos": "adv",
+        "example": "Where are you?",
+        "level": "basic"
+    },
+    {
+        "id": "v3042",
+        "word": "whereas",
+        "translation": "ในขณะที่",
+        "pos": "conj",
+        "example": "Whereas.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3043",
+        "word": "wherever",
+        "translation": "ที่ไหนก็ตาม",
+        "pos": "adv",
+        "example": "Wherever you go.",
+        "level": "basic"
+    },
+    {
+        "id": "v3044",
+        "word": "whether",
+        "translation": "ไม่ว่าจะ",
+        "pos": "conj",
+        "example": "Whether or not.",
+        "level": "basic"
+    },
+    {
+        "id": "v3045",
+        "word": "which",
+        "translation": "ซึ่ง",
+        "pos": "pron",
+        "example": "Which one?",
+        "level": "basic"
+    },
+    {
+        "id": "v3046",
+        "word": "while",
+        "translation": "ขณะที่",
+        "pos": "conj",
+        "example": "While waiting.",
+        "level": "basic"
+    },
+    {
+        "id": "v3047",
+        "word": "whisper",
+        "translation": "กระซิบ",
+        "pos": "verb",
+        "example": "Whisper to me.",
+        "level": "basic"
+    },
+    {
+        "id": "v3048",
+        "word": "white",
+        "translation": "สีขาว",
+        "pos": "adj",
+        "example": "White snow.",
+        "level": "basic"
+    },
+    {
+        "id": "v3049",
+        "word": "who",
+        "translation": "ใคร",
+        "pos": "pron",
+        "example": "Who is it?",
+        "level": "basic"
+    },
+    {
+        "id": "v3050",
+        "word": "whoever",
+        "translation": "ใครก็ตาม",
+        "pos": "pron",
+        "example": "Whoever comes.",
+        "level": "basic"
+    },
+    {
+        "id": "v3051",
+        "word": "whole",
+        "translation": "ทั้งหมด",
+        "pos": "adj",
+        "example": "Whole day.",
+        "level": "basic"
+    },
+    {
+        "id": "v3052",
+        "word": "whom",
+        "translation": "ผู้ซึ่ง",
+        "pos": "pron",
+        "example": "To whom.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3053",
+        "word": "whose",
+        "translation": "ของใคร",
+        "pos": "pron",
+        "example": "Whose is this?",
+        "level": "basic"
+    },
+    {
+        "id": "v3054",
+        "word": "why",
+        "translation": "ทำไม",
+        "pos": "adv",
+        "example": "Why not?",
+        "level": "basic"
+    },
+    {
+        "id": "v3055",
+        "word": "wide",
+        "translation": "กว้าง",
+        "pos": "adj",
+        "example": "Wide range.",
+        "level": "basic"
+    },
+    {
+        "id": "v3056",
+        "word": "widely",
+        "translation": "อย่างกว้างขวาง",
+        "pos": "adv",
+        "example": "Widely used.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3057",
+        "word": "widespread",
+        "translation": "แพร่หลาย",
+        "pos": "adj",
+        "example": "Widespread use.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3058",
+        "word": "wife",
+        "translation": "ภรรยา",
+        "pos": "noun",
+        "example": "My wife.",
+        "level": "basic"
+    },
+    {
+        "id": "v3059",
+        "word": "wild",
+        "translation": "ป่า",
+        "pos": "adj",
+        "example": "Wild animal.",
+        "level": "basic"
+    },
+    {
+        "id": "v3060",
+        "word": "will",
+        "translation": "จะ",
+        "pos": "verb",
+        "example": "I will go.",
+        "level": "basic"
+    },
+    {
+        "id": "v3061",
+        "word": "willing",
+        "translation": "เต็มใจ",
+        "pos": "adj",
+        "example": "I'm willing.",
+        "level": "basic"
+    },
+    {
+        "id": "v3062",
+        "word": "win",
+        "translation": "ชนะ",
+        "pos": "verb",
+        "example": "Win the game.",
+        "level": "basic"
+    },
+    {
+        "id": "v3063",
+        "word": "wind",
+        "translation": "ลม",
+        "pos": "noun",
+        "example": "Strong wind.",
+        "level": "basic"
+    },
+    {
+        "id": "v3064",
+        "word": "window",
+        "translation": "หน้าต่าง",
+        "pos": "noun",
+        "example": "Open the window.",
+        "level": "basic"
+    },
+    {
+        "id": "v3065",
+        "word": "wine",
+        "translation": "ไวน์",
+        "pos": "noun",
+        "example": "Red wine.",
+        "level": "basic"
+    },
+    {
+        "id": "v3066",
+        "word": "wing",
+        "translation": "ปีก",
+        "pos": "noun",
+        "example": "Bird's wing.",
+        "level": "basic"
+    },
+    {
+        "id": "v3067",
+        "word": "winner",
+        "translation": "ผู้ชนะ",
+        "pos": "noun",
+        "example": "The winner is.",
+        "level": "basic"
+    },
+    {
+        "id": "v3068",
+        "word": "winter",
+        "translation": "ฤดูหนาว",
+        "pos": "noun",
+        "example": "Cold winter.",
+        "level": "basic"
+    },
+    {
+        "id": "v3069",
+        "word": "wipe",
+        "translation": "เช็ด",
+        "pos": "verb",
+        "example": "Wipe your tears.",
+        "level": "basic"
+    },
+    {
+        "id": "v3070",
+        "word": "wire",
+        "translation": "สาย",
+        "pos": "noun",
+        "example": "Electric wire.",
+        "level": "basic"
+    },
+    {
+        "id": "v3071",
+        "word": "wisdom",
+        "translation": "ปัญญา",
+        "pos": "noun",
+        "example": "Words of wisdom.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3072",
+        "word": "wise",
+        "translation": "ฉลาด",
+        "pos": "adj",
+        "example": "Wise decision.",
+        "level": "basic"
+    },
+    {
+        "id": "v3073",
+        "word": "wish",
+        "translation": "ปรารถนา",
+        "pos": "verb",
+        "example": "I wish.",
+        "level": "basic"
+    },
+    {
+        "id": "v3074",
+        "word": "with",
+        "translation": "กับ",
+        "pos": "prep",
+        "example": "With you.",
+        "level": "basic"
+    },
+    {
+        "id": "v3075",
+        "word": "withdraw",
+        "translation": "ถอน",
+        "pos": "verb",
+        "example": "Withdraw money.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3076",
+        "word": "within",
+        "translation": "ภายใน",
+        "pos": "prep",
+        "example": "Within one hour.",
+        "level": "basic"
+    },
+    {
+        "id": "v3077",
+        "word": "without",
+        "translation": "โดยไม่มี",
+        "pos": "prep",
+        "example": "Without you.",
+        "level": "basic"
+    },
+    {
+        "id": "v3078",
+        "word": "witness",
+        "translation": "พยาน",
+        "pos": "noun",
+        "example": "Key witness.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3079",
+        "word": "woman",
+        "translation": "ผู้หญิง",
+        "pos": "noun",
+        "example": "Young woman.",
+        "level": "basic"
+    },
+    {
+        "id": "v3080",
+        "word": "wonder",
+        "translation": "สงสัย",
+        "pos": "verb",
+        "example": "I wonder why.",
+        "level": "basic"
+    },
+    {
+        "id": "v3081",
+        "word": "wonderful",
+        "translation": "ยอดเยี่ยม",
+        "pos": "adj",
+        "example": "Wonderful day.",
+        "level": "basic"
+    },
+    {
+        "id": "v3082",
+        "word": "wood",
+        "translation": "ไม้",
+        "pos": "noun",
+        "example": "Made of wood.",
+        "level": "basic"
+    },
+    {
+        "id": "v3083",
+        "word": "wooden",
+        "translation": "ทำจากไม้",
+        "pos": "adj",
+        "example": "Wooden table.",
+        "level": "basic"
+    },
+    {
+        "id": "v3084",
+        "word": "wool",
+        "translation": "ขนแกะ",
+        "pos": "noun",
+        "example": "Wool sweater.",
+        "level": "basic"
+    },
+    {
+        "id": "v3085",
+        "word": "word",
+        "translation": "คำ",
+        "pos": "noun",
+        "example": "New word.",
+        "level": "basic"
+    },
+    {
+        "id": "v3086",
+        "word": "work",
+        "translation": "ทำงาน",
+        "pos": "verb",
+        "example": "Hard work.",
+        "level": "basic"
+    },
+    {
+        "id": "v3087",
+        "word": "worker",
+        "translation": "คนงาน",
+        "pos": "noun",
+        "example": "Factory worker.",
+        "level": "basic"
+    },
+    {
+        "id": "v3088",
+        "word": "workforce",
+        "translation": "กำลังแรงงาน",
+        "pos": "noun",
+        "example": "Skilled workforce.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3089",
+        "word": "working",
+        "translation": "การทำงาน",
+        "pos": "noun",
+        "example": "Working hours.",
+        "level": "basic"
+    },
+    {
+        "id": "v3090",
+        "word": "workout",
+        "translation": "ออกกำลังกาย",
+        "pos": "noun",
+        "example": "Morning workout.",
+        "level": "basic"
+    },
+    {
+        "id": "v3091",
+        "word": "workplace",
+        "translation": "ที่ทำงาน",
+        "pos": "noun",
+        "example": "Safe workplace.",
+        "level": "basic"
+    },
+    {
+        "id": "v3092",
+        "word": "workshop",
+        "translation": "เวิร์คช็อป",
+        "pos": "noun",
+        "example": "Training workshop.",
+        "level": "basic"
+    },
+    {
+        "id": "v3093",
+        "word": "world",
+        "translation": "โลก",
+        "pos": "noun",
+        "example": "Around the world.",
+        "level": "basic"
+    },
+    {
+        "id": "v3094",
+        "word": "worldwide",
+        "translation": "ทั่วโลก",
+        "pos": "adj",
+        "example": "Worldwide trend.",
+        "level": "basic"
+    },
+    {
+        "id": "v3095",
+        "word": "worried",
+        "translation": "กังวล",
+        "pos": "adj",
+        "example": "I'm worried.",
+        "level": "basic"
+    },
+    {
+        "id": "v3096",
+        "word": "worry",
+        "translation": "กังวล",
+        "pos": "verb",
+        "example": "Don't worry.",
+        "level": "basic"
+    },
+    {
+        "id": "v3097",
+        "word": "worse",
+        "translation": "แย่กว่า",
+        "pos": "adj",
+        "example": "Getting worse.",
+        "level": "basic"
+    },
+    {
+        "id": "v3098",
+        "word": "worst",
+        "translation": "แย่ที่สุด",
+        "pos": "adj",
+        "example": "Worst case.",
+        "level": "basic"
+    },
+    {
+        "id": "v3099",
+        "word": "worth",
+        "translation": "มูลค่า",
+        "pos": "noun",
+        "example": "It's worth it.",
+        "level": "basic"
+    },
+    {
+        "id": "v3100",
+        "word": "worthy",
+        "translation": "คู่ควร",
+        "pos": "adj",
+        "example": "Worthy opponent.",
+        "level": "intermediate"
+    }
+]

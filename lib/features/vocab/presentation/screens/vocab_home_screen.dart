@@ -4,9 +4,35 @@ library;
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import '../../../../config/app_theme.dart';
+import '../../../../core/services/srs_service.dart';
 
-class VocabHomeScreen extends StatelessWidget {
+class VocabHomeScreen extends StatefulWidget {
   const VocabHomeScreen({super.key});
+
+  @override
+  State<VocabHomeScreen> createState() => _VocabHomeScreenState();
+}
+
+class _VocabHomeScreenState extends State<VocabHomeScreen> {
+  final SrsService _srsService = SrsService();
+  bool _isLoading = true;
+  Map<String, int> _stats = {};
+
+  @override
+  void initState() {
+    super.initState();
+    _loadStats();
+  }
+
+  Future<void> _loadStats() async {
+    await _srsService.init();
+    if (mounted) {
+      setState(() {
+        _stats = _srsService.getStats();
+        _isLoading = false;
+      });
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -53,8 +79,7 @@ class VocabHomeScreen extends StatelessWidget {
                 subtitle: 'ทดสอบคำศัพท์แบบเลือกตอบ',
                 color: AppTheme.accentColor,
                 onTap: () {
-                  // Navigate to flashcard as quiz mode (same learning experience)
-                  context.push('/vocab/flashcard');
+                  context.push('/vocab/quiz');
                 },
               ),
               const SizedBox(height: 12),
@@ -67,8 +92,7 @@ class VocabHomeScreen extends StatelessWidget {
                 subtitle: 'เรียกดูคำศัพท์แบบรายการ',
                 color: AppTheme.textSecondaryColor,
                 onTap: () {
-                  // Navigate to flashcard to browse vocab
-                  context.push('/vocab/flashcard');
+                  context.push('/vocab/list');
                 },
               ),
             ],
@@ -79,6 +103,31 @@ class VocabHomeScreen extends StatelessWidget {
   }
 
   Widget _buildStatsCard() {
+    if (_isLoading) {
+      return Container(
+        padding: const EdgeInsets.all(20),
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [
+              AppTheme.vocabColor,
+              AppTheme.vocabColor.withValues(alpha: 0.8),
+            ],
+          ),
+          borderRadius: BorderRadius.circular(20),
+        ),
+        child: const Center(
+          child: CircularProgressIndicator(color: Colors.white),
+        ),
+      );
+    }
+
+    // Calculate stats
+    final learned = _stats['learned'] ?? 0;
+    final mastered = _stats['mastered'] ?? 0;
+    final dueToday = _stats['dueToday'] ?? 0;
+
     return Container(
       padding: const EdgeInsets.all(20),
       decoration: BoxDecoration(
@@ -113,9 +162,10 @@ class VocabHomeScreen extends StatelessWidget {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
-              _buildStatItem('ใหม่', '45', Icons.fiber_new_rounded),
-              _buildStatItem('กำลังเรียน', '23', Icons.school_rounded),
-              _buildStatItem('จำได้แล้ว', '82', Icons.check_circle_rounded),
+              _buildStatItem('รอทบทวน', '$dueToday', Icons.schedule_rounded),
+              _buildStatItem('กำลังเรียน', '$learned', Icons.school_rounded),
+              _buildStatItem(
+                  'จำได้แล้ว', '$mastered', Icons.check_circle_rounded),
             ],
           ),
         ],

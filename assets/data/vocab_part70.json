@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v6801",
+        "word": "realize",
+        "translation": "ตระหนัก",
+        "pos": "verb",
+        "example": "I realize.",
+        "level": "basic"
+    },
+    {
+        "id": "v6802",
+        "word": "really",
+        "translation": "จริงๆ",
+        "pos": "adv",
+        "example": "I really like.",
+        "level": "basic"
+    },
+    {
+        "id": "v6803",
+        "word": "realm",
+        "translation": "อาณาจักร",
+        "pos": "noun",
+        "example": "In the realm of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6804",
+        "word": "rear",
+        "translation": "ด้านหลัง",
+        "pos": "adj",
+        "example": "Rear window.",
+        "level": "basic"
+    },
+    {
+        "id": "v6805",
+        "word": "reason",
+        "translation": "เหตุผล",
+        "pos": "noun",
+        "example": "Good reason.",
+        "level": "basic"
+    },
+    {
+        "id": "v6806",
+        "word": "reasonable",
+        "translation": "มีเหตุผล",
+        "pos": "adj",
+        "example": "Very reasonable.",
+        "level": "basic"
+    },
+    {
+        "id": "v6807",
+        "word": "reasonably",
+        "translation": "พอสมควร",
+        "pos": "adv",
+        "example": "Reasonably priced.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6808",
+        "word": "reasoning",
+        "translation": "การให้เหตุผล",
+        "pos": "noun",
+        "example": "Logical reasoning.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6809",
+        "word": "rebel",
+        "translation": "กบฏ",
+        "pos": "noun",
+        "example": "Young rebel.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6810",
+        "word": "rebellion",
+        "translation": "การกบฏ",
+        "pos": "noun",
+        "example": "Armed rebellion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6811",
+        "word": "recall",
+        "translation": "เรียกคืน",
+        "pos": "verb",
+        "example": "Recall product.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6812",
+        "word": "receipt",
+        "translation": "ใบเสร็จ",
+        "pos": "noun",
+        "example": "Keep receipt.",
+        "level": "basic"
+    },
+    {
+        "id": "v6813",
+        "word": "receive",
+        "translation": "รับ",
+        "pos": "verb",
+        "example": "Receive gift.",
+        "level": "basic"
+    },
+    {
+        "id": "v6814",
+        "word": "receiver",
+        "translation": "ผู้รับ",
+        "pos": "noun",
+        "example": "Gift receiver.",
+        "level": "basic"
+    },
+    {
+        "id": "v6815",
+        "word": "recent",
+        "translation": "ล่าสุด",
+        "pos": "adj",
+        "example": "Most recent.",
+        "level": "basic"
+    },
+    {
+        "id": "v6816",
+        "word": "recently",
+        "translation": "เมื่อไม่นานนี้",
+        "pos": "adv",
+        "example": "Recently.",
+        "level": "basic"
+    },
+    {
+        "id": "v6817",
+        "word": "reception",
+        "translation": "การต้อนรับ",
+        "pos": "noun",
+        "example": "Warm reception.",
+        "level": "basic"
+    },
+    {
+        "id": "v6818",
+        "word": "receptor",
+        "translation": "ตัวรับ",
+        "pos": "noun",
+        "example": "Pain receptor.",
+        "level": "advanced"
+    },
+    {
+        "id": "v6819",
+        "word": "recession",
+        "translation": "ภาวะถดถอย",
+        "pos": "noun",
+        "example": "Economic recession.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6820",
+        "word": "recipe",
+        "translation": "สูตรอาหาร",
+        "pos": "noun",
+        "example": "Secret recipe.",
+        "level": "basic"
+    },
+    {
+        "id": "v6821",
+        "word": "recipient",
+        "translation": "ผู้รับ",
+        "pos": "noun",
+        "example": "Award recipient.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6822",
+        "word": "recognition",
+        "translation": "การยอมรับ",
+        "pos": "noun",
+        "example": "Gain recognition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6823",
+        "word": "recognize",
+        "translation": "จำได้",
+        "pos": "verb",
+        "example": "I recognize you.",
+        "level": "basic"
+    },
+    {
+        "id": "v6824",
+        "word": "recommend",
+        "translation": "แนะนำ",
+        "pos": "verb",
+        "example": "I recommend.",
+        "level": "basic"
+    },
+    {
+        "id": "v6825",
+        "word": "recommendation",
+        "translation": "คำแนะนำ",
+        "pos": "noun",
+        "example": "Good recommendation.",
+        "level": "basic"
+    },
+    {
+        "id": "v6826",
+        "word": "reconstruct",
+        "translation": "สร้างใหม่",
+        "pos": "verb",
+        "example": "Reconstruct building.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6827",
+        "word": "record",
+        "translation": "บันทึก",
+        "pos": "verb",
+        "example": "Record video.",
+        "level": "basic"
+    },
+    {
+        "id": "v6828",
+        "word": "recorder",
+        "translation": "เครื่องบันทึก",
+        "pos": "noun",
+        "example": "Voice recorder.",
+        "level": "basic"
+    },
+    {
+        "id": "v6829",
+        "word": "recording",
+        "translation": "การบันทึก",
+        "pos": "noun",
+        "example": "Audio recording.",
+        "level": "basic"
+    },
+    {
+        "id": "v6830",
+        "word": "recover",
+        "translation": "ฟื้นตัว",
+        "pos": "verb",
+        "example": "Recover from.",
+        "level": "basic"
+    },
+    {
+        "id": "v6831",
+        "word": "recovery",
+        "translation": "การฟื้นตัว",
+        "pos": "noun",
+        "example": "Full recovery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6832",
+        "word": "recreation",
+        "translation": "นันทนาการ",
+        "pos": "noun",
+        "example": "Outdoor recreation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6833",
+        "word": "recreational",
+        "translation": "เพื่อพักผ่อน",
+        "pos": "adj",
+        "example": "Recreational activity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6834",
+        "word": "recruit",
+        "translation": "รับสมัคร",
+        "pos": "verb",
+        "example": "Recruit member.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6835",
+        "word": "recruitment",
+        "translation": "การสรรหา",
+        "pos": "noun",
+        "example": "Staff recruitment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6836",
+        "word": "rectangle",
+        "translation": "สี่เหลี่ยมผืนผ้า",
+        "pos": "noun",
+        "example": "Draw rectangle.",
+        "level": "basic"
+    },
+    {
+        "id": "v6837",
+        "word": "recycle",
+        "translation": "รีไซเคิล",
+        "pos": "verb",
+        "example": "Recycle waste.",
+        "level": "basic"
+    },
+    {
+        "id": "v6838",
+        "word": "recycling",
+        "translation": "การรีไซเคิล",
+        "pos": "noun",
+        "example": "Recycling bin.",
+        "level": "basic"
+    },
+    {
+        "id": "v6839",
+        "word": "red",
+        "translation": "สีแดง",
+        "pos": "adj",
+        "example": "Red color.",
+        "level": "basic"
+    },
+    {
+        "id": "v6840",
+        "word": "reduce",
+        "translation": "ลด",
+        "pos": "verb",
+        "example": "Reduce cost.",
+        "level": "basic"
+    },
+    {
+        "id": "v6841",
+        "word": "reduction",
+        "translation": "การลด",
+        "pos": "noun",
+        "example": "Price reduction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6842",
+        "word": "refer",
+        "translation": "อ้างอิง",
+        "pos": "verb",
+        "example": "Refer to.",
+        "level": "basic"
+    },
+    {
+        "id": "v6843",
+        "word": "referee",
+        "translation": "กรรมการ",
+        "pos": "noun",
+        "example": "Football referee.",
+        "level": "basic"
+    },
+    {
+        "id": "v6844",
+        "word": "reference",
+        "translation": "การอ้างอิง",
+        "pos": "noun",
+        "example": "For reference.",
+        "level": "basic"
+    },
+    {
+        "id": "v6845",
+        "word": "referendum",
+        "translation": "ประชามติ",
+        "pos": "noun",
+        "example": "Hold referendum.",
+        "level": "advanced"
+    },
+    {
+        "id": "v6846",
+        "word": "reflect",
+        "translation": "สะท้อน",
+        "pos": "verb",
+        "example": "Reflect on.",
+        "level": "basic"
+    },
+    {
+        "id": "v6847",
+        "word": "reflection",
+        "translation": "การสะท้อน",
+        "pos": "noun",
+        "example": "Self reflection.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6848",
+        "word": "reform",
+        "translation": "ปฏิรูป",
+        "pos": "noun",
+        "example": "Political reform.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6849",
+        "word": "refresh",
+        "translation": "รีเฟรช",
+        "pos": "verb",
+        "example": "Refresh page.",
+        "level": "basic"
+    },
+    {
+        "id": "v6850",
+        "word": "refrigerator",
+        "translation": "ตู้เย็น",
+        "pos": "noun",
+        "example": "Big refrigerator.",
+        "level": "basic"
+    },
+    {
+        "id": "v6851",
+        "word": "refugee",
+        "translation": "ผู้ลี้ภัย",
+        "pos": "noun",
+        "example": "War refugee.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6852",
+        "word": "refund",
+        "translation": "คืนเงิน",
+        "pos": "noun",
+        "example": "Full refund.",
+        "level": "basic"
+    },
+    {
+        "id": "v6853",
+        "word": "refusal",
+        "translation": "การปฏิเสธ",
+        "pos": "noun",
+        "example": "Flat refusal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6854",
+        "word": "refuse",
+        "translation": "ปฏิเสธ",
+        "pos": "verb",
+        "example": "Refuse to.",
+        "level": "basic"
+    },
+    {
+        "id": "v6855",
+        "word": "regain",
+        "translation": "ได้กลับคืน",
+        "pos": "verb",
+        "example": "Regain control.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6856",
+        "word": "regard",
+        "translation": "เกี่ยวกับ",
+        "pos": "noun",
+        "example": "In this regard.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6857",
+        "word": "regarding",
+        "translation": "เกี่ยวกับ",
+        "pos": "prep",
+        "example": "Regarding your question.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6858",
+        "word": "regardless",
+        "translation": "โดยไม่คำนึงถึง",
+        "pos": "adv",
+        "example": "Regardless of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6859",
+        "word": "regime",
+        "translation": "ระบอบ",
+        "pos": "noun",
+        "example": "Political regime.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6860",
+        "word": "region",
+        "translation": "ภูมิภาค",
+        "pos": "noun",
+        "example": "Large region.",
+        "level": "basic"
+    },
+    {
+        "id": "v6861",
+        "word": "regional",
+        "translation": "ภูมิภาค",
+        "pos": "adj",
+        "example": "Regional office.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6862",
+        "word": "register",
+        "translation": "ลงทะเบียน",
+        "pos": "verb",
+        "example": "Register now.",
+        "level": "basic"
+    },
+    {
+        "id": "v6863",
+        "word": "registration",
+        "translation": "การลงทะเบียน",
+        "pos": "noun",
+        "example": "Online registration.",
+        "level": "basic"
+    },
+    {
+        "id": "v6864",
+        "word": "regret",
+        "translation": "เสียใจ",
+        "pos": "verb",
+        "example": "I regret.",
+        "level": "basic"
+    },
+    {
+        "id": "v6865",
+        "word": "regular",
+        "translation": "ปกติ",
+        "pos": "adj",
+        "example": "Regular customer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6866",
+        "word": "regularly",
+        "translation": "เป็นประจำ",
+        "pos": "adv",
+        "example": "Exercise regularly.",
+        "level": "basic"
+    },
+    {
+        "id": "v6867",
+        "word": "regulate",
+        "translation": "ควบคุม",
+        "pos": "verb",
+        "example": "Regulate industry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6868",
+        "word": "regulation",
+        "translation": "ระเบียบ",
+        "pos": "noun",
+        "example": "Follow regulations.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6869",
+        "word": "regulator",
+        "translation": "หน่วยงานกำกับ",
+        "pos": "noun",
+        "example": "Government regulator.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6870",
+        "word": "regulatory",
+        "translation": "กำกับดูแล",
+        "pos": "adj",
+        "example": "Regulatory body.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6871",
+        "word": "rehabilitation",
+        "translation": "การฟื้นฟู",
+        "pos": "noun",
+        "example": "Drug rehabilitation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6872",
+        "word": "reign",
+        "translation": "รัชกาล",
+        "pos": "noun",
+        "example": "Long reign.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6873",
+        "word": "reinforce",
+        "translation": "เสริม",
+        "pos": "verb",
+        "example": "Reinforce idea.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6874",
+        "word": "reject",
+        "translation": "ปฏิเสธ",
+        "pos": "verb",
+        "example": "Reject offer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6875",
+        "word": "rejection",
+        "translation": "การปฏิเสธ",
+        "pos": "noun",
+        "example": "Face rejection.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6876",
+        "word": "relate",
+        "translation": "เกี่ยวข้อง",
+        "pos": "verb",
+        "example": "Relate to.",
+        "level": "basic"
+    },
+    {
+        "id": "v6877",
+        "word": "related",
+        "translation": "เกี่ยวข้อง",
+        "pos": "adj",
+        "example": "Related to.",
+        "level": "basic"
+    },
+    {
+        "id": "v6878",
+        "word": "relation",
+        "translation": "ความสัมพันธ์",
+        "pos": "noun",
+        "example": "In relation to.",
+        "level": "basic"
+    },
+    {
+        "id": "v6879",
+        "word": "relationship",
+        "translation": "ความสัมพันธ์",
+        "pos": "noun",
+        "example": "Good relationship.",
+        "level": "basic"
+    },
+    {
+        "id": "v6880",
+        "word": "relative",
+        "translation": "ญาติ",
+        "pos": "noun",
+        "example": "Close relative.",
+        "level": "basic"
+    },
+    {
+        "id": "v6881",
+        "word": "relatively",
+        "translation": "ค่อนข้าง",
+        "pos": "adv",
+        "example": "Relatively easy.",
+        "level": "basic"
+    },
+    {
+        "id": "v6882",
+        "word": "relax",
+        "translation": "ผ่อนคลาย",
+        "pos": "verb",
+        "example": "Just relax.",
+        "level": "basic"
+    },
+    {
+        "id": "v6883",
+        "word": "relaxation",
+        "translation": "การพักผ่อน",
+        "pos": "noun",
+        "example": "Need relaxation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6884",
+        "word": "relaxed",
+        "translation": "ผ่อนคลาย",
+        "pos": "adj",
+        "example": "Feel relaxed.",
+        "level": "basic"
+    },
+    {
+        "id": "v6885",
+        "word": "relaxing",
+        "translation": "ผ่อนคลาย",
+        "pos": "adj",
+        "example": "Very relaxing.",
+        "level": "basic"
+    },
+    {
+        "id": "v6886",
+        "word": "relay",
+        "translation": "ถ่ายทอด",
+        "pos": "verb",
+        "example": "Relay race.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6887",
+        "word": "release",
+        "translation": "ปล่อย",
+        "pos": "verb",
+        "example": "Release product.",
+        "level": "basic"
+    },
+    {
+        "id": "v6888",
+        "word": "relevance",
+        "translation": "ความเกี่ยวข้อง",
+        "pos": "noun",
+        "example": "No relevance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6889",
+        "word": "relevant",
+        "translation": "เกี่ยวข้อง",
+        "pos": "adj",
+        "example": "Very relevant.",
+        "level": "basic"
+    },
+    {
+        "id": "v6890",
+        "word": "reliability",
+        "translation": "ความน่าเชื่อถือ",
+        "pos": "noun",
+        "example": "High reliability.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6891",
+        "word": "reliable",
+        "translation": "น่าเชื่อถือ",
+        "pos": "adj",
+        "example": "Very reliable.",
+        "level": "basic"
+    },
+    {
+        "id": "v6892",
+        "word": "relief",
+        "translation": "ความโล่งใจ",
+        "pos": "noun",
+        "example": "What a relief.",
+        "level": "basic"
+    },
+    {
+        "id": "v6893",
+        "word": "relieve",
+        "translation": "บรรเทา",
+        "pos": "verb",
+        "example": "Relieve pain.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6894",
+        "word": "religion",
+        "translation": "ศาสนา",
+        "pos": "noun",
+        "example": "World religion.",
+        "level": "basic"
+    },
+    {
+        "id": "v6895",
+        "word": "religious",
+        "translation": "ทางศาสนา",
+        "pos": "adj",
+        "example": "Religious beliefs.",
+        "level": "basic"
+    },
+    {
+        "id": "v6896",
+        "word": "reluctant",
+        "translation": "ไม่เต็มใจ",
+        "pos": "adj",
+        "example": "Reluctant to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6897",
+        "word": "rely",
+        "translation": "พึ่งพา",
+        "pos": "verb",
+        "example": "Rely on.",
+        "level": "basic"
+    },
+    {
+        "id": "v6898",
+        "word": "remain",
+        "translation": "ยังคง",
+        "pos": "verb",
+        "example": "Remain calm.",
+        "level": "basic"
+    },
+    {
+        "id": "v6899",
+        "word": "remaining",
+        "translation": "ที่เหลือ",
+        "pos": "adj",
+        "example": "Remaining time.",
+        "level": "basic"
+    },
+    {
+        "id": "v6900",
+        "word": "remains",
+        "translation": "ร่างที่เหลือ",
+        "pos": "noun",
+        "example": "Human remains.",
+        "level": "intermediate"
+    }
+]

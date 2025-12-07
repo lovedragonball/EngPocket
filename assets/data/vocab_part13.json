@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v1151",
+        "word": "guideline",
+        "translation": "แนวทาง",
+        "pos": "noun",
+        "example": "Follow guidelines.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1152",
+        "word": "guilty",
+        "translation": "ผิด",
+        "pos": "adj",
+        "example": "Feel guilty.",
+        "level": "basic"
+    },
+    {
+        "id": "v1153",
+        "word": "guitar",
+        "translation": "กีตาร์",
+        "pos": "noun",
+        "example": "Play guitar.",
+        "level": "basic"
+    },
+    {
+        "id": "v1154",
+        "word": "gun",
+        "translation": "ปืน",
+        "pos": "noun",
+        "example": "Water gun.",
+        "level": "basic"
+    },
+    {
+        "id": "v1155",
+        "word": "guy",
+        "translation": "ผู้ชาย",
+        "pos": "noun",
+        "example": "Nice guy.",
+        "level": "basic"
+    },
+    {
+        "id": "v1156",
+        "word": "gym",
+        "translation": "ยิม",
+        "pos": "noun",
+        "example": "Go to gym.",
+        "level": "basic"
+    },
+    {
+        "id": "v1157",
+        "word": "habit",
+        "translation": "นิสัย",
+        "pos": "noun",
+        "example": "Bad habit.",
+        "level": "basic"
+    },
+    {
+        "id": "v1158",
+        "word": "hair",
+        "translation": "ผม",
+        "pos": "noun",
+        "example": "Long hair.",
+        "level": "basic"
+    },
+    {
+        "id": "v1159",
+        "word": "half",
+        "translation": "ครึ่ง",
+        "pos": "noun",
+        "example": "Half an hour.",
+        "level": "basic"
+    },
+    {
+        "id": "v1160",
+        "word": "hall",
+        "translation": "ห้องโถง",
+        "pos": "noun",
+        "example": "Main hall.",
+        "level": "basic"
+    },
+    {
+        "id": "v1161",
+        "word": "hand",
+        "translation": "มือ",
+        "pos": "noun",
+        "example": "Raise your hand.",
+        "level": "basic"
+    },
+    {
+        "id": "v1162",
+        "word": "handle",
+        "translation": "จัดการ",
+        "pos": "verb",
+        "example": "Handle with care.",
+        "level": "basic"
+    },
+    {
+        "id": "v1163",
+        "word": "hang",
+        "translation": "แขวน",
+        "pos": "verb",
+        "example": "Hang up.",
+        "level": "basic"
+    },
+    {
+        "id": "v1164",
+        "word": "happen",
+        "translation": "เกิดขึ้น",
+        "pos": "verb",
+        "example": "What happened?",
+        "level": "basic"
+    },
+    {
+        "id": "v1165",
+        "word": "happiness",
+        "translation": "ความสุข",
+        "pos": "noun",
+        "example": "Find happiness.",
+        "level": "basic"
+    },
+    {
+        "id": "v1166",
+        "word": "happy",
+        "translation": "มีความสุข",
+        "pos": "adj",
+        "example": "Happy birthday!",
+        "level": "basic"
+    },
+    {
+        "id": "v1167",
+        "word": "harbor",
+        "translation": "ท่าเรือ",
+        "pos": "noun",
+        "example": "Pearl Harbor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1168",
+        "word": "hard",
+        "translation": "ยาก",
+        "pos": "adj",
+        "example": "Hard work.",
+        "level": "basic"
+    },
+    {
+        "id": "v1169",
+        "word": "hardly",
+        "translation": "แทบจะไม่",
+        "pos": "adv",
+        "example": "Hardly ever.",
+        "level": "basic"
+    },
+    {
+        "id": "v1170",
+        "word": "harm",
+        "translation": "อันตราย",
+        "pos": "noun",
+        "example": "No harm.",
+        "level": "basic"
+    },
+    {
+        "id": "v1171",
+        "word": "harmful",
+        "translation": "เป็นอันตราย",
+        "pos": "adj",
+        "example": "Harmful effects.",
+        "level": "basic"
+    },
+    {
+        "id": "v1172",
+        "word": "harmony",
+        "translation": "ความกลมกลืน",
+        "pos": "noun",
+        "example": "Live in harmony.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1173",
+        "word": "harsh",
+        "translation": "รุนแรง",
+        "pos": "adj",
+        "example": "Harsh weather.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1174",
+        "word": "hat",
+        "translation": "หมวก",
+        "pos": "noun",
+        "example": "Wear a hat.",
+        "level": "basic"
+    },
+    {
+        "id": "v1175",
+        "word": "hate",
+        "translation": "เกลียด",
+        "pos": "verb",
+        "example": "I hate that.",
+        "level": "basic"
+    },
+    {
+        "id": "v1176",
+        "word": "have",
+        "translation": "มี",
+        "pos": "verb",
+        "example": "I have.",
+        "level": "basic"
+    },
+    {
+        "id": "v1177",
+        "word": "he",
+        "translation": "เขา",
+        "pos": "pron",
+        "example": "He is here.",
+        "level": "basic"
+    },
+    {
+        "id": "v1178",
+        "word": "head",
+        "translation": "หัว",
+        "pos": "noun",
+        "example": "Use your head.",
+        "level": "basic"
+    },
+    {
+        "id": "v1179",
+        "word": "headline",
+        "translation": "พาดหัว",
+        "pos": "noun",
+        "example": "Make headlines.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1180",
+        "word": "headquarters",
+        "translation": "สำนักงานใหญ่",
+        "pos": "noun",
+        "example": "Company headquarters.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1181",
+        "word": "health",
+        "translation": "สุขภาพ",
+        "pos": "noun",
+        "example": "Good health.",
+        "level": "basic"
+    },
+    {
+        "id": "v1182",
+        "word": "healthy",
+        "translation": "สุขภาพดี",
+        "pos": "adj",
+        "example": "Stay healthy.",
+        "level": "basic"
+    },
+    {
+        "id": "v1183",
+        "word": "hear",
+        "translation": "ได้ยิน",
+        "pos": "verb",
+        "example": "Can you hear me?",
+        "level": "basic"
+    },
+    {
+        "id": "v1184",
+        "word": "hearing",
+        "translation": "การได้ยิน",
+        "pos": "noun",
+        "example": "Hearing loss.",
+        "level": "basic"
+    },
+    {
+        "id": "v1185",
+        "word": "heart",
+        "translation": "หัวใจ",
+        "pos": "noun",
+        "example": "Broken heart.",
+        "level": "basic"
+    },
+    {
+        "id": "v1186",
+        "word": "heat",
+        "translation": "ความร้อน",
+        "pos": "noun",
+        "example": "Feel the heat.",
+        "level": "basic"
+    },
+    {
+        "id": "v1187",
+        "word": "heaven",
+        "translation": "สวรรค์",
+        "pos": "noun",
+        "example": "Heaven on earth.",
+        "level": "basic"
+    },
+    {
+        "id": "v1188",
+        "word": "heavily",
+        "translation": "อย่างหนัก",
+        "pos": "adv",
+        "example": "Rain heavily.",
+        "level": "basic"
+    },
+    {
+        "id": "v1189",
+        "word": "heavy",
+        "translation": "หนัก",
+        "pos": "adj",
+        "example": "Heavy rain.",
+        "level": "basic"
+    },
+    {
+        "id": "v1190",
+        "word": "height",
+        "translation": "ความสูง",
+        "pos": "noun",
+        "example": "What's your height?",
+        "level": "basic"
+    },
+    {
+        "id": "v1191",
+        "word": "helicopter",
+        "translation": "เฮลิคอปเตอร์",
+        "pos": "noun",
+        "example": "Rescue helicopter.",
+        "level": "basic"
+    },
+    {
+        "id": "v1192",
+        "word": "hell",
+        "translation": "นรก",
+        "pos": "noun",
+        "example": "What the hell?",
+        "level": "basic"
+    },
+    {
+        "id": "v1193",
+        "word": "hello",
+        "translation": "สวัสดี",
+        "pos": "intj",
+        "example": "Hello there!",
+        "level": "basic"
+    },
+    {
+        "id": "v1194",
+        "word": "help",
+        "translation": "ช่วย",
+        "pos": "verb",
+        "example": "Help me please.",
+        "level": "basic"
+    },
+    {
+        "id": "v1195",
+        "word": "helpful",
+        "translation": "มีประโยชน์",
+        "pos": "adj",
+        "example": "Very helpful.",
+        "level": "basic"
+    },
+    {
+        "id": "v1196",
+        "word": "her",
+        "translation": "เธอ",
+        "pos": "pron",
+        "example": "Give it to her.",
+        "level": "basic"
+    },
+    {
+        "id": "v1197",
+        "word": "here",
+        "translation": "ที่นี่",
+        "pos": "adv",
+        "example": "Come here.",
+        "level": "basic"
+    },
+    {
+        "id": "v1198",
+        "word": "heritage",
+        "translation": "มรดก",
+        "pos": "noun",
+        "example": "Cultural heritage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1199",
+        "word": "hero",
+        "translation": "ฮีโร่",
+        "pos": "noun",
+        "example": "National hero.",
+        "level": "basic"
+    },
+    {
+        "id": "v1200",
+        "word": "herself",
+        "translation": "ตัวเธอเอง",
+        "pos": "pron",
+        "example": "She did it herself.",
+        "level": "basic"
+    },
+    {
+        "id": "v1201",
+        "word": "hesitate",
+        "translation": "ลังเล",
+        "pos": "verb",
+        "example": "Don't hesitate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1202",
+        "word": "hide",
+        "translation": "ซ่อน",
+        "pos": "verb",
+        "example": "Hide and seek.",
+        "level": "basic"
+    },
+    {
+        "id": "v1203",
+        "word": "high",
+        "translation": "สูง",
+        "pos": "adj",
+        "example": "High building.",
+        "level": "basic"
+    },
+    {
+        "id": "v1204",
+        "word": "highlight",
+        "translation": "ไฮไลท์",
+        "pos": "verb",
+        "example": "Highlight the text.",
+        "level": "basic"
+    },
+    {
+        "id": "v1205",
+        "word": "highly",
+        "translation": "อย่างสูง",
+        "pos": "adv",
+        "example": "Highly recommended.",
+        "level": "basic"
+    },
+    {
+        "id": "v1206",
+        "word": "highway",
+        "translation": "ทางหลวง",
+        "pos": "noun",
+        "example": "Highway toll.",
+        "level": "basic"
+    },
+    {
+        "id": "v1207",
+        "word": "hill",
+        "translation": "เนินเขา",
+        "pos": "noun",
+        "example": "Up the hill.",
+        "level": "basic"
+    },
+    {
+        "id": "v1208",
+        "word": "him",
+        "translation": "เขา",
+        "pos": "pron",
+        "example": "Give it to him.",
+        "level": "basic"
+    },
+    {
+        "id": "v1209",
+        "word": "himself",
+        "translation": "ตัวเขาเอง",
+        "pos": "pron",
+        "example": "He did it himself.",
+        "level": "basic"
+    },
+    {
+        "id": "v1210",
+        "word": "hint",
+        "translation": "คำใบ้",
+        "pos": "noun",
+        "example": "Give me a hint.",
+        "level": "basic"
+    },
+    {
+        "id": "v1211",
+        "word": "hip",
+        "translation": "สะโพก",
+        "pos": "noun",
+        "example": "Hip hop.",
+        "level": "basic"
+    },
+    {
+        "id": "v1212",
+        "word": "hire",
+        "translation": "จ้าง",
+        "pos": "verb",
+        "example": "Hire a car.",
+        "level": "basic"
+    },
+    {
+        "id": "v1213",
+        "word": "his",
+        "translation": "ของเขา",
+        "pos": "det",
+        "example": "His book.",
+        "level": "basic"
+    },
+    {
+        "id": "v1214",
+        "word": "historian",
+        "translation": "นักประวัติศาสตร์",
+        "pos": "noun",
+        "example": "Famous historian.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1215",
+        "word": "historic",
+        "translation": "ทางประวัติศาสตร์",
+        "pos": "adj",
+        "example": "Historic moment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1216",
+        "word": "historical",
+        "translation": "ทางประวัติศาสตร์",
+        "pos": "adj",
+        "example": "Historical evidence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1217",
+        "word": "history",
+        "translation": "ประวัติศาสตร์",
+        "pos": "noun",
+        "example": "World history.",
+        "level": "basic"
+    },
+    {
+        "id": "v1218",
+        "word": "hit",
+        "translation": "ตี",
+        "pos": "verb",
+        "example": "Hit the ball.",
+        "level": "basic"
+    },
+    {
+        "id": "v1219",
+        "word": "hobby",
+        "translation": "งานอดิเรก",
+        "pos": "noun",
+        "example": "My hobby.",
+        "level": "basic"
+    },
+    {
+        "id": "v1220",
+        "word": "hold",
+        "translation": "ถือ",
+        "pos": "verb",
+        "example": "Hold on.",
+        "level": "basic"
+    },
+    {
+        "id": "v1221",
+        "word": "hole",
+        "translation": "รู",
+        "pos": "noun",
+        "example": "Black hole.",
+        "level": "basic"
+    },
+    {
+        "id": "v1222",
+        "word": "holiday",
+        "translation": "วันหยุด",
+        "pos": "noun",
+        "example": "Public holiday.",
+        "level": "basic"
+    },
+    {
+        "id": "v1223",
+        "word": "holy",
+        "translation": "ศักดิ์สิทธิ์",
+        "pos": "adj",
+        "example": "Holy place.",
+        "level": "basic"
+    },
+    {
+        "id": "v1224",
+        "word": "home",
+        "translation": "บ้าน",
+        "pos": "noun",
+        "example": "Go home.",
+        "level": "basic"
+    },
+    {
+        "id": "v1225",
+        "word": "homeless",
+        "translation": "ไร้บ้าน",
+        "pos": "adj",
+        "example": "Homeless people.",
+        "level": "basic"
+    },
+    {
+        "id": "v1226",
+        "word": "homework",
+        "translation": "การบ้าน",
+        "pos": "noun",
+        "example": "Do homework.",
+        "level": "basic"
+    },
+    {
+        "id": "v1227",
+        "word": "honest",
+        "translation": "ซื่อสัตย์",
+        "pos": "adj",
+        "example": "Be honest.",
+        "level": "basic"
+    },
+    {
+        "id": "v1228",
+        "word": "honestly",
+        "translation": "อย่างซื่อสัตย์",
+        "pos": "adv",
+        "example": "Honestly speaking.",
+        "level": "basic"
+    },
+    {
+        "id": "v1229",
+        "word": "honey",
+        "translation": "น้ำผึ้ง",
+        "pos": "noun",
+        "example": "Sweet honey.",
+        "level": "basic"
+    },
+    {
+        "id": "v1230",
+        "word": "honor",
+        "translation": "เกียรติ",
+        "pos": "noun",
+        "example": "Great honor.",
+        "level": "basic"
+    },
+    {
+        "id": "v1231",
+        "word": "hook",
+        "translation": "ตะขอ",
+        "pos": "noun",
+        "example": "Fish hook.",
+        "level": "basic"
+    },
+    {
+        "id": "v1232",
+        "word": "hope",
+        "translation": "หวัง",
+        "pos": "verb",
+        "example": "I hope so.",
+        "level": "basic"
+    },
+    {
+        "id": "v1233",
+        "word": "hopefully",
+        "translation": "หวังว่า",
+        "pos": "adv",
+        "example": "Hopefully.",
+        "level": "basic"
+    },
+    {
+        "id": "v1234",
+        "word": "horizon",
+        "translation": "ขอบฟ้า",
+        "pos": "noun",
+        "example": "On the horizon.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1235",
+        "word": "horror",
+        "translation": "ความน่ากลัว",
+        "pos": "noun",
+        "example": "Horror movie.",
+        "level": "basic"
+    },
+    {
+        "id": "v1236",
+        "word": "horse",
+        "translation": "ม้า",
+        "pos": "noun",
+        "example": "Ride a horse.",
+        "level": "basic"
+    },
+    {
+        "id": "v1237",
+        "word": "hospital",
+        "translation": "โรงพยาบาล",
+        "pos": "noun",
+        "example": "Go to hospital.",
+        "level": "basic"
+    },
+    {
+        "id": "v1238",
+        "word": "host",
+        "translation": "เจ้าภาพ",
+        "pos": "noun",
+        "example": "Party host.",
+        "level": "basic"
+    },
+    {
+        "id": "v1239",
+        "word": "hot",
+        "translation": "ร้อน",
+        "pos": "adj",
+        "example": "Hot weather.",
+        "level": "basic"
+    },
+    {
+        "id": "v1240",
+        "word": "hotel",
+        "translation": "โรงแรม",
+        "pos": "noun",
+        "example": "Book a hotel.",
+        "level": "basic"
+    },
+    {
+        "id": "v1241",
+        "word": "hour",
+        "translation": "ชั่วโมง",
+        "pos": "noun",
+        "example": "One hour.",
+        "level": "basic"
+    },
+    {
+        "id": "v1242",
+        "word": "house",
+        "translation": "บ้าน",
+        "pos": "noun",
+        "example": "Big house.",
+        "level": "basic"
+    },
+    {
+        "id": "v1243",
+        "word": "household",
+        "translation": "ครัวเรือน",
+        "pos": "noun",
+        "example": "Household items.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1244",
+        "word": "housing",
+        "translation": "ที่อยู่อาศัย",
+        "pos": "noun",
+        "example": "Affordable housing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1245",
+        "word": "how",
+        "translation": "อย่างไร",
+        "pos": "adv",
+        "example": "How are you?",
+        "level": "basic"
+    },
+    {
+        "id": "v1246",
+        "word": "however",
+        "translation": "อย่างไรก็ตาม",
+        "pos": "adv",
+        "example": "However.",
+        "level": "basic"
+    },
+    {
+        "id": "v1247",
+        "word": "huge",
+        "translation": "ใหญ่มาก",
+        "pos": "adj",
+        "example": "Huge success.",
+        "level": "basic"
+    },
+    {
+        "id": "v1248",
+        "word": "human",
+        "translation": "มนุษย์",
+        "pos": "noun",
+        "example": "Human rights.",
+        "level": "basic"
+    },
+    {
+        "id": "v1249",
+        "word": "humor",
+        "translation": "อารมณ์ขัน",
+        "pos": "noun",
+        "example": "Sense of humor.",
+        "level": "basic"
+    },
+    {
+        "id": "v1250",
+        "word": "hundred",
+        "translation": "ร้อย",
+        "pos": "num",
+        "example": "One hundred.",
+        "level": "basic"
+    }
+]

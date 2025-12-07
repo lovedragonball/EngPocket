@@ -4,6 +4,7 @@ library;
 import 'package:flutter/material.dart';
 import '../../../../core/models/vocab_item.dart';
 import '../../../../config/app_theme.dart';
+import '../../../../core/services/tts_service.dart';
 
 class VocabCard extends StatefulWidget {
   final VocabItem vocab;
@@ -27,6 +28,7 @@ class VocabCard extends StatefulWidget {
 
 class _VocabCardState extends State<VocabCard> {
   bool _isFlipped = false;
+  final TtsService _tts = TtsService();
 
   @override
   void didUpdateWidget(VocabCard oldWidget) {
@@ -92,14 +94,27 @@ class _VocabCardState extends State<VocabCard> {
               ),
             ),
             const SizedBox(height: 24),
-            Text(
-              widget.vocab.word,
-              style: const TextStyle(
-                fontSize: 32,
-                fontWeight: FontWeight.bold,
-                color: AppTheme.textPrimaryColor,
-              ),
-              textAlign: TextAlign.center,
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Text(
+                  widget.vocab.word,
+                  style: const TextStyle(
+                    fontSize: 32,
+                    fontWeight: FontWeight.bold,
+                    color: AppTheme.textPrimaryColor,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(width: 8),
+                IconButton(
+                  onPressed: () => _tts.speak(widget.vocab.word),
+                  icon: const Icon(
+                    Icons.volume_up_rounded,
+                    color: AppTheme.vocabColor,
+                  ),
+                ),
+              ],
             ),
             const SizedBox(height: 16),
             Text(

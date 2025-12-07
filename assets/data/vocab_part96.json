@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v9401",
+        "word": "casino",
+        "translation": "คาสิโน",
+        "pos": "noun",
+        "example": "Gambling casino.",
+        "level": "basic"
+    },
+    {
+        "id": "v9402",
+        "word": "casket",
+        "translation": "โลงศพ",
+        "pos": "noun",
+        "example": "Wooden casket.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9403",
+        "word": "cast",
+        "translation": "หล่อ",
+        "pos": "verb",
+        "example": "Cast vote.",
+        "level": "basic"
+    },
+    {
+        "id": "v9404",
+        "word": "casting",
+        "translation": "การคัดเลือก",
+        "pos": "noun",
+        "example": "Casting call.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9405",
+        "word": "castle",
+        "translation": "ปราสาท",
+        "pos": "noun",
+        "example": "Medieval castle.",
+        "level": "basic"
+    },
+    {
+        "id": "v9406",
+        "word": "casual",
+        "translation": "ลำลอง",
+        "pos": "adj",
+        "example": "Casual dress.",
+        "level": "basic"
+    },
+    {
+        "id": "v9407",
+        "word": "casually",
+        "translation": "อย่างสบายๆ",
+        "pos": "adv",
+        "example": "Dress casually.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9408",
+        "word": "casualty",
+        "translation": "ผู้บาดเจ็บ",
+        "pos": "noun",
+        "example": "War casualty.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9409",
+        "word": "catalog",
+        "translation": "รายการ",
+        "pos": "noun",
+        "example": "Product catalog.",
+        "level": "basic"
+    },
+    {
+        "id": "v9410",
+        "word": "catalogue",
+        "translation": "แคตตาล็อก",
+        "pos": "noun",
+        "example": "Shopping catalogue.",
+        "level": "basic"
+    },
+    {
+        "id": "v9411",
+        "word": "catalyst",
+        "translation": "ตัวเร่งปฏิกิริยา",
+        "pos": "noun",
+        "example": "Catalyst for change.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9412",
+        "word": "catastrophe",
+        "translation": "หายนะ",
+        "pos": "noun",
+        "example": "Natural catastrophe.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9413",
+        "word": "catastrophic",
+        "translation": "เกี่ยวกับหายนะ",
+        "pos": "adj",
+        "example": "Catastrophic failure.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9414",
+        "word": "cater",
+        "translation": "จัดอาหาร",
+        "pos": "verb",
+        "example": "Cater for.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9415",
+        "word": "catering",
+        "translation": "การจัดอาหาร",
+        "pos": "noun",
+        "example": "Catering service.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9416",
+        "word": "caterpillar",
+        "translation": "หนอนผีเสื้อ",
+        "pos": "noun",
+        "example": "Green caterpillar.",
+        "level": "basic"
+    },
+    {
+        "id": "v9417",
+        "word": "cathedral",
+        "translation": "อาสนวิหาร",
+        "pos": "noun",
+        "example": "Grand cathedral.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9418",
+        "word": "catholic",
+        "translation": "คาทอลิก",
+        "pos": "adj",
+        "example": "Roman Catholic.",
+        "level": "basic"
+    },
+    {
+        "id": "v9419",
+        "word": "cattle",
+        "translation": "โคกระบือ",
+        "pos": "noun",
+        "example": "Cattle farm.",
+        "level": "basic"
+    },
+    {
+        "id": "v9420",
+        "word": "causal",
+        "translation": "เกี่ยวกับสาเหตุ",
+        "pos": "adj",
+        "example": "Causal relationship.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9421",
+        "word": "causation",
+        "translation": "การก่อให้เกิด",
+        "pos": "noun",
+        "example": "Cause and causation.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9422",
+        "word": "caution",
+        "translation": "ความระมัดระวัง",
+        "pos": "noun",
+        "example": "Exercise caution.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9423",
+        "word": "cautious",
+        "translation": "ระมัดระวัง",
+        "pos": "adj",
+        "example": "Be cautious.",
+        "level": "basic"
+    },
+    {
+        "id": "v9424",
+        "word": "cautiously",
+        "translation": "อย่างระมัดระวัง",
+        "pos": "adv",
+        "example": "Approach cautiously.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9425",
+        "word": "cavalry",
+        "translation": "ทหารม้า",
+        "pos": "noun",
+        "example": "Light cavalry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9426",
+        "word": "cave",
+        "translation": "ถ้ำ",
+        "pos": "noun",
+        "example": "Deep cave.",
+        "level": "basic"
+    },
+    {
+        "id": "v9427",
+        "word": "cavern",
+        "translation": "ถ้ำใหญ่",
+        "pos": "noun",
+        "example": "Underground cavern.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9428",
+        "word": "cavity",
+        "translation": "โพรง",
+        "pos": "noun",
+        "example": "Dental cavity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9429",
+        "word": "cease",
+        "translation": "หยุด",
+        "pos": "verb",
+        "example": "Cease fire.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9430",
+        "word": "ceasefire",
+        "translation": "การหยุดยิง",
+        "pos": "noun",
+        "example": "Declare ceasefire.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9431",
+        "word": "ceiling",
+        "translation": "เพดาน",
+        "pos": "noun",
+        "example": "High ceiling.",
+        "level": "basic"
+    },
+    {
+        "id": "v9432",
+        "word": "celebrated",
+        "translation": "มีชื่อเสียง",
+        "pos": "adj",
+        "example": "Celebrated author.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9433",
+        "word": "celebration",
+        "translation": "การเฉลิมฉลอง",
+        "pos": "noun",
+        "example": "Birthday celebration.",
+        "level": "basic"
+    },
+    {
+        "id": "v9434",
+        "word": "celebrity",
+        "translation": "คนดัง",
+        "pos": "noun",
+        "example": "Famous celebrity.",
+        "level": "basic"
+    },
+    {
+        "id": "v9435",
+        "word": "celestial",
+        "translation": "บนท้องฟ้า",
+        "pos": "adj",
+        "example": "Celestial bodies.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9436",
+        "word": "cell",
+        "translation": "เซลล์",
+        "pos": "noun",
+        "example": "Blood cell.",
+        "level": "basic"
+    },
+    {
+        "id": "v9437",
+        "word": "cellar",
+        "translation": "ห้องใต้ดิน",
+        "pos": "noun",
+        "example": "Wine cellar.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9438",
+        "word": "cellular",
+        "translation": "เซลลูลาร์",
+        "pos": "adj",
+        "example": "Cellular network.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9439",
+        "word": "cement",
+        "translation": "ซีเมนต์",
+        "pos": "noun",
+        "example": "Wet cement.",
+        "level": "basic"
+    },
+    {
+        "id": "v9440",
+        "word": "cemetery",
+        "translation": "สุสาน",
+        "pos": "noun",
+        "example": "Old cemetery.",
+        "level": "basic"
+    },
+    {
+        "id": "v9441",
+        "word": "censor",
+        "translation": "เซ็นเซอร์",
+        "pos": "verb",
+        "example": "Censor content.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9442",
+        "word": "censorship",
+        "translation": "การเซ็นเซอร์",
+        "pos": "noun",
+        "example": "Media censorship.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9443",
+        "word": "census",
+        "translation": "สำมะโนประชากร",
+        "pos": "noun",
+        "example": "National census.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9444",
+        "word": "centennial",
+        "translation": "ครบ 100 ปี",
+        "pos": "adj",
+        "example": "Centennial celebration.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9445",
+        "word": "centerpiece",
+        "translation": "จุดสำคัญ",
+        "pos": "noun",
+        "example": "Table centerpiece.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9446",
+        "word": "central",
+        "translation": "ศูนย์กลาง",
+        "pos": "adj",
+        "example": "Central location.",
+        "level": "basic"
+    },
+    {
+        "id": "v9447",
+        "word": "centralize",
+        "translation": "รวมศูนย์",
+        "pos": "verb",
+        "example": "Centralize power.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9448",
+        "word": "centralized",
+        "translation": "รวมศูนย์",
+        "pos": "adj",
+        "example": "Centralized system.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9449",
+        "word": "centric",
+        "translation": "เป็นศูนย์กลาง",
+        "pos": "adj",
+        "example": "Customer-centric.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9450",
+        "word": "cents",
+        "translation": "เซนต์",
+        "pos": "noun",
+        "example": "Fifty cents.",
+        "level": "basic"
+    },
+    {
+        "id": "v9451",
+        "word": "century",
+        "translation": "ศตวรรษ",
+        "pos": "noun",
+        "example": "21st century.",
+        "level": "basic"
+    },
+    {
+        "id": "v9452",
+        "word": "ceramic",
+        "translation": "เซรามิก",
+        "pos": "adj",
+        "example": "Ceramic tiles.",
+        "level": "basic"
+    },
+    {
+        "id": "v9453",
+        "word": "cereal",
+        "translation": "ซีเรียล",
+        "pos": "noun",
+        "example": "Breakfast cereal.",
+        "level": "basic"
+    },
+    {
+        "id": "v9454",
+        "word": "cerebral",
+        "translation": "สมอง",
+        "pos": "adj",
+        "example": "Cerebral palsy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9455",
+        "word": "ceremonial",
+        "translation": "พิธีการ",
+        "pos": "adj",
+        "example": "Ceremonial dress.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9456",
+        "word": "ceremony",
+        "translation": "พิธี",
+        "pos": "noun",
+        "example": "Wedding ceremony.",
+        "level": "basic"
+    },
+    {
+        "id": "v9457",
+        "word": "certainty",
+        "translation": "ความแน่นอน",
+        "pos": "noun",
+        "example": "With certainty.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9458",
+        "word": "certificate",
+        "translation": "ใบรับรอง",
+        "pos": "noun",
+        "example": "Birth certificate.",
+        "level": "basic"
+    },
+    {
+        "id": "v9459",
+        "word": "certification",
+        "translation": "การรับรอง",
+        "pos": "noun",
+        "example": "Professional certification.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9460",
+        "word": "certified",
+        "translation": "ได้รับการรับรอง",
+        "pos": "adj",
+        "example": "Certified organic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9461",
+        "word": "certify",
+        "translation": "รับรอง",
+        "pos": "verb",
+        "example": "Certify documents.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9462",
+        "word": "chain",
+        "translation": "โซ่",
+        "pos": "noun",
+        "example": "Chain reaction.",
+        "level": "basic"
+    },
+    {
+        "id": "v9463",
+        "word": "chairperson",
+        "translation": "ประธาน",
+        "pos": "noun",
+        "example": "Meeting chairperson.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9464",
+        "word": "chalk",
+        "translation": "ชอล์ก",
+        "pos": "noun",
+        "example": "White chalk.",
+        "level": "basic"
+    },
+    {
+        "id": "v9465",
+        "word": "challenged",
+        "translation": "ท้าทาย",
+        "pos": "adj",
+        "example": "Mentally challenged.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9466",
+        "word": "challenger",
+        "translation": "ผู้ท้าชิง",
+        "pos": "noun",
+        "example": "Title challenger.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9467",
+        "word": "challenging",
+        "translation": "ท้าทาย",
+        "pos": "adj",
+        "example": "Very challenging.",
+        "level": "basic"
+    },
+    {
+        "id": "v9468",
+        "word": "chamber",
+        "translation": "ห้อง",
+        "pos": "noun",
+        "example": "Chamber of commerce.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9469",
+        "word": "champagne",
+        "translation": "แชมเปญ",
+        "pos": "noun",
+        "example": "Champagne toast.",
+        "level": "basic"
+    },
+    {
+        "id": "v9470",
+        "word": "champion",
+        "translation": "แชมป์",
+        "pos": "noun",
+        "example": "World champion.",
+        "level": "basic"
+    },
+    {
+        "id": "v9471",
+        "word": "championship",
+        "translation": "การแข่งขันชิงแชมป์",
+        "pos": "noun",
+        "example": "Win championship.",
+        "level": "basic"
+    },
+    {
+        "id": "v9472",
+        "word": "chancellor",
+        "translation": "นายกรัฐมนตรี",
+        "pos": "noun",
+        "example": "German chancellor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9473",
+        "word": "chandelier",
+        "translation": "โคมระย้า",
+        "pos": "noun",
+        "example": "Crystal chandelier.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9474",
+        "word": "chant",
+        "translation": "สวด",
+        "pos": "verb",
+        "example": "Chant prayers.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9475",
+        "word": "chaos",
+        "translation": "ความวุ่นวาย",
+        "pos": "noun",
+        "example": "Total chaos.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9476",
+        "word": "chaotic",
+        "translation": "วุ่นวาย",
+        "pos": "adj",
+        "example": "Very chaotic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9477",
+        "word": "chapel",
+        "translation": "โบสถ์น้อย",
+        "pos": "noun",
+        "example": "Wedding chapel.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9478",
+        "word": "chapter",
+        "translation": "บท",
+        "pos": "noun",
+        "example": "Next chapter.",
+        "level": "basic"
+    },
+    {
+        "id": "v9479",
+        "word": "character",
+        "translation": "ตัวละคร",
+        "pos": "noun",
+        "example": "Main character.",
+        "level": "basic"
+    },
+    {
+        "id": "v9480",
+        "word": "characteristic",
+        "translation": "ลักษณะเฉพาะ",
+        "pos": "noun",
+        "example": "Key characteristic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9481",
+        "word": "characterize",
+        "translation": "อธิบายลักษณะ",
+        "pos": "verb",
+        "example": "Characterize as.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9482",
+        "word": "charcoal",
+        "translation": "ถ่าน",
+        "pos": "noun",
+        "example": "Charcoal grill.",
+        "level": "basic"
+    },
+    {
+        "id": "v9483",
+        "word": "charge",
+        "translation": "ค่าใช้จ่าย",
+        "pos": "noun",
+        "example": "Free of charge.",
+        "level": "basic"
+    },
+    {
+        "id": "v9484",
+        "word": "charged",
+        "translation": "ถูกตั้งข้อหา",
+        "pos": "adj",
+        "example": "Emotionally charged.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9485",
+        "word": "charger",
+        "translation": "ที่ชาร์จ",
+        "pos": "noun",
+        "example": "Phone charger.",
+        "level": "basic"
+    },
+    {
+        "id": "v9486",
+        "word": "charisma",
+        "translation": "เสน่ห์",
+        "pos": "noun",
+        "example": "Personal charisma.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9487",
+        "word": "charismatic",
+        "translation": "มีเสน่ห์",
+        "pos": "adj",
+        "example": "Charismatic leader.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9488",
+        "word": "charitable",
+        "translation": "การกุศล",
+        "pos": "adj",
+        "example": "Charitable donation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9489",
+        "word": "charity",
+        "translation": "การกุศล",
+        "pos": "noun",
+        "example": "Give to charity.",
+        "level": "basic"
+    },
+    {
+        "id": "v9490",
+        "word": "charm",
+        "translation": "เสน่ห์",
+        "pos": "noun",
+        "example": "Personal charm.",
+        "level": "basic"
+    },
+    {
+        "id": "v9491",
+        "word": "charming",
+        "translation": "มีเสน่ห์",
+        "pos": "adj",
+        "example": "Very charming.",
+        "level": "basic"
+    },
+    {
+        "id": "v9492",
+        "word": "chart",
+        "translation": "แผนภูมิ",
+        "pos": "noun",
+        "example": "Bar chart.",
+        "level": "basic"
+    },
+    {
+        "id": "v9493",
+        "word": "charter",
+        "translation": "กฎบัตร",
+        "pos": "noun",
+        "example": "City charter.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9494",
+        "word": "chase",
+        "translation": "ไล่ตาม",
+        "pos": "verb",
+        "example": "Chase after.",
+        "level": "basic"
+    },
+    {
+        "id": "v9495",
+        "word": "chasm",
+        "translation": "ช่องว่าง",
+        "pos": "noun",
+        "example": "Deep chasm.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9496",
+        "word": "chassis",
+        "translation": "โครงรถ",
+        "pos": "noun",
+        "example": "Car chassis.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9497",
+        "word": "chat",
+        "translation": "แชท",
+        "pos": "verb",
+        "example": "Chat online.",
+        "level": "basic"
+    },
+    {
+        "id": "v9498",
+        "word": "chatter",
+        "translation": "คุยกัน",
+        "pos": "verb",
+        "example": "Idle chatter.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9499",
+        "word": "chauffeur",
+        "translation": "คนขับรถ",
+        "pos": "noun",
+        "example": "Private chauffeur.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9500",
+        "word": "cheaply",
+        "translation": "ราคาถูก",
+        "pos": "adv",
+        "example": "Buy cheaply.",
+        "level": "basic"
+    }
+]

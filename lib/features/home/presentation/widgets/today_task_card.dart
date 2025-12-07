@@ -38,8 +38,8 @@ class TodayTaskCard extends StatelessWidget {
               Container(
                 padding: const EdgeInsets.all(12),
                 decoration: BoxDecoration(
-                  color: isDone 
-                      ? Colors.grey.shade300 
+                  color: isDone
+                      ? Colors.grey.shade300
                       : color.withValues(alpha: 0.1),
                   borderRadius: BorderRadius.circular(12),
                 ),
@@ -68,14 +68,15 @@ class TodayTaskCard extends StatelessWidget {
                       subtitle,
                       style: TextStyle(
                         fontSize: 13,
-                        color: isDone ? Colors.grey : AppTheme.textSecondaryColor,
+                        color:
+                            isDone ? Colors.grey : AppTheme.textSecondaryColor,
                       ),
                     ),
                   ],
                 ),
               ),
               if (!isDone)
-                Icon(
+                const Icon(
                   Icons.chevron_right_rounded,
                   color: AppTheme.textSecondaryColor,
                 ),

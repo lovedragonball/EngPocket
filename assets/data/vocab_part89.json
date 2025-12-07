@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v8701",
+        "word": "alphabetical",
+        "translation": "ตามลำดับตัวอักษร",
+        "pos": "adj",
+        "example": "Alphabetical order.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8702",
+        "word": "alter",
+        "translation": "เปลี่ยนแปลง",
+        "pos": "verb",
+        "example": "Alter appearance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8703",
+        "word": "alteration",
+        "translation": "การเปลี่ยนแปลง",
+        "pos": "noun",
+        "example": "Minor alteration.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8704",
+        "word": "alternate",
+        "translation": "สลับ",
+        "pos": "verb",
+        "example": "Alternate between.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8705",
+        "word": "alternating",
+        "translation": "สลับกัน",
+        "pos": "adj",
+        "example": "Alternating current.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8706",
+        "word": "altitude",
+        "translation": "ระดับความสูง",
+        "pos": "noun",
+        "example": "High altitude.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8707",
+        "word": "altogether",
+        "translation": "ทั้งหมด",
+        "pos": "adv",
+        "example": "Altogether.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8708",
+        "word": "aluminum",
+        "translation": "อะลูมิเนียม",
+        "pos": "noun",
+        "example": "Aluminum foil.",
+        "level": "basic"
+    },
+    {
+        "id": "v8709",
+        "word": "ambassador",
+        "translation": "เอกอัครราชทูต",
+        "pos": "noun",
+        "example": "US ambassador.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8710",
+        "word": "ambiguity",
+        "translation": "ความคลุมเครือ",
+        "pos": "noun",
+        "example": "Avoid ambiguity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8711",
+        "word": "ambiguous",
+        "translation": "คลุมเครือ",
+        "pos": "adj",
+        "example": "Ambiguous meaning.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8712",
+        "word": "ambition",
+        "translation": "ความทะเยอทะยาน",
+        "pos": "noun",
+        "example": "Great ambition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8713",
+        "word": "ambitious",
+        "translation": "ทะเยอทะยาน",
+        "pos": "adj",
+        "example": "Very ambitious.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8714",
+        "word": "ambulance",
+        "translation": "รถพยาบาล",
+        "pos": "noun",
+        "example": "Call ambulance.",
+        "level": "basic"
+    },
+    {
+        "id": "v8715",
+        "word": "amendment",
+        "translation": "การแก้ไข",
+        "pos": "noun",
+        "example": "Constitutional amendment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8716",
+        "word": "amid",
+        "translation": "ท่ามกลาง",
+        "pos": "prep",
+        "example": "Amid chaos.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8717",
+        "word": "ammunition",
+        "translation": "กระสุน",
+        "pos": "noun",
+        "example": "Live ammunition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8718",
+        "word": "amnesty",
+        "translation": "การนิรโทษกรรม",
+        "pos": "noun",
+        "example": "Grant amnesty.",
+        "level": "advanced"
+    },
+    {
+        "id": "v8719",
+        "word": "amplify",
+        "translation": "ขยาย",
+        "pos": "verb",
+        "example": "Amplify sound.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8720",
+        "word": "amuse",
+        "translation": "บันเทิง",
+        "pos": "verb",
+        "example": "Amuse someone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8721",
+        "word": "amusement",
+        "translation": "ความบันเทิง",
+        "pos": "noun",
+        "example": "Amusement park.",
+        "level": "basic"
+    },
+    {
+        "id": "v8722",
+        "word": "amusing",
+        "translation": "ขำขัน",
+        "pos": "adj",
+        "example": "Very amusing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8723",
+        "word": "analog",
+        "translation": "อนาล็อก",
+        "pos": "adj",
+        "example": "Analog clock.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8724",
+        "word": "analogy",
+        "translation": "การเปรียบเทียบ",
+        "pos": "noun",
+        "example": "Draw an analogy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8725",
+        "word": "analyse",
+        "translation": "วิเคราะห์",
+        "pos": "verb",
+        "example": "Analyse data.",
+        "level": "basic"
+    },
+    {
+        "id": "v8726",
+        "word": "analyst",
+        "translation": "นักวิเคราะห์",
+        "pos": "noun",
+        "example": "Financial analyst.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8727",
+        "word": "analytical",
+        "translation": "เชิงวิเคราะห์",
+        "pos": "adj",
+        "example": "Analytical thinking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8728",
+        "word": "analyze",
+        "translation": "วิเคราะห์",
+        "pos": "verb",
+        "example": "Analyze results.",
+        "level": "basic"
+    },
+    {
+        "id": "v8729",
+        "word": "anatomy",
+        "translation": "กายวิภาค",
+        "pos": "noun",
+        "example": "Human anatomy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8730",
+        "word": "ancestor",
+        "translation": "บรรพบุรุษ",
+        "pos": "noun",
+        "example": "Our ancestors.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8731",
+        "word": "anchor",
+        "translation": "สมอ",
+        "pos": "noun",
+        "example": "Drop anchor.",
+        "level": "basic"
+    },
+    {
+        "id": "v8732",
+        "word": "ancient",
+        "translation": "โบราณ",
+        "pos": "adj",
+        "example": "Ancient history.",
+        "level": "basic"
+    },
+    {
+        "id": "v8733",
+        "word": "anew",
+        "translation": "อีกครั้ง",
+        "pos": "adv",
+        "example": "Start anew.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8734",
+        "word": "angel",
+        "translation": "นางฟ้า",
+        "pos": "noun",
+        "example": "Guardian angel.",
+        "level": "basic"
+    },
+    {
+        "id": "v8735",
+        "word": "animate",
+        "translation": "ทำให้เคลื่อนไหว",
+        "pos": "verb",
+        "example": "Animate character.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8736",
+        "word": "animated",
+        "translation": "แอนิเมชัน",
+        "pos": "adj",
+        "example": "Animated movie.",
+        "level": "basic"
+    },
+    {
+        "id": "v8737",
+        "word": "animation",
+        "translation": "แอนิเมชัน",
+        "pos": "noun",
+        "example": "Computer animation.",
+        "level": "basic"
+    },
+    {
+        "id": "v8738",
+        "word": "ankle",
+        "translation": "ข้อเท้า",
+        "pos": "noun",
+        "example": "Twisted ankle.",
+        "level": "basic"
+    },
+    {
+        "id": "v8739",
+        "word": "anniversary",
+        "translation": "วันครบรอบ",
+        "pos": "noun",
+        "example": "Wedding anniversary.",
+        "level": "basic"
+    },
+    {
+        "id": "v8740",
+        "word": "annotate",
+        "translation": "ใส่คำอธิบาย",
+        "pos": "verb",
+        "example": "Annotate document.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8741",
+        "word": "announce",
+        "translation": "ประกาศ",
+        "pos": "verb",
+        "example": "Announce winner.",
+        "level": "basic"
+    },
+    {
+        "id": "v8742",
+        "word": "announcement",
+        "translation": "ประกาศ",
+        "pos": "noun",
+        "example": "Official announcement.",
+        "level": "basic"
+    },
+    {
+        "id": "v8743",
+        "word": "annoy",
+        "translation": "รำคาญ",
+        "pos": "verb",
+        "example": "Annoy someone.",
+        "level": "basic"
+    },
+    {
+        "id": "v8744",
+        "word": "annoyance",
+        "translation": "ความรำคาญ",
+        "pos": "noun",
+        "example": "Cause annoyance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8745",
+        "word": "annoyed",
+        "translation": "รำคาญ",
+        "pos": "adj",
+        "example": "Get annoyed.",
+        "level": "basic"
+    },
+    {
+        "id": "v8746",
+        "word": "annoying",
+        "translation": "น่ารำคาญ",
+        "pos": "adj",
+        "example": "Very annoying.",
+        "level": "basic"
+    },
+    {
+        "id": "v8747",
+        "word": "annually",
+        "translation": "รายปี",
+        "pos": "adv",
+        "example": "Meet annually.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8748",
+        "word": "anonymous",
+        "translation": "ไม่ระบุชื่อ",
+        "pos": "adj",
+        "example": "Anonymous source.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8749",
+        "word": "anonymously",
+        "translation": "อย่างไม่ระบุชื่อ",
+        "pos": "adv",
+        "example": "Post anonymously.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8750",
+        "word": "anthem",
+        "translation": "เพลงชาติ",
+        "pos": "noun",
+        "example": "National anthem.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8751",
+        "word": "antibiotic",
+        "translation": "ยาปฏิชีวนะ",
+        "pos": "noun",
+        "example": "Take antibiotics.",
+        "level": "basic"
+    },
+    {
+        "id": "v8752",
+        "word": "anticipate",
+        "translation": "คาดการณ์",
+        "pos": "verb",
+        "example": "Anticipate problems.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8753",
+        "word": "anticipated",
+        "translation": "ที่คาดหวัง",
+        "pos": "adj",
+        "example": "Highly anticipated.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8754",
+        "word": "anticipation",
+        "translation": "การคาดหวัง",
+        "pos": "noun",
+        "example": "In anticipation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8755",
+        "word": "antique",
+        "translation": "โบราณวัตถุ",
+        "pos": "noun",
+        "example": "Antique shop.",
+        "level": "basic"
+    },
+    {
+        "id": "v8756",
+        "word": "antisocial",
+        "translation": "ต่อต้านสังคม",
+        "pos": "adj",
+        "example": "Antisocial behavior.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8757",
+        "word": "anxiety",
+        "translation": "ความวิตกกังวล",
+        "pos": "noun",
+        "example": "Feel anxiety.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8758",
+        "word": "anxious",
+        "translation": "กังวล",
+        "pos": "adj",
+        "example": "Feel anxious.",
+        "level": "basic"
+    },
+    {
+        "id": "v8759",
+        "word": "anxiously",
+        "translation": "อย่างกระวนกระวาย",
+        "pos": "adv",
+        "example": "Wait anxiously.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8760",
+        "word": "anyhow",
+        "translation": "อย่างไรก็ตาม",
+        "pos": "adv",
+        "example": "Anyhow.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8761",
+        "word": "anymore",
+        "translation": "อีกต่อไป",
+        "pos": "adv",
+        "example": "Not anymore.",
+        "level": "basic"
+    },
+    {
+        "id": "v8762",
+        "word": "anyone",
+        "translation": "ใครก็ตาม",
+        "pos": "pron",
+        "example": "Anyone else?",
+        "level": "basic"
+    },
+    {
+        "id": "v8763",
+        "word": "anyplace",
+        "translation": "ที่ใดก็ได้",
+        "pos": "adv",
+        "example": "Anyplace else.",
+        "level": "basic"
+    },
+    {
+        "id": "v8764",
+        "word": "anytime",
+        "translation": "เมื่อไหร่ก็ได้",
+        "pos": "adv",
+        "example": "Anytime.",
+        "level": "basic"
+    },
+    {
+        "id": "v8765",
+        "word": "anyway",
+        "translation": "อย่างไรก็ตาม",
+        "pos": "adv",
+        "example": "Anyway.",
+        "level": "basic"
+    },
+    {
+        "id": "v8766",
+        "word": "anywhere",
+        "translation": "ที่ไหนก็ได้",
+        "pos": "adv",
+        "example": "Go anywhere.",
+        "level": "basic"
+    },
+    {
+        "id": "v8767",
+        "word": "apache",
+        "translation": "อาปาเช่",
+        "pos": "noun",
+        "example": "Apache server.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8768",
+        "word": "apart",
+        "translation": "แยกออก",
+        "pos": "adv",
+        "example": "Fall apart.",
+        "level": "basic"
+    },
+    {
+        "id": "v8769",
+        "word": "apartheid",
+        "translation": "การแบ่งแยกสีผิว",
+        "pos": "noun",
+        "example": "End apartheid.",
+        "level": "advanced"
+    },
+    {
+        "id": "v8770",
+        "word": "apathy",
+        "translation": "ความเฉยเมย",
+        "pos": "noun",
+        "example": "Political apathy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8771",
+        "word": "ape",
+        "translation": "ลิง",
+        "pos": "noun",
+        "example": "Great ape.",
+        "level": "basic"
+    },
+    {
+        "id": "v8772",
+        "word": "apologize",
+        "translation": "ขอโทษ",
+        "pos": "verb",
+        "example": "Please apologize.",
+        "level": "basic"
+    },
+    {
+        "id": "v8773",
+        "word": "apology",
+        "translation": "คำขอโทษ",
+        "pos": "noun",
+        "example": "Sincere apology.",
+        "level": "basic"
+    },
+    {
+        "id": "v8774",
+        "word": "apostle",
+        "translation": "อัครสาวก",
+        "pos": "noun",
+        "example": "The apostles.",
+        "level": "advanced"
+    },
+    {
+        "id": "v8775",
+        "word": "apparatus",
+        "translation": "เครื่องมือ",
+        "pos": "noun",
+        "example": "Breathing apparatus.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8776",
+        "word": "apparel",
+        "translation": "เครื่องแต่งกาย",
+        "pos": "noun",
+        "example": "Sports apparel.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8777",
+        "word": "apparent",
+        "translation": "ชัดเจน",
+        "pos": "adj",
+        "example": "Apparently clear.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8778",
+        "word": "apparently",
+        "translation": "ดูเหมือนว่า",
+        "pos": "adv",
+        "example": "Apparently.",
+        "level": "basic"
+    },
+    {
+        "id": "v8779",
+        "word": "appeal",
+        "translation": "อุทธรณ์",
+        "pos": "verb",
+        "example": "Appeal decision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8780",
+        "word": "appealing",
+        "translation": "น่าดึงดูด",
+        "pos": "adj",
+        "example": "Very appealing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8781",
+        "word": "appearance",
+        "translation": "รูปร่าง",
+        "pos": "noun",
+        "example": "Physical appearance.",
+        "level": "basic"
+    },
+    {
+        "id": "v8782",
+        "word": "appendix",
+        "translation": "ภาคผนวก",
+        "pos": "noun",
+        "example": "See appendix.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8783",
+        "word": "appetite",
+        "translation": "ความอยากอาหาร",
+        "pos": "noun",
+        "example": "Good appetite.",
+        "level": "basic"
+    },
+    {
+        "id": "v8784",
+        "word": "applaud",
+        "translation": "ปรบมือ",
+        "pos": "verb",
+        "example": "Applaud loudly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8785",
+        "word": "applause",
+        "translation": "เสียงปรบมือ",
+        "pos": "noun",
+        "example": "Loud applause.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8786",
+        "word": "apple",
+        "translation": "แอปเปิ้ล",
+        "pos": "noun",
+        "example": "Red apple.",
+        "level": "basic"
+    },
+    {
+        "id": "v8787",
+        "word": "applicable",
+        "translation": "ใช้ได้",
+        "pos": "adj",
+        "example": "Where applicable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8788",
+        "word": "applicant",
+        "translation": "ผู้สมัคร",
+        "pos": "noun",
+        "example": "Job applicant.",
+        "level": "basic"
+    },
+    {
+        "id": "v8789",
+        "word": "applied",
+        "translation": "ประยุกต์",
+        "pos": "adj",
+        "example": "Applied science.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8790",
+        "word": "appoint",
+        "translation": "แต่งตั้ง",
+        "pos": "verb",
+        "example": "Appoint someone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8791",
+        "word": "appointed",
+        "translation": "ที่แต่งตั้ง",
+        "pos": "adj",
+        "example": "Newly appointed.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8792",
+        "word": "appointment",
+        "translation": "นัดหมาย",
+        "pos": "noun",
+        "example": "Doctor's appointment.",
+        "level": "basic"
+    },
+    {
+        "id": "v8793",
+        "word": "appraisal",
+        "translation": "การประเมิน",
+        "pos": "noun",
+        "example": "Performance appraisal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8794",
+        "word": "appreciate",
+        "translation": "ชื่นชม",
+        "pos": "verb",
+        "example": "Really appreciate.",
+        "level": "basic"
+    },
+    {
+        "id": "v8795",
+        "word": "appreciated",
+        "translation": "ชื่นชม",
+        "pos": "adj",
+        "example": "Much appreciated.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8796",
+        "word": "appreciation",
+        "translation": "ความซาบซึ้ง",
+        "pos": "noun",
+        "example": "Show appreciation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8797",
+        "word": "apprentice",
+        "translation": "ลูกมือ",
+        "pos": "noun",
+        "example": "Young apprentice.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8798",
+        "word": "appropriately",
+        "translation": "อย่างเหมาะสม",
+        "pos": "adv",
+        "example": "Dress appropriately.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8799",
+        "word": "approval",
+        "translation": "การอนุมัติ",
+        "pos": "noun",
+        "example": "Get approval.",
+        "level": "basic"
+    },
+    {
+        "id": "v8800",
+        "word": "approximately",
+        "translation": "ประมาณ",
+        "pos": "adv",
+        "example": "Approximately.",
+        "level": "intermediate"
+    }
+]

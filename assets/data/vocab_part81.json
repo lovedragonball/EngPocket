@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v7901",
+        "word": "though",
+        "translation": "แม้ว่า",
+        "pos": "conj",
+        "example": "Even though.",
+        "level": "basic"
+    },
+    {
+        "id": "v7902",
+        "word": "thought",
+        "translation": "ความคิด",
+        "pos": "noun",
+        "example": "Deep thought.",
+        "level": "basic"
+    },
+    {
+        "id": "v7903",
+        "word": "thoughtful",
+        "translation": "รอบคอบ",
+        "pos": "adj",
+        "example": "Very thoughtful.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7904",
+        "word": "thousand",
+        "translation": "พัน",
+        "pos": "num",
+        "example": "One thousand.",
+        "level": "basic"
+    },
+    {
+        "id": "v7905",
+        "word": "thread",
+        "translation": "เส้นด้าย",
+        "pos": "noun",
+        "example": "Thread and needle.",
+        "level": "basic"
+    },
+    {
+        "id": "v7906",
+        "word": "threat",
+        "translation": "ภัยคุกคาม",
+        "pos": "noun",
+        "example": "Security threat.",
+        "level": "basic"
+    },
+    {
+        "id": "v7907",
+        "word": "threaten",
+        "translation": "ขู่",
+        "pos": "verb",
+        "example": "Threaten to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7908",
+        "word": "threatened",
+        "translation": "ถูกคุกคาม",
+        "pos": "adj",
+        "example": "Feel threatened.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7909",
+        "word": "threatening",
+        "translation": "คุกคาม",
+        "pos": "adj",
+        "example": "Threatening behavior.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7910",
+        "word": "three",
+        "translation": "สาม",
+        "pos": "num",
+        "example": "Three days.",
+        "level": "basic"
+    },
+    {
+        "id": "v7911",
+        "word": "thrill",
+        "translation": "ตื่นเต้น",
+        "pos": "noun",
+        "example": "Thrill ride.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7912",
+        "word": "thrilled",
+        "translation": "ตื่นเต้น",
+        "pos": "adj",
+        "example": "I'm thrilled.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7913",
+        "word": "thriller",
+        "translation": "หนังระทึกขวัญ",
+        "pos": "noun",
+        "example": "Crime thriller.",
+        "level": "basic"
+    },
+    {
+        "id": "v7914",
+        "word": "thrilling",
+        "translation": "น่าตื่นเต้น",
+        "pos": "adj",
+        "example": "Thrilling adventure.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7915",
+        "word": "thrive",
+        "translation": "เจริญรุ่งเรือง",
+        "pos": "verb",
+        "example": "Business thrives.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7916",
+        "word": "throat",
+        "translation": "คอ",
+        "pos": "noun",
+        "example": "Sore throat.",
+        "level": "basic"
+    },
+    {
+        "id": "v7917",
+        "word": "throne",
+        "translation": "บัลลังก์",
+        "pos": "noun",
+        "example": "Royal throne.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7918",
+        "word": "through",
+        "translation": "ผ่าน",
+        "pos": "prep",
+        "example": "Go through.",
+        "level": "basic"
+    },
+    {
+        "id": "v7919",
+        "word": "throughout",
+        "translation": "ตลอด",
+        "pos": "prep",
+        "example": "Throughout the day.",
+        "level": "basic"
+    },
+    {
+        "id": "v7920",
+        "word": "throw",
+        "translation": "โยน",
+        "pos": "verb",
+        "example": "Throw away.",
+        "level": "basic"
+    },
+    {
+        "id": "v7921",
+        "word": "thrust",
+        "translation": "ผลัก",
+        "pos": "verb",
+        "example": "Thrust forward.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7922",
+        "word": "thumb",
+        "translation": "นิ้วโป้ง",
+        "pos": "noun",
+        "example": "Thumbs up.",
+        "level": "basic"
+    },
+    {
+        "id": "v7923",
+        "word": "thunder",
+        "translation": "ฟ้าร้อง",
+        "pos": "noun",
+        "example": "Loud thunder.",
+        "level": "basic"
+    },
+    {
+        "id": "v7924",
+        "word": "thursday",
+        "translation": "วันพฤหัส",
+        "pos": "noun",
+        "example": "Every Thursday.",
+        "level": "basic"
+    },
+    {
+        "id": "v7925",
+        "word": "thus",
+        "translation": "ดังนั้น",
+        "pos": "adv",
+        "example": "Thus.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7926",
+        "word": "ticket",
+        "translation": "ตั๋ว",
+        "pos": "noun",
+        "example": "Buy ticket.",
+        "level": "basic"
+    },
+    {
+        "id": "v7927",
+        "word": "tide",
+        "translation": "คลื่น",
+        "pos": "noun",
+        "example": "High tide.",
+        "level": "basic"
+    },
+    {
+        "id": "v7928",
+        "word": "tidy",
+        "translation": "เรียบร้อย",
+        "pos": "adj",
+        "example": "Keep it tidy.",
+        "level": "basic"
+    },
+    {
+        "id": "v7929",
+        "word": "tie",
+        "translation": "ผูก",
+        "pos": "verb",
+        "example": "Tie knot.",
+        "level": "basic"
+    },
+    {
+        "id": "v7930",
+        "word": "tiger",
+        "translation": "เสือ",
+        "pos": "noun",
+        "example": "Wild tiger.",
+        "level": "basic"
+    },
+    {
+        "id": "v7931",
+        "word": "tight",
+        "translation": "แน่น",
+        "pos": "adj",
+        "example": "Very tight.",
+        "level": "basic"
+    },
+    {
+        "id": "v7932",
+        "word": "tighten",
+        "translation": "ทำให้แน่น",
+        "pos": "verb",
+        "example": "Tighten screws.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7933",
+        "word": "tightly",
+        "translation": "อย่างแน่น",
+        "pos": "adv",
+        "example": "Hold tightly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7934",
+        "word": "tile",
+        "translation": "กระเบื้อง",
+        "pos": "noun",
+        "example": "Floor tile.",
+        "level": "basic"
+    },
+    {
+        "id": "v7935",
+        "word": "till",
+        "translation": "จนกระทั่ง",
+        "pos": "prep",
+        "example": "Wait till.",
+        "level": "basic"
+    },
+    {
+        "id": "v7936",
+        "word": "timber",
+        "translation": "ไม้",
+        "pos": "noun",
+        "example": "Timber industry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7937",
+        "word": "time",
+        "translation": "เวลา",
+        "pos": "noun",
+        "example": "What time?",
+        "level": "basic"
+    },
+    {
+        "id": "v7938",
+        "word": "timeline",
+        "translation": "ไทม์ไลน์",
+        "pos": "noun",
+        "example": "Project timeline.",
+        "level": "basic"
+    },
+    {
+        "id": "v7939",
+        "word": "timer",
+        "translation": "นาฬิกาจับเวลา",
+        "pos": "noun",
+        "example": "Set timer.",
+        "level": "basic"
+    },
+    {
+        "id": "v7940",
+        "word": "timing",
+        "translation": "จังหวะ",
+        "pos": "noun",
+        "example": "Perfect timing.",
+        "level": "basic"
+    },
+    {
+        "id": "v7941",
+        "word": "tin",
+        "translation": "ดีบุก",
+        "pos": "noun",
+        "example": "Tin can.",
+        "level": "basic"
+    },
+    {
+        "id": "v7942",
+        "word": "tiny",
+        "translation": "เล็กมาก",
+        "pos": "adj",
+        "example": "Very tiny.",
+        "level": "basic"
+    },
+    {
+        "id": "v7943",
+        "word": "tip",
+        "translation": "ทิป",
+        "pos": "noun",
+        "example": "Leave a tip.",
+        "level": "basic"
+    },
+    {
+        "id": "v7944",
+        "word": "tire",
+        "translation": "ยางรถ",
+        "pos": "noun",
+        "example": "Flat tire.",
+        "level": "basic"
+    },
+    {
+        "id": "v7945",
+        "word": "tired",
+        "translation": "เหนื่อย",
+        "pos": "adj",
+        "example": "Feel tired.",
+        "level": "basic"
+    },
+    {
+        "id": "v7946",
+        "word": "tiresome",
+        "translation": "น่าเบื่อ",
+        "pos": "adj",
+        "example": "Very tiresome.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7947",
+        "word": "tiring",
+        "translation": "เหนื่อย",
+        "pos": "adj",
+        "example": "Very tiring.",
+        "level": "basic"
+    },
+    {
+        "id": "v7948",
+        "word": "tissue",
+        "translation": "เนื้อเยื่อ",
+        "pos": "noun",
+        "example": "Tissue paper.",
+        "level": "basic"
+    },
+    {
+        "id": "v7949",
+        "word": "title",
+        "translation": "ชื่อ",
+        "pos": "noun",
+        "example": "Book title.",
+        "level": "basic"
+    },
+    {
+        "id": "v7950",
+        "word": "to",
+        "translation": "ไปยัง",
+        "pos": "prep",
+        "example": "Go to.",
+        "level": "basic"
+    },
+    {
+        "id": "v7951",
+        "word": "toast",
+        "translation": "ขนมปังปิ้ง",
+        "pos": "noun",
+        "example": "Buttered toast.",
+        "level": "basic"
+    },
+    {
+        "id": "v7952",
+        "word": "tobacco",
+        "translation": "ยาสูบ",
+        "pos": "noun",
+        "example": "Tobacco industry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7953",
+        "word": "today",
+        "translation": "วันนี้",
+        "pos": "adv",
+        "example": "Today is.",
+        "level": "basic"
+    },
+    {
+        "id": "v7954",
+        "word": "toddler",
+        "translation": "เด็กวัยเตาะแตะ",
+        "pos": "noun",
+        "example": "Young toddler.",
+        "level": "basic"
+    },
+    {
+        "id": "v7955",
+        "word": "toe",
+        "translation": "นิ้วเท้า",
+        "pos": "noun",
+        "example": "Big toe.",
+        "level": "basic"
+    },
+    {
+        "id": "v7956",
+        "word": "together",
+        "translation": "ด้วยกัน",
+        "pos": "adv",
+        "example": "Work together.",
+        "level": "basic"
+    },
+    {
+        "id": "v7957",
+        "word": "toilet",
+        "translation": "ห้องน้ำ",
+        "pos": "noun",
+        "example": "Public toilet.",
+        "level": "basic"
+    },
+    {
+        "id": "v7958",
+        "word": "token",
+        "translation": "โทเค็น",
+        "pos": "noun",
+        "example": "Token of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7959",
+        "word": "tolerance",
+        "translation": "ความอดทน",
+        "pos": "noun",
+        "example": "Show tolerance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7960",
+        "word": "tolerant",
+        "translation": "อดทน",
+        "pos": "adj",
+        "example": "Very tolerant.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7961",
+        "word": "tolerate",
+        "translation": "ทนได้",
+        "pos": "verb",
+        "example": "Can't tolerate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7962",
+        "word": "toll",
+        "translation": "ค่าผ่านทาง",
+        "pos": "noun",
+        "example": "Road toll.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7963",
+        "word": "tomato",
+        "translation": "มะเขือเทศ",
+        "pos": "noun",
+        "example": "Fresh tomato.",
+        "level": "basic"
+    },
+    {
+        "id": "v7964",
+        "word": "tomb",
+        "translation": "สุสาน",
+        "pos": "noun",
+        "example": "Ancient tomb.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7965",
+        "word": "tomorrow",
+        "translation": "พรุ่งนี้",
+        "pos": "adv",
+        "example": "See you tomorrow.",
+        "level": "basic"
+    },
+    {
+        "id": "v7966",
+        "word": "ton",
+        "translation": "ตัน",
+        "pos": "noun",
+        "example": "A ton of.",
+        "level": "basic"
+    },
+    {
+        "id": "v7967",
+        "word": "tone",
+        "translation": "น้ำเสียง",
+        "pos": "noun",
+        "example": "Soft tone.",
+        "level": "basic"
+    },
+    {
+        "id": "v7968",
+        "word": "tongue",
+        "translation": "ลิ้น",
+        "pos": "noun",
+        "example": "Mother tongue.",
+        "level": "basic"
+    },
+    {
+        "id": "v7969",
+        "word": "tonight",
+        "translation": "คืนนี้",
+        "pos": "adv",
+        "example": "Tonight.",
+        "level": "basic"
+    },
+    {
+        "id": "v7970",
+        "word": "too",
+        "translation": "เกินไป",
+        "pos": "adv",
+        "example": "Too much.",
+        "level": "basic"
+    },
+    {
+        "id": "v7971",
+        "word": "tool",
+        "translation": "เครื่องมือ",
+        "pos": "noun",
+        "example": "Useful tool.",
+        "level": "basic"
+    },
+    {
+        "id": "v7972",
+        "word": "tooth",
+        "translation": "ฟัน",
+        "pos": "noun",
+        "example": "Sweet tooth.",
+        "level": "basic"
+    },
+    {
+        "id": "v7973",
+        "word": "toothbrush",
+        "translation": "แปรงสีฟัน",
+        "pos": "noun",
+        "example": "Electric toothbrush.",
+        "level": "basic"
+    },
+    {
+        "id": "v7974",
+        "word": "toothpaste",
+        "translation": "ยาสีฟัน",
+        "pos": "noun",
+        "example": "Whitening toothpaste.",
+        "level": "basic"
+    },
+    {
+        "id": "v7975",
+        "word": "top",
+        "translation": "ด้านบน",
+        "pos": "noun",
+        "example": "On top.",
+        "level": "basic"
+    },
+    {
+        "id": "v7976",
+        "word": "topic",
+        "translation": "หัวข้อ",
+        "pos": "noun",
+        "example": "Main topic.",
+        "level": "basic"
+    },
+    {
+        "id": "v7977",
+        "word": "torch",
+        "translation": "คบเพลิง",
+        "pos": "noun",
+        "example": "Olympic torch.",
+        "level": "basic"
+    },
+    {
+        "id": "v7978",
+        "word": "torn",
+        "translation": "ฉีกขาด",
+        "pos": "adj",
+        "example": "Torn apart.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7979",
+        "word": "tortoise",
+        "translation": "เต่า",
+        "pos": "noun",
+        "example": "Giant tortoise.",
+        "level": "basic"
+    },
+    {
+        "id": "v7980",
+        "word": "torture",
+        "translation": "ทรมาน",
+        "pos": "noun",
+        "example": "Pure torture.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7981",
+        "word": "toss",
+        "translation": "โยน",
+        "pos": "verb",
+        "example": "Toss salad.",
+        "level": "basic"
+    },
+    {
+        "id": "v7982",
+        "word": "total",
+        "translation": "รวม",
+        "pos": "adj",
+        "example": "Total cost.",
+        "level": "basic"
+    },
+    {
+        "id": "v7983",
+        "word": "totally",
+        "translation": "โดยสิ้นเชิง",
+        "pos": "adv",
+        "example": "Totally agree.",
+        "level": "basic"
+    },
+    {
+        "id": "v7984",
+        "word": "touch",
+        "translation": "สัมผัส",
+        "pos": "verb",
+        "example": "Don't touch.",
+        "level": "basic"
+    },
+    {
+        "id": "v7985",
+        "word": "touchdown",
+        "translation": "ทัชดาวน์",
+        "pos": "noun",
+        "example": "Score touchdown.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7986",
+        "word": "touched",
+        "translation": "ซาบซึ้ง",
+        "pos": "adj",
+        "example": "Deeply touched.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7987",
+        "word": "touching",
+        "translation": "ซาบซึ้ง",
+        "pos": "adj",
+        "example": "Touching story.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7988",
+        "word": "tough",
+        "translation": "ยาก",
+        "pos": "adj",
+        "example": "Very tough.",
+        "level": "basic"
+    },
+    {
+        "id": "v7989",
+        "word": "tour",
+        "translation": "ทัวร์",
+        "pos": "noun",
+        "example": "World tour.",
+        "level": "basic"
+    },
+    {
+        "id": "v7990",
+        "word": "tourism",
+        "translation": "การท่องเที่ยว",
+        "pos": "noun",
+        "example": "Tourism industry.",
+        "level": "basic"
+    },
+    {
+        "id": "v7991",
+        "word": "tourist",
+        "translation": "นักท่องเที่ยว",
+        "pos": "noun",
+        "example": "Foreign tourist.",
+        "level": "basic"
+    },
+    {
+        "id": "v7992",
+        "word": "tournament",
+        "translation": "การแข่งขัน",
+        "pos": "noun",
+        "example": "Tennis tournament.",
+        "level": "basic"
+    },
+    {
+        "id": "v7993",
+        "word": "toward",
+        "translation": "ไปทาง",
+        "pos": "prep",
+        "example": "Toward the end.",
+        "level": "basic"
+    },
+    {
+        "id": "v7994",
+        "word": "towards",
+        "translation": "ไปทาง",
+        "pos": "prep",
+        "example": "Towards me.",
+        "level": "basic"
+    },
+    {
+        "id": "v7995",
+        "word": "towel",
+        "translation": "ผ้าเช็ดตัว",
+        "pos": "noun",
+        "example": "Bath towel.",
+        "level": "basic"
+    },
+    {
+        "id": "v7996",
+        "word": "tower",
+        "translation": "หอคอย",
+        "pos": "noun",
+        "example": "Eiffel Tower.",
+        "level": "basic"
+    },
+    {
+        "id": "v7997",
+        "word": "town",
+        "translation": "เมือง",
+        "pos": "noun",
+        "example": "Small town.",
+        "level": "basic"
+    },
+    {
+        "id": "v7998",
+        "word": "toxic",
+        "translation": "เป็นพิษ",
+        "pos": "adj",
+        "example": "Toxic waste.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7999",
+        "word": "toy",
+        "translation": "ของเล่น",
+        "pos": "noun",
+        "example": "Children's toy.",
+        "level": "basic"
+    },
+    {
+        "id": "v8000",
+        "word": "trace",
+        "translation": "รอย",
+        "pos": "noun",
+        "example": "Without a trace.",
+        "level": "intermediate"
+    }
+]

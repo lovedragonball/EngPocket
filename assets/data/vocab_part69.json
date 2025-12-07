@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v6701",
+        "word": "pub",
+        "translation": "ผับ",
+        "pos": "noun",
+        "example": "Local pub.",
+        "level": "basic"
+    },
+    {
+        "id": "v6702",
+        "word": "public",
+        "translation": "สาธารณะ",
+        "pos": "adj",
+        "example": "Public opinion.",
+        "level": "basic"
+    },
+    {
+        "id": "v6703",
+        "word": "publication",
+        "translation": "สิ่งพิมพ์",
+        "pos": "noun",
+        "example": "New publication.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6704",
+        "word": "publicity",
+        "translation": "การประชาสัมพันธ์",
+        "pos": "noun",
+        "example": "Get publicity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6705",
+        "word": "publicly",
+        "translation": "ต่อสาธารณะ",
+        "pos": "adv",
+        "example": "Publicly announce.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6706",
+        "word": "publish",
+        "translation": "ตีพิมพ์",
+        "pos": "verb",
+        "example": "Publish book.",
+        "level": "basic"
+    },
+    {
+        "id": "v6707",
+        "word": "publisher",
+        "translation": "สำนักพิมพ์",
+        "pos": "noun",
+        "example": "Book publisher.",
+        "level": "basic"
+    },
+    {
+        "id": "v6708",
+        "word": "publishing",
+        "translation": "การพิมพ์",
+        "pos": "noun",
+        "example": "Publishing industry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6709",
+        "word": "pudding",
+        "translation": "พุดดิ้ง",
+        "pos": "noun",
+        "example": "Chocolate pudding.",
+        "level": "basic"
+    },
+    {
+        "id": "v6710",
+        "word": "pull",
+        "translation": "ดึง",
+        "pos": "verb",
+        "example": "Pull the rope.",
+        "level": "basic"
+    },
+    {
+        "id": "v6711",
+        "word": "pulse",
+        "translation": "ชีพจร",
+        "pos": "noun",
+        "example": "Check pulse.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6712",
+        "word": "pump",
+        "translation": "ปั๊ม",
+        "pos": "noun",
+        "example": "Water pump.",
+        "level": "basic"
+    },
+    {
+        "id": "v6713",
+        "word": "pumpkin",
+        "translation": "ฟักทอง",
+        "pos": "noun",
+        "example": "Pumpkin pie.",
+        "level": "basic"
+    },
+    {
+        "id": "v6714",
+        "word": "punch",
+        "translation": "ต่อย",
+        "pos": "verb",
+        "example": "Punch someone.",
+        "level": "basic"
+    },
+    {
+        "id": "v6715",
+        "word": "punish",
+        "translation": "ลงโทษ",
+        "pos": "verb",
+        "example": "Punish criminal.",
+        "level": "basic"
+    },
+    {
+        "id": "v6716",
+        "word": "punishment",
+        "translation": "การลงโทษ",
+        "pos": "noun",
+        "example": "Severe punishment.",
+        "level": "basic"
+    },
+    {
+        "id": "v6717",
+        "word": "pupil",
+        "translation": "นักเรียน",
+        "pos": "noun",
+        "example": "School pupil.",
+        "level": "basic"
+    },
+    {
+        "id": "v6718",
+        "word": "puppy",
+        "translation": "ลูกสุนัข",
+        "pos": "noun",
+        "example": "Cute puppy.",
+        "level": "basic"
+    },
+    {
+        "id": "v6719",
+        "word": "purchase",
+        "translation": "ซื้อ",
+        "pos": "verb",
+        "example": "Make a purchase.",
+        "level": "basic"
+    },
+    {
+        "id": "v6720",
+        "word": "pure",
+        "translation": "บริสุทธิ์",
+        "pos": "adj",
+        "example": "Pure water.",
+        "level": "basic"
+    },
+    {
+        "id": "v6721",
+        "word": "purely",
+        "translation": "อย่างแท้จริง",
+        "pos": "adv",
+        "example": "Purely coincidence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6722",
+        "word": "purple",
+        "translation": "สีม่วง",
+        "pos": "adj",
+        "example": "Purple flower.",
+        "level": "basic"
+    },
+    {
+        "id": "v6723",
+        "word": "purpose",
+        "translation": "จุดประสงค์",
+        "pos": "noun",
+        "example": "Main purpose.",
+        "level": "basic"
+    },
+    {
+        "id": "v6724",
+        "word": "pursue",
+        "translation": "ไล่ตาม",
+        "pos": "verb",
+        "example": "Pursue dreams.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6725",
+        "word": "pursuit",
+        "translation": "การไล่ตาม",
+        "pos": "noun",
+        "example": "In pursuit of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6726",
+        "word": "push",
+        "translation": "ผลัก",
+        "pos": "verb",
+        "example": "Push button.",
+        "level": "basic"
+    },
+    {
+        "id": "v6727",
+        "word": "put",
+        "translation": "วาง",
+        "pos": "verb",
+        "example": "Put it down.",
+        "level": "basic"
+    },
+    {
+        "id": "v6728",
+        "word": "puzzle",
+        "translation": "ปริศนา",
+        "pos": "noun",
+        "example": "Jigsaw puzzle.",
+        "level": "basic"
+    },
+    {
+        "id": "v6729",
+        "word": "pyramid",
+        "translation": "พีระมิด",
+        "pos": "noun",
+        "example": "Egyptian pyramid.",
+        "level": "basic"
+    },
+    {
+        "id": "v6730",
+        "word": "qualification",
+        "translation": "คุณสมบัติ",
+        "pos": "noun",
+        "example": "Required qualification.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6731",
+        "word": "qualified",
+        "translation": "มีคุณสมบัติ",
+        "pos": "adj",
+        "example": "Highly qualified.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6732",
+        "word": "qualify",
+        "translation": "มีคุณสมบัติ",
+        "pos": "verb",
+        "example": "Qualify for.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6733",
+        "word": "quality",
+        "translation": "คุณภาพ",
+        "pos": "noun",
+        "example": "High quality.",
+        "level": "basic"
+    },
+    {
+        "id": "v6734",
+        "word": "quantity",
+        "translation": "ปริมาณ",
+        "pos": "noun",
+        "example": "Large quantity.",
+        "level": "basic"
+    },
+    {
+        "id": "v6735",
+        "word": "quarter",
+        "translation": "ส่วนสี่",
+        "pos": "noun",
+        "example": "First quarter.",
+        "level": "basic"
+    },
+    {
+        "id": "v6736",
+        "word": "quarterly",
+        "translation": "รายไตรมาส",
+        "pos": "adj",
+        "example": "Quarterly report.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6737",
+        "word": "queen",
+        "translation": "ราชินี",
+        "pos": "noun",
+        "example": "The Queen.",
+        "level": "basic"
+    },
+    {
+        "id": "v6738",
+        "word": "query",
+        "translation": "คำถาม",
+        "pos": "noun",
+        "example": "Database query.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6739",
+        "word": "quest",
+        "translation": "การค้นหา",
+        "pos": "noun",
+        "example": "Quest for truth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6740",
+        "word": "question",
+        "translation": "คำถาม",
+        "pos": "noun",
+        "example": "Good question.",
+        "level": "basic"
+    },
+    {
+        "id": "v6741",
+        "word": "questionnaire",
+        "translation": "แบบสอบถาม",
+        "pos": "noun",
+        "example": "Fill out questionnaire.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6742",
+        "word": "queue",
+        "translation": "คิว",
+        "pos": "noun",
+        "example": "Wait in queue.",
+        "level": "basic"
+    },
+    {
+        "id": "v6743",
+        "word": "quick",
+        "translation": "เร็ว",
+        "pos": "adj",
+        "example": "Quick answer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6744",
+        "word": "quickly",
+        "translation": "อย่างรวดเร็ว",
+        "pos": "adv",
+        "example": "Move quickly.",
+        "level": "basic"
+    },
+    {
+        "id": "v6745",
+        "word": "quiet",
+        "translation": "เงียบ",
+        "pos": "adj",
+        "example": "Very quiet.",
+        "level": "basic"
+    },
+    {
+        "id": "v6746",
+        "word": "quietly",
+        "translation": "อย่างเงียบๆ",
+        "pos": "adv",
+        "example": "Speak quietly.",
+        "level": "basic"
+    },
+    {
+        "id": "v6747",
+        "word": "quit",
+        "translation": "ลาออก",
+        "pos": "verb",
+        "example": "Quit job.",
+        "level": "basic"
+    },
+    {
+        "id": "v6748",
+        "word": "quite",
+        "translation": "ค่อนข้าง",
+        "pos": "adv",
+        "example": "Quite good.",
+        "level": "basic"
+    },
+    {
+        "id": "v6749",
+        "word": "quiz",
+        "translation": "แบบทดสอบ",
+        "pos": "noun",
+        "example": "Pop quiz.",
+        "level": "basic"
+    },
+    {
+        "id": "v6750",
+        "word": "quote",
+        "translation": "อ้าง",
+        "pos": "verb",
+        "example": "Quote source.",
+        "level": "basic"
+    },
+    {
+        "id": "v6751",
+        "word": "rabbit",
+        "translation": "กระต่าย",
+        "pos": "noun",
+        "example": "White rabbit.",
+        "level": "basic"
+    },
+    {
+        "id": "v6752",
+        "word": "race",
+        "translation": "แข่ง",
+        "pos": "noun",
+        "example": "Car race.",
+        "level": "basic"
+    },
+    {
+        "id": "v6753",
+        "word": "racial",
+        "translation": "เชื้อชาติ",
+        "pos": "adj",
+        "example": "Racial equality.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6754",
+        "word": "racism",
+        "translation": "การเหยียดเชื้อชาติ",
+        "pos": "noun",
+        "example": "Fight racism.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6755",
+        "word": "rack",
+        "translation": "ชั้นวาง",
+        "pos": "noun",
+        "example": "Shoe rack.",
+        "level": "basic"
+    },
+    {
+        "id": "v6756",
+        "word": "radar",
+        "translation": "เรดาร์",
+        "pos": "noun",
+        "example": "Radar system.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6757",
+        "word": "radiation",
+        "translation": "รังสี",
+        "pos": "noun",
+        "example": "Radiation exposure.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6758",
+        "word": "radical",
+        "translation": "รุนแรง",
+        "pos": "adj",
+        "example": "Radical change.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6759",
+        "word": "radio",
+        "translation": "วิทยุ",
+        "pos": "noun",
+        "example": "Listen to radio.",
+        "level": "basic"
+    },
+    {
+        "id": "v6760",
+        "word": "rage",
+        "translation": "โกรธจัด",
+        "pos": "noun",
+        "example": "Road rage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6761",
+        "word": "raid",
+        "translation": "บุก",
+        "pos": "noun",
+        "example": "Police raid.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6762",
+        "word": "rail",
+        "translation": "ราง",
+        "pos": "noun",
+        "example": "Metal rail.",
+        "level": "basic"
+    },
+    {
+        "id": "v6763",
+        "word": "railroad",
+        "translation": "ทางรถไฟ",
+        "pos": "noun",
+        "example": "Railroad track.",
+        "level": "basic"
+    },
+    {
+        "id": "v6764",
+        "word": "railway",
+        "translation": "ทางรถไฟ",
+        "pos": "noun",
+        "example": "Railway station.",
+        "level": "basic"
+    },
+    {
+        "id": "v6765",
+        "word": "rain",
+        "translation": "ฝน",
+        "pos": "noun",
+        "example": "Heavy rain.",
+        "level": "basic"
+    },
+    {
+        "id": "v6766",
+        "word": "rainbow",
+        "translation": "สายรุ้ง",
+        "pos": "noun",
+        "example": "Beautiful rainbow.",
+        "level": "basic"
+    },
+    {
+        "id": "v6767",
+        "word": "rainfall",
+        "translation": "ปริมาณฝน",
+        "pos": "noun",
+        "example": "Average rainfall.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6768",
+        "word": "rainy",
+        "translation": "มีฝน",
+        "pos": "adj",
+        "example": "Rainy season.",
+        "level": "basic"
+    },
+    {
+        "id": "v6769",
+        "word": "raise",
+        "translation": "ยก",
+        "pos": "verb",
+        "example": "Raise hand.",
+        "level": "basic"
+    },
+    {
+        "id": "v6770",
+        "word": "rally",
+        "translation": "ชุมนุม",
+        "pos": "noun",
+        "example": "Political rally.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6771",
+        "word": "ranch",
+        "translation": "ฟาร์มปศุสัตว์",
+        "pos": "noun",
+        "example": "Cattle ranch.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6772",
+        "word": "random",
+        "translation": "สุ่ม",
+        "pos": "adj",
+        "example": "Random selection.",
+        "level": "basic"
+    },
+    {
+        "id": "v6773",
+        "word": "randomly",
+        "translation": "สุ่ม",
+        "pos": "adv",
+        "example": "Selected randomly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6774",
+        "word": "range",
+        "translation": "ช่วง",
+        "pos": "noun",
+        "example": "Price range.",
+        "level": "basic"
+    },
+    {
+        "id": "v6775",
+        "word": "rank",
+        "translation": "อันดับ",
+        "pos": "noun",
+        "example": "Top rank.",
+        "level": "basic"
+    },
+    {
+        "id": "v6776",
+        "word": "ranking",
+        "translation": "การจัดอันดับ",
+        "pos": "noun",
+        "example": "World ranking.",
+        "level": "basic"
+    },
+    {
+        "id": "v6777",
+        "word": "rapid",
+        "translation": "รวดเร็ว",
+        "pos": "adj",
+        "example": "Rapid growth.",
+        "level": "basic"
+    },
+    {
+        "id": "v6778",
+        "word": "rapidly",
+        "translation": "อย่างรวดเร็ว",
+        "pos": "adv",
+        "example": "Grow rapidly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6779",
+        "word": "rare",
+        "translation": "หายาก",
+        "pos": "adj",
+        "example": "Very rare.",
+        "level": "basic"
+    },
+    {
+        "id": "v6780",
+        "word": "rarely",
+        "translation": "ไม่ค่อย",
+        "pos": "adv",
+        "example": "Rarely happen.",
+        "level": "basic"
+    },
+    {
+        "id": "v6781",
+        "word": "rat",
+        "translation": "หนู",
+        "pos": "noun",
+        "example": "Lab rat.",
+        "level": "basic"
+    },
+    {
+        "id": "v6782",
+        "word": "rate",
+        "translation": "อัตรา",
+        "pos": "noun",
+        "example": "Interest rate.",
+        "level": "basic"
+    },
+    {
+        "id": "v6783",
+        "word": "rather",
+        "translation": "ค่อนข้าง",
+        "pos": "adv",
+        "example": "Rather difficult.",
+        "level": "basic"
+    },
+    {
+        "id": "v6784",
+        "word": "rating",
+        "translation": "การให้คะแนน",
+        "pos": "noun",
+        "example": "Star rating.",
+        "level": "basic"
+    },
+    {
+        "id": "v6785",
+        "word": "ratio",
+        "translation": "อัตราส่วน",
+        "pos": "noun",
+        "example": "Teacher-student ratio.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6786",
+        "word": "rational",
+        "translation": "มีเหตุผล",
+        "pos": "adj",
+        "example": "Rational thinking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6787",
+        "word": "raw",
+        "translation": "ดิบ",
+        "pos": "adj",
+        "example": "Raw material.",
+        "level": "basic"
+    },
+    {
+        "id": "v6788",
+        "word": "ray",
+        "translation": "รังสี",
+        "pos": "noun",
+        "example": "Sun ray.",
+        "level": "basic"
+    },
+    {
+        "id": "v6789",
+        "word": "reach",
+        "translation": "ไปถึง",
+        "pos": "verb",
+        "example": "Reach goal.",
+        "level": "basic"
+    },
+    {
+        "id": "v6790",
+        "word": "react",
+        "translation": "ตอบสนอง",
+        "pos": "verb",
+        "example": "React quickly.",
+        "level": "basic"
+    },
+    {
+        "id": "v6791",
+        "word": "reaction",
+        "translation": "ปฏิกิริยา",
+        "pos": "noun",
+        "example": "Chemical reaction.",
+        "level": "basic"
+    },
+    {
+        "id": "v6792",
+        "word": "read",
+        "translation": "อ่าน",
+        "pos": "verb",
+        "example": "Read book.",
+        "level": "basic"
+    },
+    {
+        "id": "v6793",
+        "word": "reader",
+        "translation": "ผู้อ่าน",
+        "pos": "noun",
+        "example": "Avid reader.",
+        "level": "basic"
+    },
+    {
+        "id": "v6794",
+        "word": "readily",
+        "translation": "อย่างง่ายดาย",
+        "pos": "adv",
+        "example": "Readily available.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6795",
+        "word": "reading",
+        "translation": "การอ่าน",
+        "pos": "noun",
+        "example": "Love reading.",
+        "level": "basic"
+    },
+    {
+        "id": "v6796",
+        "word": "ready",
+        "translation": "พร้อม",
+        "pos": "adj",
+        "example": "Get ready.",
+        "level": "basic"
+    },
+    {
+        "id": "v6797",
+        "word": "real",
+        "translation": "จริง",
+        "pos": "adj",
+        "example": "Real life.",
+        "level": "basic"
+    },
+    {
+        "id": "v6798",
+        "word": "realistic",
+        "translation": "ที่เป็นจริง",
+        "pos": "adj",
+        "example": "Be realistic.",
+        "level": "basic"
+    },
+    {
+        "id": "v6799",
+        "word": "reality",
+        "translation": "ความจริง",
+        "pos": "noun",
+        "example": "Face reality.",
+        "level": "basic"
+    },
+    {
+        "id": "v6800",
+        "word": "realization",
+        "translation": "การตระหนัก",
+        "pos": "noun",
+        "example": "Sudden realization.",
+        "level": "intermediate"
+    }
+]

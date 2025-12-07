@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v6201",
+        "word": "operational",
+        "translation": "ปฏิบัติการ",
+        "pos": "adj",
+        "example": "Operational cost.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6202",
+        "word": "operator",
+        "translation": "ผู้ดำเนินการ",
+        "pos": "noun",
+        "example": "Tour operator.",
+        "level": "basic"
+    },
+    {
+        "id": "v6203",
+        "word": "opinion",
+        "translation": "ความคิดเห็น",
+        "pos": "noun",
+        "example": "In my opinion.",
+        "level": "basic"
+    },
+    {
+        "id": "v6204",
+        "word": "opponent",
+        "translation": "คู่ต่อสู้",
+        "pos": "noun",
+        "example": "Strong opponent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6205",
+        "word": "opportunity",
+        "translation": "โอกาส",
+        "pos": "noun",
+        "example": "Great opportunity.",
+        "level": "basic"
+    },
+    {
+        "id": "v6206",
+        "word": "oppose",
+        "translation": "คัดค้าน",
+        "pos": "verb",
+        "example": "Oppose the plan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6207",
+        "word": "opposed",
+        "translation": "ต่อต้าน",
+        "pos": "adj",
+        "example": "As opposed to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6208",
+        "word": "opposing",
+        "translation": "ตรงข้าม",
+        "pos": "adj",
+        "example": "Opposing views.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6209",
+        "word": "opposite",
+        "translation": "ตรงข้าม",
+        "pos": "adj",
+        "example": "Opposite side.",
+        "level": "basic"
+    },
+    {
+        "id": "v6210",
+        "word": "opposition",
+        "translation": "ฝ่ายค้าน",
+        "pos": "noun",
+        "example": "Opposition party.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6211",
+        "word": "opt",
+        "translation": "เลือก",
+        "pos": "verb",
+        "example": "Opt for.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6212",
+        "word": "optical",
+        "translation": "เกี่ยวกับตา",
+        "pos": "adj",
+        "example": "Optical illusion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6213",
+        "word": "optimal",
+        "translation": "ดีที่สุด",
+        "pos": "adj",
+        "example": "Optimal solution.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6214",
+        "word": "optimism",
+        "translation": "การมองโลกในแง่ดี",
+        "pos": "noun",
+        "example": "Full of optimism.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6215",
+        "word": "optimistic",
+        "translation": "มองโลกในแง่ดี",
+        "pos": "adj",
+        "example": "Stay optimistic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6216",
+        "word": "optimization",
+        "translation": "การเพิ่มประสิทธิภาพ",
+        "pos": "noun",
+        "example": "SEO optimization.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6217",
+        "word": "optimize",
+        "translation": "ปรับให้เหมาะ",
+        "pos": "verb",
+        "example": "Optimize performance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6218",
+        "word": "option",
+        "translation": "ตัวเลือก",
+        "pos": "noun",
+        "example": "Best option.",
+        "level": "basic"
+    },
+    {
+        "id": "v6219",
+        "word": "optional",
+        "translation": "ทางเลือก",
+        "pos": "adj",
+        "example": "Optional feature.",
+        "level": "basic"
+    },
+    {
+        "id": "v6220",
+        "word": "or",
+        "translation": "หรือ",
+        "pos": "conj",
+        "example": "Yes or no.",
+        "level": "basic"
+    },
+    {
+        "id": "v6221",
+        "word": "oral",
+        "translation": "ปากเปล่า",
+        "pos": "adj",
+        "example": "Oral exam.",
+        "level": "basic"
+    },
+    {
+        "id": "v6222",
+        "word": "orange",
+        "translation": "ส้ม",
+        "pos": "noun",
+        "example": "Orange juice.",
+        "level": "basic"
+    },
+    {
+        "id": "v6223",
+        "word": "orbit",
+        "translation": "วงโคจร",
+        "pos": "noun",
+        "example": "Earth's orbit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6224",
+        "word": "orchestra",
+        "translation": "ออร์เคสตร้า",
+        "pos": "noun",
+        "example": "Symphony orchestra.",
+        "level": "basic"
+    },
+    {
+        "id": "v6225",
+        "word": "order",
+        "translation": "สั่ง",
+        "pos": "verb",
+        "example": "Order food.",
+        "level": "basic"
+    },
+    {
+        "id": "v6226",
+        "word": "ordinary",
+        "translation": "ธรรมดา",
+        "pos": "adj",
+        "example": "Ordinary people.",
+        "level": "basic"
+    },
+    {
+        "id": "v6227",
+        "word": "organ",
+        "translation": "อวัยวะ",
+        "pos": "noun",
+        "example": "Vital organ.",
+        "level": "basic"
+    },
+    {
+        "id": "v6228",
+        "word": "organic",
+        "translation": "อินทรีย์",
+        "pos": "adj",
+        "example": "Organic food.",
+        "level": "basic"
+    },
+    {
+        "id": "v6229",
+        "word": "organism",
+        "translation": "สิ่งมีชีวิต",
+        "pos": "noun",
+        "example": "Living organism.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6230",
+        "word": "organization",
+        "translation": "องค์กร",
+        "pos": "noun",
+        "example": "Large organization.",
+        "level": "basic"
+    },
+    {
+        "id": "v6231",
+        "word": "organizational",
+        "translation": "องค์กร",
+        "pos": "adj",
+        "example": "Organizational structure.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6232",
+        "word": "organize",
+        "translation": "จัดระเบียบ",
+        "pos": "verb",
+        "example": "Organize event.",
+        "level": "basic"
+    },
+    {
+        "id": "v6233",
+        "word": "organized",
+        "translation": "เป็นระเบียบ",
+        "pos": "adj",
+        "example": "Well organized.",
+        "level": "basic"
+    },
+    {
+        "id": "v6234",
+        "word": "organizer",
+        "translation": "ผู้จัด",
+        "pos": "noun",
+        "example": "Event organizer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6235",
+        "word": "orientation",
+        "translation": "การปฐมนิเทศ",
+        "pos": "noun",
+        "example": "New employee orientation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6236",
+        "word": "origin",
+        "translation": "ต้นกำเนิด",
+        "pos": "noun",
+        "example": "Country of origin.",
+        "level": "basic"
+    },
+    {
+        "id": "v6237",
+        "word": "original",
+        "translation": "ดั้งเดิม",
+        "pos": "adj",
+        "example": "Original version.",
+        "level": "basic"
+    },
+    {
+        "id": "v6238",
+        "word": "originally",
+        "translation": "เดิมที",
+        "pos": "adv",
+        "example": "Originally from.",
+        "level": "basic"
+    },
+    {
+        "id": "v6239",
+        "word": "orphan",
+        "translation": "เด็กกำพร้า",
+        "pos": "noun",
+        "example": "War orphan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6240",
+        "word": "other",
+        "translation": "อื่น",
+        "pos": "det",
+        "example": "Other people.",
+        "level": "basic"
+    },
+    {
+        "id": "v6241",
+        "word": "others",
+        "translation": "คนอื่น",
+        "pos": "pron",
+        "example": "Help others.",
+        "level": "basic"
+    },
+    {
+        "id": "v6242",
+        "word": "otherwise",
+        "translation": "ไม่อย่างนั้น",
+        "pos": "adv",
+        "example": "Otherwise.",
+        "level": "basic"
+    },
+    {
+        "id": "v6243",
+        "word": "ought",
+        "translation": "ควร",
+        "pos": "verb",
+        "example": "You ought to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6244",
+        "word": "ounce",
+        "translation": "ออนซ์",
+        "pos": "noun",
+        "example": "One ounce.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6245",
+        "word": "our",
+        "translation": "ของเรา",
+        "pos": "pron",
+        "example": "Our house.",
+        "level": "basic"
+    },
+    {
+        "id": "v6246",
+        "word": "ours",
+        "translation": "ของเรา",
+        "pos": "pron",
+        "example": "It's ours.",
+        "level": "basic"
+    },
+    {
+        "id": "v6247",
+        "word": "ourselves",
+        "translation": "ตัวเราเอง",
+        "pos": "pron",
+        "example": "By ourselves.",
+        "level": "basic"
+    },
+    {
+        "id": "v6248",
+        "word": "out",
+        "translation": "ออก",
+        "pos": "adv",
+        "example": "Go out.",
+        "level": "basic"
+    },
+    {
+        "id": "v6249",
+        "word": "outbreak",
+        "translation": "การระบาด",
+        "pos": "noun",
+        "example": "Disease outbreak.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6250",
+        "word": "outcome",
+        "translation": "ผลลัพธ์",
+        "pos": "noun",
+        "example": "Positive outcome.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6251",
+        "word": "outdoor",
+        "translation": "กลางแจ้ง",
+        "pos": "adj",
+        "example": "Outdoor activity.",
+        "level": "basic"
+    },
+    {
+        "id": "v6252",
+        "word": "outdoors",
+        "translation": "กลางแจ้ง",
+        "pos": "adv",
+        "example": "Go outdoors.",
+        "level": "basic"
+    },
+    {
+        "id": "v6253",
+        "word": "outer",
+        "translation": "ด้านนอก",
+        "pos": "adj",
+        "example": "Outer space.",
+        "level": "basic"
+    },
+    {
+        "id": "v6254",
+        "word": "outfit",
+        "translation": "ชุด",
+        "pos": "noun",
+        "example": "Cute outfit.",
+        "level": "basic"
+    },
+    {
+        "id": "v6255",
+        "word": "outlet",
+        "translation": "ปลั๊ก",
+        "pos": "noun",
+        "example": "Power outlet.",
+        "level": "basic"
+    },
+    {
+        "id": "v6256",
+        "word": "outline",
+        "translation": "โครงร่าง",
+        "pos": "noun",
+        "example": "Brief outline.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6257",
+        "word": "outlook",
+        "translation": "มุมมอง",
+        "pos": "noun",
+        "example": "Positive outlook.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6258",
+        "word": "output",
+        "translation": "ผลผลิต",
+        "pos": "noun",
+        "example": "Total output.",
+        "level": "basic"
+    },
+    {
+        "id": "v6259",
+        "word": "outrage",
+        "translation": "ความโกรธแค้น",
+        "pos": "noun",
+        "example": "Public outrage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6260",
+        "word": "outright",
+        "translation": "ทันที",
+        "pos": "adv",
+        "example": "Deny outright.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6261",
+        "word": "outside",
+        "translation": "ข้างนอก",
+        "pos": "prep",
+        "example": "Wait outside.",
+        "level": "basic"
+    },
+    {
+        "id": "v6262",
+        "word": "outsider",
+        "translation": "คนนอก",
+        "pos": "noun",
+        "example": "Feel like outsider.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6263",
+        "word": "outstanding",
+        "translation": "โดดเด่น",
+        "pos": "adj",
+        "example": "Outstanding performance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6264",
+        "word": "oven",
+        "translation": "เตาอบ",
+        "pos": "noun",
+        "example": "Hot oven.",
+        "level": "basic"
+    },
+    {
+        "id": "v6265",
+        "word": "over",
+        "translation": "เหนือ",
+        "pos": "prep",
+        "example": "Over there.",
+        "level": "basic"
+    },
+    {
+        "id": "v6266",
+        "word": "overall",
+        "translation": "โดยรวม",
+        "pos": "adj",
+        "example": "Overall score.",
+        "level": "basic"
+    },
+    {
+        "id": "v6267",
+        "word": "overcome",
+        "translation": "เอาชนะ",
+        "pos": "verb",
+        "example": "Overcome fear.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6268",
+        "word": "overlook",
+        "translation": "มองข้าม",
+        "pos": "verb",
+        "example": "Overlook mistake.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6269",
+        "word": "overnight",
+        "translation": "ข้ามคืน",
+        "pos": "adv",
+        "example": "Stay overnight.",
+        "level": "basic"
+    },
+    {
+        "id": "v6270",
+        "word": "overseas",
+        "translation": "ต่างประเทศ",
+        "pos": "adv",
+        "example": "Travel overseas.",
+        "level": "basic"
+    },
+    {
+        "id": "v6271",
+        "word": "oversee",
+        "translation": "กำกับดูแล",
+        "pos": "verb",
+        "example": "Oversee project.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6272",
+        "word": "oversight",
+        "translation": "การดูแล",
+        "pos": "noun",
+        "example": "Regulatory oversight.",
+        "level": "advanced"
+    },
+    {
+        "id": "v6273",
+        "word": "overtime",
+        "translation": "ล่วงเวลา",
+        "pos": "noun",
+        "example": "Work overtime.",
+        "level": "basic"
+    },
+    {
+        "id": "v6274",
+        "word": "overview",
+        "translation": "ภาพรวม",
+        "pos": "noun",
+        "example": "Brief overview.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6275",
+        "word": "overwhelming",
+        "translation": "ท่วมท้น",
+        "pos": "adj",
+        "example": "Overwhelming support.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6276",
+        "word": "owe",
+        "translation": "เป็นหนี้",
+        "pos": "verb",
+        "example": "Owe money.",
+        "level": "basic"
+    },
+    {
+        "id": "v6277",
+        "word": "own",
+        "translation": "เป็นเจ้าของ",
+        "pos": "verb",
+        "example": "Own a car.",
+        "level": "basic"
+    },
+    {
+        "id": "v6278",
+        "word": "owner",
+        "translation": "เจ้าของ",
+        "pos": "noun",
+        "example": "Business owner.",
+        "level": "basic"
+    },
+    {
+        "id": "v6279",
+        "word": "ownership",
+        "translation": "ความเป็นเจ้าของ",
+        "pos": "noun",
+        "example": "Home ownership.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6280",
+        "word": "oxygen",
+        "translation": "ออกซิเจน",
+        "pos": "noun",
+        "example": "Need oxygen.",
+        "level": "basic"
+    },
+    {
+        "id": "v6281",
+        "word": "pace",
+        "translation": "จังหวะ",
+        "pos": "noun",
+        "example": "Fast pace.",
+        "level": "basic"
+    },
+    {
+        "id": "v6282",
+        "word": "pack",
+        "translation": "ห่อ",
+        "pos": "verb",
+        "example": "Pack bags.",
+        "level": "basic"
+    },
+    {
+        "id": "v6283",
+        "word": "package",
+        "translation": "แพ็คเกจ",
+        "pos": "noun",
+        "example": "Package deal.",
+        "level": "basic"
+    },
+    {
+        "id": "v6284",
+        "word": "packaging",
+        "translation": "บรรจุภัณฑ์",
+        "pos": "noun",
+        "example": "Product packaging.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6285",
+        "word": "packed",
+        "translation": "แน่น",
+        "pos": "adj",
+        "example": "Packed with.",
+        "level": "basic"
+    },
+    {
+        "id": "v6286",
+        "word": "packet",
+        "translation": "ห่อ",
+        "pos": "noun",
+        "example": "Data packet.",
+        "level": "basic"
+    },
+    {
+        "id": "v6287",
+        "word": "pad",
+        "translation": "แผ่น",
+        "pos": "noun",
+        "example": "Note pad.",
+        "level": "basic"
+    },
+    {
+        "id": "v6288",
+        "word": "page",
+        "translation": "หน้า",
+        "pos": "noun",
+        "example": "Turn the page.",
+        "level": "basic"
+    },
+    {
+        "id": "v6289",
+        "word": "pain",
+        "translation": "ความเจ็บปวด",
+        "pos": "noun",
+        "example": "Feel pain.",
+        "level": "basic"
+    },
+    {
+        "id": "v6290",
+        "word": "painful",
+        "translation": "เจ็บปวด",
+        "pos": "adj",
+        "example": "Very painful.",
+        "level": "basic"
+    },
+    {
+        "id": "v6291",
+        "word": "paint",
+        "translation": "สี",
+        "pos": "noun",
+        "example": "Oil paint.",
+        "level": "basic"
+    },
+    {
+        "id": "v6292",
+        "word": "painter",
+        "translation": "จิตรกร",
+        "pos": "noun",
+        "example": "Famous painter.",
+        "level": "basic"
+    },
+    {
+        "id": "v6293",
+        "word": "painting",
+        "translation": "ภาพวาด",
+        "pos": "noun",
+        "example": "Beautiful painting.",
+        "level": "basic"
+    },
+    {
+        "id": "v6294",
+        "word": "pair",
+        "translation": "คู่",
+        "pos": "noun",
+        "example": "A pair of.",
+        "level": "basic"
+    },
+    {
+        "id": "v6295",
+        "word": "pajamas",
+        "translation": "ชุดนอน",
+        "pos": "noun",
+        "example": "Wear pajamas.",
+        "level": "basic"
+    },
+    {
+        "id": "v6296",
+        "word": "palace",
+        "translation": "พระราชวัง",
+        "pos": "noun",
+        "example": "Royal Palace.",
+        "level": "basic"
+    },
+    {
+        "id": "v6297",
+        "word": "pale",
+        "translation": "ซีด",
+        "pos": "adj",
+        "example": "Look pale.",
+        "level": "basic"
+    },
+    {
+        "id": "v6298",
+        "word": "palm",
+        "translation": "ฝ่ามือ",
+        "pos": "noun",
+        "example": "Palm tree.",
+        "level": "basic"
+    },
+    {
+        "id": "v6299",
+        "word": "pan",
+        "translation": "กระทะ",
+        "pos": "noun",
+        "example": "Frying pan.",
+        "level": "basic"
+    },
+    {
+        "id": "v6300",
+        "word": "pandemic",
+        "translation": "โรคระบาด",
+        "pos": "noun",
+        "example": "Global pandemic.",
+        "level": "intermediate"
+    }
+]

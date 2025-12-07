@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v4501",
+        "word": "evaluate",
+        "translation": "ประเมิน",
+        "pos": "verb",
+        "example": "Evaluate performance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4502",
+        "word": "evaluation",
+        "translation": "การประเมิน",
+        "pos": "noun",
+        "example": "Job evaluation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4503",
+        "word": "eve",
+        "translation": "วันก่อน",
+        "pos": "noun",
+        "example": "Christmas Eve.",
+        "level": "basic"
+    },
+    {
+        "id": "v4504",
+        "word": "even",
+        "translation": "แม้แต่",
+        "pos": "adv",
+        "example": "Even better.",
+        "level": "basic"
+    },
+    {
+        "id": "v4505",
+        "word": "evening",
+        "translation": "ตอนเย็น",
+        "pos": "noun",
+        "example": "Good evening.",
+        "level": "basic"
+    },
+    {
+        "id": "v4506",
+        "word": "evenly",
+        "translation": "เท่าๆ กัน",
+        "pos": "adv",
+        "example": "Spread evenly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4507",
+        "word": "event",
+        "translation": "เหตุการณ์",
+        "pos": "noun",
+        "example": "Special event.",
+        "level": "basic"
+    },
+    {
+        "id": "v4508",
+        "word": "eventually",
+        "translation": "ในที่สุด",
+        "pos": "adv",
+        "example": "Eventually.",
+        "level": "basic"
+    },
+    {
+        "id": "v4509",
+        "word": "ever",
+        "translation": "เคย",
+        "pos": "adv",
+        "example": "Have you ever?",
+        "level": "basic"
+    },
+    {
+        "id": "v4510",
+        "word": "every",
+        "translation": "ทุก",
+        "pos": "det",
+        "example": "Every day.",
+        "level": "basic"
+    },
+    {
+        "id": "v4511",
+        "word": "everybody",
+        "translation": "ทุกคน",
+        "pos": "pron",
+        "example": "Everybody knows.",
+        "level": "basic"
+    },
+    {
+        "id": "v4512",
+        "word": "everyday",
+        "translation": "ประจำวัน",
+        "pos": "adj",
+        "example": "Everyday life.",
+        "level": "basic"
+    },
+    {
+        "id": "v4513",
+        "word": "everyone",
+        "translation": "ทุกคน",
+        "pos": "pron",
+        "example": "Everyone is here.",
+        "level": "basic"
+    },
+    {
+        "id": "v4514",
+        "word": "everything",
+        "translation": "ทุกอย่าง",
+        "pos": "pron",
+        "example": "Everything is fine.",
+        "level": "basic"
+    },
+    {
+        "id": "v4515",
+        "word": "everywhere",
+        "translation": "ทุกที่",
+        "pos": "adv",
+        "example": "Look everywhere.",
+        "level": "basic"
+    },
+    {
+        "id": "v4516",
+        "word": "evidence",
+        "translation": "หลักฐาน",
+        "pos": "noun",
+        "example": "Clear evidence.",
+        "level": "basic"
+    },
+    {
+        "id": "v4517",
+        "word": "evident",
+        "translation": "ชัดเจน",
+        "pos": "adj",
+        "example": "Clearly evident.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4518",
+        "word": "evidently",
+        "translation": "อย่างเห็นได้ชัด",
+        "pos": "adv",
+        "example": "Evidently.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4519",
+        "word": "evil",
+        "translation": "ชั่วร้าย",
+        "pos": "adj",
+        "example": "Evil plan.",
+        "level": "basic"
+    },
+    {
+        "id": "v4520",
+        "word": "evolution",
+        "translation": "วิวัฒนาการ",
+        "pos": "noun",
+        "example": "Human evolution.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4521",
+        "word": "evolve",
+        "translation": "พัฒนา",
+        "pos": "verb",
+        "example": "Evolve over time.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4522",
+        "word": "exact",
+        "translation": "แน่นอน",
+        "pos": "adj",
+        "example": "Exact location.",
+        "level": "basic"
+    },
+    {
+        "id": "v4523",
+        "word": "exactly",
+        "translation": "อย่างแน่นอน",
+        "pos": "adv",
+        "example": "Exactly right.",
+        "level": "basic"
+    },
+    {
+        "id": "v4524",
+        "word": "exaggerate",
+        "translation": "พูดเกินจริง",
+        "pos": "verb",
+        "example": "Don't exaggerate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4525",
+        "word": "exam",
+        "translation": "สอบ",
+        "pos": "noun",
+        "example": "Final exam.",
+        "level": "basic"
+    },
+    {
+        "id": "v4526",
+        "word": "examination",
+        "translation": "การตรวจสอบ",
+        "pos": "noun",
+        "example": "Medical examination.",
+        "level": "basic"
+    },
+    {
+        "id": "v4527",
+        "word": "examine",
+        "translation": "ตรวจสอบ",
+        "pos": "verb",
+        "example": "Examine carefully.",
+        "level": "basic"
+    },
+    {
+        "id": "v4528",
+        "word": "example",
+        "translation": "ตัวอย่าง",
+        "pos": "noun",
+        "example": "For example.",
+        "level": "basic"
+    },
+    {
+        "id": "v4529",
+        "word": "exceed",
+        "translation": "เกิน",
+        "pos": "verb",
+        "example": "Exceed expectations.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4530",
+        "word": "excellent",
+        "translation": "ยอดเยี่ยม",
+        "pos": "adj",
+        "example": "Excellent work.",
+        "level": "basic"
+    },
+    {
+        "id": "v4531",
+        "word": "except",
+        "translation": "ยกเว้น",
+        "pos": "prep",
+        "example": "Except for.",
+        "level": "basic"
+    },
+    {
+        "id": "v4532",
+        "word": "exception",
+        "translation": "ข้อยกเว้น",
+        "pos": "noun",
+        "example": "No exception.",
+        "level": "basic"
+    },
+    {
+        "id": "v4533",
+        "word": "exceptional",
+        "translation": "พิเศษ",
+        "pos": "adj",
+        "example": "Exceptional talent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4534",
+        "word": "exceptionally",
+        "translation": "เป็นพิเศษ",
+        "pos": "adv",
+        "example": "Exceptionally good.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4535",
+        "word": "excess",
+        "translation": "ส่วนเกิน",
+        "pos": "noun",
+        "example": "In excess.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4536",
+        "word": "excessive",
+        "translation": "มากเกินไป",
+        "pos": "adj",
+        "example": "Excessive use.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4537",
+        "word": "exchange",
+        "translation": "แลกเปลี่ยน",
+        "pos": "verb",
+        "example": "Exchange money.",
+        "level": "basic"
+    },
+    {
+        "id": "v4538",
+        "word": "excite",
+        "translation": "ทำให้ตื่นเต้น",
+        "pos": "verb",
+        "example": "Excite audience.",
+        "level": "basic"
+    },
+    {
+        "id": "v4539",
+        "word": "excited",
+        "translation": "ตื่นเต้น",
+        "pos": "adj",
+        "example": "I'm excited.",
+        "level": "basic"
+    },
+    {
+        "id": "v4540",
+        "word": "excitement",
+        "translation": "ความตื่นเต้น",
+        "pos": "noun",
+        "example": "Full of excitement.",
+        "level": "basic"
+    },
+    {
+        "id": "v4541",
+        "word": "exciting",
+        "translation": "น่าตื่นเต้น",
+        "pos": "adj",
+        "example": "Exciting news.",
+        "level": "basic"
+    },
+    {
+        "id": "v4542",
+        "word": "exclude",
+        "translation": "ไม่รวม",
+        "pos": "verb",
+        "example": "Exclude from.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4543",
+        "word": "exclusion",
+        "translation": "การกีดกัน",
+        "pos": "noun",
+        "example": "Social exclusion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4544",
+        "word": "exclusive",
+        "translation": "พิเศษเฉพาะ",
+        "pos": "adj",
+        "example": "Exclusive offer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4545",
+        "word": "exclusively",
+        "translation": "เฉพาะ",
+        "pos": "adv",
+        "example": "Exclusively for.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4546",
+        "word": "excuse",
+        "translation": "ข้อแก้ตัว",
+        "pos": "noun",
+        "example": "No excuse.",
+        "level": "basic"
+    },
+    {
+        "id": "v4547",
+        "word": "execute",
+        "translation": "ดำเนินการ",
+        "pos": "verb",
+        "example": "Execute plan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4548",
+        "word": "execution",
+        "translation": "การประหาร",
+        "pos": "noun",
+        "example": "Plan execution.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4549",
+        "word": "executive",
+        "translation": "ผู้บริหาร",
+        "pos": "noun",
+        "example": "Senior executive.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4550",
+        "word": "exemption",
+        "translation": "การยกเว้น",
+        "pos": "noun",
+        "example": "Tax exemption.",
+        "level": "advanced"
+    },
+    {
+        "id": "v4551",
+        "word": "exercise",
+        "translation": "ออกกำลังกาย",
+        "pos": "noun",
+        "example": "Daily exercise.",
+        "level": "basic"
+    },
+    {
+        "id": "v4552",
+        "word": "exert",
+        "translation": "ใช้",
+        "pos": "verb",
+        "example": "Exert pressure.",
+        "level": "advanced"
+    },
+    {
+        "id": "v4553",
+        "word": "exhaust",
+        "translation": "หมดแรง",
+        "pos": "verb",
+        "example": "Exhaust yourself.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4554",
+        "word": "exhausted",
+        "translation": "หมดแรง",
+        "pos": "adj",
+        "example": "Completely exhausted.",
+        "level": "basic"
+    },
+    {
+        "id": "v4555",
+        "word": "exhausting",
+        "translation": "เหนื่อย",
+        "pos": "adj",
+        "example": "Exhausting day.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4556",
+        "word": "exhibit",
+        "translation": "จัดแสดง",
+        "pos": "verb",
+        "example": "Exhibit artwork.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4557",
+        "word": "exhibition",
+        "translation": "นิทรรศการ",
+        "pos": "noun",
+        "example": "Art exhibition.",
+        "level": "basic"
+    },
+    {
+        "id": "v4558",
+        "word": "exile",
+        "translation": "เนรเทศ",
+        "pos": "noun",
+        "example": "In exile.",
+        "level": "advanced"
+    },
+    {
+        "id": "v4559",
+        "word": "exist",
+        "translation": "มีอยู่",
+        "pos": "verb",
+        "example": "Does it exist?",
+        "level": "basic"
+    },
+    {
+        "id": "v4560",
+        "word": "existence",
+        "translation": "การดำรงอยู่",
+        "pos": "noun",
+        "example": "In existence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4561",
+        "word": "existing",
+        "translation": "ที่มีอยู่",
+        "pos": "adj",
+        "example": "Existing system.",
+        "level": "basic"
+    },
+    {
+        "id": "v4562",
+        "word": "exit",
+        "translation": "ทางออก",
+        "pos": "noun",
+        "example": "Emergency exit.",
+        "level": "basic"
+    },
+    {
+        "id": "v4563",
+        "word": "exotic",
+        "translation": "แปลกใหม่",
+        "pos": "adj",
+        "example": "Exotic fruit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4564",
+        "word": "expand",
+        "translation": "ขยาย",
+        "pos": "verb",
+        "example": "Expand business.",
+        "level": "basic"
+    },
+    {
+        "id": "v4565",
+        "word": "expansion",
+        "translation": "การขยาย",
+        "pos": "noun",
+        "example": "Market expansion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4566",
+        "word": "expect",
+        "translation": "คาดหวัง",
+        "pos": "verb",
+        "example": "I expect.",
+        "level": "basic"
+    },
+    {
+        "id": "v4567",
+        "word": "expectation",
+        "translation": "ความคาดหวัง",
+        "pos": "noun",
+        "example": "High expectation.",
+        "level": "basic"
+    },
+    {
+        "id": "v4568",
+        "word": "expected",
+        "translation": "ที่คาดหวัง",
+        "pos": "adj",
+        "example": "As expected.",
+        "level": "basic"
+    },
+    {
+        "id": "v4569",
+        "word": "expedition",
+        "translation": "การเดินทาง",
+        "pos": "noun",
+        "example": "Arctic expedition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4570",
+        "word": "expenditure",
+        "translation": "รายจ่าย",
+        "pos": "noun",
+        "example": "Government expenditure.",
+        "level": "advanced"
+    },
+    {
+        "id": "v4571",
+        "word": "expense",
+        "translation": "ค่าใช้จ่าย",
+        "pos": "noun",
+        "example": "Travel expense.",
+        "level": "basic"
+    },
+    {
+        "id": "v4572",
+        "word": "expensive",
+        "translation": "แพง",
+        "pos": "adj",
+        "example": "Very expensive.",
+        "level": "basic"
+    },
+    {
+        "id": "v4573",
+        "word": "experience",
+        "translation": "ประสบการณ์",
+        "pos": "noun",
+        "example": "Work experience.",
+        "level": "basic"
+    },
+    {
+        "id": "v4574",
+        "word": "experienced",
+        "translation": "มีประสบการณ์",
+        "pos": "adj",
+        "example": "Experienced teacher.",
+        "level": "basic"
+    },
+    {
+        "id": "v4575",
+        "word": "experiment",
+        "translation": "การทดลอง",
+        "pos": "noun",
+        "example": "Science experiment.",
+        "level": "basic"
+    },
+    {
+        "id": "v4576",
+        "word": "experimental",
+        "translation": "ทดลอง",
+        "pos": "adj",
+        "example": "Experimental stage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4577",
+        "word": "expert",
+        "translation": "ผู้เชี่ยวชาญ",
+        "pos": "noun",
+        "example": "Expert advice.",
+        "level": "basic"
+    },
+    {
+        "id": "v4578",
+        "word": "expertise",
+        "translation": "ความเชี่ยวชาญ",
+        "pos": "noun",
+        "example": "Technical expertise.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4579",
+        "word": "expiration",
+        "translation": "วันหมดอายุ",
+        "pos": "noun",
+        "example": "Expiration date.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4580",
+        "word": "expire",
+        "translation": "หมดอายุ",
+        "pos": "verb",
+        "example": "Contract expires.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4581",
+        "word": "explain",
+        "translation": "อธิบาย",
+        "pos": "verb",
+        "example": "Please explain.",
+        "level": "basic"
+    },
+    {
+        "id": "v4582",
+        "word": "explanation",
+        "translation": "คำอธิบาย",
+        "pos": "noun",
+        "example": "Clear explanation.",
+        "level": "basic"
+    },
+    {
+        "id": "v4583",
+        "word": "explicit",
+        "translation": "ชัดเจน",
+        "pos": "adj",
+        "example": "Explicit content.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4584",
+        "word": "explicitly",
+        "translation": "อย่างชัดเจน",
+        "pos": "adv",
+        "example": "Explicitly stated.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4585",
+        "word": "explode",
+        "translation": "ระเบิด",
+        "pos": "verb",
+        "example": "Bomb explodes.",
+        "level": "basic"
+    },
+    {
+        "id": "v4586",
+        "word": "exploit",
+        "translation": "ใช้ประโยชน์",
+        "pos": "verb",
+        "example": "Exploit resources.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4587",
+        "word": "exploration",
+        "translation": "การสำรวจ",
+        "pos": "noun",
+        "example": "Space exploration.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4588",
+        "word": "explore",
+        "translation": "สำรวจ",
+        "pos": "verb",
+        "example": "Explore new places.",
+        "level": "basic"
+    },
+    {
+        "id": "v4589",
+        "word": "explorer",
+        "translation": "นักสำรวจ",
+        "pos": "noun",
+        "example": "Famous explorer.",
+        "level": "basic"
+    },
+    {
+        "id": "v4590",
+        "word": "explosion",
+        "translation": "การระเบิด",
+        "pos": "noun",
+        "example": "Huge explosion.",
+        "level": "basic"
+    },
+    {
+        "id": "v4591",
+        "word": "explosive",
+        "translation": "วัตถุระเบิด",
+        "pos": "noun",
+        "example": "Handle explosives.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4592",
+        "word": "export",
+        "translation": "ส่งออก",
+        "pos": "verb",
+        "example": "Export goods.",
+        "level": "basic"
+    },
+    {
+        "id": "v4593",
+        "word": "expose",
+        "translation": "เปิดเผย",
+        "pos": "verb",
+        "example": "Expose the truth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4594",
+        "word": "exposed",
+        "translation": "เปิดเผย",
+        "pos": "adj",
+        "example": "Exposed to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4595",
+        "word": "exposure",
+        "translation": "การได้รับ",
+        "pos": "noun",
+        "example": "Sun exposure.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4596",
+        "word": "express",
+        "translation": "แสดง",
+        "pos": "verb",
+        "example": "Express feelings.",
+        "level": "basic"
+    },
+    {
+        "id": "v4597",
+        "word": "expression",
+        "translation": "สำนวน",
+        "pos": "noun",
+        "example": "Facial expression.",
+        "level": "basic"
+    },
+    {
+        "id": "v4598",
+        "word": "extend",
+        "translation": "ขยาย",
+        "pos": "verb",
+        "example": "Extend deadline.",
+        "level": "basic"
+    },
+    {
+        "id": "v4599",
+        "word": "extended",
+        "translation": "ขยาย",
+        "pos": "adj",
+        "example": "Extended family.",
+        "level": "basic"
+    },
+    {
+        "id": "v4600",
+        "word": "extension",
+        "translation": "ส่วนขยาย",
+        "pos": "noun",
+        "example": "File extension.",
+        "level": "basic"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v9101",
+        "word": "bishop",
+        "translation": "บิชอป",
+        "pos": "noun",
+        "example": "Chess bishop.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9102",
+        "word": "bite",
+        "translation": "กัด",
+        "pos": "verb",
+        "example": "Don't bite.",
+        "level": "basic"
+    },
+    {
+        "id": "v9103",
+        "word": "bitter",
+        "translation": "ขม",
+        "pos": "adj",
+        "example": "Bitter taste.",
+        "level": "basic"
+    },
+    {
+        "id": "v9104",
+        "word": "bitterly",
+        "translation": "อย่างขมขื่น",
+        "pos": "adv",
+        "example": "Bitterly cold.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9105",
+        "word": "bitterness",
+        "translation": "ความขมขื่น",
+        "pos": "noun",
+        "example": "Feel bitterness.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9106",
+        "word": "bizarre",
+        "translation": "แปลกประหลาด",
+        "pos": "adj",
+        "example": "Bizarre behavior.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9107",
+        "word": "blackboard",
+        "translation": "กระดานดำ",
+        "pos": "noun",
+        "example": "Write on blackboard.",
+        "level": "basic"
+    },
+    {
+        "id": "v9108",
+        "word": "blackmail",
+        "translation": "แบล็กเมล",
+        "pos": "noun",
+        "example": "Commit blackmail.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9109",
+        "word": "blacksmith",
+        "translation": "ช่างตีเหล็ก",
+        "pos": "noun",
+        "example": "Village blacksmith.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9110",
+        "word": "blade",
+        "translation": "ใบมีด",
+        "pos": "noun",
+        "example": "Sharp blade.",
+        "level": "basic"
+    },
+    {
+        "id": "v9111",
+        "word": "blame",
+        "translation": "ตำหนิ",
+        "pos": "verb",
+        "example": "Don't blame me.",
+        "level": "basic"
+    },
+    {
+        "id": "v9112",
+        "word": "bland",
+        "translation": "จืดชืด",
+        "pos": "adj",
+        "example": "Bland food.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9113",
+        "word": "blank",
+        "translation": "ว่างเปล่า",
+        "pos": "adj",
+        "example": "Blank page.",
+        "level": "basic"
+    },
+    {
+        "id": "v9114",
+        "word": "blanket",
+        "translation": "ผ้าห่ม",
+        "pos": "noun",
+        "example": "Warm blanket.",
+        "level": "basic"
+    },
+    {
+        "id": "v9115",
+        "word": "blast",
+        "translation": "ระเบิด",
+        "pos": "noun",
+        "example": "Bomb blast.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9116",
+        "word": "blatant",
+        "translation": "โจ่งแจ้ง",
+        "pos": "adj",
+        "example": "Blatant lie.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9117",
+        "word": "blaze",
+        "translation": "ไฟลุก",
+        "pos": "noun",
+        "example": "Forest blaze.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9118",
+        "word": "bleach",
+        "translation": "ฟอกขาว",
+        "pos": "verb",
+        "example": "Bleach clothes.",
+        "level": "basic"
+    },
+    {
+        "id": "v9119",
+        "word": "bleak",
+        "translation": "มืดมน",
+        "pos": "adj",
+        "example": "Bleak future.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9120",
+        "word": "bleed",
+        "translation": "เลือดออก",
+        "pos": "verb",
+        "example": "Bleed heavily.",
+        "level": "basic"
+    },
+    {
+        "id": "v9121",
+        "word": "bleeding",
+        "translation": "การเลือดออก",
+        "pos": "noun",
+        "example": "Stop the bleeding.",
+        "level": "basic"
+    },
+    {
+        "id": "v9122",
+        "word": "blend",
+        "translation": "ผสม",
+        "pos": "verb",
+        "example": "Blend together.",
+        "level": "basic"
+    },
+    {
+        "id": "v9123",
+        "word": "blender",
+        "translation": "เครื่องปั่น",
+        "pos": "noun",
+        "example": "Kitchen blender.",
+        "level": "basic"
+    },
+    {
+        "id": "v9124",
+        "word": "bless",
+        "translation": "อวยพร",
+        "pos": "verb",
+        "example": "God bless.",
+        "level": "basic"
+    },
+    {
+        "id": "v9125",
+        "word": "blessed",
+        "translation": "ได้รับพร",
+        "pos": "adj",
+        "example": "Truly blessed.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9126",
+        "word": "blessing",
+        "translation": "พร",
+        "pos": "noun",
+        "example": "Great blessing.",
+        "level": "basic"
+    },
+    {
+        "id": "v9127",
+        "word": "blindness",
+        "translation": "ความตาบอด",
+        "pos": "noun",
+        "example": "Color blindness.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9128",
+        "word": "blink",
+        "translation": "กระพริบตา",
+        "pos": "verb",
+        "example": "Don't blink.",
+        "level": "basic"
+    },
+    {
+        "id": "v9129",
+        "word": "bliss",
+        "translation": "ความสุขสูงสุด",
+        "pos": "noun",
+        "example": "Pure bliss.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9130",
+        "word": "blizzard",
+        "translation": "พายุหิมะ",
+        "pos": "noun",
+        "example": "Heavy blizzard.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9131",
+        "word": "bloc",
+        "translation": "กลุ่มประเทศ",
+        "pos": "noun",
+        "example": "Trading bloc.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9132",
+        "word": "blockade",
+        "translation": "ปิดล้อม",
+        "pos": "noun",
+        "example": "Naval blockade.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9133",
+        "word": "blockbuster",
+        "translation": "หนังทำเงิน",
+        "pos": "noun",
+        "example": "Summer blockbuster.",
+        "level": "basic"
+    },
+    {
+        "id": "v9134",
+        "word": "blogger",
+        "translation": "บล็อกเกอร์",
+        "pos": "noun",
+        "example": "Travel blogger.",
+        "level": "basic"
+    },
+    {
+        "id": "v9135",
+        "word": "blonde",
+        "translation": "ผมบลอนด์",
+        "pos": "adj",
+        "example": "Blonde hair.",
+        "level": "basic"
+    },
+    {
+        "id": "v9136",
+        "word": "bloodstream",
+        "translation": "กระแสเลือด",
+        "pos": "noun",
+        "example": "In the bloodstream.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9137",
+        "word": "bloody",
+        "translation": "เลือด",
+        "pos": "adj",
+        "example": "Bloody battle.",
+        "level": "basic"
+    },
+    {
+        "id": "v9138",
+        "word": "bloom",
+        "translation": "เบ่งบาน",
+        "pos": "verb",
+        "example": "Flowers bloom.",
+        "level": "basic"
+    },
+    {
+        "id": "v9139",
+        "word": "blossom",
+        "translation": "ดอกไม้",
+        "pos": "noun",
+        "example": "Cherry blossom.",
+        "level": "basic"
+    },
+    {
+        "id": "v9140",
+        "word": "blouse",
+        "translation": "เสื้อผู้หญิง",
+        "pos": "noun",
+        "example": "White blouse.",
+        "level": "basic"
+    },
+    {
+        "id": "v9141",
+        "word": "blueprint",
+        "translation": "พิมพ์เขียว",
+        "pos": "noun",
+        "example": "Follow blueprint.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9142",
+        "word": "blues",
+        "translation": "เพลงบลูส์",
+        "pos": "noun",
+        "example": "Sing the blues.",
+        "level": "basic"
+    },
+    {
+        "id": "v9143",
+        "word": "blunder",
+        "translation": "ความผิดพลาด",
+        "pos": "noun",
+        "example": "Major blunder.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9144",
+        "word": "blur",
+        "translation": "เบลอ",
+        "pos": "verb",
+        "example": "Vision blurs.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9145",
+        "word": "blurred",
+        "translation": "พร่ามัว",
+        "pos": "adj",
+        "example": "Blurred vision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9146",
+        "word": "blush",
+        "translation": "หน้าแดง",
+        "pos": "verb",
+        "example": "Made me blush.",
+        "level": "basic"
+    },
+    {
+        "id": "v9147",
+        "word": "boar",
+        "translation": "หมูป่า",
+        "pos": "noun",
+        "example": "Wild boar.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9148",
+        "word": "boarding",
+        "translation": "การขึ้น",
+        "pos": "noun",
+        "example": "Boarding pass.",
+        "level": "basic"
+    },
+    {
+        "id": "v9149",
+        "word": "boast",
+        "translation": "อวด",
+        "pos": "verb",
+        "example": "Boast about.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9150",
+        "word": "bodyguard",
+        "translation": "บอดี้การ์ด",
+        "pos": "noun",
+        "example": "Personal bodyguard.",
+        "level": "basic"
+    },
+    {
+        "id": "v9151",
+        "word": "bog",
+        "translation": "หนอง",
+        "pos": "noun",
+        "example": "Peat bog.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9152",
+        "word": "boil",
+        "translation": "ต้ม",
+        "pos": "verb",
+        "example": "Boil water.",
+        "level": "basic"
+    },
+    {
+        "id": "v9153",
+        "word": "boiler",
+        "translation": "หม้อต้ม",
+        "pos": "noun",
+        "example": "Water boiler.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9154",
+        "word": "boiling",
+        "translation": "เดือด",
+        "pos": "adj",
+        "example": "Boiling hot.",
+        "level": "basic"
+    },
+    {
+        "id": "v9155",
+        "word": "bold",
+        "translation": "กล้าหาญ",
+        "pos": "adj",
+        "example": "Bold move.",
+        "level": "basic"
+    },
+    {
+        "id": "v9156",
+        "word": "boldly",
+        "translation": "อย่างกล้าหาญ",
+        "pos": "adv",
+        "example": "Speak boldly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9157",
+        "word": "bolt",
+        "translation": "สลัก",
+        "pos": "noun",
+        "example": "Nuts and bolts.",
+        "level": "basic"
+    },
+    {
+        "id": "v9158",
+        "word": "bomb",
+        "translation": "ระเบิด",
+        "pos": "noun",
+        "example": "Drop bomb.",
+        "level": "basic"
+    },
+    {
+        "id": "v9159",
+        "word": "bombardment",
+        "translation": "การทิ้งระเบิด",
+        "pos": "noun",
+        "example": "Heavy bombardment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9160",
+        "word": "bomber",
+        "translation": "เครื่องบินทิ้งระเบิด",
+        "pos": "noun",
+        "example": "Stealth bomber.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9161",
+        "word": "bombing",
+        "translation": "การวางระเบิด",
+        "pos": "noun",
+        "example": "Suicide bombing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9162",
+        "word": "bondage",
+        "translation": "ความเป็นทาส",
+        "pos": "noun",
+        "example": "Break free from bondage.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9163",
+        "word": "bonding",
+        "translation": "การสร้างความผูกพัน",
+        "pos": "noun",
+        "example": "Team bonding.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9164",
+        "word": "bonus",
+        "translation": "โบนัส",
+        "pos": "noun",
+        "example": "Year-end bonus.",
+        "level": "basic"
+    },
+    {
+        "id": "v9165",
+        "word": "bookmark",
+        "translation": "บุ๊กมาร์ก",
+        "pos": "noun",
+        "example": "Add bookmark.",
+        "level": "basic"
+    },
+    {
+        "id": "v9166",
+        "word": "boom",
+        "translation": "เฟื่องฟู",
+        "pos": "noun",
+        "example": "Economic boom.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9167",
+        "word": "booming",
+        "translation": "รุ่งเรือง",
+        "pos": "adj",
+        "example": "Booming business.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9168",
+        "word": "boost",
+        "translation": "เพิ่ม",
+        "pos": "verb",
+        "example": "Boost sales.",
+        "level": "basic"
+    },
+    {
+        "id": "v9169",
+        "word": "booth",
+        "translation": "ตู้",
+        "pos": "noun",
+        "example": "Phone booth.",
+        "level": "basic"
+    },
+    {
+        "id": "v9170",
+        "word": "bootstrap",
+        "translation": "บูตสแตรป",
+        "pos": "noun",
+        "example": "Bootstrap yourself.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9171",
+        "word": "borderline",
+        "translation": "เส้นแบ่ง",
+        "pos": "adj",
+        "example": "Borderline case.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9172",
+        "word": "boredom",
+        "translation": "ความเบื่อ",
+        "pos": "noun",
+        "example": "Die of boredom.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9173",
+        "word": "boring",
+        "translation": "น่าเบื่อ",
+        "pos": "adj",
+        "example": "Very boring.",
+        "level": "basic"
+    },
+    {
+        "id": "v9174",
+        "word": "borough",
+        "translation": "เขต",
+        "pos": "noun",
+        "example": "City borough.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9175",
+        "word": "borrow",
+        "translation": "ยืม",
+        "pos": "verb",
+        "example": "Can I borrow?",
+        "level": "basic"
+    },
+    {
+        "id": "v9176",
+        "word": "borrower",
+        "translation": "ผู้ยืม",
+        "pos": "noun",
+        "example": "Borrower's name.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9177",
+        "word": "borrowing",
+        "translation": "การยืม",
+        "pos": "noun",
+        "example": "Government borrowing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9178",
+        "word": "bosom",
+        "translation": "อก",
+        "pos": "noun",
+        "example": "Bosom friend.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9179",
+        "word": "botanical",
+        "translation": "ทางพฤกษศาสตร์",
+        "pos": "adj",
+        "example": "Botanical garden.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9180",
+        "word": "botany",
+        "translation": "พฤกษศาสตร์",
+        "pos": "noun",
+        "example": "Study botany.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9181",
+        "word": "bother",
+        "translation": "รบกวน",
+        "pos": "verb",
+        "example": "Don't bother.",
+        "level": "basic"
+    },
+    {
+        "id": "v9182",
+        "word": "bottleneck",
+        "translation": "คอขวด",
+        "pos": "noun",
+        "example": "Traffic bottleneck.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9183",
+        "word": "boulder",
+        "translation": "หินก้อนใหญ่",
+        "pos": "noun",
+        "example": "Large boulder.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9184",
+        "word": "boulevard",
+        "translation": "ถนนใหญ่",
+        "pos": "noun",
+        "example": "Sunset Boulevard.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9185",
+        "word": "bounce",
+        "translation": "เด้ง",
+        "pos": "verb",
+        "example": "Ball bounces.",
+        "level": "basic"
+    },
+    {
+        "id": "v9186",
+        "word": "boundary",
+        "translation": "ขอบเขต",
+        "pos": "noun",
+        "example": "Set boundaries.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9187",
+        "word": "bouquet",
+        "translation": "ช่อดอกไม้",
+        "pos": "noun",
+        "example": "Flower bouquet.",
+        "level": "basic"
+    },
+    {
+        "id": "v9188",
+        "word": "boutique",
+        "translation": "บูติก",
+        "pos": "noun",
+        "example": "Fashion boutique.",
+        "level": "basic"
+    },
+    {
+        "id": "v9189",
+        "word": "bow",
+        "translation": "คันธนู",
+        "pos": "noun",
+        "example": "Bow and arrow.",
+        "level": "basic"
+    },
+    {
+        "id": "v9190",
+        "word": "bowel",
+        "translation": "ลำไส้",
+        "pos": "noun",
+        "example": "Bowel movement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9191",
+        "word": "bowling",
+        "translation": "โบว์ลิ่ง",
+        "pos": "noun",
+        "example": "Go bowling.",
+        "level": "basic"
+    },
+    {
+        "id": "v9192",
+        "word": "boxer",
+        "translation": "นักมวย",
+        "pos": "noun",
+        "example": "Professional boxer.",
+        "level": "basic"
+    },
+    {
+        "id": "v9193",
+        "word": "boxing",
+        "translation": "มวย",
+        "pos": "noun",
+        "example": "Boxing match.",
+        "level": "basic"
+    },
+    {
+        "id": "v9194",
+        "word": "boycott",
+        "translation": "คว่ำบาตร",
+        "pos": "verb",
+        "example": "Boycott products.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9195",
+        "word": "boyfriend",
+        "translation": "แฟนผู้ชาย",
+        "pos": "noun",
+        "example": "New boyfriend.",
+        "level": "basic"
+    },
+    {
+        "id": "v9196",
+        "word": "bracelet",
+        "translation": "สร้อยข้อมือ",
+        "pos": "noun",
+        "example": "Gold bracelet.",
+        "level": "basic"
+    },
+    {
+        "id": "v9197",
+        "word": "bracket",
+        "translation": "วงเล็บ",
+        "pos": "noun",
+        "example": "Tax bracket.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9198",
+        "word": "brag",
+        "translation": "คุยโว",
+        "pos": "verb",
+        "example": "Don't brag.",
+        "level": "basic"
+    },
+    {
+        "id": "v9199",
+        "word": "braid",
+        "translation": "ถักเปีย",
+        "pos": "noun",
+        "example": "Hair braid.",
+        "level": "basic"
+    },
+    {
+        "id": "v9200",
+        "word": "braille",
+        "translation": "อักษรเบรลล์",
+        "pos": "noun",
+        "example": "Read braille.",
+        "level": "intermediate"
+    }
+]

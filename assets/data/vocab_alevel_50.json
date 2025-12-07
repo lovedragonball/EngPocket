@@ -1,0 +1,702 @@
+[
+    {
+        "id": "al001",
+        "word": "accommodate",
+        "translation": "รองรับ, จัดหาที่พัก",
+        "partOfSpeech": "verb",
+        "exampleEn": "The hotel can accommodate 200 guests.",
+        "exampleTh": "โรงแรมสามารถรองรับแขก 200 คน",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "formal",
+            "hospitality"
+        ]
+    },
+    {
+        "id": "al002",
+        "word": "accumulate",
+        "translation": "สะสม",
+        "partOfSpeech": "verb",
+        "exampleEn": "Wealth accumulates over time.",
+        "exampleTh": "ความมั่งคั่งสะสมเมื่อเวลาผ่านไป",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "finance",
+            "academic"
+        ]
+    },
+    {
+        "id": "al003",
+        "word": "ambiguous",
+        "translation": "กำกวม, คลุมเครือ",
+        "partOfSpeech": "adjective",
+        "exampleEn": "The statement was ambiguous.",
+        "exampleTh": "ข้อความนั้นกำกวม",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "communication",
+            "academic"
+        ]
+    },
+    {
+        "id": "al004",
+        "word": "analogous",
+        "translation": "คล้ายคลึง, เทียบเคียงได้",
+        "partOfSpeech": "adjective",
+        "exampleEn": "The situation is analogous to our previous case.",
+        "exampleTh": "สถานการณ์นี้คล้ายคลึงกับกรณีก่อนหน้า",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "comparison",
+            "academic"
+        ]
+    },
+    {
+        "id": "al005",
+        "word": "anticipate",
+        "translation": "คาดการณ์, คาดหวัง",
+        "partOfSpeech": "verb",
+        "exampleEn": "We anticipate strong demand.",
+        "exampleTh": "เราคาดการณ์ว่าจะมีความต้องการสูง",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "prediction",
+            "business"
+        ]
+    },
+    {
+        "id": "al006",
+        "word": "arbitrary",
+        "translation": "ตามอำเภอใจ, ไม่มีหลักเกณฑ์",
+        "partOfSpeech": "adjective",
+        "exampleEn": "The decision seemed arbitrary.",
+        "exampleTh": "การตัดสินใจดูเหมือนตามอำเภอใจ",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "judgment",
+            "academic"
+        ]
+    },
+    {
+        "id": "al007",
+        "word": "autonomous",
+        "translation": "เป็นอิสระ, ปกครองตนเอง",
+        "partOfSpeech": "adjective",
+        "exampleEn": "Autonomous vehicles are becoming common.",
+        "exampleTh": "ยานพาหนะไร้คนขับกำลังเป็นเรื่องปกติ",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "technology",
+            "independence"
+        ]
+    },
+    {
+        "id": "al008",
+        "word": "coherent",
+        "translation": "เชื่อมโยงกัน, สอดคล้อง",
+        "partOfSpeech": "adjective",
+        "exampleEn": "His argument was coherent.",
+        "exampleTh": "ข้อโต้แย้งของเขาสอดคล้องกัน",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "logic",
+            "academic"
+        ]
+    },
+    {
+        "id": "al009",
+        "word": "comprehensive",
+        "translation": "ครอบคลุม, รอบด้าน",
+        "partOfSpeech": "adjective",
+        "exampleEn": "We need a comprehensive plan.",
+        "exampleTh": "เราต้องการแผนที่ครอบคลุม",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "completeness",
+            "academic"
+        ]
+    },
+    {
+        "id": "al010",
+        "word": "conceive",
+        "translation": "คิด, ตั้งครรภ์",
+        "partOfSpeech": "verb",
+        "exampleEn": "It's hard to conceive such an idea.",
+        "exampleTh": "ยากที่จะคิดไอเดียเช่นนั้น",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "thinking",
+            "academic"
+        ]
+    },
+    {
+        "id": "al011",
+        "word": "configuration",
+        "translation": "การกำหนดค่า, การจัดวาง",
+        "partOfSpeech": "noun",
+        "exampleEn": "Check the system configuration.",
+        "exampleTh": "ตรวจสอบการกำหนดค่าระบบ",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "technology",
+            "setup"
+        ]
+    },
+    {
+        "id": "al012",
+        "word": "contemplate",
+        "translation": "ครุ่นคิด, พิจารณา",
+        "partOfSpeech": "verb",
+        "exampleEn": "She contemplated her options.",
+        "exampleTh": "เธอครุ่นคิดเกี่ยวกับทางเลือกของเธอ",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "thinking",
+            "decision"
+        ]
+    },
+    {
+        "id": "al013",
+        "word": "contradict",
+        "translation": "ขัดแย้ง, โต้แย้ง",
+        "partOfSpeech": "verb",
+        "exampleEn": "The evidence contradicts his story.",
+        "exampleTh": "หลักฐานขัดแย้งกับเรื่องราวของเขา",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "logic",
+            "argument"
+        ]
+    },
+    {
+        "id": "al014",
+        "word": "controversy",
+        "translation": "ความขัดแย้ง, การโต้เถียง",
+        "partOfSpeech": "noun",
+        "exampleEn": "The policy caused controversy.",
+        "exampleTh": "นโยบายนี้ก่อให้เกิดความขัดแย้ง",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "society",
+            "debate"
+        ]
+    },
+    {
+        "id": "al015",
+        "word": "correspond",
+        "translation": "สอดคล้อง, ติดต่อ",
+        "partOfSpeech": "verb",
+        "exampleEn": "The numbers correspond to the data.",
+        "exampleTh": "ตัวเลขสอดคล้องกับข้อมูล",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "matching",
+            "academic"
+        ]
+    },
+    {
+        "id": "al016",
+        "word": "criterion",
+        "translation": "เกณฑ์, มาตรฐาน",
+        "partOfSpeech": "noun",
+        "exampleEn": "What is the criterion for selection?",
+        "exampleTh": "เกณฑ์ในการคัดเลือกคืออะไร?",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "evaluation",
+            "academic"
+        ]
+    },
+    {
+        "id": "al017",
+        "word": "deficiency",
+        "translation": "ความขาดแคลน, ข้อบกพร่อง",
+        "partOfSpeech": "noun",
+        "exampleEn": "Iron deficiency causes anemia.",
+        "exampleTh": "การขาดธาตุเหล็กทำให้เกิดโรคโลหิตจาง",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "health",
+            "science"
+        ]
+    },
+    {
+        "id": "al018",
+        "word": "deteriorate",
+        "translation": "เสื่อมลง, ทรุดโทรม",
+        "partOfSpeech": "verb",
+        "exampleEn": "His health deteriorated rapidly.",
+        "exampleTh": "สุขภาพของเขาเสื่อมลงอย่างรวดเร็ว",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "decline",
+            "health"
+        ]
+    },
+    {
+        "id": "al019",
+        "word": "dimension",
+        "translation": "มิติ, ขนาด",
+        "partOfSpeech": "noun",
+        "exampleEn": "Consider every dimension of the problem.",
+        "exampleTh": "พิจารณาทุกมิติของปัญหา",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "analysis",
+            "academic"
+        ]
+    },
+    {
+        "id": "al020",
+        "word": "discourse",
+        "translation": "การสนทนา, ปาฐกถา",
+        "partOfSpeech": "noun",
+        "exampleEn": "Academic discourse requires precision.",
+        "exampleTh": "การสนทนาทางวิชาการต้องการความแม่นยำ",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "communication",
+            "academic"
+        ]
+    },
+    {
+        "id": "al021",
+        "word": "discrete",
+        "translation": "แยกจากกัน, ไม่ต่อเนื่อง",
+        "partOfSpeech": "adjective",
+        "exampleEn": "The data comes in discrete units.",
+        "exampleTh": "ข้อมูลมาในหน่วยที่แยกจากกัน",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "mathematics",
+            "academic"
+        ]
+    },
+    {
+        "id": "al022",
+        "word": "disparity",
+        "translation": "ความแตกต่าง, ความเหลื่อมล้ำ",
+        "partOfSpeech": "noun",
+        "exampleEn": "There is income disparity in society.",
+        "exampleTh": "มีความเหลื่อมล้ำทางรายได้ในสังคม",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "society",
+            "inequality"
+        ]
+    },
+    {
+        "id": "al023",
+        "word": "distort",
+        "translation": "บิดเบือน",
+        "partOfSpeech": "verb",
+        "exampleEn": "Media can distort the truth.",
+        "exampleTh": "สื่อสามารถบิดเบือนความจริง",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "media",
+            "truth"
+        ]
+    },
+    {
+        "id": "al024",
+        "word": "domain",
+        "translation": "ขอบเขต, โดเมน",
+        "partOfSpeech": "noun",
+        "exampleEn": "This falls within my domain.",
+        "exampleTh": "นี่อยู่ในขอบเขตของผม",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "scope",
+            "academic"
+        ]
+    },
+    {
+        "id": "al025",
+        "word": "empirical",
+        "translation": "เชิงประจักษ์, จากการทดลอง",
+        "partOfSpeech": "adjective",
+        "exampleEn": "We need empirical evidence.",
+        "exampleTh": "เราต้องการหลักฐานเชิงประจักษ์",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "science",
+            "research"
+        ]
+    },
+    {
+        "id": "al026",
+        "word": "endeavor",
+        "translation": "ความพยายาม, มุ่งมั่น",
+        "partOfSpeech": "noun",
+        "exampleEn": "Scientific endeavor requires patience.",
+        "exampleTh": "ความพยายามทางวิทยาศาสตร์ต้องใช้ความอดทน",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "effort",
+            "formal"
+        ]
+    },
+    {
+        "id": "al027",
+        "word": "entity",
+        "translation": "หน่วยงาน, สิ่งที่มีอยู่",
+        "partOfSpeech": "noun",
+        "exampleEn": "The company is a legal entity.",
+        "exampleTh": "บริษัทเป็นนิติบุคคล",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "legal",
+            "business"
+        ]
+    },
+    {
+        "id": "al028",
+        "word": "equivalent",
+        "translation": "เท่าเทียม, เทียบเท่า",
+        "partOfSpeech": "adjective",
+        "exampleEn": "One dollar is equivalent to 35 baht.",
+        "exampleTh": "หนึ่งดอลลาร์เทียบเท่ากับ 35 บาท",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "comparison",
+            "mathematics"
+        ]
+    },
+    {
+        "id": "al029",
+        "word": "erode",
+        "translation": "กัดเซาะ, สึกกร่อน",
+        "partOfSpeech": "verb",
+        "exampleEn": "Trust can erode over time.",
+        "exampleTh": "ความไว้วางใจอาจสึกกร่อนเมื่อเวลาผ่านไป",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "change",
+            "deterioration"
+        ]
+    },
+    {
+        "id": "al030",
+        "word": "exacerbate",
+        "translation": "ทำให้แย่ลง",
+        "partOfSpeech": "verb",
+        "exampleEn": "The crisis exacerbated the problem.",
+        "exampleTh": "วิกฤตทำให้ปัญหาแย่ลง",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "worsen",
+            "formal"
+        ]
+    },
+    {
+        "id": "al031",
+        "word": "excerpt",
+        "translation": "ข้อความคัดย่อ",
+        "partOfSpeech": "noun",
+        "exampleEn": "Here is an excerpt from the book.",
+        "exampleTh": "นี่คือข้อความคัดย่อจากหนังสือ",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "text",
+            "academic"
+        ]
+    },
+    {
+        "id": "al032",
+        "word": "exclusion",
+        "translation": "การกีดกัน, การยกเว้น",
+        "partOfSpeech": "noun",
+        "exampleEn": "Social exclusion is a serious issue.",
+        "exampleTh": "การกีดกันทางสังคมเป็นปัญหาร้ายแรง",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "society",
+            "rejection"
+        ]
+    },
+    {
+        "id": "al033",
+        "word": "explicit",
+        "translation": "ชัดเจน, เปิดเผย",
+        "partOfSpeech": "adjective",
+        "exampleEn": "The instructions were explicit.",
+        "exampleTh": "คำแนะนำมีความชัดเจน",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "clarity",
+            "communication"
+        ]
+    },
+    {
+        "id": "al034",
+        "word": "exploitation",
+        "translation": "การเอารัดเอาเปรียบ, การใช้ประโยชน์",
+        "partOfSpeech": "noun",
+        "exampleEn": "Labor exploitation is illegal.",
+        "exampleTh": "การเอารัดเอาเปรียบแรงงานเป็นสิ่งผิดกฎหมาย",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "labor",
+            "ethics"
+        ]
+    },
+    {
+        "id": "al035",
+        "word": "feasible",
+        "translation": "เป็นไปได้, ทำได้",
+        "partOfSpeech": "adjective",
+        "exampleEn": "Is this plan feasible?",
+        "exampleTh": "แผนนี้เป็นไปได้ไหม?",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "possibility",
+            "planning"
+        ]
+    },
+    {
+        "id": "al036",
+        "word": "fluctuate",
+        "translation": "ผันผวน, ขึ้นลง",
+        "partOfSpeech": "verb",
+        "exampleEn": "Prices fluctuate daily.",
+        "exampleTh": "ราคาผันผวนทุกวัน",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "change",
+            "economics"
+        ]
+    },
+    {
+        "id": "al037",
+        "word": "formulate",
+        "translation": "กำหนด, วางแผน",
+        "partOfSpeech": "verb",
+        "exampleEn": "We need to formulate a strategy.",
+        "exampleTh": "เราต้องกำหนดกลยุทธ์",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "planning",
+            "creation"
+        ]
+    },
+    {
+        "id": "al038",
+        "word": "hierarchy",
+        "translation": "ลำดับชั้น",
+        "partOfSpeech": "noun",
+        "exampleEn": "There is a clear hierarchy in the company.",
+        "exampleTh": "มีลำดับชั้นที่ชัดเจนในบริษัท",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "organization",
+            "structure"
+        ]
+    },
+    {
+        "id": "al039",
+        "word": "implicit",
+        "translation": "โดยนัย, แฝงอยู่",
+        "partOfSpeech": "adjective",
+        "exampleEn": "There was an implicit understanding.",
+        "exampleTh": "มีความเข้าใจโดยนัย",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "hidden",
+            "communication"
+        ]
+    },
+    {
+        "id": "al040",
+        "word": "incentive",
+        "translation": "แรงจูงใจ",
+        "partOfSpeech": "noun",
+        "exampleEn": "Financial incentives motivate employees.",
+        "exampleTh": "แรงจูงใจทางการเงินกระตุ้นพนักงาน",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "motivation",
+            "business"
+        ]
+    },
+    {
+        "id": "al041",
+        "word": "incorporate",
+        "translation": "รวมเข้าด้วย, จดทะเบียน",
+        "partOfSpeech": "verb",
+        "exampleEn": "We will incorporate your feedback.",
+        "exampleTh": "เราจะรวมความคิดเห็นของคุณเข้าด้วย",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "inclusion",
+            "business"
+        ]
+    },
+    {
+        "id": "al042",
+        "word": "infrastructure",
+        "translation": "โครงสร้างพื้นฐาน",
+        "partOfSpeech": "noun",
+        "exampleEn": "We need better infrastructure.",
+        "exampleTh": "เราต้องการโครงสร้างพื้นฐานที่ดีขึ้น",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "development",
+            "economics"
+        ]
+    },
+    {
+        "id": "al043",
+        "word": "inherent",
+        "translation": "โดยธรรมชาติ, โดยกำเนิด",
+        "partOfSpeech": "adjective",
+        "exampleEn": "There are inherent risks in investment.",
+        "exampleTh": "มีความเสี่ยงโดยธรรมชาติในการลงทุน",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "natural",
+            "characteristic"
+        ]
+    },
+    {
+        "id": "al044",
+        "word": "integrity",
+        "translation": "ความซื่อสัตย์, ความสมบูรณ์",
+        "partOfSpeech": "noun",
+        "exampleEn": "Data integrity is crucial.",
+        "exampleTh": "ความสมบูรณ์ของข้อมูลมีความสำคัญ",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "ethics",
+            "quality"
+        ]
+    },
+    {
+        "id": "al045",
+        "word": "intervene",
+        "translation": "แทรกแซง, เข้าไปยุ่ง",
+        "partOfSpeech": "verb",
+        "exampleEn": "The government decided to intervene.",
+        "exampleTh": "รัฐบาลตัดสินใจแทรกแซง",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "action",
+            "politics"
+        ]
+    },
+    {
+        "id": "al046",
+        "word": "magnitude",
+        "translation": "ขนาด, ความสำคัญ",
+        "partOfSpeech": "noun",
+        "exampleEn": "We underestimated the magnitude of the problem.",
+        "exampleTh": "เราประเมินขนาดของปัญหาต่ำเกินไป",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "size",
+            "importance"
+        ]
+    },
+    {
+        "id": "al047",
+        "word": "mechanism",
+        "translation": "กลไก, กระบวนการ",
+        "partOfSpeech": "noun",
+        "exampleEn": "What is the mechanism of action?",
+        "exampleTh": "กลไกการทำงานคืออะไร?",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "process",
+            "science"
+        ]
+    },
+    {
+        "id": "al048",
+        "word": "phenomenon",
+        "translation": "ปรากฏการณ์",
+        "partOfSpeech": "noun",
+        "exampleEn": "Global warming is a complex phenomenon.",
+        "exampleTh": "ภาวะโลกร้อนเป็นปรากฏการณ์ที่ซับซ้อน",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "science",
+            "occurrence"
+        ]
+    },
+    {
+        "id": "al049",
+        "word": "pragmatic",
+        "translation": "เชิงปฏิบัติ, ใช้ได้จริง",
+        "partOfSpeech": "adjective",
+        "exampleEn": "We need a pragmatic approach.",
+        "exampleTh": "เราต้องการแนวทางเชิงปฏิบัติ",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "practical",
+            "approach"
+        ]
+    },
+    {
+        "id": "al050",
+        "word": "unprecedented",
+        "translation": "ไม่เคยมีมาก่อน",
+        "partOfSpeech": "adjective",
+        "exampleEn": "This is an unprecedented situation.",
+        "exampleTh": "นี่คือสถานการณ์ที่ไม่เคยมีมาก่อน",
+        "level": "advanced",
+        "packId": "ALEVEL_V1",
+        "tags": [
+            "unique",
+            "historical"
+        ]
+    }
+]

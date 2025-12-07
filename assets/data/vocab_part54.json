@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v5201",
+        "word": "hostage",
+        "translation": "ตัวประกัน",
+        "pos": "noun",
+        "example": "Hold hostage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5202",
+        "word": "hostile",
+        "translation": "เป็นศัตรู",
+        "pos": "adj",
+        "example": "Hostile environment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5203",
+        "word": "hot",
+        "translation": "ร้อน",
+        "pos": "adj",
+        "example": "Very hot.",
+        "level": "basic"
+    },
+    {
+        "id": "v5204",
+        "word": "hotel",
+        "translation": "โรงแรม",
+        "pos": "noun",
+        "example": "Book a hotel.",
+        "level": "basic"
+    },
+    {
+        "id": "v5205",
+        "word": "hour",
+        "translation": "ชั่วโมง",
+        "pos": "noun",
+        "example": "One hour.",
+        "level": "basic"
+    },
+    {
+        "id": "v5206",
+        "word": "hourly",
+        "translation": "รายชั่วโมง",
+        "pos": "adj",
+        "example": "Hourly rate.",
+        "level": "basic"
+    },
+    {
+        "id": "v5207",
+        "word": "house",
+        "translation": "บ้าน",
+        "pos": "noun",
+        "example": "Big house.",
+        "level": "basic"
+    },
+    {
+        "id": "v5208",
+        "word": "household",
+        "translation": "ครัวเรือน",
+        "pos": "noun",
+        "example": "Household income.",
+        "level": "basic"
+    },
+    {
+        "id": "v5209",
+        "word": "housewife",
+        "translation": "แม่บ้าน",
+        "pos": "noun",
+        "example": "Stay-home housewife.",
+        "level": "basic"
+    },
+    {
+        "id": "v5210",
+        "word": "housing",
+        "translation": "ที่อยู่อาศัย",
+        "pos": "noun",
+        "example": "Affordable housing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5211",
+        "word": "how",
+        "translation": "อย่างไร",
+        "pos": "adv",
+        "example": "How are you?",
+        "level": "basic"
+    },
+    {
+        "id": "v5212",
+        "word": "however",
+        "translation": "อย่างไรก็ตาม",
+        "pos": "adv",
+        "example": "However.",
+        "level": "basic"
+    },
+    {
+        "id": "v5213",
+        "word": "hug",
+        "translation": "กอด",
+        "pos": "verb",
+        "example": "Give a hug.",
+        "level": "basic"
+    },
+    {
+        "id": "v5214",
+        "word": "huge",
+        "translation": "ใหญ่มาก",
+        "pos": "adj",
+        "example": "Huge success.",
+        "level": "basic"
+    },
+    {
+        "id": "v5215",
+        "word": "human",
+        "translation": "มนุษย์",
+        "pos": "noun",
+        "example": "Human being.",
+        "level": "basic"
+    },
+    {
+        "id": "v5216",
+        "word": "humanitarian",
+        "translation": "มนุษยธรรม",
+        "pos": "adj",
+        "example": "Humanitarian aid.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5217",
+        "word": "humanity",
+        "translation": "มนุษยชาติ",
+        "pos": "noun",
+        "example": "Crimes against humanity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5218",
+        "word": "humble",
+        "translation": "ถ่อมตัว",
+        "pos": "adj",
+        "example": "Stay humble.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5219",
+        "word": "humid",
+        "translation": "ชื้น",
+        "pos": "adj",
+        "example": "Hot and humid.",
+        "level": "basic"
+    },
+    {
+        "id": "v5220",
+        "word": "humidity",
+        "translation": "ความชื้น",
+        "pos": "noun",
+        "example": "High humidity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5221",
+        "word": "humor",
+        "translation": "อารมณ์ขัน",
+        "pos": "noun",
+        "example": "Sense of humor.",
+        "level": "basic"
+    },
+    {
+        "id": "v5222",
+        "word": "hundred",
+        "translation": "ร้อย",
+        "pos": "num",
+        "example": "One hundred.",
+        "level": "basic"
+    },
+    {
+        "id": "v5223",
+        "word": "hunger",
+        "translation": "ความหิว",
+        "pos": "noun",
+        "example": "World hunger.",
+        "level": "basic"
+    },
+    {
+        "id": "v5224",
+        "word": "hungry",
+        "translation": "หิว",
+        "pos": "adj",
+        "example": "I'm hungry.",
+        "level": "basic"
+    },
+    {
+        "id": "v5225",
+        "word": "hunt",
+        "translation": "ล่า",
+        "pos": "verb",
+        "example": "Hunt for food.",
+        "level": "basic"
+    },
+    {
+        "id": "v5226",
+        "word": "hunter",
+        "translation": "นายพราน",
+        "pos": "noun",
+        "example": "Treasure hunter.",
+        "level": "basic"
+    },
+    {
+        "id": "v5227",
+        "word": "hunting",
+        "translation": "การล่าสัตว์",
+        "pos": "noun",
+        "example": "Go hunting.",
+        "level": "basic"
+    },
+    {
+        "id": "v5228",
+        "word": "hurricane",
+        "translation": "เฮอร์ริเคน",
+        "pos": "noun",
+        "example": "Hurricane season.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5229",
+        "word": "hurry",
+        "translation": "รีบ",
+        "pos": "verb",
+        "example": "Don't hurry.",
+        "level": "basic"
+    },
+    {
+        "id": "v5230",
+        "word": "hurt",
+        "translation": "เจ็บ",
+        "pos": "verb",
+        "example": "It hurts.",
+        "level": "basic"
+    },
+    {
+        "id": "v5231",
+        "word": "husband",
+        "translation": "สามี",
+        "pos": "noun",
+        "example": "My husband.",
+        "level": "basic"
+    },
+    {
+        "id": "v5232",
+        "word": "hybrid",
+        "translation": "ลูกผสม",
+        "pos": "noun",
+        "example": "Hybrid car.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5233",
+        "word": "hydrogen",
+        "translation": "ไฮโดรเจน",
+        "pos": "noun",
+        "example": "Hydrogen fuel.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5234",
+        "word": "hypothesis",
+        "translation": "สมมติฐาน",
+        "pos": "noun",
+        "example": "Test hypothesis.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5235",
+        "word": "ice",
+        "translation": "น้ำแข็ง",
+        "pos": "noun",
+        "example": "Ice cream.",
+        "level": "basic"
+    },
+    {
+        "id": "v5236",
+        "word": "icon",
+        "translation": "ไอคอน",
+        "pos": "noun",
+        "example": "App icon.",
+        "level": "basic"
+    },
+    {
+        "id": "v5237",
+        "word": "icy",
+        "translation": "เย็นจัด",
+        "pos": "adj",
+        "example": "Icy road.",
+        "level": "basic"
+    },
+    {
+        "id": "v5238",
+        "word": "idea",
+        "translation": "ความคิด",
+        "pos": "noun",
+        "example": "Great idea.",
+        "level": "basic"
+    },
+    {
+        "id": "v5239",
+        "word": "ideal",
+        "translation": "ในอุดมคติ",
+        "pos": "adj",
+        "example": "Ideal solution.",
+        "level": "basic"
+    },
+    {
+        "id": "v5240",
+        "word": "ideally",
+        "translation": "ในอุดมคติ",
+        "pos": "adv",
+        "example": "Ideally.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5241",
+        "word": "identical",
+        "translation": "เหมือนกัน",
+        "pos": "adj",
+        "example": "Identical twins.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5242",
+        "word": "identification",
+        "translation": "การระบุ",
+        "pos": "noun",
+        "example": "Photo identification.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5243",
+        "word": "identify",
+        "translation": "ระบุ",
+        "pos": "verb",
+        "example": "Identify problem.",
+        "level": "basic"
+    },
+    {
+        "id": "v5244",
+        "word": "identity",
+        "translation": "ตัวตน",
+        "pos": "noun",
+        "example": "Identity card.",
+        "level": "basic"
+    },
+    {
+        "id": "v5245",
+        "word": "ideological",
+        "translation": "ทางอุดมการณ์",
+        "pos": "adj",
+        "example": "Ideological difference.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5246",
+        "word": "ideology",
+        "translation": "อุดมการณ์",
+        "pos": "noun",
+        "example": "Political ideology.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5247",
+        "word": "idiot",
+        "translation": "คนโง่",
+        "pos": "noun",
+        "example": "Complete idiot.",
+        "level": "basic"
+    },
+    {
+        "id": "v5248",
+        "word": "idle",
+        "translation": "ว่างงาน",
+        "pos": "adj",
+        "example": "Sit idle.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5249",
+        "word": "ignorance",
+        "translation": "ความโง่",
+        "pos": "noun",
+        "example": "Pure ignorance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5250",
+        "word": "ignorant",
+        "translation": "ไม่รู้",
+        "pos": "adj",
+        "example": "Ignorant of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5251",
+        "word": "ignore",
+        "translation": "เพิกเฉย",
+        "pos": "verb",
+        "example": "Please don't ignore.",
+        "level": "basic"
+    },
+    {
+        "id": "v5252",
+        "word": "ill",
+        "translation": "ป่วย",
+        "pos": "adj",
+        "example": "Feel ill.",
+        "level": "basic"
+    },
+    {
+        "id": "v5253",
+        "word": "illegal",
+        "translation": "ผิดกฎหมาย",
+        "pos": "adj",
+        "example": "Illegal activity.",
+        "level": "basic"
+    },
+    {
+        "id": "v5254",
+        "word": "illegally",
+        "translation": "อย่างผิดกฎหมาย",
+        "pos": "adv",
+        "example": "Parked illegally.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5255",
+        "word": "illness",
+        "translation": "ความเจ็บป่วย",
+        "pos": "noun",
+        "example": "Serious illness.",
+        "level": "basic"
+    },
+    {
+        "id": "v5256",
+        "word": "illuminate",
+        "translation": "ส่องสว่าง",
+        "pos": "verb",
+        "example": "Illuminate the path.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5257",
+        "word": "illusion",
+        "translation": "ภาพลวงตา",
+        "pos": "noun",
+        "example": "Optical illusion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5258",
+        "word": "illustrate",
+        "translation": "แสดงให้เห็น",
+        "pos": "verb",
+        "example": "Illustrate the point.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5259",
+        "word": "illustration",
+        "translation": "ภาพประกอบ",
+        "pos": "noun",
+        "example": "Book illustration.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5260",
+        "word": "image",
+        "translation": "รูปภาพ",
+        "pos": "noun",
+        "example": "Brand image.",
+        "level": "basic"
+    },
+    {
+        "id": "v5261",
+        "word": "imagery",
+        "translation": "ภาพ",
+        "pos": "noun",
+        "example": "Visual imagery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5262",
+        "word": "imagination",
+        "translation": "จินตนาการ",
+        "pos": "noun",
+        "example": "Use imagination.",
+        "level": "basic"
+    },
+    {
+        "id": "v5263",
+        "word": "imaginative",
+        "translation": "สร้างสรรค์",
+        "pos": "adj",
+        "example": "Imaginative child.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5264",
+        "word": "imagine",
+        "translation": "จินตนาการ",
+        "pos": "verb",
+        "example": "Can you imagine?",
+        "level": "basic"
+    },
+    {
+        "id": "v5265",
+        "word": "immediate",
+        "translation": "ทันที",
+        "pos": "adj",
+        "example": "Immediate response.",
+        "level": "basic"
+    },
+    {
+        "id": "v5266",
+        "word": "immediately",
+        "translation": "ทันที",
+        "pos": "adv",
+        "example": "Do it immediately.",
+        "level": "basic"
+    },
+    {
+        "id": "v5267",
+        "word": "immense",
+        "translation": "มหาศาล",
+        "pos": "adj",
+        "example": "Immense pressure.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5268",
+        "word": "immigrant",
+        "translation": "ผู้อพยพ",
+        "pos": "noun",
+        "example": "Illegal immigrant.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5269",
+        "word": "immigration",
+        "translation": "การเข้าเมือง",
+        "pos": "noun",
+        "example": "Immigration office.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5270",
+        "word": "immune",
+        "translation": "ภูมิคุ้มกัน",
+        "pos": "adj",
+        "example": "Immune system.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5271",
+        "word": "impact",
+        "translation": "ผลกระทบ",
+        "pos": "noun",
+        "example": "Big impact.",
+        "level": "basic"
+    },
+    {
+        "id": "v5272",
+        "word": "impair",
+        "translation": "ทำให้เสียหาย",
+        "pos": "verb",
+        "example": "Impair vision.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5273",
+        "word": "implement",
+        "translation": "ดำเนินการ",
+        "pos": "verb",
+        "example": "Implement plan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5274",
+        "word": "implementation",
+        "translation": "การดำเนินการ",
+        "pos": "noun",
+        "example": "Successful implementation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5275",
+        "word": "implication",
+        "translation": "นัย",
+        "pos": "noun",
+        "example": "Serious implication.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5276",
+        "word": "implicit",
+        "translation": "โดยนัย",
+        "pos": "adj",
+        "example": "Implicit meaning.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5277",
+        "word": "imply",
+        "translation": "บ่งบอก",
+        "pos": "verb",
+        "example": "What do you imply?",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5278",
+        "word": "import",
+        "translation": "นำเข้า",
+        "pos": "verb",
+        "example": "Import goods.",
+        "level": "basic"
+    },
+    {
+        "id": "v5279",
+        "word": "importance",
+        "translation": "ความสำคัญ",
+        "pos": "noun",
+        "example": "Great importance.",
+        "level": "basic"
+    },
+    {
+        "id": "v5280",
+        "word": "important",
+        "translation": "สำคัญ",
+        "pos": "adj",
+        "example": "Very important.",
+        "level": "basic"
+    },
+    {
+        "id": "v5281",
+        "word": "importantly",
+        "translation": "สำคัญ",
+        "pos": "adv",
+        "example": "More importantly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5282",
+        "word": "impose",
+        "translation": "กำหนด",
+        "pos": "verb",
+        "example": "Impose restrictions.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5283",
+        "word": "impossible",
+        "translation": "เป็นไปไม่ได้",
+        "pos": "adj",
+        "example": "Seems impossible.",
+        "level": "basic"
+    },
+    {
+        "id": "v5284",
+        "word": "impress",
+        "translation": "สร้างความประทับใจ",
+        "pos": "verb",
+        "example": "Impress someone.",
+        "level": "basic"
+    },
+    {
+        "id": "v5285",
+        "word": "impressed",
+        "translation": "ประทับใจ",
+        "pos": "adj",
+        "example": "I'm impressed.",
+        "level": "basic"
+    },
+    {
+        "id": "v5286",
+        "word": "impression",
+        "translation": "ความประทับใจ",
+        "pos": "noun",
+        "example": "First impression.",
+        "level": "basic"
+    },
+    {
+        "id": "v5287",
+        "word": "impressive",
+        "translation": "น่าประทับใจ",
+        "pos": "adj",
+        "example": "Very impressive.",
+        "level": "basic"
+    },
+    {
+        "id": "v5288",
+        "word": "imprison",
+        "translation": "จำคุก",
+        "pos": "verb",
+        "example": "Imprison someone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5289",
+        "word": "imprisonment",
+        "translation": "การจำคุก",
+        "pos": "noun",
+        "example": "Life imprisonment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5290",
+        "word": "improve",
+        "translation": "ปรับปรุง",
+        "pos": "verb",
+        "example": "Need to improve.",
+        "level": "basic"
+    },
+    {
+        "id": "v5291",
+        "word": "improved",
+        "translation": "ปรับปรุงแล้ว",
+        "pos": "adj",
+        "example": "Improved version.",
+        "level": "basic"
+    },
+    {
+        "id": "v5292",
+        "word": "improvement",
+        "translation": "การปรับปรุง",
+        "pos": "noun",
+        "example": "Great improvement.",
+        "level": "basic"
+    },
+    {
+        "id": "v5293",
+        "word": "impulse",
+        "translation": "ความหุนหันพลันแล่น",
+        "pos": "noun",
+        "example": "Act on impulse.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5294",
+        "word": "in",
+        "translation": "ใน",
+        "pos": "prep",
+        "example": "In the box.",
+        "level": "basic"
+    },
+    {
+        "id": "v5295",
+        "word": "inability",
+        "translation": "ความไม่สามารถ",
+        "pos": "noun",
+        "example": "Inability to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5296",
+        "word": "inadequate",
+        "translation": "ไม่เพียงพอ",
+        "pos": "adj",
+        "example": "Inadequate resources.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5297",
+        "word": "inappropriate",
+        "translation": "ไม่เหมาะสม",
+        "pos": "adj",
+        "example": "Inappropriate behavior.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5298",
+        "word": "incentive",
+        "translation": "แรงจูงใจ",
+        "pos": "noun",
+        "example": "Financial incentive.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5299",
+        "word": "inch",
+        "translation": "นิ้ว",
+        "pos": "noun",
+        "example": "One inch.",
+        "level": "basic"
+    },
+    {
+        "id": "v5300",
+        "word": "incidence",
+        "translation": "อุบัติการณ์",
+        "pos": "noun",
+        "example": "High incidence.",
+        "level": "advanced"
+    }
+]

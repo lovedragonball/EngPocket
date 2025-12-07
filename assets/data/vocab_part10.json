@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v0851",
+        "word": "everyday",
+        "translation": "ทุกวัน",
+        "pos": "adj",
+        "example": "Everyday life.",
+        "level": "basic"
+    },
+    {
+        "id": "v0852",
+        "word": "everyone",
+        "translation": "ทุกคน",
+        "pos": "pron",
+        "example": "Everyone is here.",
+        "level": "basic"
+    },
+    {
+        "id": "v0853",
+        "word": "everything",
+        "translation": "ทุกอย่าง",
+        "pos": "pron",
+        "example": "Everything is fine.",
+        "level": "basic"
+    },
+    {
+        "id": "v0854",
+        "word": "everywhere",
+        "translation": "ทุกที่",
+        "pos": "adv",
+        "example": "Found everywhere.",
+        "level": "basic"
+    },
+    {
+        "id": "v0855",
+        "word": "evidence",
+        "translation": "หลักฐาน",
+        "pos": "noun",
+        "example": "Strong evidence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0856",
+        "word": "evil",
+        "translation": "ชั่วร้าย",
+        "pos": "adj",
+        "example": "Evil plan.",
+        "level": "basic"
+    },
+    {
+        "id": "v0857",
+        "word": "evolution",
+        "translation": "วิวัฒนาการ",
+        "pos": "noun",
+        "example": "Human evolution.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0858",
+        "word": "exact",
+        "translation": "แน่นอน",
+        "pos": "adj",
+        "example": "Exact time.",
+        "level": "basic"
+    },
+    {
+        "id": "v0859",
+        "word": "exactly",
+        "translation": "อย่างแน่นอน",
+        "pos": "adv",
+        "example": "Exactly right.",
+        "level": "basic"
+    },
+    {
+        "id": "v0860",
+        "word": "exam",
+        "translation": "สอบ",
+        "pos": "noun",
+        "example": "Final exam.",
+        "level": "basic"
+    },
+    {
+        "id": "v0861",
+        "word": "examine",
+        "translation": "ตรวจสอบ",
+        "pos": "verb",
+        "example": "Examine closely.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0862",
+        "word": "example",
+        "translation": "ตัวอย่าง",
+        "pos": "noun",
+        "example": "For example.",
+        "level": "basic"
+    },
+    {
+        "id": "v0863",
+        "word": "exceed",
+        "translation": "เกิน",
+        "pos": "verb",
+        "example": "Exceed expectations.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0864",
+        "word": "excellent",
+        "translation": "ยอดเยี่ยม",
+        "pos": "adj",
+        "example": "Excellent work!",
+        "level": "basic"
+    },
+    {
+        "id": "v0865",
+        "word": "except",
+        "translation": "ยกเว้น",
+        "pos": "prep",
+        "example": "Everyone except me.",
+        "level": "basic"
+    },
+    {
+        "id": "v0866",
+        "word": "exception",
+        "translation": "ข้อยกเว้น",
+        "pos": "noun",
+        "example": "No exception.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0867",
+        "word": "exchange",
+        "translation": "แลกเปลี่ยน",
+        "pos": "verb",
+        "example": "Exchange money.",
+        "level": "basic"
+    },
+    {
+        "id": "v0868",
+        "word": "excite",
+        "translation": "ตื่นเต้น",
+        "pos": "verb",
+        "example": "This excites me.",
+        "level": "basic"
+    },
+    {
+        "id": "v0869",
+        "word": "excited",
+        "translation": "ตื่นเต้น",
+        "pos": "adj",
+        "example": "I'm excited.",
+        "level": "basic"
+    },
+    {
+        "id": "v0870",
+        "word": "excitement",
+        "translation": "ความตื่นเต้น",
+        "pos": "noun",
+        "example": "Full of excitement.",
+        "level": "basic"
+    },
+    {
+        "id": "v0871",
+        "word": "exciting",
+        "translation": "น่าตื่นเต้น",
+        "pos": "adj",
+        "example": "Exciting news.",
+        "level": "basic"
+    },
+    {
+        "id": "v0872",
+        "word": "excuse",
+        "translation": "ข้อแก้ตัว",
+        "pos": "noun",
+        "example": "No excuse.",
+        "level": "basic"
+    },
+    {
+        "id": "v0873",
+        "word": "execute",
+        "translation": "ดำเนินการ",
+        "pos": "verb",
+        "example": "Execute the plan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0874",
+        "word": "executive",
+        "translation": "ผู้บริหาร",
+        "pos": "noun",
+        "example": "Chief executive.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0875",
+        "word": "exercise",
+        "translation": "ออกกำลังกาย",
+        "pos": "noun",
+        "example": "Do exercise.",
+        "level": "basic"
+    },
+    {
+        "id": "v0876",
+        "word": "exhibit",
+        "translation": "แสดง",
+        "pos": "verb",
+        "example": "Exhibit artwork.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0877",
+        "word": "exhibition",
+        "translation": "นิทรรศการ",
+        "pos": "noun",
+        "example": "Art exhibition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0878",
+        "word": "exist",
+        "translation": "มีอยู่",
+        "pos": "verb",
+        "example": "Does it exist?",
+        "level": "basic"
+    },
+    {
+        "id": "v0879",
+        "word": "existence",
+        "translation": "การมีอยู่",
+        "pos": "noun",
+        "example": "In existence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0880",
+        "word": "existing",
+        "translation": "ที่มีอยู่",
+        "pos": "adj",
+        "example": "Existing system.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0881",
+        "word": "exit",
+        "translation": "ทางออก",
+        "pos": "noun",
+        "example": "Emergency exit.",
+        "level": "basic"
+    },
+    {
+        "id": "v0882",
+        "word": "expand",
+        "translation": "ขยาย",
+        "pos": "verb",
+        "example": "Expand the business.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0883",
+        "word": "expansion",
+        "translation": "การขยาย",
+        "pos": "noun",
+        "example": "Market expansion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0884",
+        "word": "expect",
+        "translation": "คาดหวัง",
+        "pos": "verb",
+        "example": "I expect you.",
+        "level": "basic"
+    },
+    {
+        "id": "v0885",
+        "word": "expectation",
+        "translation": "ความคาดหวัง",
+        "pos": "noun",
+        "example": "High expectations.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0886",
+        "word": "expense",
+        "translation": "ค่าใช้จ่าย",
+        "pos": "noun",
+        "example": "Travel expense.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0887",
+        "word": "expensive",
+        "translation": "แพง",
+        "pos": "adj",
+        "example": "Too expensive.",
+        "level": "basic"
+    },
+    {
+        "id": "v0888",
+        "word": "experience",
+        "translation": "ประสบการณ์",
+        "pos": "noun",
+        "example": "Work experience.",
+        "level": "basic"
+    },
+    {
+        "id": "v0889",
+        "word": "experienced",
+        "translation": "มีประสบการณ์",
+        "pos": "adj",
+        "example": "Experienced worker.",
+        "level": "basic"
+    },
+    {
+        "id": "v0890",
+        "word": "experiment",
+        "translation": "การทดลอง",
+        "pos": "noun",
+        "example": "Scientific experiment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0891",
+        "word": "expert",
+        "translation": "ผู้เชี่ยวชาญ",
+        "pos": "noun",
+        "example": "IT expert.",
+        "level": "basic"
+    },
+    {
+        "id": "v0892",
+        "word": "explain",
+        "translation": "อธิบาย",
+        "pos": "verb",
+        "example": "Please explain.",
+        "level": "basic"
+    },
+    {
+        "id": "v0893",
+        "word": "explanation",
+        "translation": "คำอธิบาย",
+        "pos": "noun",
+        "example": "Need explanation.",
+        "level": "basic"
+    },
+    {
+        "id": "v0894",
+        "word": "explicit",
+        "translation": "ชัดแจ้ง",
+        "pos": "adj",
+        "example": "Explicit instruction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0895",
+        "word": "explore",
+        "translation": "สำรวจ",
+        "pos": "verb",
+        "example": "Explore the world.",
+        "level": "basic"
+    },
+    {
+        "id": "v0896",
+        "word": "explosion",
+        "translation": "การระเบิด",
+        "pos": "noun",
+        "example": "Loud explosion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0897",
+        "word": "export",
+        "translation": "ส่งออก",
+        "pos": "verb",
+        "example": "Export goods.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0898",
+        "word": "expose",
+        "translation": "เปิดเผย",
+        "pos": "verb",
+        "example": "Expose the truth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0899",
+        "word": "exposure",
+        "translation": "การเปิดเผย",
+        "pos": "noun",
+        "example": "Sun exposure.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0900",
+        "word": "express",
+        "translation": "แสดงออก",
+        "pos": "verb",
+        "example": "Express yourself.",
+        "level": "basic"
+    },
+    {
+        "id": "v0901",
+        "word": "expression",
+        "translation": "การแสดงออก",
+        "pos": "noun",
+        "example": "Facial expression.",
+        "level": "basic"
+    },
+    {
+        "id": "v0902",
+        "word": "extend",
+        "translation": "ขยาย",
+        "pos": "verb",
+        "example": "Extend the deadline.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0903",
+        "word": "extension",
+        "translation": "ส่วนขยาย",
+        "pos": "noun",
+        "example": "File extension.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0904",
+        "word": "extensive",
+        "translation": "กว้างขวาง",
+        "pos": "adj",
+        "example": "Extensive research.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0905",
+        "word": "extent",
+        "translation": "ขอบเขต",
+        "pos": "noun",
+        "example": "To some extent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0906",
+        "word": "external",
+        "translation": "ภายนอก",
+        "pos": "adj",
+        "example": "External factor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0907",
+        "word": "extra",
+        "translation": "พิเศษ",
+        "pos": "adj",
+        "example": "Extra charge.",
+        "level": "basic"
+    },
+    {
+        "id": "v0908",
+        "word": "extraordinary",
+        "translation": "พิเศษมาก",
+        "pos": "adj",
+        "example": "Extraordinary talent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0909",
+        "word": "extreme",
+        "translation": "สุดขั้ว",
+        "pos": "adj",
+        "example": "Extreme weather.",
+        "level": "basic"
+    },
+    {
+        "id": "v0910",
+        "word": "extremely",
+        "translation": "อย่างมาก",
+        "pos": "adv",
+        "example": "Extremely happy.",
+        "level": "basic"
+    },
+    {
+        "id": "v0911",
+        "word": "eye",
+        "translation": "ตา",
+        "pos": "noun",
+        "example": "Blue eyes.",
+        "level": "basic"
+    },
+    {
+        "id": "v0912",
+        "word": "fabric",
+        "translation": "ผ้า",
+        "pos": "noun",
+        "example": "Cotton fabric.",
+        "level": "basic"
+    },
+    {
+        "id": "v0913",
+        "word": "face",
+        "translation": "หน้า",
+        "pos": "noun",
+        "example": "Pretty face.",
+        "level": "basic"
+    },
+    {
+        "id": "v0914",
+        "word": "facility",
+        "translation": "สิ่งอำนวยความสะดวก",
+        "pos": "noun",
+        "example": "Sports facility.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0915",
+        "word": "fact",
+        "translation": "ข้อเท็จจริง",
+        "pos": "noun",
+        "example": "In fact.",
+        "level": "basic"
+    },
+    {
+        "id": "v0916",
+        "word": "factor",
+        "translation": "ปัจจัย",
+        "pos": "noun",
+        "example": "Key factor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0917",
+        "word": "factory",
+        "translation": "โรงงาน",
+        "pos": "noun",
+        "example": "Car factory.",
+        "level": "basic"
+    },
+    {
+        "id": "v0918",
+        "word": "faculty",
+        "translation": "คณะ",
+        "pos": "noun",
+        "example": "Faculty of Arts.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0919",
+        "word": "fail",
+        "translation": "ล้มเหลว",
+        "pos": "verb",
+        "example": "Never fail.",
+        "level": "basic"
+    },
+    {
+        "id": "v0920",
+        "word": "failure",
+        "translation": "ความล้มเหลว",
+        "pos": "noun",
+        "example": "Learn from failure.",
+        "level": "basic"
+    },
+    {
+        "id": "v0921",
+        "word": "fair",
+        "translation": "ยุติธรรม",
+        "pos": "adj",
+        "example": "Fair price.",
+        "level": "basic"
+    },
+    {
+        "id": "v0922",
+        "word": "fairly",
+        "translation": "ค่อนข้าง",
+        "pos": "adv",
+        "example": "Fairly good.",
+        "level": "basic"
+    },
+    {
+        "id": "v0923",
+        "word": "faith",
+        "translation": "ศรัทธา",
+        "pos": "noun",
+        "example": "Have faith.",
+        "level": "basic"
+    },
+    {
+        "id": "v0924",
+        "word": "fall",
+        "translation": "ล้ม",
+        "pos": "verb",
+        "example": "Don't fall.",
+        "level": "basic"
+    },
+    {
+        "id": "v0925",
+        "word": "false",
+        "translation": "เท็จ",
+        "pos": "adj",
+        "example": "True or false.",
+        "level": "basic"
+    },
+    {
+        "id": "v0926",
+        "word": "fame",
+        "translation": "ชื่อเสียง",
+        "pos": "noun",
+        "example": "Fame and fortune.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0927",
+        "word": "familiar",
+        "translation": "คุ้นเคย",
+        "pos": "adj",
+        "example": "Looks familiar.",
+        "level": "basic"
+    },
+    {
+        "id": "v0928",
+        "word": "family",
+        "translation": "ครอบครัว",
+        "pos": "noun",
+        "example": "My family.",
+        "level": "basic"
+    },
+    {
+        "id": "v0929",
+        "word": "famous",
+        "translation": "มีชื่อเสียง",
+        "pos": "adj",
+        "example": "Famous singer.",
+        "level": "basic"
+    },
+    {
+        "id": "v0930",
+        "word": "fan",
+        "translation": "พัดลม",
+        "pos": "noun",
+        "example": "Turn on the fan.",
+        "level": "basic"
+    },
+    {
+        "id": "v0931",
+        "word": "fancy",
+        "translation": "หรูหรา",
+        "pos": "adj",
+        "example": "Fancy restaurant.",
+        "level": "basic"
+    },
+    {
+        "id": "v0932",
+        "word": "fantastic",
+        "translation": "ยอดเยี่ยม",
+        "pos": "adj",
+        "example": "Fantastic job!",
+        "level": "basic"
+    },
+    {
+        "id": "v0933",
+        "word": "fantasy",
+        "translation": "จินตนาการ",
+        "pos": "noun",
+        "example": "Fantasy world.",
+        "level": "basic"
+    },
+    {
+        "id": "v0934",
+        "word": "far",
+        "translation": "ไกล",
+        "pos": "adj",
+        "example": "Too far.",
+        "level": "basic"
+    },
+    {
+        "id": "v0935",
+        "word": "farm",
+        "translation": "ฟาร์ม",
+        "pos": "noun",
+        "example": "Family farm.",
+        "level": "basic"
+    },
+    {
+        "id": "v0936",
+        "word": "farmer",
+        "translation": "ชาวนา",
+        "pos": "noun",
+        "example": "Rice farmer.",
+        "level": "basic"
+    },
+    {
+        "id": "v0937",
+        "word": "fashion",
+        "translation": "แฟชั่น",
+        "pos": "noun",
+        "example": "Fashion week.",
+        "level": "basic"
+    },
+    {
+        "id": "v0938",
+        "word": "fast",
+        "translation": "เร็ว",
+        "pos": "adj",
+        "example": "Fast food.",
+        "level": "basic"
+    },
+    {
+        "id": "v0939",
+        "word": "fat",
+        "translation": "อ้วน",
+        "pos": "adj",
+        "example": "Low fat.",
+        "level": "basic"
+    },
+    {
+        "id": "v0940",
+        "word": "fate",
+        "translation": "โชคชะตา",
+        "pos": "noun",
+        "example": "Accept fate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0941",
+        "word": "father",
+        "translation": "พ่อ",
+        "pos": "noun",
+        "example": "My father.",
+        "level": "basic"
+    },
+    {
+        "id": "v0942",
+        "word": "fault",
+        "translation": "ความผิด",
+        "pos": "noun",
+        "example": "Not my fault.",
+        "level": "basic"
+    },
+    {
+        "id": "v0943",
+        "word": "favor",
+        "translation": "ความช่วยเหลือ",
+        "pos": "noun",
+        "example": "Do me a favor.",
+        "level": "basic"
+    },
+    {
+        "id": "v0944",
+        "word": "favorite",
+        "translation": "ที่ชอบที่สุด",
+        "pos": "adj",
+        "example": "Favorite song.",
+        "level": "basic"
+    },
+    {
+        "id": "v0945",
+        "word": "fear",
+        "translation": "ความกลัว",
+        "pos": "noun",
+        "example": "Overcome fear.",
+        "level": "basic"
+    },
+    {
+        "id": "v0946",
+        "word": "feature",
+        "translation": "คุณสมบัติ",
+        "pos": "noun",
+        "example": "New feature.",
+        "level": "basic"
+    },
+    {
+        "id": "v0947",
+        "word": "federal",
+        "translation": "รัฐบาลกลาง",
+        "pos": "adj",
+        "example": "Federal government.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0948",
+        "word": "fee",
+        "translation": "ค่าธรรมเนียม",
+        "pos": "noun",
+        "example": "Service fee.",
+        "level": "basic"
+    },
+    {
+        "id": "v0949",
+        "word": "feed",
+        "translation": "ให้อาหาร",
+        "pos": "verb",
+        "example": "Feed the cat.",
+        "level": "basic"
+    },
+    {
+        "id": "v0950",
+        "word": "feedback",
+        "translation": "ข้อเสนอแนะ",
+        "pos": "noun",
+        "example": "Give feedback.",
+        "level": "basic"
+    }
+]

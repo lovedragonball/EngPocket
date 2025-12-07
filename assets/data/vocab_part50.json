@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v4801",
+        "word": "formal",
+        "translation": "เป็นทางการ",
+        "pos": "adj",
+        "example": "Formal dress.",
+        "level": "basic"
+    },
+    {
+        "id": "v4802",
+        "word": "formally",
+        "translation": "อย่างเป็นทางการ",
+        "pos": "adv",
+        "example": "Formally announced.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4803",
+        "word": "format",
+        "translation": "รูปแบบ",
+        "pos": "noun",
+        "example": "File format.",
+        "level": "basic"
+    },
+    {
+        "id": "v4804",
+        "word": "formation",
+        "translation": "การก่อตัว",
+        "pos": "noun",
+        "example": "Cloud formation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4805",
+        "word": "former",
+        "translation": "อดีต",
+        "pos": "adj",
+        "example": "Former president.",
+        "level": "basic"
+    },
+    {
+        "id": "v4806",
+        "word": "formerly",
+        "translation": "ก่อนหน้านี้",
+        "pos": "adv",
+        "example": "Formerly known as.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4807",
+        "word": "formula",
+        "translation": "สูตร",
+        "pos": "noun",
+        "example": "Magic formula.",
+        "level": "basic"
+    },
+    {
+        "id": "v4808",
+        "word": "formulate",
+        "translation": "กำหนด",
+        "pos": "verb",
+        "example": "Formulate a plan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4809",
+        "word": "forth",
+        "translation": "ไปข้างหน้า",
+        "pos": "adv",
+        "example": "Back and forth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4810",
+        "word": "forthcoming",
+        "translation": "ที่กำลังจะมาถึง",
+        "pos": "adj",
+        "example": "Forthcoming event.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4811",
+        "word": "fortunate",
+        "translation": "โชคดี",
+        "pos": "adj",
+        "example": "Very fortunate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4812",
+        "word": "fortunately",
+        "translation": "โชคดี",
+        "pos": "adv",
+        "example": "Fortunately.",
+        "level": "basic"
+    },
+    {
+        "id": "v4813",
+        "word": "fortune",
+        "translation": "โชคลาภ",
+        "pos": "noun",
+        "example": "Good fortune.",
+        "level": "basic"
+    },
+    {
+        "id": "v4814",
+        "word": "forty",
+        "translation": "สี่สิบ",
+        "pos": "num",
+        "example": "Forty years.",
+        "level": "basic"
+    },
+    {
+        "id": "v4815",
+        "word": "forum",
+        "translation": "เวที",
+        "pos": "noun",
+        "example": "Public forum.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4816",
+        "word": "forward",
+        "translation": "ไปข้างหน้า",
+        "pos": "adv",
+        "example": "Move forward.",
+        "level": "basic"
+    },
+    {
+        "id": "v4817",
+        "word": "fossil",
+        "translation": "ฟอสซิล",
+        "pos": "noun",
+        "example": "Dinosaur fossil.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4818",
+        "word": "foster",
+        "translation": "อุปถัมภ์",
+        "pos": "verb",
+        "example": "Foster growth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4819",
+        "word": "found",
+        "translation": "ก่อตั้ง",
+        "pos": "verb",
+        "example": "Found a company.",
+        "level": "basic"
+    },
+    {
+        "id": "v4820",
+        "word": "foundation",
+        "translation": "รากฐาน",
+        "pos": "noun",
+        "example": "Strong foundation.",
+        "level": "basic"
+    },
+    {
+        "id": "v4821",
+        "word": "founder",
+        "translation": "ผู้ก่อตั้ง",
+        "pos": "noun",
+        "example": "Company founder.",
+        "level": "basic"
+    },
+    {
+        "id": "v4822",
+        "word": "fountain",
+        "translation": "น้ำพุ",
+        "pos": "noun",
+        "example": "Water fountain.",
+        "level": "basic"
+    },
+    {
+        "id": "v4823",
+        "word": "four",
+        "translation": "สี่",
+        "pos": "num",
+        "example": "Four seasons.",
+        "level": "basic"
+    },
+    {
+        "id": "v4824",
+        "word": "fourteen",
+        "translation": "สิบสี่",
+        "pos": "num",
+        "example": "Fourteen days.",
+        "level": "basic"
+    },
+    {
+        "id": "v4825",
+        "word": "fourth",
+        "translation": "ที่สี่",
+        "pos": "ord",
+        "example": "Fourth place.",
+        "level": "basic"
+    },
+    {
+        "id": "v4826",
+        "word": "fox",
+        "translation": "สุนัขจิ้งจอก",
+        "pos": "noun",
+        "example": "Red fox.",
+        "level": "basic"
+    },
+    {
+        "id": "v4827",
+        "word": "fraction",
+        "translation": "เศษส่วน",
+        "pos": "noun",
+        "example": "Small fraction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4828",
+        "word": "fragile",
+        "translation": "เปราะบาง",
+        "pos": "adj",
+        "example": "Fragile item.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4829",
+        "word": "fragment",
+        "translation": "ชิ้นส่วน",
+        "pos": "noun",
+        "example": "Small fragment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4830",
+        "word": "frame",
+        "translation": "กรอบ",
+        "pos": "noun",
+        "example": "Picture frame.",
+        "level": "basic"
+    },
+    {
+        "id": "v4831",
+        "word": "framework",
+        "translation": "กรอบงาน",
+        "pos": "noun",
+        "example": "Legal framework.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4832",
+        "word": "franchise",
+        "translation": "แฟรนไชส์",
+        "pos": "noun",
+        "example": "Restaurant franchise.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4833",
+        "word": "frank",
+        "translation": "ตรงไปตรงมา",
+        "pos": "adj",
+        "example": "Be frank.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4834",
+        "word": "frankly",
+        "translation": "พูดตรงๆ",
+        "pos": "adv",
+        "example": "Frankly speaking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4835",
+        "word": "fraud",
+        "translation": "การฉ้อโกง",
+        "pos": "noun",
+        "example": "Credit card fraud.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4836",
+        "word": "free",
+        "translation": "ฟรี",
+        "pos": "adj",
+        "example": "For free.",
+        "level": "basic"
+    },
+    {
+        "id": "v4837",
+        "word": "freedom",
+        "translation": "เสรีภาพ",
+        "pos": "noun",
+        "example": "Freedom of speech.",
+        "level": "basic"
+    },
+    {
+        "id": "v4838",
+        "word": "freely",
+        "translation": "อย่างอิสระ",
+        "pos": "adv",
+        "example": "Speak freely.",
+        "level": "basic"
+    },
+    {
+        "id": "v4839",
+        "word": "freeze",
+        "translation": "แช่แข็ง",
+        "pos": "verb",
+        "example": "Freeze water.",
+        "level": "basic"
+    },
+    {
+        "id": "v4840",
+        "word": "freight",
+        "translation": "สินค้า",
+        "pos": "noun",
+        "example": "Freight train.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4841",
+        "word": "frequency",
+        "translation": "ความถี่",
+        "pos": "noun",
+        "example": "High frequency.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4842",
+        "word": "frequent",
+        "translation": "บ่อย",
+        "pos": "adj",
+        "example": "Frequent visitor.",
+        "level": "basic"
+    },
+    {
+        "id": "v4843",
+        "word": "frequently",
+        "translation": "บ่อยครั้ง",
+        "pos": "adv",
+        "example": "Frequently asked.",
+        "level": "basic"
+    },
+    {
+        "id": "v4844",
+        "word": "fresh",
+        "translation": "สด",
+        "pos": "adj",
+        "example": "Fresh air.",
+        "level": "basic"
+    },
+    {
+        "id": "v4845",
+        "word": "friction",
+        "translation": "การเสียดสี",
+        "pos": "noun",
+        "example": "Create friction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4846",
+        "word": "friday",
+        "translation": "วันศุกร์",
+        "pos": "noun",
+        "example": "Next Friday.",
+        "level": "basic"
+    },
+    {
+        "id": "v4847",
+        "word": "fridge",
+        "translation": "ตู้เย็น",
+        "pos": "noun",
+        "example": "Open the fridge.",
+        "level": "basic"
+    },
+    {
+        "id": "v4848",
+        "word": "friend",
+        "translation": "เพื่อน",
+        "pos": "noun",
+        "example": "Best friend.",
+        "level": "basic"
+    },
+    {
+        "id": "v4849",
+        "word": "friendly",
+        "translation": "เป็นมิตร",
+        "pos": "adj",
+        "example": "Very friendly.",
+        "level": "basic"
+    },
+    {
+        "id": "v4850",
+        "word": "friendship",
+        "translation": "มิตรภาพ",
+        "pos": "noun",
+        "example": "Strong friendship.",
+        "level": "basic"
+    },
+    {
+        "id": "v4851",
+        "word": "frighten",
+        "translation": "ทำให้กลัว",
+        "pos": "verb",
+        "example": "Don't frighten me.",
+        "level": "basic"
+    },
+    {
+        "id": "v4852",
+        "word": "frightened",
+        "translation": "กลัว",
+        "pos": "adj",
+        "example": "I'm frightened.",
+        "level": "basic"
+    },
+    {
+        "id": "v4853",
+        "word": "frightening",
+        "translation": "น่ากลัว",
+        "pos": "adj",
+        "example": "Frightening experience.",
+        "level": "basic"
+    },
+    {
+        "id": "v4854",
+        "word": "frog",
+        "translation": "กบ",
+        "pos": "noun",
+        "example": "Green frog.",
+        "level": "basic"
+    },
+    {
+        "id": "v4855",
+        "word": "from",
+        "translation": "จาก",
+        "pos": "prep",
+        "example": "From here.",
+        "level": "basic"
+    },
+    {
+        "id": "v4856",
+        "word": "front",
+        "translation": "ด้านหน้า",
+        "pos": "noun",
+        "example": "In front of.",
+        "level": "basic"
+    },
+    {
+        "id": "v4857",
+        "word": "frontier",
+        "translation": "ชายแดน",
+        "pos": "noun",
+        "example": "New frontier.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4858",
+        "word": "frost",
+        "translation": "น้ำค้างแข็ง",
+        "pos": "noun",
+        "example": "Morning frost.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4859",
+        "word": "frozen",
+        "translation": "แช่แข็ง",
+        "pos": "adj",
+        "example": "Frozen food.",
+        "level": "basic"
+    },
+    {
+        "id": "v4860",
+        "word": "fruit",
+        "translation": "ผลไม้",
+        "pos": "noun",
+        "example": "Fresh fruit.",
+        "level": "basic"
+    },
+    {
+        "id": "v4861",
+        "word": "frustrate",
+        "translation": "ทำให้หงุดหงิด",
+        "pos": "verb",
+        "example": "Frustrate me.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4862",
+        "word": "frustrated",
+        "translation": "หงุดหงิด",
+        "pos": "adj",
+        "example": "I'm frustrated.",
+        "level": "basic"
+    },
+    {
+        "id": "v4863",
+        "word": "frustrating",
+        "translation": "น่าหงุดหงิด",
+        "pos": "adj",
+        "example": "Frustrating experience.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4864",
+        "word": "frustration",
+        "translation": "ความหงุดหงิด",
+        "pos": "noun",
+        "example": "Express frustration.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4865",
+        "word": "fry",
+        "translation": "ทอด",
+        "pos": "verb",
+        "example": "Deep fry.",
+        "level": "basic"
+    },
+    {
+        "id": "v4866",
+        "word": "fuel",
+        "translation": "เชื้อเพลิง",
+        "pos": "noun",
+        "example": "Fuel price.",
+        "level": "basic"
+    },
+    {
+        "id": "v4867",
+        "word": "fulfill",
+        "translation": "เติมเต็ม",
+        "pos": "verb",
+        "example": "Fulfill dream.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4868",
+        "word": "fulfillment",
+        "translation": "ความสำเร็จ",
+        "pos": "noun",
+        "example": "Personal fulfillment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4869",
+        "word": "full",
+        "translation": "เต็ม",
+        "pos": "adj",
+        "example": "Full moon.",
+        "level": "basic"
+    },
+    {
+        "id": "v4870",
+        "word": "fully",
+        "translation": "อย่างเต็มที่",
+        "pos": "adv",
+        "example": "Fully understand.",
+        "level": "basic"
+    },
+    {
+        "id": "v4871",
+        "word": "fun",
+        "translation": "สนุก",
+        "pos": "noun",
+        "example": "Have fun!",
+        "level": "basic"
+    },
+    {
+        "id": "v4872",
+        "word": "function",
+        "translation": "หน้าที่",
+        "pos": "noun",
+        "example": "Main function.",
+        "level": "basic"
+    },
+    {
+        "id": "v4873",
+        "word": "functional",
+        "translation": "ใช้งานได้",
+        "pos": "adj",
+        "example": "Fully functional.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4874",
+        "word": "fund",
+        "translation": "กองทุน",
+        "pos": "noun",
+        "example": "Investment fund.",
+        "level": "basic"
+    },
+    {
+        "id": "v4875",
+        "word": "fundamental",
+        "translation": "พื้นฐาน",
+        "pos": "adj",
+        "example": "Fundamental rights.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4876",
+        "word": "fundamentally",
+        "translation": "โดยพื้นฐาน",
+        "pos": "adv",
+        "example": "Fundamentally different.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4877",
+        "word": "funding",
+        "translation": "เงินทุน",
+        "pos": "noun",
+        "example": "Government funding.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4878",
+        "word": "fundraising",
+        "translation": "การระดมทุน",
+        "pos": "noun",
+        "example": "Fundraising event.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4879",
+        "word": "funeral",
+        "translation": "งานศพ",
+        "pos": "noun",
+        "example": "Attend funeral.",
+        "level": "basic"
+    },
+    {
+        "id": "v4880",
+        "word": "funny",
+        "translation": "ตลก",
+        "pos": "adj",
+        "example": "Very funny.",
+        "level": "basic"
+    },
+    {
+        "id": "v4881",
+        "word": "fur",
+        "translation": "ขน",
+        "pos": "noun",
+        "example": "Soft fur.",
+        "level": "basic"
+    },
+    {
+        "id": "v4882",
+        "word": "furious",
+        "translation": "โกรธมาก",
+        "pos": "adj",
+        "example": "Absolutely furious.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4883",
+        "word": "furnish",
+        "translation": "ตกแต่ง",
+        "pos": "verb",
+        "example": "Furnish room.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4884",
+        "word": "furniture",
+        "translation": "เฟอร์นิเจอร์",
+        "pos": "noun",
+        "example": "New furniture.",
+        "level": "basic"
+    },
+    {
+        "id": "v4885",
+        "word": "furthermore",
+        "translation": "นอกจากนี้",
+        "pos": "adv",
+        "example": "Furthermore.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4886",
+        "word": "fury",
+        "translation": "ความโกรธ",
+        "pos": "noun",
+        "example": "Full of fury.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4887",
+        "word": "fuse",
+        "translation": "ฟิวส์",
+        "pos": "noun",
+        "example": "Blow a fuse.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4888",
+        "word": "fusion",
+        "translation": "การหลอมรวม",
+        "pos": "noun",
+        "example": "Nuclear fusion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4889",
+        "word": "future",
+        "translation": "อนาคต",
+        "pos": "noun",
+        "example": "Bright future.",
+        "level": "basic"
+    },
+    {
+        "id": "v4890",
+        "word": "gadget",
+        "translation": "อุปกรณ์",
+        "pos": "noun",
+        "example": "Cool gadget.",
+        "level": "basic"
+    },
+    {
+        "id": "v4891",
+        "word": "gain",
+        "translation": "ได้รับ",
+        "pos": "verb",
+        "example": "Gain experience.",
+        "level": "basic"
+    },
+    {
+        "id": "v4892",
+        "word": "galaxy",
+        "translation": "กาแล็กซี่",
+        "pos": "noun",
+        "example": "Milky Way galaxy.",
+        "level": "basic"
+    },
+    {
+        "id": "v4893",
+        "word": "gallery",
+        "translation": "แกลเลอรี่",
+        "pos": "noun",
+        "example": "Art gallery.",
+        "level": "basic"
+    },
+    {
+        "id": "v4894",
+        "word": "game",
+        "translation": "เกม",
+        "pos": "noun",
+        "example": "Video game.",
+        "level": "basic"
+    },
+    {
+        "id": "v4895",
+        "word": "gang",
+        "translation": "แก๊ง",
+        "pos": "noun",
+        "example": "Street gang.",
+        "level": "basic"
+    },
+    {
+        "id": "v4896",
+        "word": "gap",
+        "translation": "ช่องว่าง",
+        "pos": "noun",
+        "example": "Generation gap.",
+        "level": "basic"
+    },
+    {
+        "id": "v4897",
+        "word": "garage",
+        "translation": "โรงรถ",
+        "pos": "noun",
+        "example": "Park in garage.",
+        "level": "basic"
+    },
+    {
+        "id": "v4898",
+        "word": "garbage",
+        "translation": "ขยะ",
+        "pos": "noun",
+        "example": "Garbage bin.",
+        "level": "basic"
+    },
+    {
+        "id": "v4899",
+        "word": "garden",
+        "translation": "สวน",
+        "pos": "noun",
+        "example": "Beautiful garden.",
+        "level": "basic"
+    },
+    {
+        "id": "v4900",
+        "word": "gardening",
+        "translation": "การทำสวน",
+        "pos": "noun",
+        "example": "Love gardening.",
+        "level": "basic"
+    }
+]

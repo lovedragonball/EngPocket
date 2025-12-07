@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v0051",
+        "word": "afford",
+        "translation": "มีเงินพอ",
+        "pos": "verb",
+        "example": "I can't afford a new car.",
+        "level": "basic"
+    },
+    {
+        "id": "v0052",
+        "word": "afraid",
+        "translation": "กลัว",
+        "pos": "adj",
+        "example": "Don't be afraid of the dark.",
+        "level": "basic"
+    },
+    {
+        "id": "v0053",
+        "word": "after",
+        "translation": "หลังจาก",
+        "pos": "prep",
+        "example": "I'll call you after lunch.",
+        "level": "basic"
+    },
+    {
+        "id": "v0054",
+        "word": "afternoon",
+        "translation": "ตอนบ่าย",
+        "pos": "noun",
+        "example": "Good afternoon!",
+        "level": "basic"
+    },
+    {
+        "id": "v0055",
+        "word": "again",
+        "translation": "อีกครั้ง",
+        "pos": "adv",
+        "example": "Try again.",
+        "level": "basic"
+    },
+    {
+        "id": "v0056",
+        "word": "against",
+        "translation": "ต่อต้าน",
+        "pos": "prep",
+        "example": "I'm against this idea.",
+        "level": "basic"
+    },
+    {
+        "id": "v0057",
+        "word": "age",
+        "translation": "อายุ",
+        "pos": "noun",
+        "example": "What is your age?",
+        "level": "basic"
+    },
+    {
+        "id": "v0058",
+        "word": "agency",
+        "translation": "หน่วยงาน",
+        "pos": "noun",
+        "example": "The travel agency is closed.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0059",
+        "word": "agenda",
+        "translation": "วาระ",
+        "pos": "noun",
+        "example": "What's on the agenda today?",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0060",
+        "word": "agent",
+        "translation": "ตัวแทน",
+        "pos": "noun",
+        "example": "He is a real estate agent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0061",
+        "word": "ago",
+        "translation": "ที่ผ่านมา",
+        "pos": "adv",
+        "example": "Two years ago I lived here.",
+        "level": "basic"
+    },
+    {
+        "id": "v0062",
+        "word": "agree",
+        "translation": "เห็นด้วย",
+        "pos": "verb",
+        "example": "I agree with you.",
+        "level": "basic"
+    },
+    {
+        "id": "v0063",
+        "word": "agreement",
+        "translation": "ข้อตกลง",
+        "pos": "noun",
+        "example": "We signed an agreement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0064",
+        "word": "ahead",
+        "translation": "ข้างหน้า",
+        "pos": "adv",
+        "example": "Go ahead and start.",
+        "level": "basic"
+    },
+    {
+        "id": "v0065",
+        "word": "aid",
+        "translation": "ความช่วยเหลือ",
+        "pos": "noun",
+        "example": "They need medical aid.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0066",
+        "word": "aim",
+        "translation": "เป้าหมาย",
+        "pos": "noun",
+        "example": "My aim is to succeed.",
+        "level": "basic"
+    },
+    {
+        "id": "v0067",
+        "word": "air",
+        "translation": "อากาศ",
+        "pos": "noun",
+        "example": "The air is fresh here.",
+        "level": "basic"
+    },
+    {
+        "id": "v0068",
+        "word": "aircraft",
+        "translation": "เครื่องบิน",
+        "pos": "noun",
+        "example": "The aircraft landed safely.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0069",
+        "word": "airline",
+        "translation": "สายการบิน",
+        "pos": "noun",
+        "example": "Which airline are you flying?",
+        "level": "basic"
+    },
+    {
+        "id": "v0070",
+        "word": "airport",
+        "translation": "สนามบิน",
+        "pos": "noun",
+        "example": "The airport is crowded.",
+        "level": "basic"
+    },
+    {
+        "id": "v0071",
+        "word": "alarm",
+        "translation": "สัญญาณเตือน",
+        "pos": "noun",
+        "example": "Set the alarm for 7 AM.",
+        "level": "basic"
+    },
+    {
+        "id": "v0072",
+        "word": "album",
+        "translation": "อัลบั้ม",
+        "pos": "noun",
+        "example": "I bought a new music album.",
+        "level": "basic"
+    },
+    {
+        "id": "v0073",
+        "word": "alcohol",
+        "translation": "แอลกอฮอล์",
+        "pos": "noun",
+        "example": "Don't drink alcohol and drive.",
+        "level": "basic"
+    },
+    {
+        "id": "v0074",
+        "word": "alive",
+        "translation": "มีชีวิต",
+        "pos": "adj",
+        "example": "He is still alive.",
+        "level": "basic"
+    },
+    {
+        "id": "v0075",
+        "word": "all",
+        "translation": "ทั้งหมด",
+        "pos": "det",
+        "example": "All students passed the exam.",
+        "level": "basic"
+    },
+    {
+        "id": "v0076",
+        "word": "allow",
+        "translation": "อนุญาต",
+        "pos": "verb",
+        "example": "Smoking is not allowed here.",
+        "level": "basic"
+    },
+    {
+        "id": "v0077",
+        "word": "almost",
+        "translation": "เกือบ",
+        "pos": "adv",
+        "example": "I almost forgot.",
+        "level": "basic"
+    },
+    {
+        "id": "v0078",
+        "word": "alone",
+        "translation": "คนเดียว",
+        "pos": "adj",
+        "example": "She lives alone.",
+        "level": "basic"
+    },
+    {
+        "id": "v0079",
+        "word": "along",
+        "translation": "ไปตาม",
+        "pos": "prep",
+        "example": "Walk along the river.",
+        "level": "basic"
+    },
+    {
+        "id": "v0080",
+        "word": "already",
+        "translation": "แล้ว",
+        "pos": "adv",
+        "example": "I have already eaten.",
+        "level": "basic"
+    },
+    {
+        "id": "v0081",
+        "word": "also",
+        "translation": "ด้วย",
+        "pos": "adv",
+        "example": "I also like coffee.",
+        "level": "basic"
+    },
+    {
+        "id": "v0082",
+        "word": "alternative",
+        "translation": "ทางเลือก",
+        "pos": "noun",
+        "example": "We need an alternative plan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0083",
+        "word": "although",
+        "translation": "แม้ว่า",
+        "pos": "conj",
+        "example": "Although tired, she continued.",
+        "level": "basic"
+    },
+    {
+        "id": "v0084",
+        "word": "always",
+        "translation": "เสมอ",
+        "pos": "adv",
+        "example": "I always wake up early.",
+        "level": "basic"
+    },
+    {
+        "id": "v0085",
+        "word": "amazing",
+        "translation": "น่าทึ่ง",
+        "pos": "adj",
+        "example": "The view is amazing!",
+        "level": "basic"
+    },
+    {
+        "id": "v0086",
+        "word": "ambition",
+        "translation": "ความทะเยอทะยาน",
+        "pos": "noun",
+        "example": "She has great ambition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0087",
+        "word": "among",
+        "translation": "ท่ามกลาง",
+        "pos": "prep",
+        "example": "He stood among the crowd.",
+        "level": "basic"
+    },
+    {
+        "id": "v0088",
+        "word": "amount",
+        "translation": "จำนวน",
+        "pos": "noun",
+        "example": "A large amount of money.",
+        "level": "basic"
+    },
+    {
+        "id": "v0089",
+        "word": "analysis",
+        "translation": "การวิเคราะห์",
+        "pos": "noun",
+        "example": "The analysis shows progress.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0090",
+        "word": "analyze",
+        "translation": "วิเคราะห์",
+        "pos": "verb",
+        "example": "We need to analyze the data.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0091",
+        "word": "ancient",
+        "translation": "โบราณ",
+        "pos": "adj",
+        "example": "Ancient civilizations were advanced.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0092",
+        "word": "and",
+        "translation": "และ",
+        "pos": "conj",
+        "example": "You and me.",
+        "level": "basic"
+    },
+    {
+        "id": "v0093",
+        "word": "anger",
+        "translation": "ความโกรธ",
+        "pos": "noun",
+        "example": "He felt anger rising.",
+        "level": "basic"
+    },
+    {
+        "id": "v0094",
+        "word": "angle",
+        "translation": "มุม",
+        "pos": "noun",
+        "example": "View it from a different angle.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0095",
+        "word": "angry",
+        "translation": "โกรธ",
+        "pos": "adj",
+        "example": "Don't be angry with me.",
+        "level": "basic"
+    },
+    {
+        "id": "v0096",
+        "word": "animal",
+        "translation": "สัตว์",
+        "pos": "noun",
+        "example": "Dogs are loyal animals.",
+        "level": "basic"
+    },
+    {
+        "id": "v0097",
+        "word": "announce",
+        "translation": "ประกาศ",
+        "pos": "verb",
+        "example": "They announced the winner.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0098",
+        "word": "annual",
+        "translation": "ประจำปี",
+        "pos": "adj",
+        "example": "The annual meeting is tomorrow.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0099",
+        "word": "another",
+        "translation": "อีก",
+        "pos": "det",
+        "example": "Give me another chance.",
+        "level": "basic"
+    },
+    {
+        "id": "v0100",
+        "word": "answer",
+        "translation": "คำตอบ",
+        "pos": "noun",
+        "example": "What is the answer?",
+        "level": "basic"
+    },
+    {
+        "id": "v0101",
+        "word": "anxiety",
+        "translation": "ความวิตกกังวล",
+        "pos": "noun",
+        "example": "She suffers from anxiety.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0102",
+        "word": "anxious",
+        "translation": "กังวล",
+        "pos": "adj",
+        "example": "I'm anxious about the test.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0103",
+        "word": "any",
+        "translation": "ใดๆ",
+        "pos": "det",
+        "example": "Is there any water left?",
+        "level": "basic"
+    },
+    {
+        "id": "v0104",
+        "word": "anybody",
+        "translation": "ใครก็ตาม",
+        "pos": "pron",
+        "example": "Does anybody know the answer?",
+        "level": "basic"
+    },
+    {
+        "id": "v0105",
+        "word": "anymore",
+        "translation": "อีกต่อไป",
+        "pos": "adv",
+        "example": "I don't live here anymore.",
+        "level": "basic"
+    },
+    {
+        "id": "v0106",
+        "word": "anyone",
+        "translation": "ใครก็ตาม",
+        "pos": "pron",
+        "example": "Anyone can do it.",
+        "level": "basic"
+    },
+    {
+        "id": "v0107",
+        "word": "anything",
+        "translation": "อะไรก็ตาม",
+        "pos": "pron",
+        "example": "I'll do anything for you.",
+        "level": "basic"
+    },
+    {
+        "id": "v0108",
+        "word": "anyway",
+        "translation": "อย่างไรก็ตาม",
+        "pos": "adv",
+        "example": "Thanks anyway.",
+        "level": "basic"
+    },
+    {
+        "id": "v0109",
+        "word": "anywhere",
+        "translation": "ที่ไหนก็ตาม",
+        "pos": "adv",
+        "example": "You can sit anywhere.",
+        "level": "basic"
+    },
+    {
+        "id": "v0110",
+        "word": "apart",
+        "translation": "แยก",
+        "pos": "adv",
+        "example": "We live far apart.",
+        "level": "basic"
+    },
+    {
+        "id": "v0111",
+        "word": "apartment",
+        "translation": "อพาร์ทเมนต์",
+        "pos": "noun",
+        "example": "I rent an apartment.",
+        "level": "basic"
+    },
+    {
+        "id": "v0112",
+        "word": "apologize",
+        "translation": "ขอโทษ",
+        "pos": "verb",
+        "example": "I apologize for being late.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0113",
+        "word": "apparent",
+        "translation": "ชัดเจน",
+        "pos": "adj",
+        "example": "It was apparent he lied.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0114",
+        "word": "appeal",
+        "translation": "อุทธรณ์",
+        "pos": "verb",
+        "example": "They appealed the decision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0115",
+        "word": "appear",
+        "translation": "ปรากฏ",
+        "pos": "verb",
+        "example": "Stars appear at night.",
+        "level": "basic"
+    },
+    {
+        "id": "v0116",
+        "word": "appearance",
+        "translation": "รูปลักษณ์",
+        "pos": "noun",
+        "example": "First appearances matter.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0117",
+        "word": "apple",
+        "translation": "แอปเปิ้ล",
+        "pos": "noun",
+        "example": "An apple a day keeps the doctor away.",
+        "level": "basic"
+    },
+    {
+        "id": "v0118",
+        "word": "application",
+        "translation": "ใบสมัคร",
+        "pos": "noun",
+        "example": "Submit your application online.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0119",
+        "word": "apply",
+        "translation": "สมัคร",
+        "pos": "verb",
+        "example": "I applied for the job.",
+        "level": "basic"
+    },
+    {
+        "id": "v0120",
+        "word": "appointment",
+        "translation": "การนัดหมาย",
+        "pos": "noun",
+        "example": "I have a doctor's appointment.",
+        "level": "basic"
+    },
+    {
+        "id": "v0121",
+        "word": "appreciate",
+        "translation": "ซาบซึ้ง",
+        "pos": "verb",
+        "example": "I appreciate your help.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0122",
+        "word": "approach",
+        "translation": "เข้าใกล้",
+        "pos": "verb",
+        "example": "Winter is approaching.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0123",
+        "word": "appropriate",
+        "translation": "เหมาะสม",
+        "pos": "adj",
+        "example": "Wear appropriate clothing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0124",
+        "word": "approval",
+        "translation": "การอนุมัติ",
+        "pos": "noun",
+        "example": "We need your approval.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0125",
+        "word": "approve",
+        "translation": "อนุมัติ",
+        "pos": "verb",
+        "example": "The plan was approved.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0126",
+        "word": "approximately",
+        "translation": "ประมาณ",
+        "pos": "adv",
+        "example": "It costs approximately 100 baht.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0127",
+        "word": "april",
+        "translation": "เมษายน",
+        "pos": "noun",
+        "example": "My birthday is in April.",
+        "level": "basic"
+    },
+    {
+        "id": "v0128",
+        "word": "area",
+        "translation": "พื้นที่",
+        "pos": "noun",
+        "example": "This area is restricted.",
+        "level": "basic"
+    },
+    {
+        "id": "v0129",
+        "word": "argue",
+        "translation": "โต้เถียง",
+        "pos": "verb",
+        "example": "They always argue.",
+        "level": "basic"
+    },
+    {
+        "id": "v0130",
+        "word": "argument",
+        "translation": "การโต้เถียง",
+        "pos": "noun",
+        "example": "We had an argument.",
+        "level": "basic"
+    },
+    {
+        "id": "v0131",
+        "word": "arise",
+        "translation": "เกิดขึ้น",
+        "pos": "verb",
+        "example": "Problems may arise.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0132",
+        "word": "arm",
+        "translation": "แขน",
+        "pos": "noun",
+        "example": "He broke his arm.",
+        "level": "basic"
+    },
+    {
+        "id": "v0133",
+        "word": "army",
+        "translation": "กองทัพ",
+        "pos": "noun",
+        "example": "He joined the army.",
+        "level": "basic"
+    },
+    {
+        "id": "v0134",
+        "word": "around",
+        "translation": "รอบๆ",
+        "pos": "prep",
+        "example": "Look around you.",
+        "level": "basic"
+    },
+    {
+        "id": "v0135",
+        "word": "arrange",
+        "translation": "จัดเตรียม",
+        "pos": "verb",
+        "example": "I arranged a meeting.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0136",
+        "word": "arrangement",
+        "translation": "การจัดเตรียม",
+        "pos": "noun",
+        "example": "Make the necessary arrangements.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0137",
+        "word": "arrest",
+        "translation": "จับกุม",
+        "pos": "verb",
+        "example": "The police arrested him.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0138",
+        "word": "arrival",
+        "translation": "การมาถึง",
+        "pos": "noun",
+        "example": "Your arrival was unexpected.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0139",
+        "word": "arrive",
+        "translation": "มาถึง",
+        "pos": "verb",
+        "example": "The train arrived on time.",
+        "level": "basic"
+    },
+    {
+        "id": "v0140",
+        "word": "art",
+        "translation": "ศิลปะ",
+        "pos": "noun",
+        "example": "I love modern art.",
+        "level": "basic"
+    },
+    {
+        "id": "v0141",
+        "word": "article",
+        "translation": "บทความ",
+        "pos": "noun",
+        "example": "I read an interesting article.",
+        "level": "basic"
+    },
+    {
+        "id": "v0142",
+        "word": "artist",
+        "translation": "ศิลปิน",
+        "pos": "noun",
+        "example": "She is a talented artist.",
+        "level": "basic"
+    },
+    {
+        "id": "v0143",
+        "word": "as",
+        "translation": "เป็น",
+        "pos": "prep",
+        "example": "She works as a teacher.",
+        "level": "basic"
+    },
+    {
+        "id": "v0144",
+        "word": "ashamed",
+        "translation": "ละอาย",
+        "pos": "adj",
+        "example": "I'm ashamed of my behavior.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0145",
+        "word": "aside",
+        "translation": "ไปข้าง",
+        "pos": "adv",
+        "example": "Step aside please.",
+        "level": "basic"
+    },
+    {
+        "id": "v0146",
+        "word": "ask",
+        "translation": "ถาม",
+        "pos": "verb",
+        "example": "May I ask a question?",
+        "level": "basic"
+    },
+    {
+        "id": "v0147",
+        "word": "asleep",
+        "translation": "หลับ",
+        "pos": "adj",
+        "example": "The baby is asleep.",
+        "level": "basic"
+    },
+    {
+        "id": "v0148",
+        "word": "aspect",
+        "translation": "แง่มุม",
+        "pos": "noun",
+        "example": "Consider every aspect.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0149",
+        "word": "assess",
+        "translation": "ประเมิน",
+        "pos": "verb",
+        "example": "We need to assess the damage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0150",
+        "word": "assessment",
+        "translation": "การประเมิน",
+        "pos": "noun",
+        "example": "The assessment was fair.",
+        "level": "intermediate"
+    }
+]

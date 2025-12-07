@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v0351",
+        "word": "case",
+        "translation": "กรณี",
+        "pos": "noun",
+        "example": "In that case.",
+        "level": "basic"
+    },
+    {
+        "id": "v0352",
+        "word": "cash",
+        "translation": "เงินสด",
+        "pos": "noun",
+        "example": "Pay in cash.",
+        "level": "basic"
+    },
+    {
+        "id": "v0353",
+        "word": "cast",
+        "translation": "โยน",
+        "pos": "verb",
+        "example": "Cast a shadow.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0354",
+        "word": "cat",
+        "translation": "แมว",
+        "pos": "noun",
+        "example": "The cat is sleeping.",
+        "level": "basic"
+    },
+    {
+        "id": "v0355",
+        "word": "catch",
+        "translation": "จับ",
+        "pos": "verb",
+        "example": "Catch the ball.",
+        "level": "basic"
+    },
+    {
+        "id": "v0356",
+        "word": "category",
+        "translation": "หมวดหมู่",
+        "pos": "noun",
+        "example": "Choose a category.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0357",
+        "word": "cause",
+        "translation": "สาเหตุ",
+        "pos": "noun",
+        "example": "What is the cause?",
+        "level": "basic"
+    },
+    {
+        "id": "v0358",
+        "word": "celebrate",
+        "translation": "เฉลิมฉลอง",
+        "pos": "verb",
+        "example": "Celebrate your success.",
+        "level": "basic"
+    },
+    {
+        "id": "v0359",
+        "word": "celebration",
+        "translation": "การเฉลิมฉลอง",
+        "pos": "noun",
+        "example": "Birthday celebration.",
+        "level": "basic"
+    },
+    {
+        "id": "v0360",
+        "word": "cell",
+        "translation": "เซลล์",
+        "pos": "noun",
+        "example": "Cell phone.",
+        "level": "basic"
+    },
+    {
+        "id": "v0361",
+        "word": "center",
+        "translation": "ศูนย์กลาง",
+        "pos": "noun",
+        "example": "City center.",
+        "level": "basic"
+    },
+    {
+        "id": "v0362",
+        "word": "central",
+        "translation": "ส่วนกลาง",
+        "pos": "adj",
+        "example": "Central station.",
+        "level": "basic"
+    },
+    {
+        "id": "v0363",
+        "word": "century",
+        "translation": "ศตวรรษ",
+        "pos": "noun",
+        "example": "21st century.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0364",
+        "word": "ceremony",
+        "translation": "พิธี",
+        "pos": "noun",
+        "example": "Wedding ceremony.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0365",
+        "word": "certain",
+        "translation": "แน่นอน",
+        "pos": "adj",
+        "example": "I'm certain about this.",
+        "level": "basic"
+    },
+    {
+        "id": "v0366",
+        "word": "certainly",
+        "translation": "แน่นอน",
+        "pos": "adv",
+        "example": "Certainly!",
+        "level": "basic"
+    },
+    {
+        "id": "v0367",
+        "word": "chain",
+        "translation": "โซ่",
+        "pos": "noun",
+        "example": "A chain of events.",
+        "level": "basic"
+    },
+    {
+        "id": "v0368",
+        "word": "chair",
+        "translation": "เก้าอี้",
+        "pos": "noun",
+        "example": "Sit on the chair.",
+        "level": "basic"
+    },
+    {
+        "id": "v0369",
+        "word": "chairman",
+        "translation": "ประธาน",
+        "pos": "noun",
+        "example": "The chairman spoke.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0370",
+        "word": "challenge",
+        "translation": "ท้าทาย",
+        "pos": "noun",
+        "example": "Accept the challenge.",
+        "level": "basic"
+    },
+    {
+        "id": "v0371",
+        "word": "champion",
+        "translation": "แชมป์",
+        "pos": "noun",
+        "example": "World champion.",
+        "level": "basic"
+    },
+    {
+        "id": "v0372",
+        "word": "chance",
+        "translation": "โอกาส",
+        "pos": "noun",
+        "example": "Give me a chance.",
+        "level": "basic"
+    },
+    {
+        "id": "v0373",
+        "word": "change",
+        "translation": "เปลี่ยน",
+        "pos": "verb",
+        "example": "Change your mind.",
+        "level": "basic"
+    },
+    {
+        "id": "v0374",
+        "word": "channel",
+        "translation": "ช่อง",
+        "pos": "noun",
+        "example": "TV channel.",
+        "level": "basic"
+    },
+    {
+        "id": "v0375",
+        "word": "chapter",
+        "translation": "บท",
+        "pos": "noun",
+        "example": "Read chapter one.",
+        "level": "basic"
+    },
+    {
+        "id": "v0376",
+        "word": "character",
+        "translation": "ตัวละคร",
+        "pos": "noun",
+        "example": "Main character.",
+        "level": "basic"
+    },
+    {
+        "id": "v0377",
+        "word": "characteristic",
+        "translation": "ลักษณะเฉพาะ",
+        "pos": "noun",
+        "example": "Key characteristics.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0378",
+        "word": "charge",
+        "translation": "ค่าใช้จ่าย",
+        "pos": "noun",
+        "example": "No extra charge.",
+        "level": "basic"
+    },
+    {
+        "id": "v0379",
+        "word": "charity",
+        "translation": "การกุศล",
+        "pos": "noun",
+        "example": "Give to charity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0380",
+        "word": "chart",
+        "translation": "แผนภูมิ",
+        "pos": "noun",
+        "example": "Look at the chart.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0381",
+        "word": "chase",
+        "translation": "ไล่ตาม",
+        "pos": "verb",
+        "example": "Chase your dreams.",
+        "level": "basic"
+    },
+    {
+        "id": "v0382",
+        "word": "cheap",
+        "translation": "ราคาถูก",
+        "pos": "adj",
+        "example": "It's very cheap.",
+        "level": "basic"
+    },
+    {
+        "id": "v0383",
+        "word": "cheat",
+        "translation": "โกง",
+        "pos": "verb",
+        "example": "Don't cheat.",
+        "level": "basic"
+    },
+    {
+        "id": "v0384",
+        "word": "check",
+        "translation": "ตรวจสอบ",
+        "pos": "verb",
+        "example": "Check your email.",
+        "level": "basic"
+    },
+    {
+        "id": "v0385",
+        "word": "cheek",
+        "translation": "แก้ม",
+        "pos": "noun",
+        "example": "Rosy cheeks.",
+        "level": "basic"
+    },
+    {
+        "id": "v0386",
+        "word": "cheese",
+        "translation": "ชีส",
+        "pos": "noun",
+        "example": "I love cheese.",
+        "level": "basic"
+    },
+    {
+        "id": "v0387",
+        "word": "chef",
+        "translation": "พ่อครัว",
+        "pos": "noun",
+        "example": "He is a chef.",
+        "level": "basic"
+    },
+    {
+        "id": "v0388",
+        "word": "chemical",
+        "translation": "สารเคมี",
+        "pos": "noun",
+        "example": "Chemical reaction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0389",
+        "word": "chest",
+        "translation": "หน้าอก",
+        "pos": "noun",
+        "example": "Chest pain.",
+        "level": "basic"
+    },
+    {
+        "id": "v0390",
+        "word": "chicken",
+        "translation": "ไก่",
+        "pos": "noun",
+        "example": "Fried chicken.",
+        "level": "basic"
+    },
+    {
+        "id": "v0391",
+        "word": "chief",
+        "translation": "หัวหน้า",
+        "pos": "noun",
+        "example": "Chief of police.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0392",
+        "word": "child",
+        "translation": "เด็ก",
+        "pos": "noun",
+        "example": "A young child.",
+        "level": "basic"
+    },
+    {
+        "id": "v0393",
+        "word": "childhood",
+        "translation": "วัยเด็ก",
+        "pos": "noun",
+        "example": "Happy childhood.",
+        "level": "basic"
+    },
+    {
+        "id": "v0394",
+        "word": "chip",
+        "translation": "ชิป",
+        "pos": "noun",
+        "example": "Computer chip.",
+        "level": "basic"
+    },
+    {
+        "id": "v0395",
+        "word": "chocolate",
+        "translation": "ช็อกโกแลต",
+        "pos": "noun",
+        "example": "Dark chocolate.",
+        "level": "basic"
+    },
+    {
+        "id": "v0396",
+        "word": "choice",
+        "translation": "ทางเลือก",
+        "pos": "noun",
+        "example": "Make a choice.",
+        "level": "basic"
+    },
+    {
+        "id": "v0397",
+        "word": "choose",
+        "translation": "เลือก",
+        "pos": "verb",
+        "example": "Choose wisely.",
+        "level": "basic"
+    },
+    {
+        "id": "v0398",
+        "word": "church",
+        "translation": "โบสถ์",
+        "pos": "noun",
+        "example": "Go to church.",
+        "level": "basic"
+    },
+    {
+        "id": "v0399",
+        "word": "cigarette",
+        "translation": "บุหรี่",
+        "pos": "noun",
+        "example": "Smoking cigarettes is bad.",
+        "level": "basic"
+    },
+    {
+        "id": "v0400",
+        "word": "circle",
+        "translation": "วงกลม",
+        "pos": "noun",
+        "example": "Draw a circle.",
+        "level": "basic"
+    },
+    {
+        "id": "v0401",
+        "word": "circumstance",
+        "translation": "สถานการณ์",
+        "pos": "noun",
+        "example": "Under the circumstances.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0402",
+        "word": "citizen",
+        "translation": "พลเมือง",
+        "pos": "noun",
+        "example": "Thai citizen.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0403",
+        "word": "city",
+        "translation": "เมือง",
+        "pos": "noun",
+        "example": "Big city life.",
+        "level": "basic"
+    },
+    {
+        "id": "v0404",
+        "word": "civil",
+        "translation": "พลเรือน",
+        "pos": "adj",
+        "example": "Civil rights.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0405",
+        "word": "claim",
+        "translation": "อ้าง",
+        "pos": "verb",
+        "example": "He claims to be innocent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0406",
+        "word": "class",
+        "translation": "ชั้นเรียน",
+        "pos": "noun",
+        "example": "English class.",
+        "level": "basic"
+    },
+    {
+        "id": "v0407",
+        "word": "classic",
+        "translation": "คลาสสิก",
+        "pos": "adj",
+        "example": "A classic movie.",
+        "level": "basic"
+    },
+    {
+        "id": "v0408",
+        "word": "classroom",
+        "translation": "ห้องเรียน",
+        "pos": "noun",
+        "example": "In the classroom.",
+        "level": "basic"
+    },
+    {
+        "id": "v0409",
+        "word": "clean",
+        "translation": "สะอาด",
+        "pos": "adj",
+        "example": "Keep it clean.",
+        "level": "basic"
+    },
+    {
+        "id": "v0410",
+        "word": "clear",
+        "translation": "ชัดเจน",
+        "pos": "adj",
+        "example": "Is that clear?",
+        "level": "basic"
+    },
+    {
+        "id": "v0411",
+        "word": "clearly",
+        "translation": "อย่างชัดเจน",
+        "pos": "adv",
+        "example": "Speak clearly.",
+        "level": "basic"
+    },
+    {
+        "id": "v0412",
+        "word": "clerk",
+        "translation": "เสมียน",
+        "pos": "noun",
+        "example": "Ask the clerk.",
+        "level": "basic"
+    },
+    {
+        "id": "v0413",
+        "word": "clever",
+        "translation": "ฉลาด",
+        "pos": "adj",
+        "example": "She is clever.",
+        "level": "basic"
+    },
+    {
+        "id": "v0414",
+        "word": "click",
+        "translation": "คลิก",
+        "pos": "verb",
+        "example": "Click the button.",
+        "level": "basic"
+    },
+    {
+        "id": "v0415",
+        "word": "client",
+        "translation": "ลูกค้า",
+        "pos": "noun",
+        "example": "Meet the client.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0416",
+        "word": "climate",
+        "translation": "ภูมิอากาศ",
+        "pos": "noun",
+        "example": "Climate change.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0417",
+        "word": "climb",
+        "translation": "ปีน",
+        "pos": "verb",
+        "example": "Climb the mountain.",
+        "level": "basic"
+    },
+    {
+        "id": "v0418",
+        "word": "clock",
+        "translation": "นาฬิกา",
+        "pos": "noun",
+        "example": "Look at the clock.",
+        "level": "basic"
+    },
+    {
+        "id": "v0419",
+        "word": "close",
+        "translation": "ปิด",
+        "pos": "verb",
+        "example": "Close the door.",
+        "level": "basic"
+    },
+    {
+        "id": "v0420",
+        "word": "closely",
+        "translation": "อย่างใกล้ชิด",
+        "pos": "adv",
+        "example": "Watch closely.",
+        "level": "basic"
+    },
+    {
+        "id": "v0421",
+        "word": "clothes",
+        "translation": "เสื้อผ้า",
+        "pos": "noun",
+        "example": "New clothes.",
+        "level": "basic"
+    },
+    {
+        "id": "v0422",
+        "word": "cloud",
+        "translation": "เมฆ",
+        "pos": "noun",
+        "example": "Dark clouds.",
+        "level": "basic"
+    },
+    {
+        "id": "v0423",
+        "word": "club",
+        "translation": "สโมสร",
+        "pos": "noun",
+        "example": "Join the club.",
+        "level": "basic"
+    },
+    {
+        "id": "v0424",
+        "word": "coach",
+        "translation": "โค้ช",
+        "pos": "noun",
+        "example": "Football coach.",
+        "level": "basic"
+    },
+    {
+        "id": "v0425",
+        "word": "coal",
+        "translation": "ถ่านหิน",
+        "pos": "noun",
+        "example": "Coal mining.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0426",
+        "word": "coast",
+        "translation": "ชายฝั่ง",
+        "pos": "noun",
+        "example": "Along the coast.",
+        "level": "basic"
+    },
+    {
+        "id": "v0427",
+        "word": "coat",
+        "translation": "เสื้อโค้ท",
+        "pos": "noun",
+        "example": "Wear your coat.",
+        "level": "basic"
+    },
+    {
+        "id": "v0428",
+        "word": "code",
+        "translation": "รหัส",
+        "pos": "noun",
+        "example": "Enter the code.",
+        "level": "basic"
+    },
+    {
+        "id": "v0429",
+        "word": "coffee",
+        "translation": "กาแฟ",
+        "pos": "noun",
+        "example": "A cup of coffee.",
+        "level": "basic"
+    },
+    {
+        "id": "v0430",
+        "word": "coin",
+        "translation": "เหรียญ",
+        "pos": "noun",
+        "example": "Flip a coin.",
+        "level": "basic"
+    },
+    {
+        "id": "v0431",
+        "word": "cold",
+        "translation": "เย็น",
+        "pos": "adj",
+        "example": "It's cold today.",
+        "level": "basic"
+    },
+    {
+        "id": "v0432",
+        "word": "collapse",
+        "translation": "พังทลาย",
+        "pos": "verb",
+        "example": "The building collapsed.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0433",
+        "word": "colleague",
+        "translation": "เพื่อนร่วมงาน",
+        "pos": "noun",
+        "example": "My colleague helped me.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0434",
+        "word": "collect",
+        "translation": "รวบรวม",
+        "pos": "verb",
+        "example": "Collect stamps.",
+        "level": "basic"
+    },
+    {
+        "id": "v0435",
+        "word": "collection",
+        "translation": "คอลเลกชัน",
+        "pos": "noun",
+        "example": "Art collection.",
+        "level": "basic"
+    },
+    {
+        "id": "v0436",
+        "word": "college",
+        "translation": "วิทยาลัย",
+        "pos": "noun",
+        "example": "Go to college.",
+        "level": "basic"
+    },
+    {
+        "id": "v0437",
+        "word": "color",
+        "translation": "สี",
+        "pos": "noun",
+        "example": "What color is it?",
+        "level": "basic"
+    },
+    {
+        "id": "v0438",
+        "word": "column",
+        "translation": "คอลัมน์",
+        "pos": "noun",
+        "example": "Read the column.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0439",
+        "word": "combination",
+        "translation": "การรวมกัน",
+        "pos": "noun",
+        "example": "A good combination.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0440",
+        "word": "combine",
+        "translation": "รวม",
+        "pos": "verb",
+        "example": "Combine the ingredients.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0441",
+        "word": "come",
+        "translation": "มา",
+        "pos": "verb",
+        "example": "Come here.",
+        "level": "basic"
+    },
+    {
+        "id": "v0442",
+        "word": "comfort",
+        "translation": "ความสบาย",
+        "pos": "noun",
+        "example": "Home comfort.",
+        "level": "basic"
+    },
+    {
+        "id": "v0443",
+        "word": "comfortable",
+        "translation": "สะดวกสบาย",
+        "pos": "adj",
+        "example": "Make yourself comfortable.",
+        "level": "basic"
+    },
+    {
+        "id": "v0444",
+        "word": "command",
+        "translation": "คำสั่ง",
+        "pos": "noun",
+        "example": "Follow the command.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0445",
+        "word": "comment",
+        "translation": "ความคิดเห็น",
+        "pos": "noun",
+        "example": "Leave a comment.",
+        "level": "basic"
+    },
+    {
+        "id": "v0446",
+        "word": "commercial",
+        "translation": "เชิงพาณิชย์",
+        "pos": "adj",
+        "example": "Commercial success.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0447",
+        "word": "commission",
+        "translation": "ค่าคอมมิชชั่น",
+        "pos": "noun",
+        "example": "Sales commission.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0448",
+        "word": "commit",
+        "translation": "กระทำ",
+        "pos": "verb",
+        "example": "Commit a crime.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0449",
+        "word": "commitment",
+        "translation": "ความมุ่งมั่น",
+        "pos": "noun",
+        "example": "Show commitment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0450",
+        "word": "committee",
+        "translation": "คณะกรรมการ",
+        "pos": "noun",
+        "example": "The committee decided.",
+        "level": "intermediate"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v2701",
+        "word": "swear",
+        "translation": "สาบาน",
+        "pos": "verb",
+        "example": "I swear.",
+        "level": "basic"
+    },
+    {
+        "id": "v2702",
+        "word": "sweat",
+        "translation": "เหงื่อ",
+        "pos": "noun",
+        "example": "Break a sweat.",
+        "level": "basic"
+    },
+    {
+        "id": "v2703",
+        "word": "sweater",
+        "translation": "เสื้อกันหนาว",
+        "pos": "noun",
+        "example": "Warm sweater.",
+        "level": "basic"
+    },
+    {
+        "id": "v2704",
+        "word": "sweet",
+        "translation": "หวาน",
+        "pos": "adj",
+        "example": "Sweet taste.",
+        "level": "basic"
+    },
+    {
+        "id": "v2705",
+        "word": "swim",
+        "translation": "ว่ายน้ำ",
+        "pos": "verb",
+        "example": "Learn to swim.",
+        "level": "basic"
+    },
+    {
+        "id": "v2706",
+        "word": "swimming",
+        "translation": "การว่ายน้ำ",
+        "pos": "noun",
+        "example": "Swimming pool.",
+        "level": "basic"
+    },
+    {
+        "id": "v2707",
+        "word": "swing",
+        "translation": "แกว่ง",
+        "pos": "verb",
+        "example": "Swing the bat.",
+        "level": "basic"
+    },
+    {
+        "id": "v2708",
+        "word": "switch",
+        "translation": "สวิตช์",
+        "pos": "noun",
+        "example": "Light switch.",
+        "level": "basic"
+    },
+    {
+        "id": "v2709",
+        "word": "symbol",
+        "translation": "สัญลักษณ์",
+        "pos": "noun",
+        "example": "Peace symbol.",
+        "level": "basic"
+    },
+    {
+        "id": "v2710",
+        "word": "symptom",
+        "translation": "อาการ",
+        "pos": "noun",
+        "example": "Common symptoms.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2711",
+        "word": "system",
+        "translation": "ระบบ",
+        "pos": "noun",
+        "example": "Computer system.",
+        "level": "basic"
+    },
+    {
+        "id": "v2712",
+        "word": "table",
+        "translation": "โต๊ะ",
+        "pos": "noun",
+        "example": "Dining table.",
+        "level": "basic"
+    },
+    {
+        "id": "v2713",
+        "word": "tablet",
+        "translation": "แท็บเล็ต",
+        "pos": "noun",
+        "example": "New tablet.",
+        "level": "basic"
+    },
+    {
+        "id": "v2714",
+        "word": "tactic",
+        "translation": "กลยุทธ์",
+        "pos": "noun",
+        "example": "New tactics.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2715",
+        "word": "tail",
+        "translation": "หาง",
+        "pos": "noun",
+        "example": "Dog's tail.",
+        "level": "basic"
+    },
+    {
+        "id": "v2716",
+        "word": "take",
+        "translation": "เอา",
+        "pos": "verb",
+        "example": "Take it.",
+        "level": "basic"
+    },
+    {
+        "id": "v2717",
+        "word": "tale",
+        "translation": "นิทาน",
+        "pos": "noun",
+        "example": "Fairy tale.",
+        "level": "basic"
+    },
+    {
+        "id": "v2718",
+        "word": "talent",
+        "translation": "พรสวรรค์",
+        "pos": "noun",
+        "example": "Great talent.",
+        "level": "basic"
+    },
+    {
+        "id": "v2719",
+        "word": "talented",
+        "translation": "มีพรสวรรค์",
+        "pos": "adj",
+        "example": "Talented singer.",
+        "level": "basic"
+    },
+    {
+        "id": "v2720",
+        "word": "talk",
+        "translation": "พูด",
+        "pos": "verb",
+        "example": "Let's talk.",
+        "level": "basic"
+    },
+    {
+        "id": "v2721",
+        "word": "tall",
+        "translation": "สูง",
+        "pos": "adj",
+        "example": "Tall building.",
+        "level": "basic"
+    },
+    {
+        "id": "v2722",
+        "word": "tank",
+        "translation": "ถัง",
+        "pos": "noun",
+        "example": "Fish tank.",
+        "level": "basic"
+    },
+    {
+        "id": "v2723",
+        "word": "tap",
+        "translation": "แตะ",
+        "pos": "verb",
+        "example": "Tap the screen.",
+        "level": "basic"
+    },
+    {
+        "id": "v2724",
+        "word": "tape",
+        "translation": "เทป",
+        "pos": "noun",
+        "example": "Duct tape.",
+        "level": "basic"
+    },
+    {
+        "id": "v2725",
+        "word": "target",
+        "translation": "เป้าหมาย",
+        "pos": "noun",
+        "example": "Sales target.",
+        "level": "basic"
+    },
+    {
+        "id": "v2726",
+        "word": "task",
+        "translation": "งาน",
+        "pos": "noun",
+        "example": "Daily task.",
+        "level": "basic"
+    },
+    {
+        "id": "v2727",
+        "word": "taste",
+        "translation": "รสชาติ",
+        "pos": "noun",
+        "example": "Good taste.",
+        "level": "basic"
+    },
+    {
+        "id": "v2728",
+        "word": "tax",
+        "translation": "ภาษี",
+        "pos": "noun",
+        "example": "Income tax.",
+        "level": "basic"
+    },
+    {
+        "id": "v2729",
+        "word": "taxi",
+        "translation": "แท็กซี่",
+        "pos": "noun",
+        "example": "Take a taxi.",
+        "level": "basic"
+    },
+    {
+        "id": "v2730",
+        "word": "tea",
+        "translation": "ชา",
+        "pos": "noun",
+        "example": "Green tea.",
+        "level": "basic"
+    },
+    {
+        "id": "v2731",
+        "word": "teach",
+        "translation": "สอน",
+        "pos": "verb",
+        "example": "Teach English.",
+        "level": "basic"
+    },
+    {
+        "id": "v2732",
+        "word": "teacher",
+        "translation": "ครู",
+        "pos": "noun",
+        "example": "Good teacher.",
+        "level": "basic"
+    },
+    {
+        "id": "v2733",
+        "word": "teaching",
+        "translation": "การสอน",
+        "pos": "noun",
+        "example": "Teaching method.",
+        "level": "basic"
+    },
+    {
+        "id": "v2734",
+        "word": "team",
+        "translation": "ทีม",
+        "pos": "noun",
+        "example": "Football team.",
+        "level": "basic"
+    },
+    {
+        "id": "v2735",
+        "word": "tear",
+        "translation": "น้ำตา",
+        "pos": "noun",
+        "example": "Tears of joy.",
+        "level": "basic"
+    },
+    {
+        "id": "v2736",
+        "word": "technical",
+        "translation": "ทางเทคนิค",
+        "pos": "adj",
+        "example": "Technical support.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2737",
+        "word": "technique",
+        "translation": "เทคนิค",
+        "pos": "noun",
+        "example": "New technique.",
+        "level": "basic"
+    },
+    {
+        "id": "v2738",
+        "word": "technology",
+        "translation": "เทคโนโลยี",
+        "pos": "noun",
+        "example": "New technology.",
+        "level": "basic"
+    },
+    {
+        "id": "v2739",
+        "word": "teen",
+        "translation": "วัยรุ่น",
+        "pos": "noun",
+        "example": "Teen magazine.",
+        "level": "basic"
+    },
+    {
+        "id": "v2740",
+        "word": "teenager",
+        "translation": "วัยรุ่น",
+        "pos": "noun",
+        "example": "Typical teenager.",
+        "level": "basic"
+    },
+    {
+        "id": "v2741",
+        "word": "telephone",
+        "translation": "โทรศัพท์",
+        "pos": "noun",
+        "example": "Telephone number.",
+        "level": "basic"
+    },
+    {
+        "id": "v2742",
+        "word": "television",
+        "translation": "โทรทัศน์",
+        "pos": "noun",
+        "example": "Watch television.",
+        "level": "basic"
+    },
+    {
+        "id": "v2743",
+        "word": "tell",
+        "translation": "บอก",
+        "pos": "verb",
+        "example": "Tell me.",
+        "level": "basic"
+    },
+    {
+        "id": "v2744",
+        "word": "temperature",
+        "translation": "อุณหภูมิ",
+        "pos": "noun",
+        "example": "High temperature.",
+        "level": "basic"
+    },
+    {
+        "id": "v2745",
+        "word": "temple",
+        "translation": "วัด",
+        "pos": "noun",
+        "example": "Thai temple.",
+        "level": "basic"
+    },
+    {
+        "id": "v2746",
+        "word": "temporary",
+        "translation": "ชั่วคราว",
+        "pos": "adj",
+        "example": "Temporary job.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2747",
+        "word": "ten",
+        "translation": "สิบ",
+        "pos": "num",
+        "example": "Ten years.",
+        "level": "basic"
+    },
+    {
+        "id": "v2748",
+        "word": "tend",
+        "translation": "มีแนวโน้ม",
+        "pos": "verb",
+        "example": "I tend to agree.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2749",
+        "word": "tendency",
+        "translation": "แนวโน้ม",
+        "pos": "noun",
+        "example": "New tendency.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2750",
+        "word": "tennis",
+        "translation": "เทนนิส",
+        "pos": "noun",
+        "example": "Play tennis.",
+        "level": "basic"
+    },
+    {
+        "id": "v2751",
+        "word": "tension",
+        "translation": "ความตึงเครียด",
+        "pos": "noun",
+        "example": "Reduce tension.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2752",
+        "word": "tent",
+        "translation": "เต็นท์",
+        "pos": "noun",
+        "example": "Camp tent.",
+        "level": "basic"
+    },
+    {
+        "id": "v2753",
+        "word": "term",
+        "translation": "คำ",
+        "pos": "noun",
+        "example": "Technical term.",
+        "level": "basic"
+    },
+    {
+        "id": "v2754",
+        "word": "terrible",
+        "translation": "แย่มาก",
+        "pos": "adj",
+        "example": "Terrible weather.",
+        "level": "basic"
+    },
+    {
+        "id": "v2755",
+        "word": "territory",
+        "translation": "ดินแดน",
+        "pos": "noun",
+        "example": "Enemy territory.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2756",
+        "word": "terror",
+        "translation": "ความหวาดกลัว",
+        "pos": "noun",
+        "example": "War on terror.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2757",
+        "word": "terrorism",
+        "translation": "การก่อการร้าย",
+        "pos": "noun",
+        "example": "Fight terrorism.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2758",
+        "word": "terrorist",
+        "translation": "ผู้ก่อการร้าย",
+        "pos": "noun",
+        "example": "Terrorist attack.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2759",
+        "word": "test",
+        "translation": "ทดสอบ",
+        "pos": "noun",
+        "example": "Take a test.",
+        "level": "basic"
+    },
+    {
+        "id": "v2760",
+        "word": "testimony",
+        "translation": "คำให้การ",
+        "pos": "noun",
+        "example": "Give testimony.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2761",
+        "word": "testing",
+        "translation": "การทดสอบ",
+        "pos": "noun",
+        "example": "Product testing.",
+        "level": "basic"
+    },
+    {
+        "id": "v2762",
+        "word": "text",
+        "translation": "ข้อความ",
+        "pos": "noun",
+        "example": "Send text.",
+        "level": "basic"
+    },
+    {
+        "id": "v2763",
+        "word": "than",
+        "translation": "กว่า",
+        "pos": "prep",
+        "example": "Better than.",
+        "level": "basic"
+    },
+    {
+        "id": "v2764",
+        "word": "thank",
+        "translation": "ขอบคุณ",
+        "pos": "verb",
+        "example": "Thank you.",
+        "level": "basic"
+    },
+    {
+        "id": "v2765",
+        "word": "thanks",
+        "translation": "ขอบคุณ",
+        "pos": "noun",
+        "example": "Many thanks.",
+        "level": "basic"
+    },
+    {
+        "id": "v2766",
+        "word": "that",
+        "translation": "นั้น",
+        "pos": "det",
+        "example": "That one.",
+        "level": "basic"
+    },
+    {
+        "id": "v2767",
+        "word": "the",
+        "translation": "",
+        "pos": "art",
+        "example": "The book.",
+        "level": "basic"
+    },
+    {
+        "id": "v2768",
+        "word": "theater",
+        "translation": "โรงละคร",
+        "pos": "noun",
+        "example": "Movie theater.",
+        "level": "basic"
+    },
+    {
+        "id": "v2769",
+        "word": "their",
+        "translation": "ของพวกเขา",
+        "pos": "det",
+        "example": "Their house.",
+        "level": "basic"
+    },
+    {
+        "id": "v2770",
+        "word": "them",
+        "translation": "พวกเขา",
+        "pos": "pron",
+        "example": "Give it to them.",
+        "level": "basic"
+    },
+    {
+        "id": "v2771",
+        "word": "theme",
+        "translation": "ธีม",
+        "pos": "noun",
+        "example": "Main theme.",
+        "level": "basic"
+    },
+    {
+        "id": "v2772",
+        "word": "themselves",
+        "translation": "ตัวพวกเขาเอง",
+        "pos": "pron",
+        "example": "By themselves.",
+        "level": "basic"
+    },
+    {
+        "id": "v2773",
+        "word": "then",
+        "translation": "แล้ว",
+        "pos": "adv",
+        "example": "And then.",
+        "level": "basic"
+    },
+    {
+        "id": "v2774",
+        "word": "theory",
+        "translation": "ทฤษฎี",
+        "pos": "noun",
+        "example": "In theory.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2775",
+        "word": "therapy",
+        "translation": "การบำบัด",
+        "pos": "noun",
+        "example": "Physical therapy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2776",
+        "word": "there",
+        "translation": "ที่นั่น",
+        "pos": "adv",
+        "example": "Over there.",
+        "level": "basic"
+    },
+    {
+        "id": "v2777",
+        "word": "therefore",
+        "translation": "ดังนั้น",
+        "pos": "adv",
+        "example": "Therefore.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2778",
+        "word": "these",
+        "translation": "เหล่านี้",
+        "pos": "det",
+        "example": "These things.",
+        "level": "basic"
+    },
+    {
+        "id": "v2779",
+        "word": "they",
+        "translation": "พวกเขา",
+        "pos": "pron",
+        "example": "They are here.",
+        "level": "basic"
+    },
+    {
+        "id": "v2780",
+        "word": "thick",
+        "translation": "หนา",
+        "pos": "adj",
+        "example": "Thick book.",
+        "level": "basic"
+    },
+    {
+        "id": "v2781",
+        "word": "thief",
+        "translation": "ขโมย",
+        "pos": "noun",
+        "example": "Catch the thief.",
+        "level": "basic"
+    },
+    {
+        "id": "v2782",
+        "word": "thin",
+        "translation": "บาง",
+        "pos": "adj",
+        "example": "Thin layer.",
+        "level": "basic"
+    },
+    {
+        "id": "v2783",
+        "word": "thing",
+        "translation": "สิ่ง",
+        "pos": "noun",
+        "example": "Same thing.",
+        "level": "basic"
+    },
+    {
+        "id": "v2784",
+        "word": "think",
+        "translation": "คิด",
+        "pos": "verb",
+        "example": "I think so.",
+        "level": "basic"
+    },
+    {
+        "id": "v2785",
+        "word": "thinking",
+        "translation": "ความคิด",
+        "pos": "noun",
+        "example": "Critical thinking.",
+        "level": "basic"
+    },
+    {
+        "id": "v2786",
+        "word": "third",
+        "translation": "ที่สาม",
+        "pos": "ord",
+        "example": "Third time.",
+        "level": "basic"
+    },
+    {
+        "id": "v2787",
+        "word": "thirteen",
+        "translation": "สิบสาม",
+        "pos": "num",
+        "example": "Thirteen years.",
+        "level": "basic"
+    },
+    {
+        "id": "v2788",
+        "word": "thirty",
+        "translation": "สามสิบ",
+        "pos": "num",
+        "example": "Thirty minutes.",
+        "level": "basic"
+    },
+    {
+        "id": "v2789",
+        "word": "this",
+        "translation": "นี้",
+        "pos": "det",
+        "example": "This one.",
+        "level": "basic"
+    },
+    {
+        "id": "v2790",
+        "word": "thorough",
+        "translation": "ละเอียดถี่ถ้วน",
+        "pos": "adj",
+        "example": "Thorough review.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2791",
+        "word": "thoroughly",
+        "translation": "อย่างละเอียด",
+        "pos": "adv",
+        "example": "Check thoroughly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2792",
+        "word": "those",
+        "translation": "เหล่านั้น",
+        "pos": "det",
+        "example": "Those people.",
+        "level": "basic"
+    },
+    {
+        "id": "v2793",
+        "word": "though",
+        "translation": "แม้ว่า",
+        "pos": "conj",
+        "example": "Even though.",
+        "level": "basic"
+    },
+    {
+        "id": "v2794",
+        "word": "thought",
+        "translation": "ความคิด",
+        "pos": "noun",
+        "example": "Deep thought.",
+        "level": "basic"
+    },
+    {
+        "id": "v2795",
+        "word": "thousand",
+        "translation": "พัน",
+        "pos": "num",
+        "example": "One thousand.",
+        "level": "basic"
+    },
+    {
+        "id": "v2796",
+        "word": "threat",
+        "translation": "ภัยคุกคาม",
+        "pos": "noun",
+        "example": "Security threat.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2797",
+        "word": "threaten",
+        "translation": "ขู่เข็ญ",
+        "pos": "verb",
+        "example": "Don't threaten me.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2798",
+        "word": "three",
+        "translation": "สาม",
+        "pos": "num",
+        "example": "Three times.",
+        "level": "basic"
+    },
+    {
+        "id": "v2799",
+        "word": "throat",
+        "translation": "คอ",
+        "pos": "noun",
+        "example": "Sore throat.",
+        "level": "basic"
+    },
+    {
+        "id": "v2800",
+        "word": "through",
+        "translation": "ผ่าน",
+        "pos": "prep",
+        "example": "Go through.",
+        "level": "basic"
+    }
+]

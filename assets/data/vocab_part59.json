@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v5701",
+        "word": "locate",
+        "translation": "หาที่ตั้ง",
+        "pos": "verb",
+        "example": "Locate address.",
+        "level": "basic"
+    },
+    {
+        "id": "v5702",
+        "word": "located",
+        "translation": "ตั้งอยู่",
+        "pos": "adj",
+        "example": "Located in.",
+        "level": "basic"
+    },
+    {
+        "id": "v5703",
+        "word": "location",
+        "translation": "สถานที่",
+        "pos": "noun",
+        "example": "Great location.",
+        "level": "basic"
+    },
+    {
+        "id": "v5704",
+        "word": "lock",
+        "translation": "ล็อค",
+        "pos": "verb",
+        "example": "Lock the door.",
+        "level": "basic"
+    },
+    {
+        "id": "v5705",
+        "word": "lodge",
+        "translation": "กระท่อม",
+        "pos": "noun",
+        "example": "Mountain lodge.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5706",
+        "word": "log",
+        "translation": "บันทึก",
+        "pos": "noun",
+        "example": "Activity log.",
+        "level": "basic"
+    },
+    {
+        "id": "v5707",
+        "word": "logic",
+        "translation": "ตรรกะ",
+        "pos": "noun",
+        "example": "Clear logic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5708",
+        "word": "logical",
+        "translation": "มีเหตุผล",
+        "pos": "adj",
+        "example": "Logical thinking.",
+        "level": "basic"
+    },
+    {
+        "id": "v5709",
+        "word": "logo",
+        "translation": "โลโก้",
+        "pos": "noun",
+        "example": "Company logo.",
+        "level": "basic"
+    },
+    {
+        "id": "v5710",
+        "word": "lonely",
+        "translation": "เหงา",
+        "pos": "adj",
+        "example": "Feel lonely.",
+        "level": "basic"
+    },
+    {
+        "id": "v5711",
+        "word": "long",
+        "translation": "ยาว",
+        "pos": "adj",
+        "example": "Long time.",
+        "level": "basic"
+    },
+    {
+        "id": "v5712",
+        "word": "longer",
+        "translation": "ยาวกว่า",
+        "pos": "adj",
+        "example": "No longer.",
+        "level": "basic"
+    },
+    {
+        "id": "v5713",
+        "word": "longest",
+        "translation": "ยาวที่สุด",
+        "pos": "adj",
+        "example": "The longest.",
+        "level": "basic"
+    },
+    {
+        "id": "v5714",
+        "word": "longtime",
+        "translation": "ระยะยาว",
+        "pos": "adj",
+        "example": "Longtime friend.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5715",
+        "word": "look",
+        "translation": "ดู",
+        "pos": "verb",
+        "example": "Look at.",
+        "level": "basic"
+    },
+    {
+        "id": "v5716",
+        "word": "lookup",
+        "translation": "ค้นหา",
+        "pos": "noun",
+        "example": "Quick lookup.",
+        "level": "basic"
+    },
+    {
+        "id": "v5717",
+        "word": "loop",
+        "translation": "วนซ้ำ",
+        "pos": "noun",
+        "example": "Infinite loop.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5718",
+        "word": "loose",
+        "translation": "หลวม",
+        "pos": "adj",
+        "example": "Loose shirt.",
+        "level": "basic"
+    },
+    {
+        "id": "v5719",
+        "word": "lord",
+        "translation": "ลอร์ด",
+        "pos": "noun",
+        "example": "Oh Lord!",
+        "level": "basic"
+    },
+    {
+        "id": "v5720",
+        "word": "lose",
+        "translation": "แพ้",
+        "pos": "verb",
+        "example": "Don't lose.",
+        "level": "basic"
+    },
+    {
+        "id": "v5721",
+        "word": "loser",
+        "translation": "ผู้แพ้",
+        "pos": "noun",
+        "example": "Sore loser.",
+        "level": "basic"
+    },
+    {
+        "id": "v5722",
+        "word": "loss",
+        "translation": "การสูญเสีย",
+        "pos": "noun",
+        "example": "Weight loss.",
+        "level": "basic"
+    },
+    {
+        "id": "v5723",
+        "word": "lost",
+        "translation": "หลง",
+        "pos": "adj",
+        "example": "Get lost.",
+        "level": "basic"
+    },
+    {
+        "id": "v5724",
+        "word": "lot",
+        "translation": "มาก",
+        "pos": "noun",
+        "example": "A lot.",
+        "level": "basic"
+    },
+    {
+        "id": "v5725",
+        "word": "lots",
+        "translation": "มากมาย",
+        "pos": "noun",
+        "example": "Lots of.",
+        "level": "basic"
+    },
+    {
+        "id": "v5726",
+        "word": "lottery",
+        "translation": "ลอตเตอรี่",
+        "pos": "noun",
+        "example": "Win lottery.",
+        "level": "basic"
+    },
+    {
+        "id": "v5727",
+        "word": "loud",
+        "translation": "ดัง",
+        "pos": "adj",
+        "example": "Too loud.",
+        "level": "basic"
+    },
+    {
+        "id": "v5728",
+        "word": "loudly",
+        "translation": "ดังๆ",
+        "pos": "adv",
+        "example": "Speak loudly.",
+        "level": "basic"
+    },
+    {
+        "id": "v5729",
+        "word": "lounge",
+        "translation": "เลานจ์",
+        "pos": "noun",
+        "example": "Airport lounge.",
+        "level": "basic"
+    },
+    {
+        "id": "v5730",
+        "word": "love",
+        "translation": "รัก",
+        "pos": "verb",
+        "example": "I love you.",
+        "level": "basic"
+    },
+    {
+        "id": "v5731",
+        "word": "lovely",
+        "translation": "น่ารัก",
+        "pos": "adj",
+        "example": "Lovely view.",
+        "level": "basic"
+    },
+    {
+        "id": "v5732",
+        "word": "lover",
+        "translation": "คนรัก",
+        "pos": "noun",
+        "example": "Music lover.",
+        "level": "basic"
+    },
+    {
+        "id": "v5733",
+        "word": "loving",
+        "translation": "รัก",
+        "pos": "adj",
+        "example": "Loving family.",
+        "level": "basic"
+    },
+    {
+        "id": "v5734",
+        "word": "low",
+        "translation": "ต่ำ",
+        "pos": "adj",
+        "example": "Very low.",
+        "level": "basic"
+    },
+    {
+        "id": "v5735",
+        "word": "lower",
+        "translation": "ลด",
+        "pos": "verb",
+        "example": "Lower price.",
+        "level": "basic"
+    },
+    {
+        "id": "v5736",
+        "word": "lowest",
+        "translation": "ต่ำสุด",
+        "pos": "adj",
+        "example": "The lowest.",
+        "level": "basic"
+    },
+    {
+        "id": "v5737",
+        "word": "loyal",
+        "translation": "ซื่อสัตย์",
+        "pos": "adj",
+        "example": "Loyal friend.",
+        "level": "basic"
+    },
+    {
+        "id": "v5738",
+        "word": "loyalty",
+        "translation": "ความภักดี",
+        "pos": "noun",
+        "example": "Customer loyalty.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5739",
+        "word": "luck",
+        "translation": "โชค",
+        "pos": "noun",
+        "example": "Good luck!",
+        "level": "basic"
+    },
+    {
+        "id": "v5740",
+        "word": "luckily",
+        "translation": "โชคดี",
+        "pos": "adv",
+        "example": "Luckily.",
+        "level": "basic"
+    },
+    {
+        "id": "v5741",
+        "word": "lucky",
+        "translation": "โชคดี",
+        "pos": "adj",
+        "example": "Very lucky.",
+        "level": "basic"
+    },
+    {
+        "id": "v5742",
+        "word": "luggage",
+        "translation": "กระเป๋า",
+        "pos": "noun",
+        "example": "Carry luggage.",
+        "level": "basic"
+    },
+    {
+        "id": "v5743",
+        "word": "lumber",
+        "translation": "ไม้แปรรูป",
+        "pos": "noun",
+        "example": "Lumber yard.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5744",
+        "word": "lump",
+        "translation": "ก้อน",
+        "pos": "noun",
+        "example": "Sugar lump.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5745",
+        "word": "lunch",
+        "translation": "อาหารกลางวัน",
+        "pos": "noun",
+        "example": "Have lunch.",
+        "level": "basic"
+    },
+    {
+        "id": "v5746",
+        "word": "lung",
+        "translation": "ปอด",
+        "pos": "noun",
+        "example": "Lung cancer.",
+        "level": "basic"
+    },
+    {
+        "id": "v5747",
+        "word": "lure",
+        "translation": "ล่อลวง",
+        "pos": "verb",
+        "example": "Lure someone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5748",
+        "word": "luxury",
+        "translation": "หรูหรา",
+        "pos": "noun",
+        "example": "Luxury hotel.",
+        "level": "basic"
+    },
+    {
+        "id": "v5749",
+        "word": "lying",
+        "translation": "โกหก",
+        "pos": "adj",
+        "example": "Lying down.",
+        "level": "basic"
+    },
+    {
+        "id": "v5750",
+        "word": "lyrics",
+        "translation": "เนื้อเพลง",
+        "pos": "noun",
+        "example": "Song lyrics.",
+        "level": "basic"
+    },
+    {
+        "id": "v5751",
+        "word": "machine",
+        "translation": "เครื่องจักร",
+        "pos": "noun",
+        "example": "Washing machine.",
+        "level": "basic"
+    },
+    {
+        "id": "v5752",
+        "word": "machinery",
+        "translation": "เครื่องจักร",
+        "pos": "noun",
+        "example": "Heavy machinery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5753",
+        "word": "mad",
+        "translation": "บ้า",
+        "pos": "adj",
+        "example": "Go mad.",
+        "level": "basic"
+    },
+    {
+        "id": "v5754",
+        "word": "madam",
+        "translation": "ท่านผู้หญิง",
+        "pos": "noun",
+        "example": "Dear Madam.",
+        "level": "basic"
+    },
+    {
+        "id": "v5755",
+        "word": "madness",
+        "translation": "ความบ้า",
+        "pos": "noun",
+        "example": "Complete madness.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5756",
+        "word": "magazine",
+        "translation": "นิตยสาร",
+        "pos": "noun",
+        "example": "Fashion magazine.",
+        "level": "basic"
+    },
+    {
+        "id": "v5757",
+        "word": "magic",
+        "translation": "เวทมนตร์",
+        "pos": "noun",
+        "example": "Like magic.",
+        "level": "basic"
+    },
+    {
+        "id": "v5758",
+        "word": "magical",
+        "translation": "มหัศจรรย์",
+        "pos": "adj",
+        "example": "Magical moment.",
+        "level": "basic"
+    },
+    {
+        "id": "v5759",
+        "word": "magician",
+        "translation": "นักมายากล",
+        "pos": "noun",
+        "example": "Famous magician.",
+        "level": "basic"
+    },
+    {
+        "id": "v5760",
+        "word": "magnet",
+        "translation": "แม่เหล็ก",
+        "pos": "noun",
+        "example": "Strong magnet.",
+        "level": "basic"
+    },
+    {
+        "id": "v5761",
+        "word": "magnetic",
+        "translation": "แม่เหล็ก",
+        "pos": "adj",
+        "example": "Magnetic field.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5762",
+        "word": "magnificent",
+        "translation": "งดงาม",
+        "pos": "adj",
+        "example": "Magnificent view.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5763",
+        "word": "magnitude",
+        "translation": "ขนาด",
+        "pos": "noun",
+        "example": "Earthquake magnitude.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5764",
+        "word": "maid",
+        "translation": "แม่บ้าน",
+        "pos": "noun",
+        "example": "Hotel maid.",
+        "level": "basic"
+    },
+    {
+        "id": "v5765",
+        "word": "mail",
+        "translation": "จดหมาย",
+        "pos": "noun",
+        "example": "Check mail.",
+        "level": "basic"
+    },
+    {
+        "id": "v5766",
+        "word": "main",
+        "translation": "หลัก",
+        "pos": "adj",
+        "example": "Main point.",
+        "level": "basic"
+    },
+    {
+        "id": "v5767",
+        "word": "mainland",
+        "translation": "แผ่นดินใหญ่",
+        "pos": "noun",
+        "example": "Mainland China.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5768",
+        "word": "mainly",
+        "translation": "ส่วนใหญ่",
+        "pos": "adv",
+        "example": "Mainly because.",
+        "level": "basic"
+    },
+    {
+        "id": "v5769",
+        "word": "mainstream",
+        "translation": "กระแสหลัก",
+        "pos": "noun",
+        "example": "Mainstream media.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5770",
+        "word": "maintain",
+        "translation": "รักษา",
+        "pos": "verb",
+        "example": "Maintain quality.",
+        "level": "basic"
+    },
+    {
+        "id": "v5771",
+        "word": "maintenance",
+        "translation": "การบำรุงรักษา",
+        "pos": "noun",
+        "example": "Regular maintenance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5772",
+        "word": "major",
+        "translation": "สำคัญ",
+        "pos": "adj",
+        "example": "Major problem.",
+        "level": "basic"
+    },
+    {
+        "id": "v5773",
+        "word": "majority",
+        "translation": "ส่วนใหญ่",
+        "pos": "noun",
+        "example": "Vast majority.",
+        "level": "basic"
+    },
+    {
+        "id": "v5774",
+        "word": "make",
+        "translation": "ทำ",
+        "pos": "verb",
+        "example": "Make it.",
+        "level": "basic"
+    },
+    {
+        "id": "v5775",
+        "word": "maker",
+        "translation": "ผู้สร้าง",
+        "pos": "noun",
+        "example": "Film maker.",
+        "level": "basic"
+    },
+    {
+        "id": "v5776",
+        "word": "makeup",
+        "translation": "เครื่องสำอาง",
+        "pos": "noun",
+        "example": "Wear makeup.",
+        "level": "basic"
+    },
+    {
+        "id": "v5777",
+        "word": "making",
+        "translation": "การทำ",
+        "pos": "noun",
+        "example": "Decision making.",
+        "level": "basic"
+    },
+    {
+        "id": "v5778",
+        "word": "male",
+        "translation": "ผู้ชาย",
+        "pos": "adj",
+        "example": "Male student.",
+        "level": "basic"
+    },
+    {
+        "id": "v5779",
+        "word": "mall",
+        "translation": "ห้างสรรพสินค้า",
+        "pos": "noun",
+        "example": "Shopping mall.",
+        "level": "basic"
+    },
+    {
+        "id": "v5780",
+        "word": "mammal",
+        "translation": "สัตว์เลี้ยงลูกด้วยนม",
+        "pos": "noun",
+        "example": "Marine mammal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5781",
+        "word": "man",
+        "translation": "ผู้ชาย",
+        "pos": "noun",
+        "example": "Old man.",
+        "level": "basic"
+    },
+    {
+        "id": "v5782",
+        "word": "manage",
+        "translation": "จัดการ",
+        "pos": "verb",
+        "example": "Manage time.",
+        "level": "basic"
+    },
+    {
+        "id": "v5783",
+        "word": "manageable",
+        "translation": "จัดการได้",
+        "pos": "adj",
+        "example": "More manageable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5784",
+        "word": "management",
+        "translation": "การจัดการ",
+        "pos": "noun",
+        "example": "Time management.",
+        "level": "basic"
+    },
+    {
+        "id": "v5785",
+        "word": "manager",
+        "translation": "ผู้จัดการ",
+        "pos": "noun",
+        "example": "Hotel manager.",
+        "level": "basic"
+    },
+    {
+        "id": "v5786",
+        "word": "mandate",
+        "translation": "อาณัติ",
+        "pos": "noun",
+        "example": "Election mandate.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5787",
+        "word": "mandatory",
+        "translation": "บังคับ",
+        "pos": "adj",
+        "example": "Mandatory training.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5788",
+        "word": "mango",
+        "translation": "มะม่วง",
+        "pos": "noun",
+        "example": "Sweet mango.",
+        "level": "basic"
+    },
+    {
+        "id": "v5789",
+        "word": "manifest",
+        "translation": "แสดงออก",
+        "pos": "verb",
+        "example": "Manifest destiny.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5790",
+        "word": "manipulate",
+        "translation": "ชักใย",
+        "pos": "verb",
+        "example": "Manipulate data.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5791",
+        "word": "mankind",
+        "translation": "มนุษยชาติ",
+        "pos": "noun",
+        "example": "All mankind.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5792",
+        "word": "manner",
+        "translation": "ลักษณะ",
+        "pos": "noun",
+        "example": "In this manner.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5793",
+        "word": "mansion",
+        "translation": "คฤหาสน์",
+        "pos": "noun",
+        "example": "Big mansion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5794",
+        "word": "manual",
+        "translation": "คู่มือ",
+        "pos": "noun",
+        "example": "User manual.",
+        "level": "basic"
+    },
+    {
+        "id": "v5795",
+        "word": "manually",
+        "translation": "ด้วยมือ",
+        "pos": "adv",
+        "example": "Do it manually.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5796",
+        "word": "manufacture",
+        "translation": "ผลิต",
+        "pos": "verb",
+        "example": "Manufacture goods.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5797",
+        "word": "manufacturer",
+        "translation": "ผู้ผลิต",
+        "pos": "noun",
+        "example": "Car manufacturer.",
+        "level": "basic"
+    },
+    {
+        "id": "v5798",
+        "word": "manufacturing",
+        "translation": "การผลิต",
+        "pos": "noun",
+        "example": "Manufacturing industry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5799",
+        "word": "many",
+        "translation": "หลาย",
+        "pos": "det",
+        "example": "Many times.",
+        "level": "basic"
+    },
+    {
+        "id": "v5800",
+        "word": "map",
+        "translation": "แผนที่",
+        "pos": "noun",
+        "example": "World map.",
+        "level": "basic"
+    }
+]

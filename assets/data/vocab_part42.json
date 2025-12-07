@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v4001",
+        "word": "cut",
+        "translation": "ตัด",
+        "pos": "verb",
+        "example": "Cut the paper.",
+        "level": "basic"
+    },
+    {
+        "id": "v4002",
+        "word": "cute",
+        "translation": "น่ารัก",
+        "pos": "adj",
+        "example": "Cute baby.",
+        "level": "basic"
+    },
+    {
+        "id": "v4003",
+        "word": "cutting",
+        "translation": "การตัด",
+        "pos": "noun",
+        "example": "Cost cutting.",
+        "level": "basic"
+    },
+    {
+        "id": "v4004",
+        "word": "cycle",
+        "translation": "วงจร",
+        "pos": "noun",
+        "example": "Life cycle.",
+        "level": "basic"
+    },
+    {
+        "id": "v4005",
+        "word": "dad",
+        "translation": "พ่อ",
+        "pos": "noun",
+        "example": "My dad.",
+        "level": "basic"
+    },
+    {
+        "id": "v4006",
+        "word": "daily",
+        "translation": "รายวัน",
+        "pos": "adj",
+        "example": "Daily routine.",
+        "level": "basic"
+    },
+    {
+        "id": "v4007",
+        "word": "dairy",
+        "translation": "นมวัว",
+        "pos": "noun",
+        "example": "Dairy products.",
+        "level": "basic"
+    },
+    {
+        "id": "v4008",
+        "word": "dam",
+        "translation": "เขื่อน",
+        "pos": "noun",
+        "example": "Hoover Dam.",
+        "level": "basic"
+    },
+    {
+        "id": "v4009",
+        "word": "damage",
+        "translation": "ความเสียหาย",
+        "pos": "noun",
+        "example": "Serious damage.",
+        "level": "basic"
+    },
+    {
+        "id": "v4010",
+        "word": "damn",
+        "translation": "ไอ้",
+        "pos": "adj",
+        "example": "Damn it!",
+        "level": "basic"
+    },
+    {
+        "id": "v4011",
+        "word": "damp",
+        "translation": "ชื้น",
+        "pos": "adj",
+        "example": "Damp weather.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4012",
+        "word": "dance",
+        "translation": "เต้นรำ",
+        "pos": "verb",
+        "example": "Let's dance.",
+        "level": "basic"
+    },
+    {
+        "id": "v4013",
+        "word": "dancer",
+        "translation": "นักเต้น",
+        "pos": "noun",
+        "example": "Ballet dancer.",
+        "level": "basic"
+    },
+    {
+        "id": "v4014",
+        "word": "dancing",
+        "translation": "การเต้นรำ",
+        "pos": "noun",
+        "example": "Love dancing.",
+        "level": "basic"
+    },
+    {
+        "id": "v4015",
+        "word": "danger",
+        "translation": "อันตราย",
+        "pos": "noun",
+        "example": "In danger.",
+        "level": "basic"
+    },
+    {
+        "id": "v4016",
+        "word": "dangerous",
+        "translation": "อันตราย",
+        "pos": "adj",
+        "example": "Very dangerous.",
+        "level": "basic"
+    },
+    {
+        "id": "v4017",
+        "word": "dare",
+        "translation": "กล้า",
+        "pos": "verb",
+        "example": "How dare you!",
+        "level": "basic"
+    },
+    {
+        "id": "v4018",
+        "word": "dark",
+        "translation": "มืด",
+        "pos": "adj",
+        "example": "Dark night.",
+        "level": "basic"
+    },
+    {
+        "id": "v4019",
+        "word": "darkness",
+        "translation": "ความมืด",
+        "pos": "noun",
+        "example": "Complete darkness.",
+        "level": "basic"
+    },
+    {
+        "id": "v4020",
+        "word": "data",
+        "translation": "ข้อมูล",
+        "pos": "noun",
+        "example": "Big data.",
+        "level": "basic"
+    },
+    {
+        "id": "v4021",
+        "word": "database",
+        "translation": "ฐานข้อมูล",
+        "pos": "noun",
+        "example": "Database server.",
+        "level": "basic"
+    },
+    {
+        "id": "v4022",
+        "word": "date",
+        "translation": "วันที่",
+        "pos": "noun",
+        "example": "What date?",
+        "level": "basic"
+    },
+    {
+        "id": "v4023",
+        "word": "daughter",
+        "translation": "ลูกสาว",
+        "pos": "noun",
+        "example": "My daughter.",
+        "level": "basic"
+    },
+    {
+        "id": "v4024",
+        "word": "dawn",
+        "translation": "รุ่งอรุณ",
+        "pos": "noun",
+        "example": "At dawn.",
+        "level": "basic"
+    },
+    {
+        "id": "v4025",
+        "word": "day",
+        "translation": "วัน",
+        "pos": "noun",
+        "example": "Nice day.",
+        "level": "basic"
+    },
+    {
+        "id": "v4026",
+        "word": "daylight",
+        "translation": "แสงกลางวัน",
+        "pos": "noun",
+        "example": "In daylight.",
+        "level": "basic"
+    },
+    {
+        "id": "v4027",
+        "word": "dead",
+        "translation": "ตาย",
+        "pos": "adj",
+        "example": "Dead end.",
+        "level": "basic"
+    },
+    {
+        "id": "v4028",
+        "word": "deadline",
+        "translation": "เส้นตาย",
+        "pos": "noun",
+        "example": "Meet deadline.",
+        "level": "basic"
+    },
+    {
+        "id": "v4029",
+        "word": "deadly",
+        "translation": "ร้ายแรง",
+        "pos": "adj",
+        "example": "Deadly virus.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4030",
+        "word": "deaf",
+        "translation": "หูหนวก",
+        "pos": "adj",
+        "example": "Born deaf.",
+        "level": "basic"
+    },
+    {
+        "id": "v4031",
+        "word": "deal",
+        "translation": "ข้อตกลง",
+        "pos": "noun",
+        "example": "Good deal.",
+        "level": "basic"
+    },
+    {
+        "id": "v4032",
+        "word": "dealer",
+        "translation": "พ่อค้า",
+        "pos": "noun",
+        "example": "Car dealer.",
+        "level": "basic"
+    },
+    {
+        "id": "v4033",
+        "word": "dealing",
+        "translation": "การติดต่อ",
+        "pos": "noun",
+        "example": "Dealings with.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4034",
+        "word": "dean",
+        "translation": "คณบดี",
+        "pos": "noun",
+        "example": "University dean.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4035",
+        "word": "dear",
+        "translation": "ที่รัก",
+        "pos": "adj",
+        "example": "Dear friend.",
+        "level": "basic"
+    },
+    {
+        "id": "v4036",
+        "word": "death",
+        "translation": "ความตาย",
+        "pos": "noun",
+        "example": "Cause of death.",
+        "level": "basic"
+    },
+    {
+        "id": "v4037",
+        "word": "debate",
+        "translation": "อภิปราย",
+        "pos": "noun",
+        "example": "Public debate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4038",
+        "word": "debris",
+        "translation": "เศษซาก",
+        "pos": "noun",
+        "example": "Clear debris.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4039",
+        "word": "debt",
+        "translation": "หนี้",
+        "pos": "noun",
+        "example": "Pay debt.",
+        "level": "basic"
+    },
+    {
+        "id": "v4040",
+        "word": "debut",
+        "translation": "เดบิวต์",
+        "pos": "noun",
+        "example": "Film debut.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4041",
+        "word": "decade",
+        "translation": "ทศวรรษ",
+        "pos": "noun",
+        "example": "Last decade.",
+        "level": "basic"
+    },
+    {
+        "id": "v4042",
+        "word": "decay",
+        "translation": "เน่าเปื่อย",
+        "pos": "verb",
+        "example": "Tooth decay.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4043",
+        "word": "decent",
+        "translation": "เหมาะสม",
+        "pos": "adj",
+        "example": "Decent job.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4044",
+        "word": "decide",
+        "translation": "ตัดสินใจ",
+        "pos": "verb",
+        "example": "Can't decide.",
+        "level": "basic"
+    },
+    {
+        "id": "v4045",
+        "word": "decision",
+        "translation": "การตัดสินใจ",
+        "pos": "noun",
+        "example": "Final decision.",
+        "level": "basic"
+    },
+    {
+        "id": "v4046",
+        "word": "deck",
+        "translation": "ดาดฟ้า",
+        "pos": "noun",
+        "example": "Ship deck.",
+        "level": "basic"
+    },
+    {
+        "id": "v4047",
+        "word": "declaration",
+        "translation": "การประกาศ",
+        "pos": "noun",
+        "example": "Declaration of war.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4048",
+        "word": "declare",
+        "translation": "ประกาศ",
+        "pos": "verb",
+        "example": "Declare war.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4049",
+        "word": "decline",
+        "translation": "ลดลง",
+        "pos": "verb",
+        "example": "Decline offer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4050",
+        "word": "decorate",
+        "translation": "ตกแต่ง",
+        "pos": "verb",
+        "example": "Decorate room.",
+        "level": "basic"
+    },
+    {
+        "id": "v4051",
+        "word": "decoration",
+        "translation": "การตกแต่ง",
+        "pos": "noun",
+        "example": "Home decoration.",
+        "level": "basic"
+    },
+    {
+        "id": "v4052",
+        "word": "decrease",
+        "translation": "ลดลง",
+        "pos": "verb",
+        "example": "Decrease slowly.",
+        "level": "basic"
+    },
+    {
+        "id": "v4053",
+        "word": "dedicate",
+        "translation": "อุทิศ",
+        "pos": "verb",
+        "example": "Dedicate to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4054",
+        "word": "dedicated",
+        "translation": "ทุ่มเท",
+        "pos": "adj",
+        "example": "Dedicated worker.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4055",
+        "word": "dedication",
+        "translation": "ความทุ่มเท",
+        "pos": "noun",
+        "example": "Full dedication.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4056",
+        "word": "deed",
+        "translation": "การกระทำ",
+        "pos": "noun",
+        "example": "Good deed.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4057",
+        "word": "deem",
+        "translation": "ถือว่า",
+        "pos": "verb",
+        "example": "Deemed necessary.",
+        "level": "advanced"
+    },
+    {
+        "id": "v4058",
+        "word": "deep",
+        "translation": "ลึก",
+        "pos": "adj",
+        "example": "Deep water.",
+        "level": "basic"
+    },
+    {
+        "id": "v4059",
+        "word": "deeply",
+        "translation": "อย่างลึกซึ้ง",
+        "pos": "adv",
+        "example": "Deeply sorry.",
+        "level": "basic"
+    },
+    {
+        "id": "v4060",
+        "word": "deer",
+        "translation": "กวาง",
+        "pos": "noun",
+        "example": "Wild deer.",
+        "level": "basic"
+    },
+    {
+        "id": "v4061",
+        "word": "defeat",
+        "translation": "พ่ายแพ้",
+        "pos": "verb",
+        "example": "Defeat the enemy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4062",
+        "word": "defend",
+        "translation": "ปกป้อง",
+        "pos": "verb",
+        "example": "Defend yourself.",
+        "level": "basic"
+    },
+    {
+        "id": "v4063",
+        "word": "defendant",
+        "translation": "จำเลย",
+        "pos": "noun",
+        "example": "The defendant.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4064",
+        "word": "defender",
+        "translation": "ผู้พิทักษ์",
+        "pos": "noun",
+        "example": "Public defender.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4065",
+        "word": "defense",
+        "translation": "การป้องกัน",
+        "pos": "noun",
+        "example": "Self defense.",
+        "level": "basic"
+    },
+    {
+        "id": "v4066",
+        "word": "defensive",
+        "translation": "เชิงรับ",
+        "pos": "adj",
+        "example": "Defensive strategy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4067",
+        "word": "deficit",
+        "translation": "ขาดดุล",
+        "pos": "noun",
+        "example": "Budget deficit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4068",
+        "word": "define",
+        "translation": "กำหนด",
+        "pos": "verb",
+        "example": "Define clearly.",
+        "level": "basic"
+    },
+    {
+        "id": "v4069",
+        "word": "definite",
+        "translation": "แน่นอน",
+        "pos": "adj",
+        "example": "Definite answer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4070",
+        "word": "definitely",
+        "translation": "อย่างแน่นอน",
+        "pos": "adv",
+        "example": "Definitely yes.",
+        "level": "basic"
+    },
+    {
+        "id": "v4071",
+        "word": "definition",
+        "translation": "คำนิยาม",
+        "pos": "noun",
+        "example": "Clear definition.",
+        "level": "basic"
+    },
+    {
+        "id": "v4072",
+        "word": "degree",
+        "translation": "ปริญญา",
+        "pos": "noun",
+        "example": "Master's degree.",
+        "level": "basic"
+    },
+    {
+        "id": "v4073",
+        "word": "delay",
+        "translation": "ความล่าช้า",
+        "pos": "noun",
+        "example": "No delay.",
+        "level": "basic"
+    },
+    {
+        "id": "v4074",
+        "word": "delegate",
+        "translation": "มอบหมาย",
+        "pos": "verb",
+        "example": "Delegate tasks.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4075",
+        "word": "delegation",
+        "translation": "คณะผู้แทน",
+        "pos": "noun",
+        "example": "Thai delegation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4076",
+        "word": "delete",
+        "translation": "ลบ",
+        "pos": "verb",
+        "example": "Delete file.",
+        "level": "basic"
+    },
+    {
+        "id": "v4077",
+        "word": "deliberate",
+        "translation": "จงใจ",
+        "pos": "adj",
+        "example": "Deliberate action.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4078",
+        "word": "deliberately",
+        "translation": "โดยเจตนา",
+        "pos": "adv",
+        "example": "Did it deliberately.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4079",
+        "word": "delicate",
+        "translation": "ละเอียดอ่อน",
+        "pos": "adj",
+        "example": "Delicate situation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4080",
+        "word": "delicious",
+        "translation": "อร่อย",
+        "pos": "adj",
+        "example": "Delicious food.",
+        "level": "basic"
+    },
+    {
+        "id": "v4081",
+        "word": "delight",
+        "translation": "ความยินดี",
+        "pos": "noun",
+        "example": "Pure delight.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4082",
+        "word": "delighted",
+        "translation": "ยินดี",
+        "pos": "adj",
+        "example": "I'm delighted.",
+        "level": "basic"
+    },
+    {
+        "id": "v4083",
+        "word": "deliver",
+        "translation": "ส่ง",
+        "pos": "verb",
+        "example": "Deliver package.",
+        "level": "basic"
+    },
+    {
+        "id": "v4084",
+        "word": "delivery",
+        "translation": "การจัดส่ง",
+        "pos": "noun",
+        "example": "Fast delivery.",
+        "level": "basic"
+    },
+    {
+        "id": "v4085",
+        "word": "demand",
+        "translation": "ความต้องการ",
+        "pos": "noun",
+        "example": "High demand.",
+        "level": "basic"
+    },
+    {
+        "id": "v4086",
+        "word": "demanding",
+        "translation": "เรียกร้อง",
+        "pos": "adj",
+        "example": "Demanding job.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4087",
+        "word": "democracy",
+        "translation": "ประชาธิปไตย",
+        "pos": "noun",
+        "example": "True democracy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4088",
+        "word": "democrat",
+        "translation": "นักประชาธิปไตย",
+        "pos": "noun",
+        "example": "Liberal democrat.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4089",
+        "word": "democratic",
+        "translation": "ประชาธิปไตย",
+        "pos": "adj",
+        "example": "Democratic party.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4090",
+        "word": "demonstrate",
+        "translation": "สาธิต",
+        "pos": "verb",
+        "example": "Demonstrate how.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4091",
+        "word": "demonstration",
+        "translation": "การสาธิต",
+        "pos": "noun",
+        "example": "Product demonstration.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4092",
+        "word": "denial",
+        "translation": "การปฏิเสธ",
+        "pos": "noun",
+        "example": "In denial.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4093",
+        "word": "dense",
+        "translation": "หนาแน่น",
+        "pos": "adj",
+        "example": "Dense forest.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4094",
+        "word": "density",
+        "translation": "ความหนาแน่น",
+        "pos": "noun",
+        "example": "Population density.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4095",
+        "word": "dental",
+        "translation": "ทันตกรรม",
+        "pos": "adj",
+        "example": "Dental care.",
+        "level": "basic"
+    },
+    {
+        "id": "v4096",
+        "word": "dentist",
+        "translation": "หมอฟัน",
+        "pos": "noun",
+        "example": "See a dentist.",
+        "level": "basic"
+    },
+    {
+        "id": "v4097",
+        "word": "deny",
+        "translation": "ปฏิเสธ",
+        "pos": "verb",
+        "example": "Deny access.",
+        "level": "basic"
+    },
+    {
+        "id": "v4098",
+        "word": "depart",
+        "translation": "ออกเดินทาง",
+        "pos": "verb",
+        "example": "Depart at noon.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v4099",
+        "word": "department",
+        "translation": "แผนก",
+        "pos": "noun",
+        "example": "HR department.",
+        "level": "basic"
+    },
+    {
+        "id": "v4100",
+        "word": "departure",
+        "translation": "การออกเดินทาง",
+        "pos": "noun",
+        "example": "Departure time.",
+        "level": "basic"
+    }
+]

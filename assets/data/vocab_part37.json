@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v3501",
+        "word": "cap",
+        "translation": "หมวก",
+        "pos": "noun",
+        "example": "Baseball cap.",
+        "level": "basic"
+    },
+    {
+        "id": "v3502",
+        "word": "capability",
+        "translation": "ความสามารถ",
+        "pos": "noun",
+        "example": "Full capability.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3503",
+        "word": "capable",
+        "translation": "สามารถ",
+        "pos": "adj",
+        "example": "Fully capable.",
+        "level": "basic"
+    },
+    {
+        "id": "v3504",
+        "word": "capacity",
+        "translation": "ความจุ",
+        "pos": "noun",
+        "example": "Full capacity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3505",
+        "word": "capital",
+        "translation": "เมืองหลวง",
+        "pos": "noun",
+        "example": "Capital city.",
+        "level": "basic"
+    },
+    {
+        "id": "v3506",
+        "word": "capitalism",
+        "translation": "ทุนนิยม",
+        "pos": "noun",
+        "example": "Free market capitalism.",
+        "level": "advanced"
+    },
+    {
+        "id": "v3507",
+        "word": "captain",
+        "translation": "กัปตัน",
+        "pos": "noun",
+        "example": "Team captain.",
+        "level": "basic"
+    },
+    {
+        "id": "v3508",
+        "word": "capture",
+        "translation": "จับ",
+        "pos": "verb",
+        "example": "Capture the moment.",
+        "level": "basic"
+    },
+    {
+        "id": "v3509",
+        "word": "carbon",
+        "translation": "คาร์บอน",
+        "pos": "noun",
+        "example": "Carbon dioxide.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3510",
+        "word": "card",
+        "translation": "บัตร",
+        "pos": "noun",
+        "example": "Credit card.",
+        "level": "basic"
+    },
+    {
+        "id": "v3511",
+        "word": "care",
+        "translation": "ดูแล",
+        "pos": "verb",
+        "example": "Take care.",
+        "level": "basic"
+    },
+    {
+        "id": "v3512",
+        "word": "career",
+        "translation": "อาชีพ",
+        "pos": "noun",
+        "example": "Career path.",
+        "level": "basic"
+    },
+    {
+        "id": "v3513",
+        "word": "careful",
+        "translation": "ระวัง",
+        "pos": "adj",
+        "example": "Be careful.",
+        "level": "basic"
+    },
+    {
+        "id": "v3514",
+        "word": "carefully",
+        "translation": "อย่างระมัดระวัง",
+        "pos": "adv",
+        "example": "Drive carefully.",
+        "level": "basic"
+    },
+    {
+        "id": "v3515",
+        "word": "cargo",
+        "translation": "สินค้า",
+        "pos": "noun",
+        "example": "Cargo ship.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3516",
+        "word": "carnival",
+        "translation": "งานคาร์นิวัล",
+        "pos": "noun",
+        "example": "Street carnival.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3517",
+        "word": "carol",
+        "translation": "เพลงคริสต์มาส",
+        "pos": "noun",
+        "example": "Christmas carol.",
+        "level": "basic"
+    },
+    {
+        "id": "v3518",
+        "word": "carpet",
+        "translation": "พรม",
+        "pos": "noun",
+        "example": "Red carpet.",
+        "level": "basic"
+    },
+    {
+        "id": "v3519",
+        "word": "carriage",
+        "translation": "รถม้า",
+        "pos": "noun",
+        "example": "Horse carriage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3520",
+        "word": "carrier",
+        "translation": "ผู้ขนส่ง",
+        "pos": "noun",
+        "example": "Air carrier.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3521",
+        "word": "carrot",
+        "translation": "แครอท",
+        "pos": "noun",
+        "example": "Fresh carrot.",
+        "level": "basic"
+    },
+    {
+        "id": "v3522",
+        "word": "carry",
+        "translation": "ถือ",
+        "pos": "verb",
+        "example": "Carry the bag.",
+        "level": "basic"
+    },
+    {
+        "id": "v3523",
+        "word": "cart",
+        "translation": "รถเข็น",
+        "pos": "noun",
+        "example": "Shopping cart.",
+        "level": "basic"
+    },
+    {
+        "id": "v3524",
+        "word": "cartoon",
+        "translation": "การ์ตูน",
+        "pos": "noun",
+        "example": "Watch cartoons.",
+        "level": "basic"
+    },
+    {
+        "id": "v3525",
+        "word": "carve",
+        "translation": "แกะสลัก",
+        "pos": "verb",
+        "example": "Carve wood.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3526",
+        "word": "case",
+        "translation": "กรณี",
+        "pos": "noun",
+        "example": "In this case.",
+        "level": "basic"
+    },
+    {
+        "id": "v3527",
+        "word": "cash",
+        "translation": "เงินสด",
+        "pos": "noun",
+        "example": "Pay cash.",
+        "level": "basic"
+    },
+    {
+        "id": "v3528",
+        "word": "casino",
+        "translation": "คาสิโน",
+        "pos": "noun",
+        "example": "Visit casino.",
+        "level": "basic"
+    },
+    {
+        "id": "v3529",
+        "word": "cast",
+        "translation": "หล่อ",
+        "pos": "verb",
+        "example": "Cast a vote.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3530",
+        "word": "castle",
+        "translation": "ปราสาท",
+        "pos": "noun",
+        "example": "Old castle.",
+        "level": "basic"
+    },
+    {
+        "id": "v3531",
+        "word": "casual",
+        "translation": "ลำลอง",
+        "pos": "adj",
+        "example": "Casual wear.",
+        "level": "basic"
+    },
+    {
+        "id": "v3532",
+        "word": "casualty",
+        "translation": "ผู้เสียชีวิต",
+        "pos": "noun",
+        "example": "War casualty.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3533",
+        "word": "cat",
+        "translation": "แมว",
+        "pos": "noun",
+        "example": "Cute cat.",
+        "level": "basic"
+    },
+    {
+        "id": "v3534",
+        "word": "catalog",
+        "translation": "แคตตาล็อก",
+        "pos": "noun",
+        "example": "Product catalog.",
+        "level": "basic"
+    },
+    {
+        "id": "v3535",
+        "word": "catch",
+        "translation": "จับ",
+        "pos": "verb",
+        "example": "Catch the ball.",
+        "level": "basic"
+    },
+    {
+        "id": "v3536",
+        "word": "category",
+        "translation": "หมวดหมู่",
+        "pos": "noun",
+        "example": "Main category.",
+        "level": "basic"
+    },
+    {
+        "id": "v3537",
+        "word": "cathedral",
+        "translation": "มหาวิหาร",
+        "pos": "noun",
+        "example": "Old cathedral.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3538",
+        "word": "cattle",
+        "translation": "วัวควาย",
+        "pos": "noun",
+        "example": "Cattle farm.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3539",
+        "word": "cause",
+        "translation": "สาเหตุ",
+        "pos": "noun",
+        "example": "Root cause.",
+        "level": "basic"
+    },
+    {
+        "id": "v3540",
+        "word": "caution",
+        "translation": "ความระมัดระวัง",
+        "pos": "noun",
+        "example": "Use caution.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3541",
+        "word": "cautious",
+        "translation": "ระมัดระวัง",
+        "pos": "adj",
+        "example": "Be cautious.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3542",
+        "word": "cave",
+        "translation": "ถ้ำ",
+        "pos": "noun",
+        "example": "Dark cave.",
+        "level": "basic"
+    },
+    {
+        "id": "v3543",
+        "word": "cease",
+        "translation": "หยุด",
+        "pos": "verb",
+        "example": "Cease fire.",
+        "level": "advanced"
+    },
+    {
+        "id": "v3544",
+        "word": "ceiling",
+        "translation": "เพดาน",
+        "pos": "noun",
+        "example": "High ceiling.",
+        "level": "basic"
+    },
+    {
+        "id": "v3545",
+        "word": "celebrate",
+        "translation": "ฉลอง",
+        "pos": "verb",
+        "example": "Celebrate success.",
+        "level": "basic"
+    },
+    {
+        "id": "v3546",
+        "word": "celebration",
+        "translation": "การเฉลิมฉลอง",
+        "pos": "noun",
+        "example": "Birthday celebration.",
+        "level": "basic"
+    },
+    {
+        "id": "v3547",
+        "word": "celebrity",
+        "translation": "คนดัง",
+        "pos": "noun",
+        "example": "Famous celebrity.",
+        "level": "basic"
+    },
+    {
+        "id": "v3548",
+        "word": "cell",
+        "translation": "เซลล์",
+        "pos": "noun",
+        "example": "Cell phone.",
+        "level": "basic"
+    },
+    {
+        "id": "v3549",
+        "word": "cellular",
+        "translation": "เซลลูลาร์",
+        "pos": "adj",
+        "example": "Cellular network.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3550",
+        "word": "cement",
+        "translation": "ซีเมนต์",
+        "pos": "noun",
+        "example": "Cement floor.",
+        "level": "basic"
+    },
+    {
+        "id": "v3551",
+        "word": "cemetery",
+        "translation": "สุสาน",
+        "pos": "noun",
+        "example": "Old cemetery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3552",
+        "word": "census",
+        "translation": "สำมะโน",
+        "pos": "noun",
+        "example": "National census.",
+        "level": "advanced"
+    },
+    {
+        "id": "v3553",
+        "word": "center",
+        "translation": "ศูนย์กลาง",
+        "pos": "noun",
+        "example": "City center.",
+        "level": "basic"
+    },
+    {
+        "id": "v3554",
+        "word": "central",
+        "translation": "ส่วนกลาง",
+        "pos": "adj",
+        "example": "Central area.",
+        "level": "basic"
+    },
+    {
+        "id": "v3555",
+        "word": "century",
+        "translation": "ศตวรรษ",
+        "pos": "noun",
+        "example": "21st century.",
+        "level": "basic"
+    },
+    {
+        "id": "v3556",
+        "word": "ceremony",
+        "translation": "พิธี",
+        "pos": "noun",
+        "example": "Award ceremony.",
+        "level": "basic"
+    },
+    {
+        "id": "v3557",
+        "word": "certain",
+        "translation": "แน่นอน",
+        "pos": "adj",
+        "example": "I'm certain.",
+        "level": "basic"
+    },
+    {
+        "id": "v3558",
+        "word": "certainly",
+        "translation": "อย่างแน่นอน",
+        "pos": "adv",
+        "example": "Certainly.",
+        "level": "basic"
+    },
+    {
+        "id": "v3559",
+        "word": "certainty",
+        "translation": "ความแน่นอน",
+        "pos": "noun",
+        "example": "With certainty.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3560",
+        "word": "certificate",
+        "translation": "ใบรับรอง",
+        "pos": "noun",
+        "example": "Birth certificate.",
+        "level": "basic"
+    },
+    {
+        "id": "v3561",
+        "word": "chain",
+        "translation": "โซ่",
+        "pos": "noun",
+        "example": "Food chain.",
+        "level": "basic"
+    },
+    {
+        "id": "v3562",
+        "word": "chair",
+        "translation": "เก้าอี้",
+        "pos": "noun",
+        "example": "Sit on a chair.",
+        "level": "basic"
+    },
+    {
+        "id": "v3563",
+        "word": "chairman",
+        "translation": "ประธาน",
+        "pos": "noun",
+        "example": "Board chairman.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3564",
+        "word": "chalk",
+        "translation": "ชอล์ก",
+        "pos": "noun",
+        "example": "White chalk.",
+        "level": "basic"
+    },
+    {
+        "id": "v3565",
+        "word": "challenge",
+        "translation": "ความท้าทาย",
+        "pos": "noun",
+        "example": "Big challenge.",
+        "level": "basic"
+    },
+    {
+        "id": "v3566",
+        "word": "challenging",
+        "translation": "ท้าทาย",
+        "pos": "adj",
+        "example": "Challenging task.",
+        "level": "basic"
+    },
+    {
+        "id": "v3567",
+        "word": "chamber",
+        "translation": "ห้อง",
+        "pos": "noun",
+        "example": "Chamber of commerce.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3568",
+        "word": "champion",
+        "translation": "แชมป์",
+        "pos": "noun",
+        "example": "World champion.",
+        "level": "basic"
+    },
+    {
+        "id": "v3569",
+        "word": "championship",
+        "translation": "แชมเปี้ยนชิพ",
+        "pos": "noun",
+        "example": "Win championship.",
+        "level": "basic"
+    },
+    {
+        "id": "v3570",
+        "word": "chance",
+        "translation": "โอกาส",
+        "pos": "noun",
+        "example": "Second chance.",
+        "level": "basic"
+    },
+    {
+        "id": "v3571",
+        "word": "change",
+        "translation": "เปลี่ยน",
+        "pos": "verb",
+        "example": "Time to change.",
+        "level": "basic"
+    },
+    {
+        "id": "v3572",
+        "word": "channel",
+        "translation": "ช่อง",
+        "pos": "noun",
+        "example": "TV channel.",
+        "level": "basic"
+    },
+    {
+        "id": "v3573",
+        "word": "chaos",
+        "translation": "ความโกลาหล",
+        "pos": "noun",
+        "example": "Complete chaos.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3574",
+        "word": "chapter",
+        "translation": "บท",
+        "pos": "noun",
+        "example": "Chapter one.",
+        "level": "basic"
+    },
+    {
+        "id": "v3575",
+        "word": "character",
+        "translation": "ตัวละคร",
+        "pos": "noun",
+        "example": "Main character.",
+        "level": "basic"
+    },
+    {
+        "id": "v3576",
+        "word": "characteristic",
+        "translation": "ลักษณะเฉพาะ",
+        "pos": "noun",
+        "example": "Key characteristic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3577",
+        "word": "characterize",
+        "translation": "จำแนกลักษณะ",
+        "pos": "verb",
+        "example": "Characterize as.",
+        "level": "advanced"
+    },
+    {
+        "id": "v3578",
+        "word": "charge",
+        "translation": "ค่าใช้จ่าย",
+        "pos": "noun",
+        "example": "No extra charge.",
+        "level": "basic"
+    },
+    {
+        "id": "v3579",
+        "word": "charity",
+        "translation": "การกุศล",
+        "pos": "noun",
+        "example": "Charity work.",
+        "level": "basic"
+    },
+    {
+        "id": "v3580",
+        "word": "charm",
+        "translation": "เสน่ห์",
+        "pos": "noun",
+        "example": "Natural charm.",
+        "level": "basic"
+    },
+    {
+        "id": "v3581",
+        "word": "charming",
+        "translation": "มีเสน่ห์",
+        "pos": "adj",
+        "example": "Very charming.",
+        "level": "basic"
+    },
+    {
+        "id": "v3582",
+        "word": "chart",
+        "translation": "แผนภูมิ",
+        "pos": "noun",
+        "example": "Pie chart.",
+        "level": "basic"
+    },
+    {
+        "id": "v3583",
+        "word": "chase",
+        "translation": "ไล่",
+        "pos": "verb",
+        "example": "Chase the dream.",
+        "level": "basic"
+    },
+    {
+        "id": "v3584",
+        "word": "chat",
+        "translation": "แชท",
+        "pos": "verb",
+        "example": "Let's chat.",
+        "level": "basic"
+    },
+    {
+        "id": "v3585",
+        "word": "cheap",
+        "translation": "ถูก",
+        "pos": "adj",
+        "example": "Very cheap.",
+        "level": "basic"
+    },
+    {
+        "id": "v3586",
+        "word": "cheat",
+        "translation": "โกง",
+        "pos": "verb",
+        "example": "Don't cheat.",
+        "level": "basic"
+    },
+    {
+        "id": "v3587",
+        "word": "check",
+        "translation": "ตรวจสอบ",
+        "pos": "verb",
+        "example": "Check it out.",
+        "level": "basic"
+    },
+    {
+        "id": "v3588",
+        "word": "cheek",
+        "translation": "แก้ม",
+        "pos": "noun",
+        "example": "Rosy cheeks.",
+        "level": "basic"
+    },
+    {
+        "id": "v3589",
+        "word": "cheer",
+        "translation": "เชียร์",
+        "pos": "verb",
+        "example": "Cheer up!",
+        "level": "basic"
+    },
+    {
+        "id": "v3590",
+        "word": "cheerful",
+        "translation": "ร่าเริง",
+        "pos": "adj",
+        "example": "Cheerful mood.",
+        "level": "basic"
+    },
+    {
+        "id": "v3591",
+        "word": "cheese",
+        "translation": "ชีส",
+        "pos": "noun",
+        "example": "Say cheese!",
+        "level": "basic"
+    },
+    {
+        "id": "v3592",
+        "word": "chef",
+        "translation": "เชฟ",
+        "pos": "noun",
+        "example": "Head chef.",
+        "level": "basic"
+    },
+    {
+        "id": "v3593",
+        "word": "chemical",
+        "translation": "สารเคมี",
+        "pos": "noun",
+        "example": "Harmful chemical.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3594",
+        "word": "chemistry",
+        "translation": "เคมี",
+        "pos": "noun",
+        "example": "Study chemistry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3595",
+        "word": "cherry",
+        "translation": "เชอร์รี่",
+        "pos": "noun",
+        "example": "Cherry blossom.",
+        "level": "basic"
+    },
+    {
+        "id": "v3596",
+        "word": "chess",
+        "translation": "หมากรุก",
+        "pos": "noun",
+        "example": "Play chess.",
+        "level": "basic"
+    },
+    {
+        "id": "v3597",
+        "word": "chest",
+        "translation": "หน้าอก",
+        "pos": "noun",
+        "example": "Chest pain.",
+        "level": "basic"
+    },
+    {
+        "id": "v3598",
+        "word": "chew",
+        "translation": "เคี้ยว",
+        "pos": "verb",
+        "example": "Chew slowly.",
+        "level": "basic"
+    },
+    {
+        "id": "v3599",
+        "word": "chicken",
+        "translation": "ไก่",
+        "pos": "noun",
+        "example": "Fried chicken.",
+        "level": "basic"
+    },
+    {
+        "id": "v3600",
+        "word": "chief",
+        "translation": "หัวหน้า",
+        "pos": "noun",
+        "example": "Chief executive.",
+        "level": "basic"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v6901",
+        "word": "remark",
+        "translation": "หมายเหตุ",
+        "pos": "noun",
+        "example": "Rude remark.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6902",
+        "word": "remarkable",
+        "translation": "น่าทึ่ง",
+        "pos": "adj",
+        "example": "Truly remarkable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6903",
+        "word": "remarkably",
+        "translation": "อย่างน่าทึ่ง",
+        "pos": "adv",
+        "example": "Remarkably well.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6904",
+        "word": "remedy",
+        "translation": "ยารักษา",
+        "pos": "noun",
+        "example": "Home remedy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6905",
+        "word": "remember",
+        "translation": "จำได้",
+        "pos": "verb",
+        "example": "Please remember.",
+        "level": "basic"
+    },
+    {
+        "id": "v6906",
+        "word": "remind",
+        "translation": "เตือน",
+        "pos": "verb",
+        "example": "Remind me.",
+        "level": "basic"
+    },
+    {
+        "id": "v6907",
+        "word": "reminder",
+        "translation": "คำเตือน",
+        "pos": "noun",
+        "example": "Set reminder.",
+        "level": "basic"
+    },
+    {
+        "id": "v6908",
+        "word": "remote",
+        "translation": "ห่างไกล",
+        "pos": "adj",
+        "example": "Remote area.",
+        "level": "basic"
+    },
+    {
+        "id": "v6909",
+        "word": "remotely",
+        "translation": "จากระยะไกล",
+        "pos": "adv",
+        "example": "Work remotely.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6910",
+        "word": "removal",
+        "translation": "การถอดออก",
+        "pos": "noun",
+        "example": "Stain removal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6911",
+        "word": "remove",
+        "translation": "ลบ",
+        "pos": "verb",
+        "example": "Remove item.",
+        "level": "basic"
+    },
+    {
+        "id": "v6912",
+        "word": "renaissance",
+        "translation": "ยุคฟื้นฟู",
+        "pos": "noun",
+        "example": "Renaissance period.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6913",
+        "word": "render",
+        "translation": "แสดงผล",
+        "pos": "verb",
+        "example": "Render graphics.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6914",
+        "word": "renew",
+        "translation": "ต่ออายุ",
+        "pos": "verb",
+        "example": "Renew license.",
+        "level": "basic"
+    },
+    {
+        "id": "v6915",
+        "word": "renewal",
+        "translation": "การต่ออายุ",
+        "pos": "noun",
+        "example": "Contract renewal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6916",
+        "word": "renowned",
+        "translation": "มีชื่อเสียง",
+        "pos": "adj",
+        "example": "Renowned artist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6917",
+        "word": "rent",
+        "translation": "เช่า",
+        "pos": "verb",
+        "example": "Rent apartment.",
+        "level": "basic"
+    },
+    {
+        "id": "v6918",
+        "word": "rental",
+        "translation": "การเช่า",
+        "pos": "noun",
+        "example": "Car rental.",
+        "level": "basic"
+    },
+    {
+        "id": "v6919",
+        "word": "repair",
+        "translation": "ซ่อม",
+        "pos": "verb",
+        "example": "Repair car.",
+        "level": "basic"
+    },
+    {
+        "id": "v6920",
+        "word": "repeat",
+        "translation": "ซ้ำ",
+        "pos": "verb",
+        "example": "Please repeat.",
+        "level": "basic"
+    },
+    {
+        "id": "v6921",
+        "word": "repeated",
+        "translation": "ซ้ำแล้วซ้ำเล่า",
+        "pos": "adj",
+        "example": "Repeated warnings.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6922",
+        "word": "repeatedly",
+        "translation": "ซ้ำแล้วซ้ำเล่า",
+        "pos": "adv",
+        "example": "Asked repeatedly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6923",
+        "word": "replace",
+        "translation": "แทนที่",
+        "pos": "verb",
+        "example": "Replace battery.",
+        "level": "basic"
+    },
+    {
+        "id": "v6924",
+        "word": "replacement",
+        "translation": "การแทนที่",
+        "pos": "noun",
+        "example": "Find a replacement.",
+        "level": "basic"
+    },
+    {
+        "id": "v6925",
+        "word": "replica",
+        "translation": "แบบจำลอง",
+        "pos": "noun",
+        "example": "Exact replica.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6926",
+        "word": "reply",
+        "translation": "ตอบ",
+        "pos": "verb",
+        "example": "Reply to message.",
+        "level": "basic"
+    },
+    {
+        "id": "v6927",
+        "word": "report",
+        "translation": "รายงาน",
+        "pos": "noun",
+        "example": "Annual report.",
+        "level": "basic"
+    },
+    {
+        "id": "v6928",
+        "word": "reportedly",
+        "translation": "ตามรายงาน",
+        "pos": "adv",
+        "example": "Reportedly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6929",
+        "word": "reporter",
+        "translation": "นักข่าว",
+        "pos": "noun",
+        "example": "News reporter.",
+        "level": "basic"
+    },
+    {
+        "id": "v6930",
+        "word": "reporting",
+        "translation": "การรายงาน",
+        "pos": "noun",
+        "example": "Accurate reporting.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6931",
+        "word": "represent",
+        "translation": "เป็นตัวแทน",
+        "pos": "verb",
+        "example": "Represent company.",
+        "level": "basic"
+    },
+    {
+        "id": "v6932",
+        "word": "representation",
+        "translation": "การเป็นตัวแทน",
+        "pos": "noun",
+        "example": "Legal representation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6933",
+        "word": "representative",
+        "translation": "ตัวแทน",
+        "pos": "noun",
+        "example": "Sales representative.",
+        "level": "basic"
+    },
+    {
+        "id": "v6934",
+        "word": "reproduce",
+        "translation": "สืบพันธุ์",
+        "pos": "verb",
+        "example": "Reproduce quickly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6935",
+        "word": "reproduction",
+        "translation": "การสืบพันธุ์",
+        "pos": "noun",
+        "example": "Animal reproduction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6936",
+        "word": "republic",
+        "translation": "สาธารณรัฐ",
+        "pos": "noun",
+        "example": "Republic of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6937",
+        "word": "republican",
+        "translation": "พรรคริพับลิกัน",
+        "pos": "noun",
+        "example": "Republican Party.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6938",
+        "word": "reputation",
+        "translation": "ชื่อเสียง",
+        "pos": "noun",
+        "example": "Good reputation.",
+        "level": "basic"
+    },
+    {
+        "id": "v6939",
+        "word": "request",
+        "translation": "ขอ",
+        "pos": "verb",
+        "example": "Request information.",
+        "level": "basic"
+    },
+    {
+        "id": "v6940",
+        "word": "require",
+        "translation": "ต้องการ",
+        "pos": "verb",
+        "example": "Require attention.",
+        "level": "basic"
+    },
+    {
+        "id": "v6941",
+        "word": "required",
+        "translation": "จำเป็น",
+        "pos": "adj",
+        "example": "Required documents.",
+        "level": "basic"
+    },
+    {
+        "id": "v6942",
+        "word": "requirement",
+        "translation": "ข้อกำหนด",
+        "pos": "noun",
+        "example": "Meet requirements.",
+        "level": "basic"
+    },
+    {
+        "id": "v6943",
+        "word": "rescue",
+        "translation": "กู้ภัย",
+        "pos": "verb",
+        "example": "Rescue mission.",
+        "level": "basic"
+    },
+    {
+        "id": "v6944",
+        "word": "research",
+        "translation": "วิจัย",
+        "pos": "noun",
+        "example": "Research paper.",
+        "level": "basic"
+    },
+    {
+        "id": "v6945",
+        "word": "researcher",
+        "translation": "นักวิจัย",
+        "pos": "noun",
+        "example": "Scientific researcher.",
+        "level": "basic"
+    },
+    {
+        "id": "v6946",
+        "word": "resemblance",
+        "translation": "ความคล้ายคลึง",
+        "pos": "noun",
+        "example": "Strong resemblance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6947",
+        "word": "resemble",
+        "translation": "คล้ายคลึง",
+        "pos": "verb",
+        "example": "Resemble someone.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6948",
+        "word": "reservation",
+        "translation": "การจอง",
+        "pos": "noun",
+        "example": "Make a reservation.",
+        "level": "basic"
+    },
+    {
+        "id": "v6949",
+        "word": "reserve",
+        "translation": "จอง",
+        "pos": "verb",
+        "example": "Reserve table.",
+        "level": "basic"
+    },
+    {
+        "id": "v6950",
+        "word": "reservoir",
+        "translation": "อ่างเก็บน้ำ",
+        "pos": "noun",
+        "example": "Water reservoir.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6951",
+        "word": "residence",
+        "translation": "ที่พักอาศัย",
+        "pos": "noun",
+        "example": "Official residence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6952",
+        "word": "resident",
+        "translation": "ผู้อยู่อาศัย",
+        "pos": "noun",
+        "example": "Local resident.",
+        "level": "basic"
+    },
+    {
+        "id": "v6953",
+        "word": "residential",
+        "translation": "ที่พักอาศัย",
+        "pos": "adj",
+        "example": "Residential area.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6954",
+        "word": "resign",
+        "translation": "ลาออก",
+        "pos": "verb",
+        "example": "Resign from job.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6955",
+        "word": "resignation",
+        "translation": "การลาออก",
+        "pos": "noun",
+        "example": "Submit resignation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6956",
+        "word": "resist",
+        "translation": "ต่อต้าน",
+        "pos": "verb",
+        "example": "Can't resist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6957",
+        "word": "resistance",
+        "translation": "ความต้านทาน",
+        "pos": "noun",
+        "example": "Drug resistance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6958",
+        "word": "resistant",
+        "translation": "ทน",
+        "pos": "adj",
+        "example": "Water resistant.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6959",
+        "word": "resolution",
+        "translation": "มติ",
+        "pos": "noun",
+        "example": "New Year's resolution.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6960",
+        "word": "resolve",
+        "translation": "แก้ไข",
+        "pos": "verb",
+        "example": "Resolve problem.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6961",
+        "word": "resort",
+        "translation": "รีสอร์ท",
+        "pos": "noun",
+        "example": "Beach resort.",
+        "level": "basic"
+    },
+    {
+        "id": "v6962",
+        "word": "resource",
+        "translation": "ทรัพยากร",
+        "pos": "noun",
+        "example": "Natural resources.",
+        "level": "basic"
+    },
+    {
+        "id": "v6963",
+        "word": "respect",
+        "translation": "เคารพ",
+        "pos": "noun",
+        "example": "Show respect.",
+        "level": "basic"
+    },
+    {
+        "id": "v6964",
+        "word": "respectable",
+        "translation": "น่าเคารพ",
+        "pos": "adj",
+        "example": "Respectable person.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6965",
+        "word": "respected",
+        "translation": "เป็นที่เคารพ",
+        "pos": "adj",
+        "example": "Highly respected.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6966",
+        "word": "respectful",
+        "translation": "แสดงความเคารพ",
+        "pos": "adj",
+        "example": "Be respectful.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6967",
+        "word": "respective",
+        "translation": "ตามลำดับ",
+        "pos": "adj",
+        "example": "Respective roles.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6968",
+        "word": "respectively",
+        "translation": "ตามลำดับ",
+        "pos": "adv",
+        "example": "Respectively.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6969",
+        "word": "respond",
+        "translation": "ตอบสนอง",
+        "pos": "verb",
+        "example": "Respond quickly.",
+        "level": "basic"
+    },
+    {
+        "id": "v6970",
+        "word": "respondent",
+        "translation": "ผู้ตอบ",
+        "pos": "noun",
+        "example": "Survey respondent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6971",
+        "word": "response",
+        "translation": "การตอบสนอง",
+        "pos": "noun",
+        "example": "Quick response.",
+        "level": "basic"
+    },
+    {
+        "id": "v6972",
+        "word": "responsibility",
+        "translation": "ความรับผิดชอบ",
+        "pos": "noun",
+        "example": "Take responsibility.",
+        "level": "basic"
+    },
+    {
+        "id": "v6973",
+        "word": "responsible",
+        "translation": "รับผิดชอบ",
+        "pos": "adj",
+        "example": "Be responsible.",
+        "level": "basic"
+    },
+    {
+        "id": "v6974",
+        "word": "rest",
+        "translation": "พักผ่อน",
+        "pos": "verb",
+        "example": "Take a rest.",
+        "level": "basic"
+    },
+    {
+        "id": "v6975",
+        "word": "restaurant",
+        "translation": "ร้านอาหาร",
+        "pos": "noun",
+        "example": "Thai restaurant.",
+        "level": "basic"
+    },
+    {
+        "id": "v6976",
+        "word": "restore",
+        "translation": "ฟื้นฟู",
+        "pos": "verb",
+        "example": "Restore peace.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6977",
+        "word": "restraint",
+        "translation": "ความยับยั้ง",
+        "pos": "noun",
+        "example": "Show restraint.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6978",
+        "word": "restrict",
+        "translation": "จำกัด",
+        "pos": "verb",
+        "example": "Restrict access.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6979",
+        "word": "restriction",
+        "translation": "ข้อจำกัด",
+        "pos": "noun",
+        "example": "Travel restrictions.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6980",
+        "word": "result",
+        "translation": "ผลลัพธ์",
+        "pos": "noun",
+        "example": "Good result.",
+        "level": "basic"
+    },
+    {
+        "id": "v6981",
+        "word": "resulting",
+        "translation": "ที่เป็นผล",
+        "pos": "adj",
+        "example": "Resulting damage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6982",
+        "word": "resume",
+        "translation": "ประวัติย่อ",
+        "pos": "noun",
+        "example": "Update resume.",
+        "level": "basic"
+    },
+    {
+        "id": "v6983",
+        "word": "retail",
+        "translation": "ขายปลีก",
+        "pos": "noun",
+        "example": "Retail store.",
+        "level": "basic"
+    },
+    {
+        "id": "v6984",
+        "word": "retailer",
+        "translation": "ผู้ค้าปลีก",
+        "pos": "noun",
+        "example": "Online retailer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6985",
+        "word": "retain",
+        "translation": "รักษาไว้",
+        "pos": "verb",
+        "example": "Retain customer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6986",
+        "word": "retention",
+        "translation": "การรักษา",
+        "pos": "noun",
+        "example": "Employee retention.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6987",
+        "word": "retire",
+        "translation": "เกษียณ",
+        "pos": "verb",
+        "example": "Retire early.",
+        "level": "basic"
+    },
+    {
+        "id": "v6988",
+        "word": "retired",
+        "translation": "เกษียณแล้ว",
+        "pos": "adj",
+        "example": "Retired teacher.",
+        "level": "basic"
+    },
+    {
+        "id": "v6989",
+        "word": "retirement",
+        "translation": "การเกษียณ",
+        "pos": "noun",
+        "example": "Early retirement.",
+        "level": "basic"
+    },
+    {
+        "id": "v6990",
+        "word": "retreat",
+        "translation": "ล่าถอย",
+        "pos": "verb",
+        "example": "Strategic retreat.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6991",
+        "word": "retrieve",
+        "translation": "เรียกคืน",
+        "pos": "verb",
+        "example": "Retrieve data.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6992",
+        "word": "return",
+        "translation": "กลับ",
+        "pos": "verb",
+        "example": "Return home.",
+        "level": "basic"
+    },
+    {
+        "id": "v6993",
+        "word": "reveal",
+        "translation": "เปิดเผย",
+        "pos": "verb",
+        "example": "Reveal truth.",
+        "level": "basic"
+    },
+    {
+        "id": "v6994",
+        "word": "revelation",
+        "translation": "การเปิดเผย",
+        "pos": "noun",
+        "example": "Shocking revelation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6995",
+        "word": "revenge",
+        "translation": "การแก้แค้น",
+        "pos": "noun",
+        "example": "Seek revenge.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6996",
+        "word": "revenue",
+        "translation": "รายได้",
+        "pos": "noun",
+        "example": "Annual revenue.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6997",
+        "word": "reverse",
+        "translation": "กลับด้าน",
+        "pos": "verb",
+        "example": "Reverse decision.",
+        "level": "basic"
+    },
+    {
+        "id": "v6998",
+        "word": "review",
+        "translation": "ทบทวน",
+        "pos": "verb",
+        "example": "Review document.",
+        "level": "basic"
+    },
+    {
+        "id": "v6999",
+        "word": "reviewer",
+        "translation": "ผู้วิจารณ์",
+        "pos": "noun",
+        "example": "Food reviewer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7000",
+        "word": "revise",
+        "translation": "แก้ไข",
+        "pos": "verb",
+        "example": "Revise draft.",
+        "level": "basic"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v1851",
+        "word": "oven",
+        "translation": "เตาอบ",
+        "pos": "noun",
+        "example": "Microwave oven.",
+        "level": "basic"
+    },
+    {
+        "id": "v1852",
+        "word": "over",
+        "translation": "มากกว่า",
+        "pos": "prep",
+        "example": "Over and over.",
+        "level": "basic"
+    },
+    {
+        "id": "v1853",
+        "word": "overall",
+        "translation": "โดยรวม",
+        "pos": "adj",
+        "example": "Overall performance.",
+        "level": "basic"
+    },
+    {
+        "id": "v1854",
+        "word": "overcome",
+        "translation": "เอาชนะ",
+        "pos": "verb",
+        "example": "Overcome fear.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1855",
+        "word": "overlook",
+        "translation": "มองข้าม",
+        "pos": "verb",
+        "example": "Don't overlook.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1856",
+        "word": "overnight",
+        "translation": "ค้างคืน",
+        "pos": "adv",
+        "example": "Stay overnight.",
+        "level": "basic"
+    },
+    {
+        "id": "v1857",
+        "word": "overseas",
+        "translation": "ต่างประเทศ",
+        "pos": "adv",
+        "example": "Travel overseas.",
+        "level": "basic"
+    },
+    {
+        "id": "v1858",
+        "word": "overwhelming",
+        "translation": "ล้นหลาม",
+        "pos": "adj",
+        "example": "Overwhelming support.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1859",
+        "word": "owe",
+        "translation": "เป็นหนี้",
+        "pos": "verb",
+        "example": "I owe you.",
+        "level": "basic"
+    },
+    {
+        "id": "v1860",
+        "word": "own",
+        "translation": "เป็นเจ้าของ",
+        "pos": "verb",
+        "example": "Own a house.",
+        "level": "basic"
+    },
+    {
+        "id": "v1861",
+        "word": "owner",
+        "translation": "เจ้าของ",
+        "pos": "noun",
+        "example": "Business owner.",
+        "level": "basic"
+    },
+    {
+        "id": "v1862",
+        "word": "ownership",
+        "translation": "ความเป็นเจ้าของ",
+        "pos": "noun",
+        "example": "Home ownership.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1863",
+        "word": "oxygen",
+        "translation": "ออกซิเจน",
+        "pos": "noun",
+        "example": "Need oxygen.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1864",
+        "word": "pace",
+        "translation": "ก้าว",
+        "pos": "noun",
+        "example": "Fast pace.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1865",
+        "word": "pack",
+        "translation": "แพ็ค",
+        "pos": "verb",
+        "example": "Pack your bags.",
+        "level": "basic"
+    },
+    {
+        "id": "v1866",
+        "word": "package",
+        "translation": "พัสดุ",
+        "pos": "noun",
+        "example": "Receive a package.",
+        "level": "basic"
+    },
+    {
+        "id": "v1867",
+        "word": "page",
+        "translation": "หน้า",
+        "pos": "noun",
+        "example": "Next page.",
+        "level": "basic"
+    },
+    {
+        "id": "v1868",
+        "word": "pain",
+        "translation": "ความเจ็บปวด",
+        "pos": "noun",
+        "example": "No pain.",
+        "level": "basic"
+    },
+    {
+        "id": "v1869",
+        "word": "painful",
+        "translation": "เจ็บปวด",
+        "pos": "adj",
+        "example": "Painful memory.",
+        "level": "basic"
+    },
+    {
+        "id": "v1870",
+        "word": "paint",
+        "translation": "ทาสี",
+        "pos": "verb",
+        "example": "Paint the wall.",
+        "level": "basic"
+    },
+    {
+        "id": "v1871",
+        "word": "painter",
+        "translation": "จิตรกร",
+        "pos": "noun",
+        "example": "Famous painter.",
+        "level": "basic"
+    },
+    {
+        "id": "v1872",
+        "word": "painting",
+        "translation": "ภาพวาด",
+        "pos": "noun",
+        "example": "Oil painting.",
+        "level": "basic"
+    },
+    {
+        "id": "v1873",
+        "word": "pair",
+        "translation": "คู่",
+        "pos": "noun",
+        "example": "A pair of shoes.",
+        "level": "basic"
+    },
+    {
+        "id": "v1874",
+        "word": "palace",
+        "translation": "พระราชวัง",
+        "pos": "noun",
+        "example": "Grand Palace.",
+        "level": "basic"
+    },
+    {
+        "id": "v1875",
+        "word": "pale",
+        "translation": "ซีด",
+        "pos": "adj",
+        "example": "Pale face.",
+        "level": "basic"
+    },
+    {
+        "id": "v1876",
+        "word": "palm",
+        "translation": "ฝ่ามือ",
+        "pos": "noun",
+        "example": "Palm tree.",
+        "level": "basic"
+    },
+    {
+        "id": "v1877",
+        "word": "pan",
+        "translation": "กระทะ",
+        "pos": "noun",
+        "example": "Frying pan.",
+        "level": "basic"
+    },
+    {
+        "id": "v1878",
+        "word": "panel",
+        "translation": "แผง",
+        "pos": "noun",
+        "example": "Control panel.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1879",
+        "word": "panic",
+        "translation": "ตื่นตระหนก",
+        "pos": "noun",
+        "example": "Don't panic.",
+        "level": "basic"
+    },
+    {
+        "id": "v1880",
+        "word": "pants",
+        "translation": "กางเกง",
+        "pos": "noun",
+        "example": "New pants.",
+        "level": "basic"
+    },
+    {
+        "id": "v1881",
+        "word": "paper",
+        "translation": "กระดาษ",
+        "pos": "noun",
+        "example": "Paper work.",
+        "level": "basic"
+    },
+    {
+        "id": "v1882",
+        "word": "paragraph",
+        "translation": "ย่อหน้า",
+        "pos": "noun",
+        "example": "First paragraph.",
+        "level": "basic"
+    },
+    {
+        "id": "v1883",
+        "word": "parallel",
+        "translation": "ขนาน",
+        "pos": "adj",
+        "example": "Parallel lines.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1884",
+        "word": "parent",
+        "translation": "ผู้ปกครอง",
+        "pos": "noun",
+        "example": "My parents.",
+        "level": "basic"
+    },
+    {
+        "id": "v1885",
+        "word": "park",
+        "translation": "สวน",
+        "pos": "noun",
+        "example": "City park.",
+        "level": "basic"
+    },
+    {
+        "id": "v1886",
+        "word": "parking",
+        "translation": "ที่จอดรถ",
+        "pos": "noun",
+        "example": "Parking lot.",
+        "level": "basic"
+    },
+    {
+        "id": "v1887",
+        "word": "parliament",
+        "translation": "รัฐสภา",
+        "pos": "noun",
+        "example": "Member of Parliament.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1888",
+        "word": "part",
+        "translation": "ส่วน",
+        "pos": "noun",
+        "example": "Part of.",
+        "level": "basic"
+    },
+    {
+        "id": "v1889",
+        "word": "participant",
+        "translation": "ผู้เข้าร่วม",
+        "pos": "noun",
+        "example": "Active participant.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1890",
+        "word": "participate",
+        "translation": "เข้าร่วม",
+        "pos": "verb",
+        "example": "Participate in.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1891",
+        "word": "participation",
+        "translation": "การมีส่วนร่วม",
+        "pos": "noun",
+        "example": "Active participation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1892",
+        "word": "particular",
+        "translation": "เฉพาะ",
+        "pos": "adj",
+        "example": "In particular.",
+        "level": "basic"
+    },
+    {
+        "id": "v1893",
+        "word": "particularly",
+        "translation": "โดยเฉพาะ",
+        "pos": "adv",
+        "example": "Particularly.",
+        "level": "basic"
+    },
+    {
+        "id": "v1894",
+        "word": "partly",
+        "translation": "บางส่วน",
+        "pos": "adv",
+        "example": "Partly true.",
+        "level": "basic"
+    },
+    {
+        "id": "v1895",
+        "word": "partner",
+        "translation": "หุ้นส่วน",
+        "pos": "noun",
+        "example": "Business partner.",
+        "level": "basic"
+    },
+    {
+        "id": "v1896",
+        "word": "partnership",
+        "translation": "หุ้นส่วน",
+        "pos": "noun",
+        "example": "Strategic partnership.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1897",
+        "word": "party",
+        "translation": "งานปาร์ตี้",
+        "pos": "noun",
+        "example": "Birthday party.",
+        "level": "basic"
+    },
+    {
+        "id": "v1898",
+        "word": "pass",
+        "translation": "ผ่าน",
+        "pos": "verb",
+        "example": "Pass the test.",
+        "level": "basic"
+    },
+    {
+        "id": "v1899",
+        "word": "passage",
+        "translation": "ทางผ่าน",
+        "pos": "noun",
+        "example": "Secret passage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1900",
+        "word": "passenger",
+        "translation": "ผู้โดยสาร",
+        "pos": "noun",
+        "example": "Airline passenger.",
+        "level": "basic"
+    },
+    {
+        "id": "v1901",
+        "word": "passion",
+        "translation": "ความหลงใหล",
+        "pos": "noun",
+        "example": "True passion.",
+        "level": "basic"
+    },
+    {
+        "id": "v1902",
+        "word": "past",
+        "translation": "อดีต",
+        "pos": "noun",
+        "example": "In the past.",
+        "level": "basic"
+    },
+    {
+        "id": "v1903",
+        "word": "path",
+        "translation": "เส้นทาง",
+        "pos": "noun",
+        "example": "Life path.",
+        "level": "basic"
+    },
+    {
+        "id": "v1904",
+        "word": "patience",
+        "translation": "ความอดทน",
+        "pos": "noun",
+        "example": "Have patience.",
+        "level": "basic"
+    },
+    {
+        "id": "v1905",
+        "word": "patient",
+        "translation": "ผู้ป่วย",
+        "pos": "noun",
+        "example": "Hospital patient.",
+        "level": "basic"
+    },
+    {
+        "id": "v1906",
+        "word": "pattern",
+        "translation": "รูปแบบ",
+        "pos": "noun",
+        "example": "Behavior pattern.",
+        "level": "basic"
+    },
+    {
+        "id": "v1907",
+        "word": "pause",
+        "translation": "หยุดชั่วคราว",
+        "pos": "verb",
+        "example": "Pause the video.",
+        "level": "basic"
+    },
+    {
+        "id": "v1908",
+        "word": "pay",
+        "translation": "จ่าย",
+        "pos": "verb",
+        "example": "Pay the bill.",
+        "level": "basic"
+    },
+    {
+        "id": "v1909",
+        "word": "payment",
+        "translation": "การชำระเงิน",
+        "pos": "noun",
+        "example": "Monthly payment.",
+        "level": "basic"
+    },
+    {
+        "id": "v1910",
+        "word": "peace",
+        "translation": "สันติภาพ",
+        "pos": "noun",
+        "example": "World peace.",
+        "level": "basic"
+    },
+    {
+        "id": "v1911",
+        "word": "peaceful",
+        "translation": "สงบสุข",
+        "pos": "adj",
+        "example": "Peaceful life.",
+        "level": "basic"
+    },
+    {
+        "id": "v1912",
+        "word": "peak",
+        "translation": "จุดสูงสุด",
+        "pos": "noun",
+        "example": "Peak season.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1913",
+        "word": "pen",
+        "translation": "ปากกา",
+        "pos": "noun",
+        "example": "Ball pen.",
+        "level": "basic"
+    },
+    {
+        "id": "v1914",
+        "word": "penalty",
+        "translation": "โทษ",
+        "pos": "noun",
+        "example": "Death penalty.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1915",
+        "word": "pencil",
+        "translation": "ดินสอ",
+        "pos": "noun",
+        "example": "Pencil case.",
+        "level": "basic"
+    },
+    {
+        "id": "v1916",
+        "word": "penny",
+        "translation": "เพนนี",
+        "pos": "noun",
+        "example": "Every penny.",
+        "level": "basic"
+    },
+    {
+        "id": "v1917",
+        "word": "pension",
+        "translation": "บำนาญ",
+        "pos": "noun",
+        "example": "Pension fund.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1918",
+        "word": "people",
+        "translation": "คน",
+        "pos": "noun",
+        "example": "Many people.",
+        "level": "basic"
+    },
+    {
+        "id": "v1919",
+        "word": "pepper",
+        "translation": "พริกไทย",
+        "pos": "noun",
+        "example": "Black pepper.",
+        "level": "basic"
+    },
+    {
+        "id": "v1920",
+        "word": "per",
+        "translation": "ต่อ",
+        "pos": "prep",
+        "example": "Per person.",
+        "level": "basic"
+    },
+    {
+        "id": "v1921",
+        "word": "perceive",
+        "translation": "รับรู้",
+        "pos": "verb",
+        "example": "Perceive differently.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1922",
+        "word": "percent",
+        "translation": "เปอร์เซ็นต์",
+        "pos": "noun",
+        "example": "50 percent.",
+        "level": "basic"
+    },
+    {
+        "id": "v1923",
+        "word": "percentage",
+        "translation": "ร้อยละ",
+        "pos": "noun",
+        "example": "High percentage.",
+        "level": "basic"
+    },
+    {
+        "id": "v1924",
+        "word": "perception",
+        "translation": "การรับรู้",
+        "pos": "noun",
+        "example": "Public perception.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1925",
+        "word": "perfect",
+        "translation": "สมบูรณ์แบบ",
+        "pos": "adj",
+        "example": "Perfect timing.",
+        "level": "basic"
+    },
+    {
+        "id": "v1926",
+        "word": "perfectly",
+        "translation": "อย่างสมบูรณ์แบบ",
+        "pos": "adv",
+        "example": "Perfectly fine.",
+        "level": "basic"
+    },
+    {
+        "id": "v1927",
+        "word": "perform",
+        "translation": "ปฏิบัติ",
+        "pos": "verb",
+        "example": "Perform well.",
+        "level": "basic"
+    },
+    {
+        "id": "v1928",
+        "word": "performance",
+        "translation": "การแสดง",
+        "pos": "noun",
+        "example": "Great performance.",
+        "level": "basic"
+    },
+    {
+        "id": "v1929",
+        "word": "perhaps",
+        "translation": "บางที",
+        "pos": "adv",
+        "example": "Perhaps.",
+        "level": "basic"
+    },
+    {
+        "id": "v1930",
+        "word": "period",
+        "translation": "ระยะเวลา",
+        "pos": "noun",
+        "example": "Time period.",
+        "level": "basic"
+    },
+    {
+        "id": "v1931",
+        "word": "permanent",
+        "translation": "ถาวร",
+        "pos": "adj",
+        "example": "Permanent job.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1932",
+        "word": "permission",
+        "translation": "การอนุญาต",
+        "pos": "noun",
+        "example": "Ask for permission.",
+        "level": "basic"
+    },
+    {
+        "id": "v1933",
+        "word": "permit",
+        "translation": "อนุญาต",
+        "pos": "verb",
+        "example": "Not permitted.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1934",
+        "word": "person",
+        "translation": "บุคคล",
+        "pos": "noun",
+        "example": "Nice person.",
+        "level": "basic"
+    },
+    {
+        "id": "v1935",
+        "word": "personal",
+        "translation": "ส่วนตัว",
+        "pos": "adj",
+        "example": "Personal life.",
+        "level": "basic"
+    },
+    {
+        "id": "v1936",
+        "word": "personality",
+        "translation": "บุคลิกภาพ",
+        "pos": "noun",
+        "example": "Strong personality.",
+        "level": "basic"
+    },
+    {
+        "id": "v1937",
+        "word": "personally",
+        "translation": "เป็นส่วนตัว",
+        "pos": "adv",
+        "example": "Personally speaking.",
+        "level": "basic"
+    },
+    {
+        "id": "v1938",
+        "word": "personnel",
+        "translation": "บุคลากร",
+        "pos": "noun",
+        "example": "Personnel department.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1939",
+        "word": "perspective",
+        "translation": "มุมมอง",
+        "pos": "noun",
+        "example": "New perspective.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1940",
+        "word": "persuade",
+        "translation": "โน้มน้าว",
+        "pos": "verb",
+        "example": "Persuade him.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1941",
+        "word": "pet",
+        "translation": "สัตว์เลี้ยง",
+        "pos": "noun",
+        "example": "Pet dog.",
+        "level": "basic"
+    },
+    {
+        "id": "v1942",
+        "word": "phase",
+        "translation": "ระยะ",
+        "pos": "noun",
+        "example": "First phase.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1943",
+        "word": "phenomenon",
+        "translation": "ปรากฏการณ์",
+        "pos": "noun",
+        "example": "Natural phenomenon.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1944",
+        "word": "philosophy",
+        "translation": "ปรัชญา",
+        "pos": "noun",
+        "example": "Life philosophy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1945",
+        "word": "phone",
+        "translation": "โทรศัพท์",
+        "pos": "noun",
+        "example": "Mobile phone.",
+        "level": "basic"
+    },
+    {
+        "id": "v1946",
+        "word": "photo",
+        "translation": "รูปถ่าย",
+        "pos": "noun",
+        "example": "Take a photo.",
+        "level": "basic"
+    },
+    {
+        "id": "v1947",
+        "word": "photograph",
+        "translation": "ภาพถ่าย",
+        "pos": "noun",
+        "example": "Old photograph.",
+        "level": "basic"
+    },
+    {
+        "id": "v1948",
+        "word": "photographer",
+        "translation": "ช่างภาพ",
+        "pos": "noun",
+        "example": "Wedding photographer.",
+        "level": "basic"
+    },
+    {
+        "id": "v1949",
+        "word": "photography",
+        "translation": "การถ่ายภาพ",
+        "pos": "noun",
+        "example": "Digital photography.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1950",
+        "word": "phrase",
+        "translation": "วลี",
+        "pos": "noun",
+        "example": "Common phrase.",
+        "level": "basic"
+    }
+]

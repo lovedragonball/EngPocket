@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v3901",
+        "word": "correctly",
+        "translation": "อย่างถูกต้อง",
+        "pos": "adv",
+        "example": "Spell correctly.",
+        "level": "basic"
+    },
+    {
+        "id": "v3902",
+        "word": "correspond",
+        "translation": "สอดคล้อง",
+        "pos": "verb",
+        "example": "Correspond with.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3903",
+        "word": "correspondence",
+        "translation": "การติดต่อ",
+        "pos": "noun",
+        "example": "Email correspondence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3904",
+        "word": "correspondent",
+        "translation": "ผู้สื่อข่าว",
+        "pos": "noun",
+        "example": "Foreign correspondent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3905",
+        "word": "corresponding",
+        "translation": "ที่สอดคล้อง",
+        "pos": "adj",
+        "example": "Corresponding period.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3906",
+        "word": "corridor",
+        "translation": "ทางเดิน",
+        "pos": "noun",
+        "example": "Long corridor.",
+        "level": "basic"
+    },
+    {
+        "id": "v3907",
+        "word": "corrupt",
+        "translation": "ทุจริต",
+        "pos": "adj",
+        "example": "Corrupt official.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3908",
+        "word": "corruption",
+        "translation": "การทุจริต",
+        "pos": "noun",
+        "example": "Fight corruption.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3909",
+        "word": "cosmic",
+        "translation": "จักรวาล",
+        "pos": "adj",
+        "example": "Cosmic ray.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3910",
+        "word": "cost",
+        "translation": "ค่าใช้จ่าย",
+        "pos": "noun",
+        "example": "Total cost.",
+        "level": "basic"
+    },
+    {
+        "id": "v3911",
+        "word": "costly",
+        "translation": "แพง",
+        "pos": "adj",
+        "example": "Costly mistake.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3912",
+        "word": "costume",
+        "translation": "เครื่องแต่งกาย",
+        "pos": "noun",
+        "example": "Halloween costume.",
+        "level": "basic"
+    },
+    {
+        "id": "v3913",
+        "word": "cottage",
+        "translation": "กระท่อม",
+        "pos": "noun",
+        "example": "Country cottage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3914",
+        "word": "cotton",
+        "translation": "ฝ้าย",
+        "pos": "noun",
+        "example": "Cotton shirt.",
+        "level": "basic"
+    },
+    {
+        "id": "v3915",
+        "word": "couch",
+        "translation": "โซฟา",
+        "pos": "noun",
+        "example": "Leather couch.",
+        "level": "basic"
+    },
+    {
+        "id": "v3916",
+        "word": "cough",
+        "translation": "ไอ",
+        "pos": "verb",
+        "example": "Bad cough.",
+        "level": "basic"
+    },
+    {
+        "id": "v3917",
+        "word": "could",
+        "translation": "สามารถ",
+        "pos": "verb",
+        "example": "Could you help?",
+        "level": "basic"
+    },
+    {
+        "id": "v3918",
+        "word": "council",
+        "translation": "สภา",
+        "pos": "noun",
+        "example": "City council.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3919",
+        "word": "counsel",
+        "translation": "ที่ปรึกษา",
+        "pos": "noun",
+        "example": "Legal counsel.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3920",
+        "word": "counseling",
+        "translation": "การให้คำปรึกษา",
+        "pos": "noun",
+        "example": "Career counseling.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3921",
+        "word": "counselor",
+        "translation": "ที่ปรึกษา",
+        "pos": "noun",
+        "example": "School counselor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3922",
+        "word": "count",
+        "translation": "นับ",
+        "pos": "verb",
+        "example": "Count to ten.",
+        "level": "basic"
+    },
+    {
+        "id": "v3923",
+        "word": "counter",
+        "translation": "เคาน์เตอร์",
+        "pos": "noun",
+        "example": "Kitchen counter.",
+        "level": "basic"
+    },
+    {
+        "id": "v3924",
+        "word": "counterpart",
+        "translation": "คู่เทียบ",
+        "pos": "noun",
+        "example": "Foreign counterpart.",
+        "level": "advanced"
+    },
+    {
+        "id": "v3925",
+        "word": "countless",
+        "translation": "นับไม่ถ้วน",
+        "pos": "adj",
+        "example": "Countless times.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3926",
+        "word": "country",
+        "translation": "ประเทศ",
+        "pos": "noun",
+        "example": "Home country.",
+        "level": "basic"
+    },
+    {
+        "id": "v3927",
+        "word": "countryside",
+        "translation": "ชนบท",
+        "pos": "noun",
+        "example": "Beautiful countryside.",
+        "level": "basic"
+    },
+    {
+        "id": "v3928",
+        "word": "county",
+        "translation": "เขต",
+        "pos": "noun",
+        "example": "County fair.",
+        "level": "basic"
+    },
+    {
+        "id": "v3929",
+        "word": "coup",
+        "translation": "รัฐประหาร",
+        "pos": "noun",
+        "example": "Military coup.",
+        "level": "advanced"
+    },
+    {
+        "id": "v3930",
+        "word": "couple",
+        "translation": "คู่",
+        "pos": "noun",
+        "example": "Happy couple.",
+        "level": "basic"
+    },
+    {
+        "id": "v3931",
+        "word": "courage",
+        "translation": "ความกล้าหาญ",
+        "pos": "noun",
+        "example": "Have courage.",
+        "level": "basic"
+    },
+    {
+        "id": "v3932",
+        "word": "course",
+        "translation": "หลักสูตร",
+        "pos": "noun",
+        "example": "Online course.",
+        "level": "basic"
+    },
+    {
+        "id": "v3933",
+        "word": "court",
+        "translation": "ศาล",
+        "pos": "noun",
+        "example": "Supreme Court.",
+        "level": "basic"
+    },
+    {
+        "id": "v3934",
+        "word": "courtesy",
+        "translation": "ความสุภาพ",
+        "pos": "noun",
+        "example": "As a courtesy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3935",
+        "word": "cousin",
+        "translation": "ลูกพี่ลูกน้อง",
+        "pos": "noun",
+        "example": "My cousin.",
+        "level": "basic"
+    },
+    {
+        "id": "v3936",
+        "word": "cover",
+        "translation": "ปก",
+        "pos": "noun",
+        "example": "Book cover.",
+        "level": "basic"
+    },
+    {
+        "id": "v3937",
+        "word": "coverage",
+        "translation": "การรายงาน",
+        "pos": "noun",
+        "example": "News coverage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3938",
+        "word": "cow",
+        "translation": "วัว",
+        "pos": "noun",
+        "example": "Dairy cow.",
+        "level": "basic"
+    },
+    {
+        "id": "v3939",
+        "word": "cozy",
+        "translation": "อบอุ่น",
+        "pos": "adj",
+        "example": "Cozy room.",
+        "level": "basic"
+    },
+    {
+        "id": "v3940",
+        "word": "crack",
+        "translation": "แตก",
+        "pos": "verb",
+        "example": "Crack the code.",
+        "level": "basic"
+    },
+    {
+        "id": "v3941",
+        "word": "craft",
+        "translation": "งานฝีมือ",
+        "pos": "noun",
+        "example": "Arts and crafts.",
+        "level": "basic"
+    },
+    {
+        "id": "v3942",
+        "word": "crash",
+        "translation": "พังทลาย",
+        "pos": "verb",
+        "example": "Car crash.",
+        "level": "basic"
+    },
+    {
+        "id": "v3943",
+        "word": "crawl",
+        "translation": "คลาน",
+        "pos": "verb",
+        "example": "Baby crawls.",
+        "level": "basic"
+    },
+    {
+        "id": "v3944",
+        "word": "crazy",
+        "translation": "บ้า",
+        "pos": "adj",
+        "example": "That's crazy!",
+        "level": "basic"
+    },
+    {
+        "id": "v3945",
+        "word": "cream",
+        "translation": "ครีม",
+        "pos": "noun",
+        "example": "Ice cream.",
+        "level": "basic"
+    },
+    {
+        "id": "v3946",
+        "word": "create",
+        "translation": "สร้าง",
+        "pos": "verb",
+        "example": "Create new.",
+        "level": "basic"
+    },
+    {
+        "id": "v3947",
+        "word": "creation",
+        "translation": "การสร้าง",
+        "pos": "noun",
+        "example": "New creation.",
+        "level": "basic"
+    },
+    {
+        "id": "v3948",
+        "word": "creative",
+        "translation": "สร้างสรรค์",
+        "pos": "adj",
+        "example": "Be creative.",
+        "level": "basic"
+    },
+    {
+        "id": "v3949",
+        "word": "creativity",
+        "translation": "ความคิดสร้างสรรค์",
+        "pos": "noun",
+        "example": "Unleash creativity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3950",
+        "word": "creator",
+        "translation": "ผู้สร้าง",
+        "pos": "noun",
+        "example": "Content creator.",
+        "level": "basic"
+    },
+    {
+        "id": "v3951",
+        "word": "creature",
+        "translation": "สิ่งมีชีวิต",
+        "pos": "noun",
+        "example": "Sea creature.",
+        "level": "basic"
+    },
+    {
+        "id": "v3952",
+        "word": "credential",
+        "translation": "หนังสือรับรอง",
+        "pos": "noun",
+        "example": "Login credentials.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3953",
+        "word": "credibility",
+        "translation": "ความน่าเชื่อถือ",
+        "pos": "noun",
+        "example": "Lose credibility.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3954",
+        "word": "credit",
+        "translation": "เครดิต",
+        "pos": "noun",
+        "example": "Credit card.",
+        "level": "basic"
+    },
+    {
+        "id": "v3955",
+        "word": "creek",
+        "translation": "ลำธาร",
+        "pos": "noun",
+        "example": "Small creek.",
+        "level": "basic"
+    },
+    {
+        "id": "v3956",
+        "word": "crew",
+        "translation": "ลูกเรือ",
+        "pos": "noun",
+        "example": "Cabin crew.",
+        "level": "basic"
+    },
+    {
+        "id": "v3957",
+        "word": "cricket",
+        "translation": "จิ้งหรีด",
+        "pos": "noun",
+        "example": "Play cricket.",
+        "level": "basic"
+    },
+    {
+        "id": "v3958",
+        "word": "crime",
+        "translation": "อาชญากรรม",
+        "pos": "noun",
+        "example": "Fight crime.",
+        "level": "basic"
+    },
+    {
+        "id": "v3959",
+        "word": "criminal",
+        "translation": "อาชญากร",
+        "pos": "noun",
+        "example": "Dangerous criminal.",
+        "level": "basic"
+    },
+    {
+        "id": "v3960",
+        "word": "crisis",
+        "translation": "วิกฤต",
+        "pos": "noun",
+        "example": "Economic crisis.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3961",
+        "word": "crisp",
+        "translation": "กรอบ",
+        "pos": "adj",
+        "example": "Crisp bacon.",
+        "level": "basic"
+    },
+    {
+        "id": "v3962",
+        "word": "criteria",
+        "translation": "เกณฑ์",
+        "pos": "noun",
+        "example": "Meet criteria.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3963",
+        "word": "critic",
+        "translation": "นักวิจารณ์",
+        "pos": "noun",
+        "example": "Food critic.",
+        "level": "basic"
+    },
+    {
+        "id": "v3964",
+        "word": "critical",
+        "translation": "สำคัญ",
+        "pos": "adj",
+        "example": "Critical thinking.",
+        "level": "basic"
+    },
+    {
+        "id": "v3965",
+        "word": "criticism",
+        "translation": "การวิจารณ์",
+        "pos": "noun",
+        "example": "Face criticism.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3966",
+        "word": "criticize",
+        "translation": "วิจารณ์",
+        "pos": "verb",
+        "example": "Don't criticize.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3967",
+        "word": "crop",
+        "translation": "พืชผล",
+        "pos": "noun",
+        "example": "Crop farming.",
+        "level": "basic"
+    },
+    {
+        "id": "v3968",
+        "word": "cross",
+        "translation": "ข้าม",
+        "pos": "verb",
+        "example": "Cross the road.",
+        "level": "basic"
+    },
+    {
+        "id": "v3969",
+        "word": "crossing",
+        "translation": "ทางข้าม",
+        "pos": "noun",
+        "example": "Pedestrian crossing.",
+        "level": "basic"
+    },
+    {
+        "id": "v3970",
+        "word": "crowd",
+        "translation": "ฝูงชน",
+        "pos": "noun",
+        "example": "Large crowd.",
+        "level": "basic"
+    },
+    {
+        "id": "v3971",
+        "word": "crowded",
+        "translation": "แออัด",
+        "pos": "adj",
+        "example": "Crowded place.",
+        "level": "basic"
+    },
+    {
+        "id": "v3972",
+        "word": "crown",
+        "translation": "มงกุฎ",
+        "pos": "noun",
+        "example": "King's crown.",
+        "level": "basic"
+    },
+    {
+        "id": "v3973",
+        "word": "crucial",
+        "translation": "สำคัญยิ่ง",
+        "pos": "adj",
+        "example": "Crucial decision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3974",
+        "word": "crude",
+        "translation": "หยาบ",
+        "pos": "adj",
+        "example": "Crude oil.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3975",
+        "word": "cruel",
+        "translation": "โหดร้าย",
+        "pos": "adj",
+        "example": "Don't be cruel.",
+        "level": "basic"
+    },
+    {
+        "id": "v3976",
+        "word": "cruise",
+        "translation": "ล่องเรือ",
+        "pos": "noun",
+        "example": "Cruise ship.",
+        "level": "basic"
+    },
+    {
+        "id": "v3977",
+        "word": "crush",
+        "translation": "บด",
+        "pos": "verb",
+        "example": "Crush ice.",
+        "level": "basic"
+    },
+    {
+        "id": "v3978",
+        "word": "cry",
+        "translation": "ร้องไห้",
+        "pos": "verb",
+        "example": "Don't cry.",
+        "level": "basic"
+    },
+    {
+        "id": "v3979",
+        "word": "crystal",
+        "translation": "คริสตัล",
+        "pos": "noun",
+        "example": "Crystal clear.",
+        "level": "basic"
+    },
+    {
+        "id": "v3980",
+        "word": "cube",
+        "translation": "ลูกบาศก์",
+        "pos": "noun",
+        "example": "Ice cube.",
+        "level": "basic"
+    },
+    {
+        "id": "v3981",
+        "word": "cuisine",
+        "translation": "ครัว",
+        "pos": "noun",
+        "example": "Thai cuisine.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3982",
+        "word": "cultivate",
+        "translation": "เพาะปลูก",
+        "pos": "verb",
+        "example": "Cultivate land.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3983",
+        "word": "cultural",
+        "translation": "วัฒนธรรม",
+        "pos": "adj",
+        "example": "Cultural heritage.",
+        "level": "basic"
+    },
+    {
+        "id": "v3984",
+        "word": "culture",
+        "translation": "วัฒนธรรม",
+        "pos": "noun",
+        "example": "Pop culture.",
+        "level": "basic"
+    },
+    {
+        "id": "v3985",
+        "word": "cup",
+        "translation": "ถ้วย",
+        "pos": "noun",
+        "example": "Coffee cup.",
+        "level": "basic"
+    },
+    {
+        "id": "v3986",
+        "word": "cure",
+        "translation": "รักษา",
+        "pos": "verb",
+        "example": "Find a cure.",
+        "level": "basic"
+    },
+    {
+        "id": "v3987",
+        "word": "curiosity",
+        "translation": "ความอยากรู้",
+        "pos": "noun",
+        "example": "Natural curiosity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3988",
+        "word": "curious",
+        "translation": "อยากรู้",
+        "pos": "adj",
+        "example": "I'm curious.",
+        "level": "basic"
+    },
+    {
+        "id": "v3989",
+        "word": "currency",
+        "translation": "สกุลเงิน",
+        "pos": "noun",
+        "example": "Foreign currency.",
+        "level": "basic"
+    },
+    {
+        "id": "v3990",
+        "word": "current",
+        "translation": "ปัจจุบัน",
+        "pos": "adj",
+        "example": "Current situation.",
+        "level": "basic"
+    },
+    {
+        "id": "v3991",
+        "word": "currently",
+        "translation": "ปัจจุบัน",
+        "pos": "adv",
+        "example": "Currently available.",
+        "level": "basic"
+    },
+    {
+        "id": "v3992",
+        "word": "curriculum",
+        "translation": "หลักสูตร",
+        "pos": "noun",
+        "example": "School curriculum.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3993",
+        "word": "curry",
+        "translation": "แกง",
+        "pos": "noun",
+        "example": "Thai curry.",
+        "level": "basic"
+    },
+    {
+        "id": "v3994",
+        "word": "curse",
+        "translation": "สาปแช่ง",
+        "pos": "noun",
+        "example": "Under a curse.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3995",
+        "word": "curtain",
+        "translation": "ผ้าม่าน",
+        "pos": "noun",
+        "example": "Window curtain.",
+        "level": "basic"
+    },
+    {
+        "id": "v3996",
+        "word": "curve",
+        "translation": "เส้นโค้ง",
+        "pos": "noun",
+        "example": "Sharp curve.",
+        "level": "basic"
+    },
+    {
+        "id": "v3997",
+        "word": "custody",
+        "translation": "การควบคุม",
+        "pos": "noun",
+        "example": "In custody.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3998",
+        "word": "custom",
+        "translation": "ประเพณี",
+        "pos": "noun",
+        "example": "Local custom.",
+        "level": "basic"
+    },
+    {
+        "id": "v3999",
+        "word": "customer",
+        "translation": "ลูกค้า",
+        "pos": "noun",
+        "example": "Regular customer.",
+        "level": "basic"
+    },
+    {
+        "id": "v4000",
+        "word": "customs",
+        "translation": "ศุลกากร",
+        "pos": "noun",
+        "example": "Customs check.",
+        "level": "intermediate"
+    }
+]

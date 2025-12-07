@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v0651",
+        "word": "diamond",
+        "translation": "เพชร",
+        "pos": "noun",
+        "example": "Diamond ring.",
+        "level": "basic"
+    },
+    {
+        "id": "v0652",
+        "word": "diary",
+        "translation": "ไดอารี่",
+        "pos": "noun",
+        "example": "Keep a diary.",
+        "level": "basic"
+    },
+    {
+        "id": "v0653",
+        "word": "dictionary",
+        "translation": "พจนานุกรม",
+        "pos": "noun",
+        "example": "Use the dictionary.",
+        "level": "basic"
+    },
+    {
+        "id": "v0654",
+        "word": "die",
+        "translation": "ตาย",
+        "pos": "verb",
+        "example": "Never say die.",
+        "level": "basic"
+    },
+    {
+        "id": "v0655",
+        "word": "diet",
+        "translation": "อาหาร",
+        "pos": "noun",
+        "example": "Healthy diet.",
+        "level": "basic"
+    },
+    {
+        "id": "v0656",
+        "word": "differ",
+        "translation": "แตกต่าง",
+        "pos": "verb",
+        "example": "Opinions differ.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0657",
+        "word": "difference",
+        "translation": "ความแตกต่าง",
+        "pos": "noun",
+        "example": "Make a difference.",
+        "level": "basic"
+    },
+    {
+        "id": "v0658",
+        "word": "different",
+        "translation": "แตกต่าง",
+        "pos": "adj",
+        "example": "Something different.",
+        "level": "basic"
+    },
+    {
+        "id": "v0659",
+        "word": "differently",
+        "translation": "อย่างแตกต่าง",
+        "pos": "adv",
+        "example": "Think differently.",
+        "level": "basic"
+    },
+    {
+        "id": "v0660",
+        "word": "difficult",
+        "translation": "ยาก",
+        "pos": "adj",
+        "example": "Difficult task.",
+        "level": "basic"
+    },
+    {
+        "id": "v0661",
+        "word": "difficulty",
+        "translation": "ความยาก",
+        "pos": "noun",
+        "example": "With difficulty.",
+        "level": "basic"
+    },
+    {
+        "id": "v0662",
+        "word": "dig",
+        "translation": "ขุด",
+        "pos": "verb",
+        "example": "Dig a hole.",
+        "level": "basic"
+    },
+    {
+        "id": "v0663",
+        "word": "digital",
+        "translation": "ดิจิทัล",
+        "pos": "adj",
+        "example": "Digital age.",
+        "level": "basic"
+    },
+    {
+        "id": "v0664",
+        "word": "dimension",
+        "translation": "มิติ",
+        "pos": "noun",
+        "example": "Three dimensions.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0665",
+        "word": "dinner",
+        "translation": "อาหารเย็น",
+        "pos": "noun",
+        "example": "Dinner time.",
+        "level": "basic"
+    },
+    {
+        "id": "v0666",
+        "word": "direct",
+        "translation": "โดยตรง",
+        "pos": "adj",
+        "example": "Direct flight.",
+        "level": "basic"
+    },
+    {
+        "id": "v0667",
+        "word": "direction",
+        "translation": "ทิศทาง",
+        "pos": "noun",
+        "example": "Wrong direction.",
+        "level": "basic"
+    },
+    {
+        "id": "v0668",
+        "word": "directly",
+        "translation": "โดยตรง",
+        "pos": "adv",
+        "example": "Speak directly.",
+        "level": "basic"
+    },
+    {
+        "id": "v0669",
+        "word": "director",
+        "translation": "ผู้อำนวยการ",
+        "pos": "noun",
+        "example": "Film director.",
+        "level": "basic"
+    },
+    {
+        "id": "v0670",
+        "word": "dirty",
+        "translation": "สกปรก",
+        "pos": "adj",
+        "example": "Dirty hands.",
+        "level": "basic"
+    },
+    {
+        "id": "v0671",
+        "word": "disability",
+        "translation": "ความพิการ",
+        "pos": "noun",
+        "example": "Physical disability.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0672",
+        "word": "disabled",
+        "translation": "พิการ",
+        "pos": "adj",
+        "example": "Disabled parking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0673",
+        "word": "disagree",
+        "translation": "ไม่เห็นด้วย",
+        "pos": "verb",
+        "example": "I disagree.",
+        "level": "basic"
+    },
+    {
+        "id": "v0674",
+        "word": "disappear",
+        "translation": "หายไป",
+        "pos": "verb",
+        "example": "Disappear into thin air.",
+        "level": "basic"
+    },
+    {
+        "id": "v0675",
+        "word": "disappointed",
+        "translation": "ผิดหวัง",
+        "pos": "adj",
+        "example": "I'm disappointed.",
+        "level": "basic"
+    },
+    {
+        "id": "v0676",
+        "word": "disaster",
+        "translation": "หายนะ",
+        "pos": "noun",
+        "example": "Natural disaster.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0677",
+        "word": "discipline",
+        "translation": "วินัย",
+        "pos": "noun",
+        "example": "Self-discipline.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0678",
+        "word": "discount",
+        "translation": "ส่วนลด",
+        "pos": "noun",
+        "example": "Big discount.",
+        "level": "basic"
+    },
+    {
+        "id": "v0679",
+        "word": "discover",
+        "translation": "ค้นพบ",
+        "pos": "verb",
+        "example": "Discover something new.",
+        "level": "basic"
+    },
+    {
+        "id": "v0680",
+        "word": "discovery",
+        "translation": "การค้นพบ",
+        "pos": "noun",
+        "example": "Scientific discovery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0681",
+        "word": "discuss",
+        "translation": "อภิปราย",
+        "pos": "verb",
+        "example": "Let's discuss.",
+        "level": "basic"
+    },
+    {
+        "id": "v0682",
+        "word": "discussion",
+        "translation": "การอภิปราย",
+        "pos": "noun",
+        "example": "Open discussion.",
+        "level": "basic"
+    },
+    {
+        "id": "v0683",
+        "word": "disease",
+        "translation": "โรค",
+        "pos": "noun",
+        "example": "Heart disease.",
+        "level": "basic"
+    },
+    {
+        "id": "v0684",
+        "word": "dish",
+        "translation": "จาน",
+        "pos": "noun",
+        "example": "Favorite dish.",
+        "level": "basic"
+    },
+    {
+        "id": "v0685",
+        "word": "dismiss",
+        "translation": "ไล่ออก",
+        "pos": "verb",
+        "example": "Dismiss the idea.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0686",
+        "word": "display",
+        "translation": "แสดง",
+        "pos": "verb",
+        "example": "Display the products.",
+        "level": "basic"
+    },
+    {
+        "id": "v0687",
+        "word": "dispute",
+        "translation": "ข้อพิพาท",
+        "pos": "noun",
+        "example": "Settle a dispute.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0688",
+        "word": "distance",
+        "translation": "ระยะทาง",
+        "pos": "noun",
+        "example": "Long distance.",
+        "level": "basic"
+    },
+    {
+        "id": "v0689",
+        "word": "distant",
+        "translation": "ห่างไกล",
+        "pos": "adj",
+        "example": "Distant future.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0690",
+        "word": "distinct",
+        "translation": "แตกต่างชัดเจน",
+        "pos": "adj",
+        "example": "Distinct features.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0691",
+        "word": "distinction",
+        "translation": "ความแตกต่าง",
+        "pos": "noun",
+        "example": "Clear distinction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0692",
+        "word": "distinguish",
+        "translation": "แยกแยะ",
+        "pos": "verb",
+        "example": "Distinguish between.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0693",
+        "word": "distribute",
+        "translation": "แจกจ่าย",
+        "pos": "verb",
+        "example": "Distribute evenly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0694",
+        "word": "distribution",
+        "translation": "การแจกจ่าย",
+        "pos": "noun",
+        "example": "Product distribution.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0695",
+        "word": "district",
+        "translation": "เขต",
+        "pos": "noun",
+        "example": "Business district.",
+        "level": "basic"
+    },
+    {
+        "id": "v0696",
+        "word": "disturb",
+        "translation": "รบกวน",
+        "pos": "verb",
+        "example": "Do not disturb.",
+        "level": "basic"
+    },
+    {
+        "id": "v0697",
+        "word": "diverse",
+        "translation": "หลากหลาย",
+        "pos": "adj",
+        "example": "Diverse culture.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0698",
+        "word": "diversity",
+        "translation": "ความหลากหลาย",
+        "pos": "noun",
+        "example": "Cultural diversity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0699",
+        "word": "divide",
+        "translation": "แบ่ง",
+        "pos": "verb",
+        "example": "Divide equally.",
+        "level": "basic"
+    },
+    {
+        "id": "v0700",
+        "word": "division",
+        "translation": "การแบ่ง",
+        "pos": "noun",
+        "example": "Math division.",
+        "level": "basic"
+    },
+    {
+        "id": "v0701",
+        "word": "divorce",
+        "translation": "หย่า",
+        "pos": "noun",
+        "example": "File for divorce.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0702",
+        "word": "do",
+        "translation": "ทำ",
+        "pos": "verb",
+        "example": "Just do it.",
+        "level": "basic"
+    },
+    {
+        "id": "v0703",
+        "word": "doctor",
+        "translation": "หมอ",
+        "pos": "noun",
+        "example": "See a doctor.",
+        "level": "basic"
+    },
+    {
+        "id": "v0704",
+        "word": "document",
+        "translation": "เอกสาร",
+        "pos": "noun",
+        "example": "Sign the document.",
+        "level": "basic"
+    },
+    {
+        "id": "v0705",
+        "word": "dog",
+        "translation": "สุนัข",
+        "pos": "noun",
+        "example": "Pet dog.",
+        "level": "basic"
+    },
+    {
+        "id": "v0706",
+        "word": "dollar",
+        "translation": "ดอลลาร์",
+        "pos": "noun",
+        "example": "One dollar.",
+        "level": "basic"
+    },
+    {
+        "id": "v0707",
+        "word": "domain",
+        "translation": "โดเมน",
+        "pos": "noun",
+        "example": "Public domain.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0708",
+        "word": "domestic",
+        "translation": "ในประเทศ",
+        "pos": "adj",
+        "example": "Domestic flight.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0709",
+        "word": "dominant",
+        "translation": "มีอิทธิพล",
+        "pos": "adj",
+        "example": "Dominant force.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0710",
+        "word": "dominate",
+        "translation": "ครอบงำ",
+        "pos": "verb",
+        "example": "Dominate the market.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0711",
+        "word": "donate",
+        "translation": "บริจาค",
+        "pos": "verb",
+        "example": "Donate blood.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0712",
+        "word": "donation",
+        "translation": "การบริจาค",
+        "pos": "noun",
+        "example": "Make a donation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0713",
+        "word": "done",
+        "translation": "เสร็จ",
+        "pos": "adj",
+        "example": "Well done!",
+        "level": "basic"
+    },
+    {
+        "id": "v0714",
+        "word": "door",
+        "translation": "ประตู",
+        "pos": "noun",
+        "example": "Open the door.",
+        "level": "basic"
+    },
+    {
+        "id": "v0715",
+        "word": "double",
+        "translation": "สองเท่า",
+        "pos": "adj",
+        "example": "Double check.",
+        "level": "basic"
+    },
+    {
+        "id": "v0716",
+        "word": "doubt",
+        "translation": "สงสัย",
+        "pos": "noun",
+        "example": "No doubt.",
+        "level": "basic"
+    },
+    {
+        "id": "v0717",
+        "word": "down",
+        "translation": "ลง",
+        "pos": "adv",
+        "example": "Sit down.",
+        "level": "basic"
+    },
+    {
+        "id": "v0718",
+        "word": "download",
+        "translation": "ดาวน์โหลด",
+        "pos": "verb",
+        "example": "Download the app.",
+        "level": "basic"
+    },
+    {
+        "id": "v0719",
+        "word": "downtown",
+        "translation": "ใจกลางเมือง",
+        "pos": "noun",
+        "example": "Go downtown.",
+        "level": "basic"
+    },
+    {
+        "id": "v0720",
+        "word": "dozen",
+        "translation": "โหล",
+        "pos": "noun",
+        "example": "A dozen eggs.",
+        "level": "basic"
+    },
+    {
+        "id": "v0721",
+        "word": "draft",
+        "translation": "ร่าง",
+        "pos": "noun",
+        "example": "First draft.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0722",
+        "word": "drag",
+        "translation": "ลาก",
+        "pos": "verb",
+        "example": "Drag and drop.",
+        "level": "basic"
+    },
+    {
+        "id": "v0723",
+        "word": "drama",
+        "translation": "ละคร",
+        "pos": "noun",
+        "example": "TV drama.",
+        "level": "basic"
+    },
+    {
+        "id": "v0724",
+        "word": "dramatic",
+        "translation": "ดราม่า",
+        "pos": "adj",
+        "example": "Dramatic change.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0725",
+        "word": "draw",
+        "translation": "วาด",
+        "pos": "verb",
+        "example": "Draw a picture.",
+        "level": "basic"
+    },
+    {
+        "id": "v0726",
+        "word": "drawing",
+        "translation": "ภาพวาด",
+        "pos": "noun",
+        "example": "Beautiful drawing.",
+        "level": "basic"
+    },
+    {
+        "id": "v0727",
+        "word": "dream",
+        "translation": "ฝัน",
+        "pos": "noun",
+        "example": "Follow your dream.",
+        "level": "basic"
+    },
+    {
+        "id": "v0728",
+        "word": "dress",
+        "translation": "ชุด",
+        "pos": "noun",
+        "example": "Pretty dress.",
+        "level": "basic"
+    },
+    {
+        "id": "v0729",
+        "word": "drink",
+        "translation": "ดื่ม",
+        "pos": "verb",
+        "example": "Drink water.",
+        "level": "basic"
+    },
+    {
+        "id": "v0730",
+        "word": "drive",
+        "translation": "ขับ",
+        "pos": "verb",
+        "example": "Drive a car.",
+        "level": "basic"
+    },
+    {
+        "id": "v0731",
+        "word": "driver",
+        "translation": "คนขับ",
+        "pos": "noun",
+        "example": "Taxi driver.",
+        "level": "basic"
+    },
+    {
+        "id": "v0732",
+        "word": "drop",
+        "translation": "หยด",
+        "pos": "verb",
+        "example": "Drop the ball.",
+        "level": "basic"
+    },
+    {
+        "id": "v0733",
+        "word": "drug",
+        "translation": "ยา",
+        "pos": "noun",
+        "example": "Drug store.",
+        "level": "basic"
+    },
+    {
+        "id": "v0734",
+        "word": "dry",
+        "translation": "แห้ง",
+        "pos": "adj",
+        "example": "Dry weather.",
+        "level": "basic"
+    },
+    {
+        "id": "v0735",
+        "word": "due",
+        "translation": "ถึงกำหนด",
+        "pos": "adj",
+        "example": "Due date.",
+        "level": "basic"
+    },
+    {
+        "id": "v0736",
+        "word": "during",
+        "translation": "ระหว่าง",
+        "pos": "prep",
+        "example": "During the meeting.",
+        "level": "basic"
+    },
+    {
+        "id": "v0737",
+        "word": "dust",
+        "translation": "ฝุ่น",
+        "pos": "noun",
+        "example": "Clean the dust.",
+        "level": "basic"
+    },
+    {
+        "id": "v0738",
+        "word": "duty",
+        "translation": "หน้าที่",
+        "pos": "noun",
+        "example": "On duty.",
+        "level": "basic"
+    },
+    {
+        "id": "v0739",
+        "word": "dying",
+        "translation": "กำลังจะตาย",
+        "pos": "adj",
+        "example": "Dying wish.",
+        "level": "basic"
+    },
+    {
+        "id": "v0740",
+        "word": "dynamic",
+        "translation": "พลวัต",
+        "pos": "adj",
+        "example": "Dynamic environment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0741",
+        "word": "each",
+        "translation": "แต่ละ",
+        "pos": "det",
+        "example": "Each one.",
+        "level": "basic"
+    },
+    {
+        "id": "v0742",
+        "word": "eager",
+        "translation": "กระตือรือร้น",
+        "pos": "adj",
+        "example": "Eager to learn.",
+        "level": "basic"
+    },
+    {
+        "id": "v0743",
+        "word": "ear",
+        "translation": "หู",
+        "pos": "noun",
+        "example": "Listen with your ears.",
+        "level": "basic"
+    },
+    {
+        "id": "v0744",
+        "word": "early",
+        "translation": "เช้า",
+        "pos": "adj",
+        "example": "Early morning.",
+        "level": "basic"
+    },
+    {
+        "id": "v0745",
+        "word": "earn",
+        "translation": "หาได้",
+        "pos": "verb",
+        "example": "Earn money.",
+        "level": "basic"
+    },
+    {
+        "id": "v0746",
+        "word": "earth",
+        "translation": "โลก",
+        "pos": "noun",
+        "example": "Planet Earth.",
+        "level": "basic"
+    },
+    {
+        "id": "v0747",
+        "word": "ease",
+        "translation": "ความง่าย",
+        "pos": "noun",
+        "example": "With ease.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0748",
+        "word": "easily",
+        "translation": "อย่างง่ายดาย",
+        "pos": "adv",
+        "example": "Done easily.",
+        "level": "basic"
+    },
+    {
+        "id": "v0749",
+        "word": "east",
+        "translation": "ตะวันออก",
+        "pos": "noun",
+        "example": "Go east.",
+        "level": "basic"
+    },
+    {
+        "id": "v0750",
+        "word": "eastern",
+        "translation": "ตะวันออก",
+        "pos": "adj",
+        "example": "Eastern culture.",
+        "level": "basic"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v5501",
+        "word": "join",
+        "translation": "เข้าร่วม",
+        "pos": "verb",
+        "example": "Join us.",
+        "level": "basic"
+    },
+    {
+        "id": "v5502",
+        "word": "joint",
+        "translation": "ร่วม",
+        "pos": "adj",
+        "example": "Joint venture.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5503",
+        "word": "joke",
+        "translation": "ตลก",
+        "pos": "noun",
+        "example": "Tell a joke.",
+        "level": "basic"
+    },
+    {
+        "id": "v5504",
+        "word": "journal",
+        "translation": "วารสาร",
+        "pos": "noun",
+        "example": "Academic journal.",
+        "level": "basic"
+    },
+    {
+        "id": "v5505",
+        "word": "journalism",
+        "translation": "วารสารศาสตร์",
+        "pos": "noun",
+        "example": "Study journalism.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5506",
+        "word": "journalist",
+        "translation": "นักข่าว",
+        "pos": "noun",
+        "example": "Famous journalist.",
+        "level": "basic"
+    },
+    {
+        "id": "v5507",
+        "word": "journey",
+        "translation": "การเดินทาง",
+        "pos": "noun",
+        "example": "Long journey.",
+        "level": "basic"
+    },
+    {
+        "id": "v5508",
+        "word": "joy",
+        "translation": "ความสุข",
+        "pos": "noun",
+        "example": "Pure joy.",
+        "level": "basic"
+    },
+    {
+        "id": "v5509",
+        "word": "joyful",
+        "translation": "ร่าเริง",
+        "pos": "adj",
+        "example": "Joyful occasion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5510",
+        "word": "judge",
+        "translation": "ผู้พิพากษา",
+        "pos": "noun",
+        "example": "Fair judge.",
+        "level": "basic"
+    },
+    {
+        "id": "v5511",
+        "word": "judgment",
+        "translation": "การตัดสิน",
+        "pos": "noun",
+        "example": "Good judgment.",
+        "level": "basic"
+    },
+    {
+        "id": "v5512",
+        "word": "juice",
+        "translation": "น้ำผลไม้",
+        "pos": "noun",
+        "example": "Orange juice.",
+        "level": "basic"
+    },
+    {
+        "id": "v5513",
+        "word": "juicy",
+        "translation": "ฉ่ำ",
+        "pos": "adj",
+        "example": "Juicy fruit.",
+        "level": "basic"
+    },
+    {
+        "id": "v5514",
+        "word": "july",
+        "translation": "กรกฎาคม",
+        "pos": "noun",
+        "example": "In July.",
+        "level": "basic"
+    },
+    {
+        "id": "v5515",
+        "word": "jump",
+        "translation": "กระโดด",
+        "pos": "verb",
+        "example": "Jump high.",
+        "level": "basic"
+    },
+    {
+        "id": "v5516",
+        "word": "june",
+        "translation": "มิถุนายน",
+        "pos": "noun",
+        "example": "In June.",
+        "level": "basic"
+    },
+    {
+        "id": "v5517",
+        "word": "jungle",
+        "translation": "ป่า",
+        "pos": "noun",
+        "example": "Deep jungle.",
+        "level": "basic"
+    },
+    {
+        "id": "v5518",
+        "word": "junior",
+        "translation": "รุ่นน้อง",
+        "pos": "adj",
+        "example": "Junior staff.",
+        "level": "basic"
+    },
+    {
+        "id": "v5519",
+        "word": "jury",
+        "translation": "คณะลูกขุน",
+        "pos": "noun",
+        "example": "Jury trial.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5520",
+        "word": "just",
+        "translation": "เพิ่ง",
+        "pos": "adv",
+        "example": "Just now.",
+        "level": "basic"
+    },
+    {
+        "id": "v5521",
+        "word": "justice",
+        "translation": "ความยุติธรรม",
+        "pos": "noun",
+        "example": "Social justice.",
+        "level": "basic"
+    },
+    {
+        "id": "v5522",
+        "word": "justification",
+        "translation": "เหตุผล",
+        "pos": "noun",
+        "example": "No justification.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5523",
+        "word": "justify",
+        "translation": "ให้เหตุผล",
+        "pos": "verb",
+        "example": "Justify decision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5524",
+        "word": "keen",
+        "translation": "กระตือรือร้น",
+        "pos": "adj",
+        "example": "Keen interest.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5525",
+        "word": "keep",
+        "translation": "เก็บ",
+        "pos": "verb",
+        "example": "Keep it.",
+        "level": "basic"
+    },
+    {
+        "id": "v5526",
+        "word": "keeper",
+        "translation": "ผู้เก็บ",
+        "pos": "noun",
+        "example": "Goal keeper.",
+        "level": "basic"
+    },
+    {
+        "id": "v5527",
+        "word": "key",
+        "translation": "กุญแจ",
+        "pos": "noun",
+        "example": "Door key.",
+        "level": "basic"
+    },
+    {
+        "id": "v5528",
+        "word": "keyboard",
+        "translation": "คีย์บอร์ด",
+        "pos": "noun",
+        "example": "Computer keyboard.",
+        "level": "basic"
+    },
+    {
+        "id": "v5529",
+        "word": "kick",
+        "translation": "เตะ",
+        "pos": "verb",
+        "example": "Kick the ball.",
+        "level": "basic"
+    },
+    {
+        "id": "v5530",
+        "word": "kid",
+        "translation": "เด็ก",
+        "pos": "noun",
+        "example": "Just kidding.",
+        "level": "basic"
+    },
+    {
+        "id": "v5531",
+        "word": "kidney",
+        "translation": "ไต",
+        "pos": "noun",
+        "example": "Kidney disease.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5532",
+        "word": "kill",
+        "translation": "ฆ่า",
+        "pos": "verb",
+        "example": "Kill time.",
+        "level": "basic"
+    },
+    {
+        "id": "v5533",
+        "word": "killer",
+        "translation": "ฆาตกร",
+        "pos": "noun",
+        "example": "Serial killer.",
+        "level": "basic"
+    },
+    {
+        "id": "v5534",
+        "word": "killing",
+        "translation": "การฆ่า",
+        "pos": "noun",
+        "example": "Mass killing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5535",
+        "word": "kilometer",
+        "translation": "กิโลเมตร",
+        "pos": "noun",
+        "example": "Ten kilometers.",
+        "level": "basic"
+    },
+    {
+        "id": "v5536",
+        "word": "kind",
+        "translation": "ใจดี",
+        "pos": "adj",
+        "example": "Very kind.",
+        "level": "basic"
+    },
+    {
+        "id": "v5537",
+        "word": "kindly",
+        "translation": "กรุณา",
+        "pos": "adv",
+        "example": "Kindly help.",
+        "level": "basic"
+    },
+    {
+        "id": "v5538",
+        "word": "kindness",
+        "translation": "ความใจดี",
+        "pos": "noun",
+        "example": "Show kindness.",
+        "level": "basic"
+    },
+    {
+        "id": "v5539",
+        "word": "king",
+        "translation": "กษัตริย์",
+        "pos": "noun",
+        "example": "The King.",
+        "level": "basic"
+    },
+    {
+        "id": "v5540",
+        "word": "kingdom",
+        "translation": "อาณาจักร",
+        "pos": "noun",
+        "example": "United Kingdom.",
+        "level": "basic"
+    },
+    {
+        "id": "v5541",
+        "word": "kiss",
+        "translation": "จูบ",
+        "pos": "verb",
+        "example": "Kiss goodbye.",
+        "level": "basic"
+    },
+    {
+        "id": "v5542",
+        "word": "kit",
+        "translation": "ชุดอุปกรณ์",
+        "pos": "noun",
+        "example": "First aid kit.",
+        "level": "basic"
+    },
+    {
+        "id": "v5543",
+        "word": "kitchen",
+        "translation": "ครัว",
+        "pos": "noun",
+        "example": "Big kitchen.",
+        "level": "basic"
+    },
+    {
+        "id": "v5544",
+        "word": "kite",
+        "translation": "ว่าว",
+        "pos": "noun",
+        "example": "Fly a kite.",
+        "level": "basic"
+    },
+    {
+        "id": "v5545",
+        "word": "knee",
+        "translation": "เข่า",
+        "pos": "noun",
+        "example": "Hurt my knee.",
+        "level": "basic"
+    },
+    {
+        "id": "v5546",
+        "word": "knife",
+        "translation": "มีด",
+        "pos": "noun",
+        "example": "Sharp knife.",
+        "level": "basic"
+    },
+    {
+        "id": "v5547",
+        "word": "knock",
+        "translation": "เคาะ",
+        "pos": "verb",
+        "example": "Knock on door.",
+        "level": "basic"
+    },
+    {
+        "id": "v5548",
+        "word": "knot",
+        "translation": "ปม",
+        "pos": "noun",
+        "example": "Tie a knot.",
+        "level": "basic"
+    },
+    {
+        "id": "v5549",
+        "word": "know",
+        "translation": "รู้",
+        "pos": "verb",
+        "example": "I know.",
+        "level": "basic"
+    },
+    {
+        "id": "v5550",
+        "word": "knowing",
+        "translation": "รู้",
+        "pos": "adj",
+        "example": "Without knowing.",
+        "level": "basic"
+    },
+    {
+        "id": "v5551",
+        "word": "knowledge",
+        "translation": "ความรู้",
+        "pos": "noun",
+        "example": "General knowledge.",
+        "level": "basic"
+    },
+    {
+        "id": "v5552",
+        "word": "known",
+        "translation": "รู้จัก",
+        "pos": "adj",
+        "example": "Well known.",
+        "level": "basic"
+    },
+    {
+        "id": "v5553",
+        "word": "lab",
+        "translation": "ห้องปฏิบัติการ",
+        "pos": "noun",
+        "example": "Science lab.",
+        "level": "basic"
+    },
+    {
+        "id": "v5554",
+        "word": "label",
+        "translation": "ป้ายกำกับ",
+        "pos": "noun",
+        "example": "Price label.",
+        "level": "basic"
+    },
+    {
+        "id": "v5555",
+        "word": "labor",
+        "translation": "แรงงาน",
+        "pos": "noun",
+        "example": "Manual labor.",
+        "level": "basic"
+    },
+    {
+        "id": "v5556",
+        "word": "laboratory",
+        "translation": "ห้องปฏิบัติการ",
+        "pos": "noun",
+        "example": "Research laboratory.",
+        "level": "basic"
+    },
+    {
+        "id": "v5557",
+        "word": "lack",
+        "translation": "ขาด",
+        "pos": "verb",
+        "example": "Lack of.",
+        "level": "basic"
+    },
+    {
+        "id": "v5558",
+        "word": "lacking",
+        "translation": "ที่ขาด",
+        "pos": "adj",
+        "example": "Lacking resources.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5559",
+        "word": "ladder",
+        "translation": "บันได",
+        "pos": "noun",
+        "example": "Climb the ladder.",
+        "level": "basic"
+    },
+    {
+        "id": "v5560",
+        "word": "lady",
+        "translation": "สุภาพสตรี",
+        "pos": "noun",
+        "example": "Young lady.",
+        "level": "basic"
+    },
+    {
+        "id": "v5561",
+        "word": "lake",
+        "translation": "ทะเลสาบ",
+        "pos": "noun",
+        "example": "Beautiful lake.",
+        "level": "basic"
+    },
+    {
+        "id": "v5562",
+        "word": "lamb",
+        "translation": "ลูกแกะ",
+        "pos": "noun",
+        "example": "Lamb chop.",
+        "level": "basic"
+    },
+    {
+        "id": "v5563",
+        "word": "lamp",
+        "translation": "โคมไฟ",
+        "pos": "noun",
+        "example": "Table lamp.",
+        "level": "basic"
+    },
+    {
+        "id": "v5564",
+        "word": "land",
+        "translation": "ที่ดิน",
+        "pos": "noun",
+        "example": "Own land.",
+        "level": "basic"
+    },
+    {
+        "id": "v5565",
+        "word": "landing",
+        "translation": "การลงจอด",
+        "pos": "noun",
+        "example": "Safe landing.",
+        "level": "basic"
+    },
+    {
+        "id": "v5566",
+        "word": "landlord",
+        "translation": "เจ้าของบ้าน",
+        "pos": "noun",
+        "example": "Good landlord.",
+        "level": "basic"
+    },
+    {
+        "id": "v5567",
+        "word": "landmark",
+        "translation": "จุดสังเกต",
+        "pos": "noun",
+        "example": "Famous landmark.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5568",
+        "word": "landscape",
+        "translation": "ภูมิทัศน์",
+        "pos": "noun",
+        "example": "Beautiful landscape.",
+        "level": "basic"
+    },
+    {
+        "id": "v5569",
+        "word": "lane",
+        "translation": "เลน",
+        "pos": "noun",
+        "example": "Fast lane.",
+        "level": "basic"
+    },
+    {
+        "id": "v5570",
+        "word": "language",
+        "translation": "ภาษา",
+        "pos": "noun",
+        "example": "Foreign language.",
+        "level": "basic"
+    },
+    {
+        "id": "v5571",
+        "word": "lap",
+        "translation": "รอบ",
+        "pos": "noun",
+        "example": "Final lap.",
+        "level": "basic"
+    },
+    {
+        "id": "v5572",
+        "word": "laptop",
+        "translation": "แล็ปท็อป",
+        "pos": "noun",
+        "example": "New laptop.",
+        "level": "basic"
+    },
+    {
+        "id": "v5573",
+        "word": "large",
+        "translation": "ใหญ่",
+        "pos": "adj",
+        "example": "Very large.",
+        "level": "basic"
+    },
+    {
+        "id": "v5574",
+        "word": "largely",
+        "translation": "ส่วนใหญ่",
+        "pos": "adv",
+        "example": "Largely due to.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5575",
+        "word": "laser",
+        "translation": "เลเซอร์",
+        "pos": "noun",
+        "example": "Laser beam.",
+        "level": "basic"
+    },
+    {
+        "id": "v5576",
+        "word": "last",
+        "translation": "สุดท้าย",
+        "pos": "adj",
+        "example": "Last chance.",
+        "level": "basic"
+    },
+    {
+        "id": "v5577",
+        "word": "lasting",
+        "translation": "ยาวนาน",
+        "pos": "adj",
+        "example": "Long lasting.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5578",
+        "word": "late",
+        "translation": "สาย",
+        "pos": "adj",
+        "example": "Too late.",
+        "level": "basic"
+    },
+    {
+        "id": "v5579",
+        "word": "lately",
+        "translation": "เมื่อเร็วๆ นี้",
+        "pos": "adv",
+        "example": "Lately.",
+        "level": "basic"
+    },
+    {
+        "id": "v5580",
+        "word": "later",
+        "translation": "ภายหลัง",
+        "pos": "adv",
+        "example": "See you later.",
+        "level": "basic"
+    },
+    {
+        "id": "v5581",
+        "word": "latest",
+        "translation": "ล่าสุด",
+        "pos": "adj",
+        "example": "The latest news.",
+        "level": "basic"
+    },
+    {
+        "id": "v5582",
+        "word": "latin",
+        "translation": "ละติน",
+        "pos": "adj",
+        "example": "Latin America.",
+        "level": "basic"
+    },
+    {
+        "id": "v5583",
+        "word": "latter",
+        "translation": "อย่างหลัง",
+        "pos": "adj",
+        "example": "The latter.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5584",
+        "word": "laugh",
+        "translation": "หัวเราะ",
+        "pos": "verb",
+        "example": "Don't laugh.",
+        "level": "basic"
+    },
+    {
+        "id": "v5585",
+        "word": "laughter",
+        "translation": "เสียงหัวเราะ",
+        "pos": "noun",
+        "example": "Full of laughter.",
+        "level": "basic"
+    },
+    {
+        "id": "v5586",
+        "word": "launch",
+        "translation": "เปิดตัว",
+        "pos": "verb",
+        "example": "Launch product.",
+        "level": "basic"
+    },
+    {
+        "id": "v5587",
+        "word": "laundry",
+        "translation": "ซักผ้า",
+        "pos": "noun",
+        "example": "Do laundry.",
+        "level": "basic"
+    },
+    {
+        "id": "v5588",
+        "word": "law",
+        "translation": "กฎหมาย",
+        "pos": "noun",
+        "example": "Break the law.",
+        "level": "basic"
+    },
+    {
+        "id": "v5589",
+        "word": "lawn",
+        "translation": "สนามหญ้า",
+        "pos": "noun",
+        "example": "Mow the lawn.",
+        "level": "basic"
+    },
+    {
+        "id": "v5590",
+        "word": "lawsuit",
+        "translation": "คดี",
+        "pos": "noun",
+        "example": "File a lawsuit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5591",
+        "word": "lawyer",
+        "translation": "ทนายความ",
+        "pos": "noun",
+        "example": "Good lawyer.",
+        "level": "basic"
+    },
+    {
+        "id": "v5592",
+        "word": "lay",
+        "translation": "วาง",
+        "pos": "verb",
+        "example": "Lay down.",
+        "level": "basic"
+    },
+    {
+        "id": "v5593",
+        "word": "layer",
+        "translation": "ชั้น",
+        "pos": "noun",
+        "example": "Ozone layer.",
+        "level": "basic"
+    },
+    {
+        "id": "v5594",
+        "word": "layout",
+        "translation": "เค้าโครง",
+        "pos": "noun",
+        "example": "Page layout.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5595",
+        "word": "lazy",
+        "translation": "ขี้เกียจ",
+        "pos": "adj",
+        "example": "Too lazy.",
+        "level": "basic"
+    },
+    {
+        "id": "v5596",
+        "word": "lead",
+        "translation": "นำ",
+        "pos": "verb",
+        "example": "Lead the way.",
+        "level": "basic"
+    },
+    {
+        "id": "v5597",
+        "word": "leader",
+        "translation": "ผู้นำ",
+        "pos": "noun",
+        "example": "Great leader.",
+        "level": "basic"
+    },
+    {
+        "id": "v5598",
+        "word": "leadership",
+        "translation": "ความเป็นผู้นำ",
+        "pos": "noun",
+        "example": "Strong leadership.",
+        "level": "basic"
+    },
+    {
+        "id": "v5599",
+        "word": "leading",
+        "translation": "ชั้นนำ",
+        "pos": "adj",
+        "example": "Leading company.",
+        "level": "basic"
+    },
+    {
+        "id": "v5600",
+        "word": "leaf",
+        "translation": "ใบไม้",
+        "pos": "noun",
+        "example": "Green leaf.",
+        "level": "basic"
+    }
+]

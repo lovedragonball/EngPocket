@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v7801",
+        "word": "technique",
+        "translation": "เทคนิค",
+        "pos": "noun",
+        "example": "New technique.",
+        "level": "basic"
+    },
+    {
+        "id": "v7802",
+        "word": "technological",
+        "translation": "เทคโนโลยี",
+        "pos": "adj",
+        "example": "Technological advance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7803",
+        "word": "technology",
+        "translation": "เทคโนโลยี",
+        "pos": "noun",
+        "example": "Modern technology.",
+        "level": "basic"
+    },
+    {
+        "id": "v7804",
+        "word": "tedious",
+        "translation": "น่าเบื่อ",
+        "pos": "adj",
+        "example": "Tedious work.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7805",
+        "word": "teen",
+        "translation": "วัยรุ่น",
+        "pos": "noun",
+        "example": "Teen years.",
+        "level": "basic"
+    },
+    {
+        "id": "v7806",
+        "word": "teenager",
+        "translation": "วัยรุ่น",
+        "pos": "noun",
+        "example": "Typical teenager.",
+        "level": "basic"
+    },
+    {
+        "id": "v7807",
+        "word": "teeth",
+        "translation": "ฟัน",
+        "pos": "noun",
+        "example": "Brush teeth.",
+        "level": "basic"
+    },
+    {
+        "id": "v7808",
+        "word": "telecommunication",
+        "translation": "โทรคมนาคม",
+        "pos": "noun",
+        "example": "Telecom industry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7809",
+        "word": "telephone",
+        "translation": "โทรศัพท์",
+        "pos": "noun",
+        "example": "Telephone call.",
+        "level": "basic"
+    },
+    {
+        "id": "v7810",
+        "word": "telescope",
+        "translation": "กล้องโทรทรรศน์",
+        "pos": "noun",
+        "example": "Space telescope.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7811",
+        "word": "television",
+        "translation": "โทรทัศน์",
+        "pos": "noun",
+        "example": "Watch television.",
+        "level": "basic"
+    },
+    {
+        "id": "v7812",
+        "word": "tell",
+        "translation": "บอก",
+        "pos": "verb",
+        "example": "Tell me.",
+        "level": "basic"
+    },
+    {
+        "id": "v7813",
+        "word": "temper",
+        "translation": "อารมณ์",
+        "pos": "noun",
+        "example": "Bad temper.",
+        "level": "basic"
+    },
+    {
+        "id": "v7814",
+        "word": "temperature",
+        "translation": "อุณหภูมิ",
+        "pos": "noun",
+        "example": "High temperature.",
+        "level": "basic"
+    },
+    {
+        "id": "v7815",
+        "word": "temple",
+        "translation": "วัด",
+        "pos": "noun",
+        "example": "Buddhist temple.",
+        "level": "basic"
+    },
+    {
+        "id": "v7816",
+        "word": "temporarily",
+        "translation": "ชั่วคราว",
+        "pos": "adv",
+        "example": "Temporarily closed.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7817",
+        "word": "temporary",
+        "translation": "ชั่วคราว",
+        "pos": "adj",
+        "example": "Temporary job.",
+        "level": "basic"
+    },
+    {
+        "id": "v7818",
+        "word": "tempt",
+        "translation": "ล่อใจ",
+        "pos": "verb",
+        "example": "Tempt fate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7819",
+        "word": "temptation",
+        "translation": "สิ่งล่อใจ",
+        "pos": "noun",
+        "example": "Resist temptation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7820",
+        "word": "ten",
+        "translation": "สิบ",
+        "pos": "num",
+        "example": "Ten minutes.",
+        "level": "basic"
+    },
+    {
+        "id": "v7821",
+        "word": "tenant",
+        "translation": "ผู้เช่า",
+        "pos": "noun",
+        "example": "New tenant.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7822",
+        "word": "tend",
+        "translation": "มักจะ",
+        "pos": "verb",
+        "example": "Tend to.",
+        "level": "basic"
+    },
+    {
+        "id": "v7823",
+        "word": "tendency",
+        "translation": "แนวโน้ม",
+        "pos": "noun",
+        "example": "Growing tendency.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7824",
+        "word": "tender",
+        "translation": "อ่อนโยน",
+        "pos": "adj",
+        "example": "Tender care.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7825",
+        "word": "tennis",
+        "translation": "เทนนิส",
+        "pos": "noun",
+        "example": "Play tennis.",
+        "level": "basic"
+    },
+    {
+        "id": "v7826",
+        "word": "tense",
+        "translation": "เครียด",
+        "pos": "adj",
+        "example": "Feel tense.",
+        "level": "basic"
+    },
+    {
+        "id": "v7827",
+        "word": "tension",
+        "translation": "ความตึงเครียด",
+        "pos": "noun",
+        "example": "High tension.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7828",
+        "word": "tent",
+        "translation": "เต็นท์",
+        "pos": "noun",
+        "example": "Camping tent.",
+        "level": "basic"
+    },
+    {
+        "id": "v7829",
+        "word": "tenth",
+        "translation": "ที่สิบ",
+        "pos": "ord",
+        "example": "Tenth floor.",
+        "level": "basic"
+    },
+    {
+        "id": "v7830",
+        "word": "term",
+        "translation": "คำ",
+        "pos": "noun",
+        "example": "Technical term.",
+        "level": "basic"
+    },
+    {
+        "id": "v7831",
+        "word": "terminal",
+        "translation": "อาคาร",
+        "pos": "noun",
+        "example": "Airport terminal.",
+        "level": "basic"
+    },
+    {
+        "id": "v7832",
+        "word": "terminology",
+        "translation": "ศัพท์เฉพาะ",
+        "pos": "noun",
+        "example": "Medical terminology.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7833",
+        "word": "terms",
+        "translation": "เงื่อนไข",
+        "pos": "noun",
+        "example": "Terms and conditions.",
+        "level": "basic"
+    },
+    {
+        "id": "v7834",
+        "word": "terrace",
+        "translation": "ระเบียง",
+        "pos": "noun",
+        "example": "Rooftop terrace.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7835",
+        "word": "terrible",
+        "translation": "แย่มาก",
+        "pos": "adj",
+        "example": "Terrible mistake.",
+        "level": "basic"
+    },
+    {
+        "id": "v7836",
+        "word": "terribly",
+        "translation": "อย่างมาก",
+        "pos": "adv",
+        "example": "Terribly sorry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7837",
+        "word": "terrific",
+        "translation": "ยอดเยี่ยม",
+        "pos": "adj",
+        "example": "Terrific job.",
+        "level": "basic"
+    },
+    {
+        "id": "v7838",
+        "word": "terrified",
+        "translation": "ตกใจกลัว",
+        "pos": "adj",
+        "example": "Absolutely terrified.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7839",
+        "word": "terrifying",
+        "translation": "น่ากลัว",
+        "pos": "adj",
+        "example": "Terrifying experience.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7840",
+        "word": "territory",
+        "translation": "อาณาเขต",
+        "pos": "noun",
+        "example": "Enemy territory.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7841",
+        "word": "terror",
+        "translation": "ความหวาดกลัว",
+        "pos": "noun",
+        "example": "War on terror.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7842",
+        "word": "terrorism",
+        "translation": "การก่อการร้าย",
+        "pos": "noun",
+        "example": "Fight terrorism.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7843",
+        "word": "terrorist",
+        "translation": "ผู้ก่อการร้าย",
+        "pos": "noun",
+        "example": "Terrorist attack.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7844",
+        "word": "test",
+        "translation": "ทดสอบ",
+        "pos": "verb",
+        "example": "Take a test.",
+        "level": "basic"
+    },
+    {
+        "id": "v7845",
+        "word": "testament",
+        "translation": "พินัยกรรม",
+        "pos": "noun",
+        "example": "New Testament.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7846",
+        "word": "testimony",
+        "translation": "คำให้การ",
+        "pos": "noun",
+        "example": "Eye-witness testimony.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7847",
+        "word": "testing",
+        "translation": "การทดสอบ",
+        "pos": "noun",
+        "example": "Software testing.",
+        "level": "basic"
+    },
+    {
+        "id": "v7848",
+        "word": "text",
+        "translation": "ข้อความ",
+        "pos": "noun",
+        "example": "Send text.",
+        "level": "basic"
+    },
+    {
+        "id": "v7849",
+        "word": "textbook",
+        "translation": "หนังสือเรียน",
+        "pos": "noun",
+        "example": "English textbook.",
+        "level": "basic"
+    },
+    {
+        "id": "v7850",
+        "word": "textile",
+        "translation": "สิ่งทอ",
+        "pos": "noun",
+        "example": "Textile industry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7851",
+        "word": "texture",
+        "translation": "เนื้อสัมผัส",
+        "pos": "noun",
+        "example": "Smooth texture.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7852",
+        "word": "than",
+        "translation": "กว่า",
+        "pos": "prep",
+        "example": "Better than.",
+        "level": "basic"
+    },
+    {
+        "id": "v7853",
+        "word": "thank",
+        "translation": "ขอบคุณ",
+        "pos": "verb",
+        "example": "Thank you.",
+        "level": "basic"
+    },
+    {
+        "id": "v7854",
+        "word": "thankful",
+        "translation": "ขอบคุณ",
+        "pos": "adj",
+        "example": "Very thankful.",
+        "level": "basic"
+    },
+    {
+        "id": "v7855",
+        "word": "thanks",
+        "translation": "ขอบคุณ",
+        "pos": "noun",
+        "example": "Many thanks.",
+        "level": "basic"
+    },
+    {
+        "id": "v7856",
+        "word": "thanksgiving",
+        "translation": "วันขอบคุณพระเจ้า",
+        "pos": "noun",
+        "example": "Thanksgiving Day.",
+        "level": "basic"
+    },
+    {
+        "id": "v7857",
+        "word": "that",
+        "translation": "นั้น",
+        "pos": "det",
+        "example": "That one.",
+        "level": "basic"
+    },
+    {
+        "id": "v7858",
+        "word": "the",
+        "translation": "(คำนำหน้านาม)",
+        "pos": "det",
+        "example": "The book.",
+        "level": "basic"
+    },
+    {
+        "id": "v7859",
+        "word": "theater",
+        "translation": "โรงละคร",
+        "pos": "noun",
+        "example": "Movie theater.",
+        "level": "basic"
+    },
+    {
+        "id": "v7860",
+        "word": "theatrical",
+        "translation": "ทางละคร",
+        "pos": "adj",
+        "example": "Theatrical performance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7861",
+        "word": "theft",
+        "translation": "การโจรกรรม",
+        "pos": "noun",
+        "example": "Identity theft.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7862",
+        "word": "their",
+        "translation": "ของพวกเขา",
+        "pos": "pron",
+        "example": "Their house.",
+        "level": "basic"
+    },
+    {
+        "id": "v7863",
+        "word": "theirs",
+        "translation": "ของพวกเขา",
+        "pos": "pron",
+        "example": "It's theirs.",
+        "level": "basic"
+    },
+    {
+        "id": "v7864",
+        "word": "them",
+        "translation": "พวกเขา",
+        "pos": "pron",
+        "example": "Tell them.",
+        "level": "basic"
+    },
+    {
+        "id": "v7865",
+        "word": "theme",
+        "translation": "ธีม",
+        "pos": "noun",
+        "example": "Main theme.",
+        "level": "basic"
+    },
+    {
+        "id": "v7866",
+        "word": "themselves",
+        "translation": "ตัวเอง",
+        "pos": "pron",
+        "example": "By themselves.",
+        "level": "basic"
+    },
+    {
+        "id": "v7867",
+        "word": "then",
+        "translation": "แล้ว",
+        "pos": "adv",
+        "example": "And then.",
+        "level": "basic"
+    },
+    {
+        "id": "v7868",
+        "word": "theological",
+        "translation": "ทางเทววิทยา",
+        "pos": "adj",
+        "example": "Theological study.",
+        "level": "advanced"
+    },
+    {
+        "id": "v7869",
+        "word": "theology",
+        "translation": "เทววิทยา",
+        "pos": "noun",
+        "example": "Study theology.",
+        "level": "advanced"
+    },
+    {
+        "id": "v7870",
+        "word": "theoretical",
+        "translation": "ทฤษฎี",
+        "pos": "adj",
+        "example": "Theoretical physics.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7871",
+        "word": "theoretically",
+        "translation": "ตามทฤษฎี",
+        "pos": "adv",
+        "example": "Theoretically speaking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7872",
+        "word": "theory",
+        "translation": "ทฤษฎี",
+        "pos": "noun",
+        "example": "In theory.",
+        "level": "basic"
+    },
+    {
+        "id": "v7873",
+        "word": "therapist",
+        "translation": "นักบำบัด",
+        "pos": "noun",
+        "example": "Physical therapist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7874",
+        "word": "therapy",
+        "translation": "การบำบัด",
+        "pos": "noun",
+        "example": "Physical therapy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7875",
+        "word": "there",
+        "translation": "ที่นั่น",
+        "pos": "adv",
+        "example": "Over there.",
+        "level": "basic"
+    },
+    {
+        "id": "v7876",
+        "word": "thereafter",
+        "translation": "หลังจากนั้น",
+        "pos": "adv",
+        "example": "Shortly thereafter.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7877",
+        "word": "thereby",
+        "translation": "ด้วยเหตุนั้น",
+        "pos": "adv",
+        "example": "Thereby reducing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7878",
+        "word": "therefore",
+        "translation": "ดังนั้น",
+        "pos": "adv",
+        "example": "Therefore.",
+        "level": "basic"
+    },
+    {
+        "id": "v7879",
+        "word": "thermal",
+        "translation": "ความร้อน",
+        "pos": "adj",
+        "example": "Thermal energy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7880",
+        "word": "these",
+        "translation": "เหล่านี้",
+        "pos": "det",
+        "example": "These things.",
+        "level": "basic"
+    },
+    {
+        "id": "v7881",
+        "word": "thesis",
+        "translation": "วิทยานิพนธ์",
+        "pos": "noun",
+        "example": "Master's thesis.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7882",
+        "word": "they",
+        "translation": "พวกเขา",
+        "pos": "pron",
+        "example": "They said.",
+        "level": "basic"
+    },
+    {
+        "id": "v7883",
+        "word": "thick",
+        "translation": "หนา",
+        "pos": "adj",
+        "example": "Very thick.",
+        "level": "basic"
+    },
+    {
+        "id": "v7884",
+        "word": "thickness",
+        "translation": "ความหนา",
+        "pos": "noun",
+        "example": "Wall thickness.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7885",
+        "word": "thief",
+        "translation": "ขโมย",
+        "pos": "noun",
+        "example": "Catch thief.",
+        "level": "basic"
+    },
+    {
+        "id": "v7886",
+        "word": "thigh",
+        "translation": "ต้นขา",
+        "pos": "noun",
+        "example": "Thigh muscle.",
+        "level": "basic"
+    },
+    {
+        "id": "v7887",
+        "word": "thin",
+        "translation": "บาง",
+        "pos": "adj",
+        "example": "Very thin.",
+        "level": "basic"
+    },
+    {
+        "id": "v7888",
+        "word": "thing",
+        "translation": "สิ่งของ",
+        "pos": "noun",
+        "example": "Good thing.",
+        "level": "basic"
+    },
+    {
+        "id": "v7889",
+        "word": "think",
+        "translation": "คิด",
+        "pos": "verb",
+        "example": "I think.",
+        "level": "basic"
+    },
+    {
+        "id": "v7890",
+        "word": "thinker",
+        "translation": "นักคิด",
+        "pos": "noun",
+        "example": "Great thinker.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7891",
+        "word": "thinking",
+        "translation": "การคิด",
+        "pos": "noun",
+        "example": "Critical thinking.",
+        "level": "basic"
+    },
+    {
+        "id": "v7892",
+        "word": "third",
+        "translation": "ที่สาม",
+        "pos": "ord",
+        "example": "Third time.",
+        "level": "basic"
+    },
+    {
+        "id": "v7893",
+        "word": "thirst",
+        "translation": "ความกระหาย",
+        "pos": "noun",
+        "example": "Thirst for knowledge.",
+        "level": "basic"
+    },
+    {
+        "id": "v7894",
+        "word": "thirsty",
+        "translation": "กระหาย",
+        "pos": "adj",
+        "example": "Feel thirsty.",
+        "level": "basic"
+    },
+    {
+        "id": "v7895",
+        "word": "thirteen",
+        "translation": "สิบสาม",
+        "pos": "num",
+        "example": "Thirteen years.",
+        "level": "basic"
+    },
+    {
+        "id": "v7896",
+        "word": "thirty",
+        "translation": "สามสิบ",
+        "pos": "num",
+        "example": "Thirty minutes.",
+        "level": "basic"
+    },
+    {
+        "id": "v7897",
+        "word": "this",
+        "translation": "นี้",
+        "pos": "det",
+        "example": "This book.",
+        "level": "basic"
+    },
+    {
+        "id": "v7898",
+        "word": "thorough",
+        "translation": "ละเอียด",
+        "pos": "adj",
+        "example": "Thorough investigation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7899",
+        "word": "thoroughly",
+        "translation": "อย่างละเอียด",
+        "pos": "adv",
+        "example": "Thoroughly checked.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7900",
+        "word": "those",
+        "translation": "เหล่านั้น",
+        "pos": "det",
+        "example": "Those people.",
+        "level": "basic"
+    }
+]

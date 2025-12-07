@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v9301",
+        "word": "butler",
+        "translation": "พ่อบ้าน",
+        "pos": "noun",
+        "example": "Butler service.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9302",
+        "word": "butterfly",
+        "translation": "ผีเสื้อ",
+        "pos": "noun",
+        "example": "Beautiful butterfly.",
+        "level": "basic"
+    },
+    {
+        "id": "v9303",
+        "word": "buyout",
+        "translation": "การซื้อกิจการ",
+        "pos": "noun",
+        "example": "Management buyout.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9304",
+        "word": "buzz",
+        "translation": "เสียงหึ่งๆ",
+        "pos": "noun",
+        "example": "Create buzz.",
+        "level": "basic"
+    },
+    {
+        "id": "v9305",
+        "word": "buzzword",
+        "translation": "คำฮิต",
+        "pos": "noun",
+        "example": "Latest buzzword.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9306",
+        "word": "bypass",
+        "translation": "ทางเลี่ยง",
+        "pos": "noun",
+        "example": "Heart bypass.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9307",
+        "word": "bystander",
+        "translation": "ผู้ยืนดู",
+        "pos": "noun",
+        "example": "Innocent bystander.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9308",
+        "word": "cab",
+        "translation": "รถแท็กซี่",
+        "pos": "noun",
+        "example": "Get a cab.",
+        "level": "basic"
+    },
+    {
+        "id": "v9309",
+        "word": "cabbage",
+        "translation": "กะหล่ำปลี",
+        "pos": "noun",
+        "example": "Fresh cabbage.",
+        "level": "basic"
+    },
+    {
+        "id": "v9310",
+        "word": "cabin",
+        "translation": "กระท่อม",
+        "pos": "noun",
+        "example": "Log cabin.",
+        "level": "basic"
+    },
+    {
+        "id": "v9311",
+        "word": "cabinet",
+        "translation": "ตู้",
+        "pos": "noun",
+        "example": "Kitchen cabinet.",
+        "level": "basic"
+    },
+    {
+        "id": "v9312",
+        "word": "cable",
+        "translation": "สายเคเบิล",
+        "pos": "noun",
+        "example": "USB cable.",
+        "level": "basic"
+    },
+    {
+        "id": "v9313",
+        "word": "cactus",
+        "translation": "กระบองเพชร",
+        "pos": "noun",
+        "example": "Desert cactus.",
+        "level": "basic"
+    },
+    {
+        "id": "v9314",
+        "word": "cadre",
+        "translation": "แกนนำ",
+        "pos": "noun",
+        "example": "Party cadre.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9315",
+        "word": "cafe",
+        "translation": "คาเฟ่",
+        "pos": "noun",
+        "example": "Coffee cafe.",
+        "level": "basic"
+    },
+    {
+        "id": "v9316",
+        "word": "cafeteria",
+        "translation": "โรงอาหาร",
+        "pos": "noun",
+        "example": "School cafeteria.",
+        "level": "basic"
+    },
+    {
+        "id": "v9317",
+        "word": "caffeine",
+        "translation": "คาเฟอีน",
+        "pos": "noun",
+        "example": "High caffeine.",
+        "level": "basic"
+    },
+    {
+        "id": "v9318",
+        "word": "cage",
+        "translation": "กรง",
+        "pos": "noun",
+        "example": "Bird cage.",
+        "level": "basic"
+    },
+    {
+        "id": "v9319",
+        "word": "calcium",
+        "translation": "แคลเซียม",
+        "pos": "noun",
+        "example": "Calcium supplement.",
+        "level": "basic"
+    },
+    {
+        "id": "v9320",
+        "word": "calculate",
+        "translation": "คำนวณ",
+        "pos": "verb",
+        "example": "Calculate cost.",
+        "level": "basic"
+    },
+    {
+        "id": "v9321",
+        "word": "calculated",
+        "translation": "คำนวณแล้ว",
+        "pos": "adj",
+        "example": "Calculated risk.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9322",
+        "word": "calculation",
+        "translation": "การคำนวณ",
+        "pos": "noun",
+        "example": "Quick calculation.",
+        "level": "basic"
+    },
+    {
+        "id": "v9323",
+        "word": "calculator",
+        "translation": "เครื่องคิดเลข",
+        "pos": "noun",
+        "example": "Use calculator.",
+        "level": "basic"
+    },
+    {
+        "id": "v9324",
+        "word": "calendar",
+        "translation": "ปฏิทิน",
+        "pos": "noun",
+        "example": "Check calendar.",
+        "level": "basic"
+    },
+    {
+        "id": "v9325",
+        "word": "calf",
+        "translation": "ลูกวัว",
+        "pos": "noun",
+        "example": "Baby calf.",
+        "level": "basic"
+    },
+    {
+        "id": "v9326",
+        "word": "caliber",
+        "translation": "คาลิเบอร์",
+        "pos": "noun",
+        "example": "High caliber.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9327",
+        "word": "calling",
+        "translation": "อาชีพ",
+        "pos": "noun",
+        "example": "True calling.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9328",
+        "word": "callous",
+        "translation": "ใจดำ",
+        "pos": "adj",
+        "example": "Callous attitude.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9329",
+        "word": "calm",
+        "translation": "สงบ",
+        "pos": "adj",
+        "example": "Stay calm.",
+        "level": "basic"
+    },
+    {
+        "id": "v9330",
+        "word": "calmly",
+        "translation": "อย่างสงบ",
+        "pos": "adv",
+        "example": "Speak calmly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9331",
+        "word": "calorie",
+        "translation": "แคลอรี่",
+        "pos": "noun",
+        "example": "Low calorie.",
+        "level": "basic"
+    },
+    {
+        "id": "v9332",
+        "word": "camel",
+        "translation": "อูฐ",
+        "pos": "noun",
+        "example": "Ride a camel.",
+        "level": "basic"
+    },
+    {
+        "id": "v9333",
+        "word": "cameraman",
+        "translation": "ช่างกล้อง",
+        "pos": "noun",
+        "example": "Professional cameraman.",
+        "level": "basic"
+    },
+    {
+        "id": "v9334",
+        "word": "camp",
+        "translation": "ค่าย",
+        "pos": "noun",
+        "example": "Summer camp.",
+        "level": "basic"
+    },
+    {
+        "id": "v9335",
+        "word": "campaigner",
+        "translation": "ผู้รณรงค์",
+        "pos": "noun",
+        "example": "Election campaigner.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9336",
+        "word": "campaigning",
+        "translation": "การรณรงค์",
+        "pos": "noun",
+        "example": "Political campaigning.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9337",
+        "word": "camper",
+        "translation": "นักตั้งแคมป์",
+        "pos": "noun",
+        "example": "Happy campers.",
+        "level": "basic"
+    },
+    {
+        "id": "v9338",
+        "word": "camping",
+        "translation": "การตั้งแคมป์",
+        "pos": "noun",
+        "example": "Go camping.",
+        "level": "basic"
+    },
+    {
+        "id": "v9339",
+        "word": "campus",
+        "translation": "วิทยาเขต",
+        "pos": "noun",
+        "example": "University campus.",
+        "level": "basic"
+    },
+    {
+        "id": "v9340",
+        "word": "canal",
+        "translation": "คลอง",
+        "pos": "noun",
+        "example": "Panama Canal.",
+        "level": "basic"
+    },
+    {
+        "id": "v9341",
+        "word": "cancel",
+        "translation": "ยกเลิก",
+        "pos": "verb",
+        "example": "Cancel meeting.",
+        "level": "basic"
+    },
+    {
+        "id": "v9342",
+        "word": "cancellation",
+        "translation": "การยกเลิก",
+        "pos": "noun",
+        "example": "Flight cancellation.",
+        "level": "basic"
+    },
+    {
+        "id": "v9343",
+        "word": "cancer",
+        "translation": "มะเร็ง",
+        "pos": "noun",
+        "example": "Breast cancer.",
+        "level": "basic"
+    },
+    {
+        "id": "v9344",
+        "word": "candid",
+        "translation": "ตรงไปตรงมา",
+        "pos": "adj",
+        "example": "Candid opinion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9345",
+        "word": "candidacy",
+        "translation": "การลงสมัคร",
+        "pos": "noun",
+        "example": "Announce candidacy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9346",
+        "word": "candidate",
+        "translation": "ผู้สมัคร",
+        "pos": "noun",
+        "example": "Job candidate.",
+        "level": "basic"
+    },
+    {
+        "id": "v9347",
+        "word": "candle",
+        "translation": "เทียน",
+        "pos": "noun",
+        "example": "Light candle.",
+        "level": "basic"
+    },
+    {
+        "id": "v9348",
+        "word": "candy",
+        "translation": "ขนมหวาน",
+        "pos": "noun",
+        "example": "Sweet candy.",
+        "level": "basic"
+    },
+    {
+        "id": "v9349",
+        "word": "cane",
+        "translation": "ไม้เท้า",
+        "pos": "noun",
+        "example": "Sugar cane.",
+        "level": "basic"
+    },
+    {
+        "id": "v9350",
+        "word": "canoe",
+        "translation": "เรือแคนู",
+        "pos": "noun",
+        "example": "Paddle canoe.",
+        "level": "basic"
+    },
+    {
+        "id": "v9351",
+        "word": "canon",
+        "translation": "หลักการ",
+        "pos": "noun",
+        "example": "Literary canon.",
+        "level": "advanced"
+    },
+    {
+        "id": "v9352",
+        "word": "canopy",
+        "translation": "หลังคา",
+        "pos": "noun",
+        "example": "Tree canopy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9353",
+        "word": "canvas",
+        "translation": "ผ้าใบ",
+        "pos": "noun",
+        "example": "Paint on canvas.",
+        "level": "basic"
+    },
+    {
+        "id": "v9354",
+        "word": "canyon",
+        "translation": "หุบเขา",
+        "pos": "noun",
+        "example": "Grand Canyon.",
+        "level": "basic"
+    },
+    {
+        "id": "v9355",
+        "word": "capability",
+        "translation": "ความสามารถ",
+        "pos": "noun",
+        "example": "Military capability.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9356",
+        "word": "capable",
+        "translation": "สามารถ",
+        "pos": "adj",
+        "example": "Very capable.",
+        "level": "basic"
+    },
+    {
+        "id": "v9357",
+        "word": "capacity",
+        "translation": "ความจุ",
+        "pos": "noun",
+        "example": "Full capacity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9358",
+        "word": "cape",
+        "translation": "แหลม",
+        "pos": "noun",
+        "example": "Cape Town.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9359",
+        "word": "capita",
+        "translation": "บุคคล",
+        "pos": "noun",
+        "example": "Per capita.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9360",
+        "word": "capital",
+        "translation": "เมืองหลวง",
+        "pos": "noun",
+        "example": "Capital city.",
+        "level": "basic"
+    },
+    {
+        "id": "v9361",
+        "word": "capitalism",
+        "translation": "ทุนนิยม",
+        "pos": "noun",
+        "example": "Free capitalism.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9362",
+        "word": "capitalist",
+        "translation": "นายทุน",
+        "pos": "noun",
+        "example": "Wealthy capitalist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9363",
+        "word": "capitalize",
+        "translation": "ใช้ประโยชน์",
+        "pos": "verb",
+        "example": "Capitalize on.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9364",
+        "word": "capsule",
+        "translation": "แคปซูล",
+        "pos": "noun",
+        "example": "Time capsule.",
+        "level": "basic"
+    },
+    {
+        "id": "v9365",
+        "word": "captain",
+        "translation": "กัปตัน",
+        "pos": "noun",
+        "example": "Team captain.",
+        "level": "basic"
+    },
+    {
+        "id": "v9366",
+        "word": "caption",
+        "translation": "คำบรรยาย",
+        "pos": "noun",
+        "example": "Photo caption.",
+        "level": "basic"
+    },
+    {
+        "id": "v9367",
+        "word": "captive",
+        "translation": "เชลย",
+        "pos": "noun",
+        "example": "Hold captive.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9368",
+        "word": "captivity",
+        "translation": "การถูกจองจำ",
+        "pos": "noun",
+        "example": "In captivity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9369",
+        "word": "capture",
+        "translation": "จับ",
+        "pos": "verb",
+        "example": "Capture moment.",
+        "level": "basic"
+    },
+    {
+        "id": "v9370",
+        "word": "caravan",
+        "translation": "คาราวาน",
+        "pos": "noun",
+        "example": "Desert caravan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9371",
+        "word": "carbohydrate",
+        "translation": "คาร์โบไฮเดรต",
+        "pos": "noun",
+        "example": "Complex carbohydrate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9372",
+        "word": "carbon",
+        "translation": "คาร์บอน",
+        "pos": "noun",
+        "example": "Carbon dioxide.",
+        "level": "basic"
+    },
+    {
+        "id": "v9373",
+        "word": "cardboard",
+        "translation": "กระดาษแข็ง",
+        "pos": "noun",
+        "example": "Cardboard box.",
+        "level": "basic"
+    },
+    {
+        "id": "v9374",
+        "word": "cardiac",
+        "translation": "หัวใจ",
+        "pos": "adj",
+        "example": "Cardiac arrest.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9375",
+        "word": "cardinal",
+        "translation": "สำคัญยิ่ง",
+        "pos": "adj",
+        "example": "Cardinal rule.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9376",
+        "word": "cardiologist",
+        "translation": "แพทย์หัวใจ",
+        "pos": "noun",
+        "example": "See cardiologist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9377",
+        "word": "cardiovascular",
+        "translation": "หลอดเลือดหัวใจ",
+        "pos": "adj",
+        "example": "Cardiovascular disease.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9378",
+        "word": "caregiver",
+        "translation": "ผู้ดูแล",
+        "pos": "noun",
+        "example": "Primary caregiver.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9379",
+        "word": "careless",
+        "translation": "ประมาท",
+        "pos": "adj",
+        "example": "Careless mistake.",
+        "level": "basic"
+    },
+    {
+        "id": "v9380",
+        "word": "carelessly",
+        "translation": "อย่างประมาท",
+        "pos": "adv",
+        "example": "Act carelessly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9381",
+        "word": "cargo",
+        "translation": "สินค้า",
+        "pos": "noun",
+        "example": "Cargo ship.",
+        "level": "basic"
+    },
+    {
+        "id": "v9382",
+        "word": "caribbean",
+        "translation": "แคริบเบียน",
+        "pos": "adj",
+        "example": "Caribbean island.",
+        "level": "basic"
+    },
+    {
+        "id": "v9383",
+        "word": "caring",
+        "translation": "ห่วงใย",
+        "pos": "adj",
+        "example": "Caring person.",
+        "level": "basic"
+    },
+    {
+        "id": "v9384",
+        "word": "carnival",
+        "translation": "คาร์นิวัล",
+        "pos": "noun",
+        "example": "Street carnival.",
+        "level": "basic"
+    },
+    {
+        "id": "v9385",
+        "word": "carol",
+        "translation": "บทเพลง",
+        "pos": "noun",
+        "example": "Christmas carol.",
+        "level": "basic"
+    },
+    {
+        "id": "v9386",
+        "word": "carp",
+        "translation": "ปลาคาร์ป",
+        "pos": "noun",
+        "example": "Koi carp.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9387",
+        "word": "carpenter",
+        "translation": "ช่างไม้",
+        "pos": "noun",
+        "example": "Skilled carpenter.",
+        "level": "basic"
+    },
+    {
+        "id": "v9388",
+        "word": "carpentry",
+        "translation": "งานช่างไม้",
+        "pos": "noun",
+        "example": "Learn carpentry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9389",
+        "word": "carpet",
+        "translation": "พรม",
+        "pos": "noun",
+        "example": "Red carpet.",
+        "level": "basic"
+    },
+    {
+        "id": "v9390",
+        "word": "carriage",
+        "translation": "รถม้า",
+        "pos": "noun",
+        "example": "Horse carriage.",
+        "level": "basic"
+    },
+    {
+        "id": "v9391",
+        "word": "carrier",
+        "translation": "ผู้ให้บริการ",
+        "pos": "noun",
+        "example": "Mobile carrier.",
+        "level": "basic"
+    },
+    {
+        "id": "v9392",
+        "word": "carrot",
+        "translation": "แครอท",
+        "pos": "noun",
+        "example": "Fresh carrot.",
+        "level": "basic"
+    },
+    {
+        "id": "v9393",
+        "word": "cart",
+        "translation": "รถเข็น",
+        "pos": "noun",
+        "example": "Shopping cart.",
+        "level": "basic"
+    },
+    {
+        "id": "v9394",
+        "word": "cartel",
+        "translation": "กลุ่มค้า",
+        "pos": "noun",
+        "example": "Drug cartel.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9395",
+        "word": "cartoon",
+        "translation": "การ์ตูน",
+        "pos": "noun",
+        "example": "Watch cartoon.",
+        "level": "basic"
+    },
+    {
+        "id": "v9396",
+        "word": "cartoonist",
+        "translation": "นักวาดการ์ตูน",
+        "pos": "noun",
+        "example": "Famous cartoonist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9397",
+        "word": "carve",
+        "translation": "แกะสลัก",
+        "pos": "verb",
+        "example": "Carve wood.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9398",
+        "word": "carving",
+        "translation": "การแกะสลัก",
+        "pos": "noun",
+        "example": "Wood carving.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9399",
+        "word": "cascade",
+        "translation": "น้ำตก",
+        "pos": "noun",
+        "example": "Water cascade.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v9400",
+        "word": "cashier",
+        "translation": "แคชเชียร์",
+        "pos": "noun",
+        "example": "Store cashier.",
+        "level": "basic"
+    }
+]

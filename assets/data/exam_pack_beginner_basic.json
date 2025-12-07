@@ -1,0 +1,437 @@
+{
+    "packs": [
+        {
+            "id": "beginner_basic",
+            "name": "Basic English Test",
+            "description": "แบบทดสอบภาษาอังกฤษพื้นฐาน - Pronouns, To Be, Vocabulary, Simple Present",
+            "examType": "Beginner",
+            "numQuestions": 30,
+            "timeLimit": 45,
+            "difficulty": "easy",
+            "version": 1,
+            "remoteUrl": null
+        }
+    ],
+    "questions": [
+        {
+            "id": "basic_001",
+            "stem": "_____ am a student.",
+            "choices": [
+                "I",
+                "You",
+                "He",
+                "They"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ 'I' เพราะ 'am' ใช้คู่กับ 'I' เท่านั้น",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_002",
+            "stem": "She _____ a teacher.",
+            "choices": [
+                "am",
+                "is",
+                "are",
+                "be"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'is' กับประธานเอกพจน์ (She, He, It)",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_003",
+            "stem": "They _____ my friends.",
+            "choices": [
+                "am",
+                "is",
+                "are",
+                "was"
+            ],
+            "correctIndex": 2,
+            "explanation": "ใช้ 'are' กับประธานพหูพจน์ (They, We, You)",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_004",
+            "stem": "We _____ happy today.",
+            "choices": [
+                "am",
+                "is",
+                "are",
+                "be"
+            ],
+            "correctIndex": 2,
+            "explanation": "ใช้ 'are' กับ 'We'",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_005",
+            "stem": "It _____ a cat.",
+            "choices": [
+                "am",
+                "is",
+                "are",
+                "be"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'is' กับ 'It'",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_006",
+            "stem": "What color is the sky? - It is _____.",
+            "choices": [
+                "red",
+                "blue",
+                "green",
+                "yellow"
+            ],
+            "correctIndex": 1,
+            "explanation": "ท้องฟ้า (sky) มีสีฟ้า (blue)",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_007",
+            "stem": "What color is a banana?",
+            "choices": [
+                "red",
+                "blue",
+                "green",
+                "yellow"
+            ],
+            "correctIndex": 3,
+            "explanation": "กล้วย (banana) มีสีเหลือง (yellow)",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_008",
+            "stem": "How many days are in a week?",
+            "choices": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "correctIndex": 2,
+            "explanation": "หนึ่งสัปดาห์มี 7 วัน",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_009",
+            "stem": "The first day of the week is _____.",
+            "choices": [
+                "Monday",
+                "Sunday",
+                "Saturday",
+                "Friday"
+            ],
+            "correctIndex": 1,
+            "explanation": "วันแรกของสัปดาห์คือวันอาทิตย์ (Sunday)",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_010",
+            "stem": "How many months are in a year?",
+            "choices": [
+                "10",
+                "11",
+                "12",
+                "13"
+            ],
+            "correctIndex": 2,
+            "explanation": "หนึ่งปีมี 12 เดือน",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_011",
+            "stem": "My mother's mother is my _____.",
+            "choices": [
+                "sister",
+                "aunt",
+                "grandmother",
+                "cousin"
+            ],
+            "correctIndex": 2,
+            "explanation": "แม่ของแม่คือ ยาย/คุณย่า (grandmother)",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_012",
+            "stem": "My father's brother is my _____.",
+            "choices": [
+                "uncle",
+                "cousin",
+                "brother",
+                "grandfather"
+            ],
+            "correctIndex": 0,
+            "explanation": "พี่ชาย/น้องชายของพ่อคือ ลุง/อา (uncle)",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_013",
+            "stem": "1 + 1 = _____",
+            "choices": [
+                "one",
+                "two",
+                "three",
+                "four"
+            ],
+            "correctIndex": 1,
+            "explanation": "1 + 1 = 2 (two)",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_014",
+            "stem": "10 - 5 = _____",
+            "choices": [
+                "three",
+                "four",
+                "five",
+                "six"
+            ],
+            "correctIndex": 2,
+            "explanation": "10 - 5 = 5 (five)",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_015",
+            "stem": "The number after 'nine' is _____.",
+            "choices": [
+                "eight",
+                "ten",
+                "eleven",
+                "seven"
+            ],
+            "correctIndex": 1,
+            "explanation": "ตัวเลขหลังจาก 9 คือ 10 (ten)",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_016",
+            "stem": "He _____ to school every day.",
+            "choices": [
+                "go",
+                "goes",
+                "going",
+                "went"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'goes' กับประธานเอกพจน์ (He, She, It) ใน Simple Present",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_017",
+            "stem": "They _____ football on weekends.",
+            "choices": [
+                "play",
+                "plays",
+                "playing",
+                "played"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ 'play' กับประธานพหูพจน์ (They) ใน Simple Present",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_018",
+            "stem": "She _____ English very well.",
+            "choices": [
+                "speak",
+                "speaks",
+                "speaking",
+                "spoke"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'speaks' กับ She ใน Simple Present (เติม -s)",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_019",
+            "stem": "I _____ breakfast at 7 AM.",
+            "choices": [
+                "eat",
+                "eats",
+                "eating",
+                "ate"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ 'eat' กับ 'I' ใน Simple Present ไม่ต้องเติม -s",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_020",
+            "stem": "The cat _____ milk.",
+            "choices": [
+                "drink",
+                "drinks",
+                "drinking",
+                "drank"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'drinks' กับประธานเอกพจน์ (The cat) ใน Simple Present",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_021",
+            "stem": "_____ is your name?",
+            "choices": [
+                "What",
+                "Where",
+                "When",
+                "Who"
+            ],
+            "correctIndex": 0,
+            "explanation": "ใช้ 'What' เพื่อถามชื่อ",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_022",
+            "stem": "_____ do you live?",
+            "choices": [
+                "What",
+                "Where",
+                "When",
+                "Who"
+            ],
+            "correctIndex": 1,
+            "explanation": "ใช้ 'Where' เพื่อถามสถานที่",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_023",
+            "stem": "_____ is your birthday?",
+            "choices": [
+                "What",
+                "Where",
+                "When",
+                "Who"
+            ],
+            "correctIndex": 2,
+            "explanation": "ใช้ 'When' เพื่อถามเวลา/วันที่",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_024",
+            "stem": "_____ is that man? - He is my father.",
+            "choices": [
+                "What",
+                "Where",
+                "When",
+                "Who"
+            ],
+            "correctIndex": 3,
+            "explanation": "ใช้ 'Who' เพื่อถามบุคคล",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_025",
+            "stem": "_____ are you? - I am fine.",
+            "choices": [
+                "What",
+                "Where",
+                "How",
+                "Who"
+            ],
+            "correctIndex": 2,
+            "explanation": "ใช้ 'How' เพื่อถามสภาพ/ความรู้สึก",
+            "skillType": "grammar",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_026",
+            "stem": "A place where you buy medicine is a _____.",
+            "choices": [
+                "hospital",
+                "pharmacy",
+                "school",
+                "bank"
+            ],
+            "correctIndex": 1,
+            "explanation": "ร้านขายยาคือ pharmacy",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_027",
+            "stem": "A person who teaches students is a _____.",
+            "choices": [
+                "doctor",
+                "teacher",
+                "driver",
+                "farmer"
+            ],
+            "correctIndex": 1,
+            "explanation": "คนที่สอนนักเรียนคือ ครู (teacher)",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_028",
+            "stem": "The opposite of 'big' is _____.",
+            "choices": [
+                "large",
+                "huge",
+                "small",
+                "tall"
+            ],
+            "correctIndex": 2,
+            "explanation": "คำตรงข้ามของ big (ใหญ่) คือ small (เล็ก)",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_029",
+            "stem": "The opposite of 'hot' is _____.",
+            "choices": [
+                "warm",
+                "cold",
+                "cool",
+                "wet"
+            ],
+            "correctIndex": 1,
+            "explanation": "คำตรงข้ามของ hot (ร้อน) คือ cold (เย็น)",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        },
+        {
+            "id": "basic_030",
+            "stem": "The opposite of 'happy' is _____.",
+            "choices": [
+                "glad",
+                "joyful",
+                "sad",
+                "excited"
+            ],
+            "correctIndex": 2,
+            "explanation": "คำตรงข้ามของ happy (มีความสุข) คือ sad (เศร้า)",
+            "skillType": "vocab",
+            "packId": "beginner_basic"
+        }
+    ]
+}

@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v7701",
+        "word": "suppose",
+        "translation": "สมมติ",
+        "pos": "verb",
+        "example": "I suppose.",
+        "level": "basic"
+    },
+    {
+        "id": "v7702",
+        "word": "supposed",
+        "translation": "ควร",
+        "pos": "adj",
+        "example": "Supposed to.",
+        "level": "basic"
+    },
+    {
+        "id": "v7703",
+        "word": "supposedly",
+        "translation": "ตามที่กล่าว",
+        "pos": "adv",
+        "example": "Supposedly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7704",
+        "word": "suppress",
+        "translation": "ปราบปราม",
+        "pos": "verb",
+        "example": "Suppress feelings.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7705",
+        "word": "supreme",
+        "translation": "สูงสุด",
+        "pos": "adj",
+        "example": "Supreme Court.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7706",
+        "word": "sure",
+        "translation": "แน่ใจ",
+        "pos": "adj",
+        "example": "I'm sure.",
+        "level": "basic"
+    },
+    {
+        "id": "v7707",
+        "word": "surely",
+        "translation": "แน่นอน",
+        "pos": "adv",
+        "example": "Surely.",
+        "level": "basic"
+    },
+    {
+        "id": "v7708",
+        "word": "surface",
+        "translation": "พื้นผิว",
+        "pos": "noun",
+        "example": "Flat surface.",
+        "level": "basic"
+    },
+    {
+        "id": "v7709",
+        "word": "surgeon",
+        "translation": "ศัลยแพทย์",
+        "pos": "noun",
+        "example": "Brain surgeon.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7710",
+        "word": "surgery",
+        "translation": "การผ่าตัด",
+        "pos": "noun",
+        "example": "Heart surgery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7711",
+        "word": "surplus",
+        "translation": "ส่วนเกิน",
+        "pos": "noun",
+        "example": "Trade surplus.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7712",
+        "word": "surprise",
+        "translation": "ความประหลาดใจ",
+        "pos": "noun",
+        "example": "Big surprise.",
+        "level": "basic"
+    },
+    {
+        "id": "v7713",
+        "word": "surprised",
+        "translation": "ประหลาดใจ",
+        "pos": "adj",
+        "example": "I'm surprised.",
+        "level": "basic"
+    },
+    {
+        "id": "v7714",
+        "word": "surprising",
+        "translation": "น่าประหลาดใจ",
+        "pos": "adj",
+        "example": "Very surprising.",
+        "level": "basic"
+    },
+    {
+        "id": "v7715",
+        "word": "surprisingly",
+        "translation": "น่าแปลกใจ",
+        "pos": "adv",
+        "example": "Surprisingly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7716",
+        "word": "surrender",
+        "translation": "ยอมแพ้",
+        "pos": "verb",
+        "example": "Never surrender.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7717",
+        "word": "surround",
+        "translation": "ล้อมรอบ",
+        "pos": "verb",
+        "example": "Surround by.",
+        "level": "basic"
+    },
+    {
+        "id": "v7718",
+        "word": "surrounding",
+        "translation": "โดยรอบ",
+        "pos": "adj",
+        "example": "Surrounding area.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7719",
+        "word": "surveillance",
+        "translation": "การเฝ้าระวัง",
+        "pos": "noun",
+        "example": "Under surveillance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7720",
+        "word": "survey",
+        "translation": "สำรวจ",
+        "pos": "noun",
+        "example": "Online survey.",
+        "level": "basic"
+    },
+    {
+        "id": "v7721",
+        "word": "survival",
+        "translation": "การเอาชีวิตรอด",
+        "pos": "noun",
+        "example": "Survival skills.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7722",
+        "word": "survive",
+        "translation": "อยู่รอด",
+        "pos": "verb",
+        "example": "Survive disaster.",
+        "level": "basic"
+    },
+    {
+        "id": "v7723",
+        "word": "survivor",
+        "translation": "ผู้รอดชีวิต",
+        "pos": "noun",
+        "example": "Cancer survivor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7724",
+        "word": "suspect",
+        "translation": "สงสัย",
+        "pos": "verb",
+        "example": "I suspect.",
+        "level": "basic"
+    },
+    {
+        "id": "v7725",
+        "word": "suspend",
+        "translation": "ระงับ",
+        "pos": "verb",
+        "example": "Suspend account.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7726",
+        "word": "suspension",
+        "translation": "การระงับ",
+        "pos": "noun",
+        "example": "School suspension.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7727",
+        "word": "suspicion",
+        "translation": "ความสงสัย",
+        "pos": "noun",
+        "example": "Under suspicion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7728",
+        "word": "suspicious",
+        "translation": "น่าสงสัย",
+        "pos": "adj",
+        "example": "Very suspicious.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7729",
+        "word": "sustain",
+        "translation": "รักษา",
+        "pos": "verb",
+        "example": "Sustain growth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7730",
+        "word": "sustainable",
+        "translation": "ยั่งยืน",
+        "pos": "adj",
+        "example": "Sustainable development.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7731",
+        "word": "swallow",
+        "translation": "กลืน",
+        "pos": "verb",
+        "example": "Hard to swallow.",
+        "level": "basic"
+    },
+    {
+        "id": "v7732",
+        "word": "swamp",
+        "translation": "หนอง",
+        "pos": "noun",
+        "example": "Swamp area.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7733",
+        "word": "swap",
+        "translation": "แลก",
+        "pos": "verb",
+        "example": "Swap places.",
+        "level": "basic"
+    },
+    {
+        "id": "v7734",
+        "word": "swear",
+        "translation": "สาบาน",
+        "pos": "verb",
+        "example": "I swear.",
+        "level": "basic"
+    },
+    {
+        "id": "v7735",
+        "word": "sweat",
+        "translation": "เหงื่อ",
+        "pos": "noun",
+        "example": "Cold sweat.",
+        "level": "basic"
+    },
+    {
+        "id": "v7736",
+        "word": "sweater",
+        "translation": "เสื้อกันหนาว",
+        "pos": "noun",
+        "example": "Wool sweater.",
+        "level": "basic"
+    },
+    {
+        "id": "v7737",
+        "word": "sweaty",
+        "translation": "เหงื่อออก",
+        "pos": "adj",
+        "example": "Sweaty palms.",
+        "level": "basic"
+    },
+    {
+        "id": "v7738",
+        "word": "sweep",
+        "translation": "กวาด",
+        "pos": "verb",
+        "example": "Sweep floor.",
+        "level": "basic"
+    },
+    {
+        "id": "v7739",
+        "word": "sweet",
+        "translation": "หวาน",
+        "pos": "adj",
+        "example": "Very sweet.",
+        "level": "basic"
+    },
+    {
+        "id": "v7740",
+        "word": "swell",
+        "translation": "บวม",
+        "pos": "verb",
+        "example": "Swell up.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7741",
+        "word": "swift",
+        "translation": "รวดเร็ว",
+        "pos": "adj",
+        "example": "Swift action.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7742",
+        "word": "swim",
+        "translation": "ว่ายน้ำ",
+        "pos": "verb",
+        "example": "Go swimming.",
+        "level": "basic"
+    },
+    {
+        "id": "v7743",
+        "word": "swimmer",
+        "translation": "นักว่ายน้ำ",
+        "pos": "noun",
+        "example": "Good swimmer.",
+        "level": "basic"
+    },
+    {
+        "id": "v7744",
+        "word": "swimming",
+        "translation": "การว่ายน้ำ",
+        "pos": "noun",
+        "example": "Love swimming.",
+        "level": "basic"
+    },
+    {
+        "id": "v7745",
+        "word": "swing",
+        "translation": "แกว่ง",
+        "pos": "verb",
+        "example": "Swing back.",
+        "level": "basic"
+    },
+    {
+        "id": "v7746",
+        "word": "switch",
+        "translation": "สวิตช์",
+        "pos": "noun",
+        "example": "Light switch.",
+        "level": "basic"
+    },
+    {
+        "id": "v7747",
+        "word": "sword",
+        "translation": "ดาบ",
+        "pos": "noun",
+        "example": "Sharp sword.",
+        "level": "basic"
+    },
+    {
+        "id": "v7748",
+        "word": "symbol",
+        "translation": "สัญลักษณ์",
+        "pos": "noun",
+        "example": "Peace symbol.",
+        "level": "basic"
+    },
+    {
+        "id": "v7749",
+        "word": "symbolic",
+        "translation": "เชิงสัญลักษณ์",
+        "pos": "adj",
+        "example": "Symbolic meaning.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7750",
+        "word": "sympathetic",
+        "translation": "เห็นอกเห็นใจ",
+        "pos": "adj",
+        "example": "Very sympathetic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7751",
+        "word": "sympathy",
+        "translation": "ความเห็นอกเห็นใจ",
+        "pos": "noun",
+        "example": "Show sympathy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7752",
+        "word": "symptom",
+        "translation": "อาการ",
+        "pos": "noun",
+        "example": "Common symptom.",
+        "level": "basic"
+    },
+    {
+        "id": "v7753",
+        "word": "syndrome",
+        "translation": "กลุ่มอาการ",
+        "pos": "noun",
+        "example": "Down syndrome.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7754",
+        "word": "syntax",
+        "translation": "ไวยากรณ์",
+        "pos": "noun",
+        "example": "Correct syntax.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7755",
+        "word": "synthetic",
+        "translation": "สังเคราะห์",
+        "pos": "adj",
+        "example": "Synthetic material.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7756",
+        "word": "system",
+        "translation": "ระบบ",
+        "pos": "noun",
+        "example": "New system.",
+        "level": "basic"
+    },
+    {
+        "id": "v7757",
+        "word": "systematic",
+        "translation": "เป็นระบบ",
+        "pos": "adj",
+        "example": "Systematic approach.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7758",
+        "word": "table",
+        "translation": "โต๊ะ",
+        "pos": "noun",
+        "example": "Dining table.",
+        "level": "basic"
+    },
+    {
+        "id": "v7759",
+        "word": "tablet",
+        "translation": "แท็บเล็ต",
+        "pos": "noun",
+        "example": "Take a tablet.",
+        "level": "basic"
+    },
+    {
+        "id": "v7760",
+        "word": "tackle",
+        "translation": "จัดการ",
+        "pos": "verb",
+        "example": "Tackle problem.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7761",
+        "word": "tactic",
+        "translation": "กลยุทธ์",
+        "pos": "noun",
+        "example": "New tactics.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7762",
+        "word": "tactical",
+        "translation": "ทางยุทธวิธี",
+        "pos": "adj",
+        "example": "Tactical decision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7763",
+        "word": "tag",
+        "translation": "แท็ก",
+        "pos": "noun",
+        "example": "Price tag.",
+        "level": "basic"
+    },
+    {
+        "id": "v7764",
+        "word": "tail",
+        "translation": "หาง",
+        "pos": "noun",
+        "example": "Dog's tail.",
+        "level": "basic"
+    },
+    {
+        "id": "v7765",
+        "word": "tailor",
+        "translation": "ช่างตัดเสื้อ",
+        "pos": "noun",
+        "example": "Local tailor.",
+        "level": "basic"
+    },
+    {
+        "id": "v7766",
+        "word": "take",
+        "translation": "เอา",
+        "pos": "verb",
+        "example": "Take this.",
+        "level": "basic"
+    },
+    {
+        "id": "v7767",
+        "word": "takeover",
+        "translation": "การเข้ายึด",
+        "pos": "noun",
+        "example": "Hostile takeover.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7768",
+        "word": "tale",
+        "translation": "นิทาน",
+        "pos": "noun",
+        "example": "Fairy tale.",
+        "level": "basic"
+    },
+    {
+        "id": "v7769",
+        "word": "talent",
+        "translation": "พรสวรรค์",
+        "pos": "noun",
+        "example": "Great talent.",
+        "level": "basic"
+    },
+    {
+        "id": "v7770",
+        "word": "talented",
+        "translation": "มีพรสวรรค์",
+        "pos": "adj",
+        "example": "Very talented.",
+        "level": "basic"
+    },
+    {
+        "id": "v7771",
+        "word": "talk",
+        "translation": "พูด",
+        "pos": "verb",
+        "example": "Let's talk.",
+        "level": "basic"
+    },
+    {
+        "id": "v7772",
+        "word": "talking",
+        "translation": "การพูด",
+        "pos": "noun",
+        "example": "Keep talking.",
+        "level": "basic"
+    },
+    {
+        "id": "v7773",
+        "word": "tall",
+        "translation": "สูง",
+        "pos": "adj",
+        "example": "Very tall.",
+        "level": "basic"
+    },
+    {
+        "id": "v7774",
+        "word": "tank",
+        "translation": "ถัง",
+        "pos": "noun",
+        "example": "Water tank.",
+        "level": "basic"
+    },
+    {
+        "id": "v7775",
+        "word": "tap",
+        "translation": "แตะ",
+        "pos": "verb",
+        "example": "Tap screen.",
+        "level": "basic"
+    },
+    {
+        "id": "v7776",
+        "word": "tape",
+        "translation": "เทป",
+        "pos": "noun",
+        "example": "Sticky tape.",
+        "level": "basic"
+    },
+    {
+        "id": "v7777",
+        "word": "target",
+        "translation": "เป้าหมาย",
+        "pos": "noun",
+        "example": "Hit target.",
+        "level": "basic"
+    },
+    {
+        "id": "v7778",
+        "word": "targeted",
+        "translation": "มุ่งเป้า",
+        "pos": "adj",
+        "example": "Targeted marketing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7779",
+        "word": "tariff",
+        "translation": "ภาษีศุลกากร",
+        "pos": "noun",
+        "example": "Import tariff.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7780",
+        "word": "task",
+        "translation": "งาน",
+        "pos": "noun",
+        "example": "Simple task.",
+        "level": "basic"
+    },
+    {
+        "id": "v7781",
+        "word": "taste",
+        "translation": "รสชาติ",
+        "pos": "noun",
+        "example": "Good taste.",
+        "level": "basic"
+    },
+    {
+        "id": "v7782",
+        "word": "tasty",
+        "translation": "อร่อย",
+        "pos": "adj",
+        "example": "Very tasty.",
+        "level": "basic"
+    },
+    {
+        "id": "v7783",
+        "word": "tattoo",
+        "translation": "รอยสัก",
+        "pos": "noun",
+        "example": "New tattoo.",
+        "level": "basic"
+    },
+    {
+        "id": "v7784",
+        "word": "tax",
+        "translation": "ภาษี",
+        "pos": "noun",
+        "example": "Income tax.",
+        "level": "basic"
+    },
+    {
+        "id": "v7785",
+        "word": "taxation",
+        "translation": "การเก็บภาษี",
+        "pos": "noun",
+        "example": "Tax system.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7786",
+        "word": "taxpayer",
+        "translation": "ผู้เสียภาษี",
+        "pos": "noun",
+        "example": "Average taxpayer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7787",
+        "word": "taxi",
+        "translation": "แท็กซี่",
+        "pos": "noun",
+        "example": "Take a taxi.",
+        "level": "basic"
+    },
+    {
+        "id": "v7788",
+        "word": "tea",
+        "translation": "ชา",
+        "pos": "noun",
+        "example": "Green tea.",
+        "level": "basic"
+    },
+    {
+        "id": "v7789",
+        "word": "teach",
+        "translation": "สอน",
+        "pos": "verb",
+        "example": "Teach English.",
+        "level": "basic"
+    },
+    {
+        "id": "v7790",
+        "word": "teacher",
+        "translation": "ครู",
+        "pos": "noun",
+        "example": "Good teacher.",
+        "level": "basic"
+    },
+    {
+        "id": "v7791",
+        "word": "teaching",
+        "translation": "การสอน",
+        "pos": "noun",
+        "example": "Teaching job.",
+        "level": "basic"
+    },
+    {
+        "id": "v7792",
+        "word": "team",
+        "translation": "ทีม",
+        "pos": "noun",
+        "example": "Great team.",
+        "level": "basic"
+    },
+    {
+        "id": "v7793",
+        "word": "teammate",
+        "translation": "เพื่อนร่วมทีม",
+        "pos": "noun",
+        "example": "Good teammate.",
+        "level": "basic"
+    },
+    {
+        "id": "v7794",
+        "word": "teamwork",
+        "translation": "การทำงานเป็นทีม",
+        "pos": "noun",
+        "example": "Good teamwork.",
+        "level": "basic"
+    },
+    {
+        "id": "v7795",
+        "word": "tear",
+        "translation": "ฉีก",
+        "pos": "verb",
+        "example": "Tear apart.",
+        "level": "basic"
+    },
+    {
+        "id": "v7796",
+        "word": "teaspoon",
+        "translation": "ช้อนชา",
+        "pos": "noun",
+        "example": "One teaspoon.",
+        "level": "basic"
+    },
+    {
+        "id": "v7797",
+        "word": "tech",
+        "translation": "เทคโนโลยี",
+        "pos": "noun",
+        "example": "High tech.",
+        "level": "basic"
+    },
+    {
+        "id": "v7798",
+        "word": "technical",
+        "translation": "เทคนิค",
+        "pos": "adj",
+        "example": "Technical problem.",
+        "level": "basic"
+    },
+    {
+        "id": "v7799",
+        "word": "technically",
+        "translation": "ในทางเทคนิค",
+        "pos": "adv",
+        "example": "Technically speaking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7800",
+        "word": "technician",
+        "translation": "ช่างเทคนิค",
+        "pos": "noun",
+        "example": "IT technician.",
+        "level": "basic"
+    }
+]

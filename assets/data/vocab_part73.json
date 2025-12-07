@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v7101",
+        "word": "salty",
+        "translation": "เค็ม",
+        "pos": "adj",
+        "example": "Too salty.",
+        "level": "basic"
+    },
+    {
+        "id": "v7102",
+        "word": "salute",
+        "translation": "คารวะ",
+        "pos": "verb",
+        "example": "Salute flag.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7103",
+        "word": "same",
+        "translation": "เหมือนกัน",
+        "pos": "adj",
+        "example": "Same thing.",
+        "level": "basic"
+    },
+    {
+        "id": "v7104",
+        "word": "sample",
+        "translation": "ตัวอย่าง",
+        "pos": "noun",
+        "example": "Free sample.",
+        "level": "basic"
+    },
+    {
+        "id": "v7105",
+        "word": "sanction",
+        "translation": "ลงโทษ",
+        "pos": "noun",
+        "example": "Economic sanctions.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7106",
+        "word": "sanctuary",
+        "translation": "สถานศักดิ์สิทธิ์",
+        "pos": "noun",
+        "example": "Wildlife sanctuary.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7107",
+        "word": "sand",
+        "translation": "ทราย",
+        "pos": "noun",
+        "example": "Beach sand.",
+        "level": "basic"
+    },
+    {
+        "id": "v7108",
+        "word": "sandal",
+        "translation": "รองเท้าแตะ",
+        "pos": "noun",
+        "example": "Leather sandals.",
+        "level": "basic"
+    },
+    {
+        "id": "v7109",
+        "word": "sandwich",
+        "translation": "แซนด์วิช",
+        "pos": "noun",
+        "example": "Cheese sandwich.",
+        "level": "basic"
+    },
+    {
+        "id": "v7110",
+        "word": "sandy",
+        "translation": "เป็นทราย",
+        "pos": "adj",
+        "example": "Sandy beach.",
+        "level": "basic"
+    },
+    {
+        "id": "v7111",
+        "word": "satellite",
+        "translation": "ดาวเทียม",
+        "pos": "noun",
+        "example": "Satellite TV.",
+        "level": "basic"
+    },
+    {
+        "id": "v7112",
+        "word": "satisfaction",
+        "translation": "ความพอใจ",
+        "pos": "noun",
+        "example": "Customer satisfaction.",
+        "level": "basic"
+    },
+    {
+        "id": "v7113",
+        "word": "satisfactory",
+        "translation": "น่าพอใจ",
+        "pos": "adj",
+        "example": "Satisfactory results.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7114",
+        "word": "satisfied",
+        "translation": "พอใจ",
+        "pos": "adj",
+        "example": "Very satisfied.",
+        "level": "basic"
+    },
+    {
+        "id": "v7115",
+        "word": "satisfy",
+        "translation": "ทำให้พอใจ",
+        "pos": "verb",
+        "example": "Satisfy customer.",
+        "level": "basic"
+    },
+    {
+        "id": "v7116",
+        "word": "satisfying",
+        "translation": "น่าพอใจ",
+        "pos": "adj",
+        "example": "Very satisfying.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7117",
+        "word": "saturday",
+        "translation": "วันเสาร์",
+        "pos": "noun",
+        "example": "Every Saturday.",
+        "level": "basic"
+    },
+    {
+        "id": "v7118",
+        "word": "sauce",
+        "translation": "ซอส",
+        "pos": "noun",
+        "example": "Tomato sauce.",
+        "level": "basic"
+    },
+    {
+        "id": "v7119",
+        "word": "sausage",
+        "translation": "ไส้กรอก",
+        "pos": "noun",
+        "example": "Grilled sausage.",
+        "level": "basic"
+    },
+    {
+        "id": "v7120",
+        "word": "save",
+        "translation": "บันทึก",
+        "pos": "verb",
+        "example": "Save file.",
+        "level": "basic"
+    },
+    {
+        "id": "v7121",
+        "word": "saving",
+        "translation": "การออม",
+        "pos": "noun",
+        "example": "Life savings.",
+        "level": "basic"
+    },
+    {
+        "id": "v7122",
+        "word": "say",
+        "translation": "พูด",
+        "pos": "verb",
+        "example": "What did you say?",
+        "level": "basic"
+    },
+    {
+        "id": "v7123",
+        "word": "saying",
+        "translation": "คำพูด",
+        "pos": "noun",
+        "example": "Old saying.",
+        "level": "basic"
+    },
+    {
+        "id": "v7124",
+        "word": "scale",
+        "translation": "มาตราส่วน",
+        "pos": "noun",
+        "example": "Large scale.",
+        "level": "basic"
+    },
+    {
+        "id": "v7125",
+        "word": "scan",
+        "translation": "สแกน",
+        "pos": "verb",
+        "example": "Scan document.",
+        "level": "basic"
+    },
+    {
+        "id": "v7126",
+        "word": "scandal",
+        "translation": "เรื่องอื้อฉาว",
+        "pos": "noun",
+        "example": "Big scandal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7127",
+        "word": "scanner",
+        "translation": "เครื่องสแกน",
+        "pos": "noun",
+        "example": "Document scanner.",
+        "level": "basic"
+    },
+    {
+        "id": "v7128",
+        "word": "scar",
+        "translation": "แผลเป็น",
+        "pos": "noun",
+        "example": "Deep scar.",
+        "level": "basic"
+    },
+    {
+        "id": "v7129",
+        "word": "scarce",
+        "translation": "ขาดแคลน",
+        "pos": "adj",
+        "example": "Scarce resources.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7130",
+        "word": "scarcely",
+        "translation": "แทบจะไม่",
+        "pos": "adv",
+        "example": "Scarcely noticed.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7131",
+        "word": "scare",
+        "translation": "ทำให้กลัว",
+        "pos": "verb",
+        "example": "Don't scare me.",
+        "level": "basic"
+    },
+    {
+        "id": "v7132",
+        "word": "scared",
+        "translation": "กลัว",
+        "pos": "adj",
+        "example": "I'm scared.",
+        "level": "basic"
+    },
+    {
+        "id": "v7133",
+        "word": "scarf",
+        "translation": "ผ้าพันคอ",
+        "pos": "noun",
+        "example": "Warm scarf.",
+        "level": "basic"
+    },
+    {
+        "id": "v7134",
+        "word": "scary",
+        "translation": "น่ากลัว",
+        "pos": "adj",
+        "example": "Very scary.",
+        "level": "basic"
+    },
+    {
+        "id": "v7135",
+        "word": "scatter",
+        "translation": "กระจาย",
+        "pos": "verb",
+        "example": "Scatter leaves.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7136",
+        "word": "scenario",
+        "translation": "สถานการณ์",
+        "pos": "noun",
+        "example": "Worst-case scenario.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7137",
+        "word": "scene",
+        "translation": "ฉาก",
+        "pos": "noun",
+        "example": "Crime scene.",
+        "level": "basic"
+    },
+    {
+        "id": "v7138",
+        "word": "scenery",
+        "translation": "ทิวทัศน์",
+        "pos": "noun",
+        "example": "Beautiful scenery.",
+        "level": "basic"
+    },
+    {
+        "id": "v7139",
+        "word": "scenic",
+        "translation": "สวยงาม",
+        "pos": "adj",
+        "example": "Scenic view.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7140",
+        "word": "scent",
+        "translation": "กลิ่น",
+        "pos": "noun",
+        "example": "Nice scent.",
+        "level": "basic"
+    },
+    {
+        "id": "v7141",
+        "word": "schedule",
+        "translation": "ตารางเวลา",
+        "pos": "noun",
+        "example": "Busy schedule.",
+        "level": "basic"
+    },
+    {
+        "id": "v7142",
+        "word": "scheduled",
+        "translation": "กำหนดไว้",
+        "pos": "adj",
+        "example": "Scheduled flight.",
+        "level": "basic"
+    },
+    {
+        "id": "v7143",
+        "word": "scheme",
+        "translation": "แผน",
+        "pos": "noun",
+        "example": "Color scheme.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7144",
+        "word": "scholar",
+        "translation": "นักวิชาการ",
+        "pos": "noun",
+        "example": "Distinguished scholar.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7145",
+        "word": "scholarship",
+        "translation": "ทุนการศึกษา",
+        "pos": "noun",
+        "example": "Get scholarship.",
+        "level": "basic"
+    },
+    {
+        "id": "v7146",
+        "word": "school",
+        "translation": "โรงเรียน",
+        "pos": "noun",
+        "example": "Go to school.",
+        "level": "basic"
+    },
+    {
+        "id": "v7147",
+        "word": "science",
+        "translation": "วิทยาศาสตร์",
+        "pos": "noun",
+        "example": "Computer science.",
+        "level": "basic"
+    },
+    {
+        "id": "v7148",
+        "word": "scientific",
+        "translation": "ทางวิทยาศาสตร์",
+        "pos": "adj",
+        "example": "Scientific research.",
+        "level": "basic"
+    },
+    {
+        "id": "v7149",
+        "word": "scientist",
+        "translation": "นักวิทยาศาสตร์",
+        "pos": "noun",
+        "example": "Famous scientist.",
+        "level": "basic"
+    },
+    {
+        "id": "v7150",
+        "word": "scissors",
+        "translation": "กรรไกร",
+        "pos": "noun",
+        "example": "Sharp scissors.",
+        "level": "basic"
+    },
+    {
+        "id": "v7151",
+        "word": "scope",
+        "translation": "ขอบเขต",
+        "pos": "noun",
+        "example": "Project scope.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7152",
+        "word": "score",
+        "translation": "คะแนน",
+        "pos": "noun",
+        "example": "High score.",
+        "level": "basic"
+    },
+    {
+        "id": "v7153",
+        "word": "scream",
+        "translation": "กรี๊ด",
+        "pos": "verb",
+        "example": "Don't scream.",
+        "level": "basic"
+    },
+    {
+        "id": "v7154",
+        "word": "screen",
+        "translation": "หน้าจอ",
+        "pos": "noun",
+        "example": "Big screen.",
+        "level": "basic"
+    },
+    {
+        "id": "v7155",
+        "word": "screening",
+        "translation": "การคัดกรอง",
+        "pos": "noun",
+        "example": "Health screening.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7156",
+        "word": "screenplay",
+        "translation": "บทภาพยนตร์",
+        "pos": "noun",
+        "example": "Write screenplay.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7157",
+        "word": "screenshot",
+        "translation": "ภาพหน้าจอ",
+        "pos": "noun",
+        "example": "Take screenshot.",
+        "level": "basic"
+    },
+    {
+        "id": "v7158",
+        "word": "screw",
+        "translation": "สกรู",
+        "pos": "noun",
+        "example": "Tighten screw.",
+        "level": "basic"
+    },
+    {
+        "id": "v7159",
+        "word": "script",
+        "translation": "สคริปต์",
+        "pos": "noun",
+        "example": "Movie script.",
+        "level": "basic"
+    },
+    {
+        "id": "v7160",
+        "word": "scroll",
+        "translation": "เลื่อน",
+        "pos": "verb",
+        "example": "Scroll down.",
+        "level": "basic"
+    },
+    {
+        "id": "v7161",
+        "word": "sculpture",
+        "translation": "ประติมากรรม",
+        "pos": "noun",
+        "example": "Ancient sculpture.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7162",
+        "word": "sea",
+        "translation": "ทะเล",
+        "pos": "noun",
+        "example": "Deep sea.",
+        "level": "basic"
+    },
+    {
+        "id": "v7163",
+        "word": "seafood",
+        "translation": "อาหารทะเล",
+        "pos": "noun",
+        "example": "Fresh seafood.",
+        "level": "basic"
+    },
+    {
+        "id": "v7164",
+        "word": "seal",
+        "translation": "แมวน้ำ",
+        "pos": "noun",
+        "example": "Official seal.",
+        "level": "basic"
+    },
+    {
+        "id": "v7165",
+        "word": "search",
+        "translation": "ค้นหา",
+        "pos": "verb",
+        "example": "Search for.",
+        "level": "basic"
+    },
+    {
+        "id": "v7166",
+        "word": "season",
+        "translation": "ฤดูกาล",
+        "pos": "noun",
+        "example": "Rainy season.",
+        "level": "basic"
+    },
+    {
+        "id": "v7167",
+        "word": "seasonal",
+        "translation": "ตามฤดูกาล",
+        "pos": "adj",
+        "example": "Seasonal fruit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7168",
+        "word": "seat",
+        "translation": "ที่นั่ง",
+        "pos": "noun",
+        "example": "Front seat.",
+        "level": "basic"
+    },
+    {
+        "id": "v7169",
+        "word": "seating",
+        "translation": "ที่นั่ง",
+        "pos": "noun",
+        "example": "Seating arrangement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7170",
+        "word": "second",
+        "translation": "ที่สอง",
+        "pos": "ord",
+        "example": "Second place.",
+        "level": "basic"
+    },
+    {
+        "id": "v7171",
+        "word": "secondary",
+        "translation": "รอง",
+        "pos": "adj",
+        "example": "Secondary school.",
+        "level": "basic"
+    },
+    {
+        "id": "v7172",
+        "word": "secondly",
+        "translation": "ประการที่สอง",
+        "pos": "adv",
+        "example": "Secondly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7173",
+        "word": "secret",
+        "translation": "ความลับ",
+        "pos": "noun",
+        "example": "Keep a secret.",
+        "level": "basic"
+    },
+    {
+        "id": "v7174",
+        "word": "secretary",
+        "translation": "เลขานุการ",
+        "pos": "noun",
+        "example": "Office secretary.",
+        "level": "basic"
+    },
+    {
+        "id": "v7175",
+        "word": "secretly",
+        "translation": "อย่างลับๆ",
+        "pos": "adv",
+        "example": "Meet secretly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7176",
+        "word": "section",
+        "translation": "ส่วน",
+        "pos": "noun",
+        "example": "Next section.",
+        "level": "basic"
+    },
+    {
+        "id": "v7177",
+        "word": "sector",
+        "translation": "ภาค",
+        "pos": "noun",
+        "example": "Private sector.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7178",
+        "word": "secure",
+        "translation": "ปลอดภัย",
+        "pos": "adj",
+        "example": "Secure connection.",
+        "level": "basic"
+    },
+    {
+        "id": "v7179",
+        "word": "securely",
+        "translation": "อย่างปลอดภัย",
+        "pos": "adv",
+        "example": "Store securely.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7180",
+        "word": "security",
+        "translation": "ความปลอดภัย",
+        "pos": "noun",
+        "example": "National security.",
+        "level": "basic"
+    },
+    {
+        "id": "v7181",
+        "word": "see",
+        "translation": "เห็น",
+        "pos": "verb",
+        "example": "I can see.",
+        "level": "basic"
+    },
+    {
+        "id": "v7182",
+        "word": "seed",
+        "translation": "เมล็ด",
+        "pos": "noun",
+        "example": "Plant seed.",
+        "level": "basic"
+    },
+    {
+        "id": "v7183",
+        "word": "seek",
+        "translation": "แสวงหา",
+        "pos": "verb",
+        "example": "Seek help.",
+        "level": "basic"
+    },
+    {
+        "id": "v7184",
+        "word": "seeking",
+        "translation": "กำลังหา",
+        "pos": "adj",
+        "example": "Job seeking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7185",
+        "word": "seem",
+        "translation": "ดูเหมือน",
+        "pos": "verb",
+        "example": "It seems.",
+        "level": "basic"
+    },
+    {
+        "id": "v7186",
+        "word": "seemingly",
+        "translation": "ดูเหมือนว่า",
+        "pos": "adv",
+        "example": "Seemingly impossible.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7187",
+        "word": "segment",
+        "translation": "ส่วน",
+        "pos": "noun",
+        "example": "Market segment.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7188",
+        "word": "seize",
+        "translation": "ยึด",
+        "pos": "verb",
+        "example": "Seize opportunity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7189",
+        "word": "select",
+        "translation": "เลือก",
+        "pos": "verb",
+        "example": "Select option.",
+        "level": "basic"
+    },
+    {
+        "id": "v7190",
+        "word": "selected",
+        "translation": "ที่เลือก",
+        "pos": "adj",
+        "example": "Selected items.",
+        "level": "basic"
+    },
+    {
+        "id": "v7191",
+        "word": "selection",
+        "translation": "การเลือก",
+        "pos": "noun",
+        "example": "Wide selection.",
+        "level": "basic"
+    },
+    {
+        "id": "v7192",
+        "word": "selective",
+        "translation": "เลือกเฟ้น",
+        "pos": "adj",
+        "example": "Very selective.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7193",
+        "word": "self",
+        "translation": "ตัวเอง",
+        "pos": "noun",
+        "example": "True self.",
+        "level": "basic"
+    },
+    {
+        "id": "v7194",
+        "word": "selfish",
+        "translation": "เห็นแก่ตัว",
+        "pos": "adj",
+        "example": "Very selfish.",
+        "level": "basic"
+    },
+    {
+        "id": "v7195",
+        "word": "sell",
+        "translation": "ขาย",
+        "pos": "verb",
+        "example": "Sell products.",
+        "level": "basic"
+    },
+    {
+        "id": "v7196",
+        "word": "seller",
+        "translation": "ผู้ขาย",
+        "pos": "noun",
+        "example": "Best seller.",
+        "level": "basic"
+    },
+    {
+        "id": "v7197",
+        "word": "semester",
+        "translation": "ภาคเรียน",
+        "pos": "noun",
+        "example": "Fall semester.",
+        "level": "basic"
+    },
+    {
+        "id": "v7198",
+        "word": "seminar",
+        "translation": "สัมมนา",
+        "pos": "noun",
+        "example": "Attend seminar.",
+        "level": "basic"
+    },
+    {
+        "id": "v7199",
+        "word": "senate",
+        "translation": "วุฒิสภา",
+        "pos": "noun",
+        "example": "U.S. Senate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7200",
+        "word": "senator",
+        "translation": "วุฒิสมาชิก",
+        "pos": "noun",
+        "example": "State senator.",
+        "level": "intermediate"
+    }
+]

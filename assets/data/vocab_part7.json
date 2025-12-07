@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v0551",
+        "word": "cream",
+        "translation": "ครีม",
+        "pos": "noun",
+        "example": "Ice cream.",
+        "level": "basic"
+    },
+    {
+        "id": "v0552",
+        "word": "create",
+        "translation": "สร้าง",
+        "pos": "verb",
+        "example": "Create something new.",
+        "level": "basic"
+    },
+    {
+        "id": "v0553",
+        "word": "creative",
+        "translation": "สร้างสรรค์",
+        "pos": "adj",
+        "example": "Be creative.",
+        "level": "basic"
+    },
+    {
+        "id": "v0554",
+        "word": "creature",
+        "translation": "สิ่งมีชีวิต",
+        "pos": "noun",
+        "example": "Sea creatures.",
+        "level": "basic"
+    },
+    {
+        "id": "v0555",
+        "word": "credit",
+        "translation": "เครดิต",
+        "pos": "noun",
+        "example": "Credit card.",
+        "level": "basic"
+    },
+    {
+        "id": "v0556",
+        "word": "crew",
+        "translation": "ลูกเรือ",
+        "pos": "noun",
+        "example": "The crew is ready.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0557",
+        "word": "crime",
+        "translation": "อาชญากรรม",
+        "pos": "noun",
+        "example": "Crime rate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0558",
+        "word": "criminal",
+        "translation": "อาชญากร",
+        "pos": "noun",
+        "example": "Catch the criminal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0559",
+        "word": "crisis",
+        "translation": "วิกฤต",
+        "pos": "noun",
+        "example": "Economic crisis.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0560",
+        "word": "critic",
+        "translation": "นักวิจารณ์",
+        "pos": "noun",
+        "example": "Film critic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0561",
+        "word": "critical",
+        "translation": "วิกฤต",
+        "pos": "adj",
+        "example": "Critical condition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0562",
+        "word": "criticism",
+        "translation": "การวิจารณ์",
+        "pos": "noun",
+        "example": "Accept criticism.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0563",
+        "word": "criticize",
+        "translation": "วิจารณ์",
+        "pos": "verb",
+        "example": "Don't criticize others.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0564",
+        "word": "crop",
+        "translation": "พืชผล",
+        "pos": "noun",
+        "example": "Harvest the crop.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0565",
+        "word": "cross",
+        "translation": "ข้าม",
+        "pos": "verb",
+        "example": "Cross the road.",
+        "level": "basic"
+    },
+    {
+        "id": "v0566",
+        "word": "crowd",
+        "translation": "ฝูงชน",
+        "pos": "noun",
+        "example": "A large crowd.",
+        "level": "basic"
+    },
+    {
+        "id": "v0567",
+        "word": "crucial",
+        "translation": "สำคัญมาก",
+        "pos": "adj",
+        "example": "Crucial decision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0568",
+        "word": "cry",
+        "translation": "ร้องไห้",
+        "pos": "verb",
+        "example": "Don't cry.",
+        "level": "basic"
+    },
+    {
+        "id": "v0569",
+        "word": "cultural",
+        "translation": "เกี่ยวกับวัฒนธรรม",
+        "pos": "adj",
+        "example": "Cultural differences.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0570",
+        "word": "culture",
+        "translation": "วัฒนธรรม",
+        "pos": "noun",
+        "example": "Thai culture.",
+        "level": "basic"
+    },
+    {
+        "id": "v0571",
+        "word": "cup",
+        "translation": "ถ้วย",
+        "pos": "noun",
+        "example": "A cup of tea.",
+        "level": "basic"
+    },
+    {
+        "id": "v0572",
+        "word": "curious",
+        "translation": "อยากรู้",
+        "pos": "adj",
+        "example": "I'm curious.",
+        "level": "basic"
+    },
+    {
+        "id": "v0573",
+        "word": "current",
+        "translation": "ปัจจุบัน",
+        "pos": "adj",
+        "example": "Current situation.",
+        "level": "basic"
+    },
+    {
+        "id": "v0574",
+        "word": "currently",
+        "translation": "ในปัจจุบัน",
+        "pos": "adv",
+        "example": "Currently working.",
+        "level": "basic"
+    },
+    {
+        "id": "v0575",
+        "word": "curriculum",
+        "translation": "หลักสูตร",
+        "pos": "noun",
+        "example": "School curriculum.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0576",
+        "word": "curtain",
+        "translation": "ม่าน",
+        "pos": "noun",
+        "example": "Close the curtain.",
+        "level": "basic"
+    },
+    {
+        "id": "v0577",
+        "word": "curve",
+        "translation": "โค้ง",
+        "pos": "noun",
+        "example": "Sharp curve.",
+        "level": "basic"
+    },
+    {
+        "id": "v0578",
+        "word": "custom",
+        "translation": "ประเพณี",
+        "pos": "noun",
+        "example": "Local customs.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0579",
+        "word": "customer",
+        "translation": "ลูกค้า",
+        "pos": "noun",
+        "example": "Happy customer.",
+        "level": "basic"
+    },
+    {
+        "id": "v0580",
+        "word": "cut",
+        "translation": "ตัด",
+        "pos": "verb",
+        "example": "Cut the paper.",
+        "level": "basic"
+    },
+    {
+        "id": "v0581",
+        "word": "cute",
+        "translation": "น่ารัก",
+        "pos": "adj",
+        "example": "So cute!",
+        "level": "basic"
+    },
+    {
+        "id": "v0582",
+        "word": "cycle",
+        "translation": "วงจร",
+        "pos": "noun",
+        "example": "Life cycle.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0583",
+        "word": "dad",
+        "translation": "พ่อ",
+        "pos": "noun",
+        "example": "My dad.",
+        "level": "basic"
+    },
+    {
+        "id": "v0584",
+        "word": "daily",
+        "translation": "ประจำวัน",
+        "pos": "adj",
+        "example": "Daily routine.",
+        "level": "basic"
+    },
+    {
+        "id": "v0585",
+        "word": "damage",
+        "translation": "ความเสียหาย",
+        "pos": "noun",
+        "example": "Assess the damage.",
+        "level": "basic"
+    },
+    {
+        "id": "v0586",
+        "word": "dance",
+        "translation": "เต้นรำ",
+        "pos": "verb",
+        "example": "Let's dance.",
+        "level": "basic"
+    },
+    {
+        "id": "v0587",
+        "word": "danger",
+        "translation": "อันตราย",
+        "pos": "noun",
+        "example": "In danger.",
+        "level": "basic"
+    },
+    {
+        "id": "v0588",
+        "word": "dangerous",
+        "translation": "อันตราย",
+        "pos": "adj",
+        "example": "Dangerous road.",
+        "level": "basic"
+    },
+    {
+        "id": "v0589",
+        "word": "dare",
+        "translation": "กล้า",
+        "pos": "verb",
+        "example": "I dare you.",
+        "level": "basic"
+    },
+    {
+        "id": "v0590",
+        "word": "dark",
+        "translation": "มืด",
+        "pos": "adj",
+        "example": "Dark room.",
+        "level": "basic"
+    },
+    {
+        "id": "v0591",
+        "word": "data",
+        "translation": "ข้อมูล",
+        "pos": "noun",
+        "example": "Collect data.",
+        "level": "basic"
+    },
+    {
+        "id": "v0592",
+        "word": "database",
+        "translation": "ฐานข้อมูล",
+        "pos": "noun",
+        "example": "Store in database.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0593",
+        "word": "date",
+        "translation": "วันที่",
+        "pos": "noun",
+        "example": "Today's date.",
+        "level": "basic"
+    },
+    {
+        "id": "v0594",
+        "word": "daughter",
+        "translation": "ลูกสาว",
+        "pos": "noun",
+        "example": "My daughter.",
+        "level": "basic"
+    },
+    {
+        "id": "v0595",
+        "word": "day",
+        "translation": "วัน",
+        "pos": "noun",
+        "example": "Good day.",
+        "level": "basic"
+    },
+    {
+        "id": "v0596",
+        "word": "dead",
+        "translation": "ตาย",
+        "pos": "adj",
+        "example": "The battery is dead.",
+        "level": "basic"
+    },
+    {
+        "id": "v0597",
+        "word": "deal",
+        "translation": "จัดการ",
+        "pos": "verb",
+        "example": "Deal with it.",
+        "level": "basic"
+    },
+    {
+        "id": "v0598",
+        "word": "dear",
+        "translation": "ที่รัก",
+        "pos": "adj",
+        "example": "Dear friend.",
+        "level": "basic"
+    },
+    {
+        "id": "v0599",
+        "word": "death",
+        "translation": "ความตาย",
+        "pos": "noun",
+        "example": "Fear of death.",
+        "level": "basic"
+    },
+    {
+        "id": "v0600",
+        "word": "debate",
+        "translation": "การโต้วาที",
+        "pos": "noun",
+        "example": "Public debate.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0601",
+        "word": "debt",
+        "translation": "หนี้สิน",
+        "pos": "noun",
+        "example": "Pay off debt.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0602",
+        "word": "decade",
+        "translation": "ทศวรรษ",
+        "pos": "noun",
+        "example": "Over a decade.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0603",
+        "word": "decide",
+        "translation": "ตัดสินใจ",
+        "pos": "verb",
+        "example": "You decide.",
+        "level": "basic"
+    },
+    {
+        "id": "v0604",
+        "word": "decision",
+        "translation": "การตัดสินใจ",
+        "pos": "noun",
+        "example": "Make a decision.",
+        "level": "basic"
+    },
+    {
+        "id": "v0605",
+        "word": "declare",
+        "translation": "ประกาศ",
+        "pos": "verb",
+        "example": "Declare war.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0606",
+        "word": "decline",
+        "translation": "ลดลง",
+        "pos": "verb",
+        "example": "Sales declined.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0607",
+        "word": "decorate",
+        "translation": "ตกแต่ง",
+        "pos": "verb",
+        "example": "Decorate the room.",
+        "level": "basic"
+    },
+    {
+        "id": "v0608",
+        "word": "decrease",
+        "translation": "ลดลง",
+        "pos": "verb",
+        "example": "Temperature decreased.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0609",
+        "word": "deep",
+        "translation": "ลึก",
+        "pos": "adj",
+        "example": "Deep water.",
+        "level": "basic"
+    },
+    {
+        "id": "v0610",
+        "word": "deeply",
+        "translation": "อย่างลึกซึ้ง",
+        "pos": "adv",
+        "example": "Deeply sorry.",
+        "level": "basic"
+    },
+    {
+        "id": "v0611",
+        "word": "defeat",
+        "translation": "เอาชนะ",
+        "pos": "verb",
+        "example": "Defeat the enemy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0612",
+        "word": "defend",
+        "translation": "ป้องกัน",
+        "pos": "verb",
+        "example": "Defend yourself.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0613",
+        "word": "defense",
+        "translation": "การป้องกัน",
+        "pos": "noun",
+        "example": "Self-defense.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0614",
+        "word": "define",
+        "translation": "นิยาม",
+        "pos": "verb",
+        "example": "Define the word.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0615",
+        "word": "definitely",
+        "translation": "แน่นอน",
+        "pos": "adv",
+        "example": "Definitely coming.",
+        "level": "basic"
+    },
+    {
+        "id": "v0616",
+        "word": "definition",
+        "translation": "คำนิยาม",
+        "pos": "noun",
+        "example": "By definition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0617",
+        "word": "degree",
+        "translation": "ปริญญา",
+        "pos": "noun",
+        "example": "Bachelor's degree.",
+        "level": "basic"
+    },
+    {
+        "id": "v0618",
+        "word": "delay",
+        "translation": "ล่าช้า",
+        "pos": "noun",
+        "example": "Flight delay.",
+        "level": "basic"
+    },
+    {
+        "id": "v0619",
+        "word": "deliver",
+        "translation": "ส่ง",
+        "pos": "verb",
+        "example": "Deliver the package.",
+        "level": "basic"
+    },
+    {
+        "id": "v0620",
+        "word": "delivery",
+        "translation": "การจัดส่ง",
+        "pos": "noun",
+        "example": "Free delivery.",
+        "level": "basic"
+    },
+    {
+        "id": "v0621",
+        "word": "demand",
+        "translation": "ความต้องการ",
+        "pos": "noun",
+        "example": "High demand.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0622",
+        "word": "democracy",
+        "translation": "ประชาธิปไตย",
+        "pos": "noun",
+        "example": "Fight for democracy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0623",
+        "word": "democratic",
+        "translation": "ประชาธิปไตย",
+        "pos": "adj",
+        "example": "Democratic country.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0624",
+        "word": "demonstrate",
+        "translation": "แสดงให้เห็น",
+        "pos": "verb",
+        "example": "Demonstrate how.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0625",
+        "word": "deny",
+        "translation": "ปฏิเสธ",
+        "pos": "verb",
+        "example": "Deny the claim.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0626",
+        "word": "department",
+        "translation": "แผนก",
+        "pos": "noun",
+        "example": "HR department.",
+        "level": "basic"
+    },
+    {
+        "id": "v0627",
+        "word": "depend",
+        "translation": "ขึ้นอยู่กับ",
+        "pos": "verb",
+        "example": "It depends.",
+        "level": "basic"
+    },
+    {
+        "id": "v0628",
+        "word": "dependent",
+        "translation": "พึ่งพา",
+        "pos": "adj",
+        "example": "Dependent on others.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0629",
+        "word": "depression",
+        "translation": "ภาวะซึมเศร้า",
+        "pos": "noun",
+        "example": "Clinical depression.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0630",
+        "word": "depth",
+        "translation": "ความลึก",
+        "pos": "noun",
+        "example": "Ocean depth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0631",
+        "word": "describe",
+        "translation": "อธิบาย",
+        "pos": "verb",
+        "example": "Describe yourself.",
+        "level": "basic"
+    },
+    {
+        "id": "v0632",
+        "word": "description",
+        "translation": "คำอธิบาย",
+        "pos": "noun",
+        "example": "Job description.",
+        "level": "basic"
+    },
+    {
+        "id": "v0633",
+        "word": "desert",
+        "translation": "ทะเลทราย",
+        "pos": "noun",
+        "example": "Sahara Desert.",
+        "level": "basic"
+    },
+    {
+        "id": "v0634",
+        "word": "deserve",
+        "translation": "สมควรได้รับ",
+        "pos": "verb",
+        "example": "You deserve it.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0635",
+        "word": "design",
+        "translation": "ออกแบบ",
+        "pos": "verb",
+        "example": "Design a logo.",
+        "level": "basic"
+    },
+    {
+        "id": "v0636",
+        "word": "designer",
+        "translation": "นักออกแบบ",
+        "pos": "noun",
+        "example": "Fashion designer.",
+        "level": "basic"
+    },
+    {
+        "id": "v0637",
+        "word": "desire",
+        "translation": "ความปรารถนา",
+        "pos": "noun",
+        "example": "Heart's desire.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0638",
+        "word": "desk",
+        "translation": "โต๊ะ",
+        "pos": "noun",
+        "example": "Office desk.",
+        "level": "basic"
+    },
+    {
+        "id": "v0639",
+        "word": "desperate",
+        "translation": "สิ้นหวัง",
+        "pos": "adj",
+        "example": "Desperate situation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0640",
+        "word": "despite",
+        "translation": "แม้ว่า",
+        "pos": "prep",
+        "example": "Despite the rain.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0641",
+        "word": "destroy",
+        "translation": "ทำลาย",
+        "pos": "verb",
+        "example": "Destroy the evidence.",
+        "level": "basic"
+    },
+    {
+        "id": "v0642",
+        "word": "destruction",
+        "translation": "การทำลาย",
+        "pos": "noun",
+        "example": "Mass destruction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0643",
+        "word": "detail",
+        "translation": "รายละเอียด",
+        "pos": "noun",
+        "example": "In detail.",
+        "level": "basic"
+    },
+    {
+        "id": "v0644",
+        "word": "detailed",
+        "translation": "ละเอียด",
+        "pos": "adj",
+        "example": "Detailed report.",
+        "level": "basic"
+    },
+    {
+        "id": "v0645",
+        "word": "detect",
+        "translation": "ตรวจจับ",
+        "pos": "verb",
+        "example": "Detect the error.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0646",
+        "word": "determine",
+        "translation": "กำหนด",
+        "pos": "verb",
+        "example": "Determine the outcome.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0647",
+        "word": "develop",
+        "translation": "พัฒนา",
+        "pos": "verb",
+        "example": "Develop skills.",
+        "level": "basic"
+    },
+    {
+        "id": "v0648",
+        "word": "development",
+        "translation": "การพัฒนา",
+        "pos": "noun",
+        "example": "Economic development.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v0649",
+        "word": "device",
+        "translation": "อุปกรณ์",
+        "pos": "noun",
+        "example": "Electronic device.",
+        "level": "basic"
+    },
+    {
+        "id": "v0650",
+        "word": "devil",
+        "translation": "ปีศาจ",
+        "pos": "noun",
+        "example": "The devil.",
+        "level": "basic"
+    }
+]

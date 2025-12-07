@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v7001",
+        "word": "revision",
+        "translation": "การแก้ไข",
+        "pos": "noun",
+        "example": "Major revision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7002",
+        "word": "revival",
+        "translation": "การฟื้นฟู",
+        "pos": "noun",
+        "example": "Economic revival.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7003",
+        "word": "revive",
+        "translation": "ฟื้นฟู",
+        "pos": "verb",
+        "example": "Revive economy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7004",
+        "word": "revolution",
+        "translation": "การปฏิวัติ",
+        "pos": "noun",
+        "example": "Industrial revolution.",
+        "level": "basic"
+    },
+    {
+        "id": "v7005",
+        "word": "revolutionary",
+        "translation": "ปฏิวัติ",
+        "pos": "adj",
+        "example": "Revolutionary idea.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7006",
+        "word": "reward",
+        "translation": "รางวัล",
+        "pos": "noun",
+        "example": "Get reward.",
+        "level": "basic"
+    },
+    {
+        "id": "v7007",
+        "word": "rewarding",
+        "translation": "คุ้มค่า",
+        "pos": "adj",
+        "example": "Very rewarding.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7008",
+        "word": "rhetoric",
+        "translation": "วาทศิลป์",
+        "pos": "noun",
+        "example": "Political rhetoric.",
+        "level": "advanced"
+    },
+    {
+        "id": "v7009",
+        "word": "rhythm",
+        "translation": "จังหวะ",
+        "pos": "noun",
+        "example": "Music rhythm.",
+        "level": "basic"
+    },
+    {
+        "id": "v7010",
+        "word": "rib",
+        "translation": "ซี่โครง",
+        "pos": "noun",
+        "example": "Spare ribs.",
+        "level": "basic"
+    },
+    {
+        "id": "v7011",
+        "word": "ribbon",
+        "translation": "ริบบิ้น",
+        "pos": "noun",
+        "example": "Red ribbon.",
+        "level": "basic"
+    },
+    {
+        "id": "v7012",
+        "word": "rice",
+        "translation": "ข้าว",
+        "pos": "noun",
+        "example": "Fried rice.",
+        "level": "basic"
+    },
+    {
+        "id": "v7013",
+        "word": "rich",
+        "translation": "รวย",
+        "pos": "adj",
+        "example": "Very rich.",
+        "level": "basic"
+    },
+    {
+        "id": "v7014",
+        "word": "rid",
+        "translation": "กำจัด",
+        "pos": "verb",
+        "example": "Get rid of.",
+        "level": "basic"
+    },
+    {
+        "id": "v7015",
+        "word": "ride",
+        "translation": "ขี่",
+        "pos": "verb",
+        "example": "Ride a bike.",
+        "level": "basic"
+    },
+    {
+        "id": "v7016",
+        "word": "rider",
+        "translation": "ผู้ขับขี่",
+        "pos": "noun",
+        "example": "Motorcycle rider.",
+        "level": "basic"
+    },
+    {
+        "id": "v7017",
+        "word": "ridge",
+        "translation": "สันเขา",
+        "pos": "noun",
+        "example": "Mountain ridge.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7018",
+        "word": "ridiculous",
+        "translation": "ไร้สาระ",
+        "pos": "adj",
+        "example": "That's ridiculous.",
+        "level": "basic"
+    },
+    {
+        "id": "v7019",
+        "word": "rifle",
+        "translation": "ปืนไรเฟิล",
+        "pos": "noun",
+        "example": "Hunting rifle.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7020",
+        "word": "right",
+        "translation": "ขวา",
+        "pos": "adj",
+        "example": "Turn right.",
+        "level": "basic"
+    },
+    {
+        "id": "v7021",
+        "word": "rightly",
+        "translation": "ถูกต้อง",
+        "pos": "adv",
+        "example": "Quite rightly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7022",
+        "word": "rigid",
+        "translation": "แข็ง",
+        "pos": "adj",
+        "example": "Rigid structure.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7023",
+        "word": "ring",
+        "translation": "แหวน",
+        "pos": "noun",
+        "example": "Wedding ring.",
+        "level": "basic"
+    },
+    {
+        "id": "v7024",
+        "word": "riot",
+        "translation": "จลาจล",
+        "pos": "noun",
+        "example": "Street riot.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7025",
+        "word": "rip",
+        "translation": "ฉีก",
+        "pos": "verb",
+        "example": "Rip apart.",
+        "level": "basic"
+    },
+    {
+        "id": "v7026",
+        "word": "rise",
+        "translation": "ขึ้น",
+        "pos": "verb",
+        "example": "Rise up.",
+        "level": "basic"
+    },
+    {
+        "id": "v7027",
+        "word": "rising",
+        "translation": "ที่เพิ่มขึ้น",
+        "pos": "adj",
+        "example": "Rising cost.",
+        "level": "basic"
+    },
+    {
+        "id": "v7028",
+        "word": "risk",
+        "translation": "ความเสี่ยง",
+        "pos": "noun",
+        "example": "High risk.",
+        "level": "basic"
+    },
+    {
+        "id": "v7029",
+        "word": "risky",
+        "translation": "เสี่ยง",
+        "pos": "adj",
+        "example": "Too risky.",
+        "level": "basic"
+    },
+    {
+        "id": "v7030",
+        "word": "ritual",
+        "translation": "พิธีกรรม",
+        "pos": "noun",
+        "example": "Ancient ritual.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7031",
+        "word": "rival",
+        "translation": "คู่แข่ง",
+        "pos": "noun",
+        "example": "Business rival.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7032",
+        "word": "rivalry",
+        "translation": "การแข่งขัน",
+        "pos": "noun",
+        "example": "Intense rivalry.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7033",
+        "word": "river",
+        "translation": "แม่น้ำ",
+        "pos": "noun",
+        "example": "Long river.",
+        "level": "basic"
+    },
+    {
+        "id": "v7034",
+        "word": "road",
+        "translation": "ถนน",
+        "pos": "noun",
+        "example": "Main road.",
+        "level": "basic"
+    },
+    {
+        "id": "v7035",
+        "word": "roast",
+        "translation": "ย่าง",
+        "pos": "verb",
+        "example": "Roast chicken.",
+        "level": "basic"
+    },
+    {
+        "id": "v7036",
+        "word": "rob",
+        "translation": "ปล้น",
+        "pos": "verb",
+        "example": "Rob a bank.",
+        "level": "basic"
+    },
+    {
+        "id": "v7037",
+        "word": "robbery",
+        "translation": "การปล้น",
+        "pos": "noun",
+        "example": "Bank robbery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7038",
+        "word": "robot",
+        "translation": "หุ่นยนต์",
+        "pos": "noun",
+        "example": "Factory robot.",
+        "level": "basic"
+    },
+    {
+        "id": "v7039",
+        "word": "robust",
+        "translation": "แข็งแรง",
+        "pos": "adj",
+        "example": "Robust system.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7040",
+        "word": "rock",
+        "translation": "หิน",
+        "pos": "noun",
+        "example": "Big rock.",
+        "level": "basic"
+    },
+    {
+        "id": "v7041",
+        "word": "rocket",
+        "translation": "จรวด",
+        "pos": "noun",
+        "example": "Space rocket.",
+        "level": "basic"
+    },
+    {
+        "id": "v7042",
+        "word": "rocky",
+        "translation": "เป็นหิน",
+        "pos": "adj",
+        "example": "Rocky road.",
+        "level": "basic"
+    },
+    {
+        "id": "v7043",
+        "word": "rod",
+        "translation": "แท่ง",
+        "pos": "noun",
+        "example": "Fishing rod.",
+        "level": "basic"
+    },
+    {
+        "id": "v7044",
+        "word": "role",
+        "translation": "บทบาท",
+        "pos": "noun",
+        "example": "Important role.",
+        "level": "basic"
+    },
+    {
+        "id": "v7045",
+        "word": "roll",
+        "translation": "ม้วน",
+        "pos": "verb",
+        "example": "Roll up.",
+        "level": "basic"
+    },
+    {
+        "id": "v7046",
+        "word": "roller",
+        "translation": "ลูกกลิ้ง",
+        "pos": "noun",
+        "example": "Paint roller.",
+        "level": "basic"
+    },
+    {
+        "id": "v7047",
+        "word": "romance",
+        "translation": "โรแมนติก",
+        "pos": "noun",
+        "example": "Summer romance.",
+        "level": "basic"
+    },
+    {
+        "id": "v7048",
+        "word": "romantic",
+        "translation": "โรแมนติก",
+        "pos": "adj",
+        "example": "Very romantic.",
+        "level": "basic"
+    },
+    {
+        "id": "v7049",
+        "word": "roof",
+        "translation": "หลังคา",
+        "pos": "noun",
+        "example": "Red roof.",
+        "level": "basic"
+    },
+    {
+        "id": "v7050",
+        "word": "room",
+        "translation": "ห้อง",
+        "pos": "noun",
+        "example": "Living room.",
+        "level": "basic"
+    },
+    {
+        "id": "v7051",
+        "word": "roommate",
+        "translation": "เพื่อนร่วมห้อง",
+        "pos": "noun",
+        "example": "Good roommate.",
+        "level": "basic"
+    },
+    {
+        "id": "v7052",
+        "word": "root",
+        "translation": "ราก",
+        "pos": "noun",
+        "example": "Tree root.",
+        "level": "basic"
+    },
+    {
+        "id": "v7053",
+        "word": "rope",
+        "translation": "เชือก",
+        "pos": "noun",
+        "example": "Long rope.",
+        "level": "basic"
+    },
+    {
+        "id": "v7054",
+        "word": "rose",
+        "translation": "ดอกกุหลาบ",
+        "pos": "noun",
+        "example": "Red rose.",
+        "level": "basic"
+    },
+    {
+        "id": "v7055",
+        "word": "rotate",
+        "translation": "หมุน",
+        "pos": "verb",
+        "example": "Rotate screen.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7056",
+        "word": "rotation",
+        "translation": "การหมุน",
+        "pos": "noun",
+        "example": "Job rotation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7057",
+        "word": "rotten",
+        "translation": "เน่า",
+        "pos": "adj",
+        "example": "Rotten apple.",
+        "level": "basic"
+    },
+    {
+        "id": "v7058",
+        "word": "rough",
+        "translation": "หยาบ",
+        "pos": "adj",
+        "example": "Rough surface.",
+        "level": "basic"
+    },
+    {
+        "id": "v7059",
+        "word": "roughly",
+        "translation": "โดยประมาณ",
+        "pos": "adv",
+        "example": "Roughly speaking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7060",
+        "word": "round",
+        "translation": "รอบ",
+        "pos": "adj",
+        "example": "Round shape.",
+        "level": "basic"
+    },
+    {
+        "id": "v7061",
+        "word": "route",
+        "translation": "เส้นทาง",
+        "pos": "noun",
+        "example": "Shortest route.",
+        "level": "basic"
+    },
+    {
+        "id": "v7062",
+        "word": "routine",
+        "translation": "กิจวัตร",
+        "pos": "noun",
+        "example": "Daily routine.",
+        "level": "basic"
+    },
+    {
+        "id": "v7063",
+        "word": "row",
+        "translation": "แถว",
+        "pos": "noun",
+        "example": "Front row.",
+        "level": "basic"
+    },
+    {
+        "id": "v7064",
+        "word": "royal",
+        "translation": "หลวง",
+        "pos": "adj",
+        "example": "Royal family.",
+        "level": "basic"
+    },
+    {
+        "id": "v7065",
+        "word": "rub",
+        "translation": "ถู",
+        "pos": "verb",
+        "example": "Rub eyes.",
+        "level": "basic"
+    },
+    {
+        "id": "v7066",
+        "word": "rubber",
+        "translation": "ยาง",
+        "pos": "noun",
+        "example": "Rubber band.",
+        "level": "basic"
+    },
+    {
+        "id": "v7067",
+        "word": "rubbish",
+        "translation": "ขยะ",
+        "pos": "noun",
+        "example": "That's rubbish.",
+        "level": "basic"
+    },
+    {
+        "id": "v7068",
+        "word": "rude",
+        "translation": "หยาบคาย",
+        "pos": "adj",
+        "example": "Very rude.",
+        "level": "basic"
+    },
+    {
+        "id": "v7069",
+        "word": "rug",
+        "translation": "พรม",
+        "pos": "noun",
+        "example": "Floor rug.",
+        "level": "basic"
+    },
+    {
+        "id": "v7070",
+        "word": "ruin",
+        "translation": "ทำลาย",
+        "pos": "verb",
+        "example": "Ruin everything.",
+        "level": "basic"
+    },
+    {
+        "id": "v7071",
+        "word": "rule",
+        "translation": "กฎ",
+        "pos": "noun",
+        "example": "Follow rules.",
+        "level": "basic"
+    },
+    {
+        "id": "v7072",
+        "word": "ruler",
+        "translation": "ไม้บรรทัด",
+        "pos": "noun",
+        "example": "Use a ruler.",
+        "level": "basic"
+    },
+    {
+        "id": "v7073",
+        "word": "ruling",
+        "translation": "คำตัดสิน",
+        "pos": "noun",
+        "example": "Court ruling.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7074",
+        "word": "rumor",
+        "translation": "ข่าวลือ",
+        "pos": "noun",
+        "example": "Spread rumor.",
+        "level": "basic"
+    },
+    {
+        "id": "v7075",
+        "word": "run",
+        "translation": "วิ่ง",
+        "pos": "verb",
+        "example": "Run fast.",
+        "level": "basic"
+    },
+    {
+        "id": "v7076",
+        "word": "runner",
+        "translation": "นักวิ่ง",
+        "pos": "noun",
+        "example": "Marathon runner.",
+        "level": "basic"
+    },
+    {
+        "id": "v7077",
+        "word": "running",
+        "translation": "การวิ่ง",
+        "pos": "noun",
+        "example": "Go running.",
+        "level": "basic"
+    },
+    {
+        "id": "v7078",
+        "word": "rural",
+        "translation": "ชนบท",
+        "pos": "adj",
+        "example": "Rural area.",
+        "level": "basic"
+    },
+    {
+        "id": "v7079",
+        "word": "rush",
+        "translation": "รีบ",
+        "pos": "verb",
+        "example": "Don't rush.",
+        "level": "basic"
+    },
+    {
+        "id": "v7080",
+        "word": "rusty",
+        "translation": "ขึ้นสนิม",
+        "pos": "adj",
+        "example": "Rusty nail.",
+        "level": "basic"
+    },
+    {
+        "id": "v7081",
+        "word": "sacred",
+        "translation": "ศักดิ์สิทธิ์",
+        "pos": "adj",
+        "example": "Sacred place.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7082",
+        "word": "sacrifice",
+        "translation": "เสียสละ",
+        "pos": "noun",
+        "example": "Make sacrifice.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7083",
+        "word": "sad",
+        "translation": "เศร้า",
+        "pos": "adj",
+        "example": "Feel sad.",
+        "level": "basic"
+    },
+    {
+        "id": "v7084",
+        "word": "sadly",
+        "translation": "อย่างน่าเศร้า",
+        "pos": "adv",
+        "example": "Sadly.",
+        "level": "basic"
+    },
+    {
+        "id": "v7085",
+        "word": "sadness",
+        "translation": "ความเศร้า",
+        "pos": "noun",
+        "example": "Deep sadness.",
+        "level": "basic"
+    },
+    {
+        "id": "v7086",
+        "word": "safe",
+        "translation": "ปลอดภัย",
+        "pos": "adj",
+        "example": "Stay safe.",
+        "level": "basic"
+    },
+    {
+        "id": "v7087",
+        "word": "safely",
+        "translation": "อย่างปลอดภัย",
+        "pos": "adv",
+        "example": "Arrive safely.",
+        "level": "basic"
+    },
+    {
+        "id": "v7088",
+        "word": "safety",
+        "translation": "ความปลอดภัย",
+        "pos": "noun",
+        "example": "Safety first.",
+        "level": "basic"
+    },
+    {
+        "id": "v7089",
+        "word": "sail",
+        "translation": "แล่นเรือ",
+        "pos": "verb",
+        "example": "Sail away.",
+        "level": "basic"
+    },
+    {
+        "id": "v7090",
+        "word": "sailing",
+        "translation": "การแล่นเรือ",
+        "pos": "noun",
+        "example": "Go sailing.",
+        "level": "basic"
+    },
+    {
+        "id": "v7091",
+        "word": "sailor",
+        "translation": "กะลาสี",
+        "pos": "noun",
+        "example": "Navy sailor.",
+        "level": "basic"
+    },
+    {
+        "id": "v7092",
+        "word": "saint",
+        "translation": "นักบุญ",
+        "pos": "noun",
+        "example": "Saint Peter.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7093",
+        "word": "sake",
+        "translation": "เห็นแก่",
+        "pos": "noun",
+        "example": "For the sake of.",
+        "level": "basic"
+    },
+    {
+        "id": "v7094",
+        "word": "salad",
+        "translation": "สลัด",
+        "pos": "noun",
+        "example": "Fresh salad.",
+        "level": "basic"
+    },
+    {
+        "id": "v7095",
+        "word": "salary",
+        "translation": "เงินเดือน",
+        "pos": "noun",
+        "example": "Monthly salary.",
+        "level": "basic"
+    },
+    {
+        "id": "v7096",
+        "word": "sale",
+        "translation": "การขาย",
+        "pos": "noun",
+        "example": "On sale.",
+        "level": "basic"
+    },
+    {
+        "id": "v7097",
+        "word": "salesman",
+        "translation": "พนักงานขาย",
+        "pos": "noun",
+        "example": "Car salesman.",
+        "level": "basic"
+    },
+    {
+        "id": "v7098",
+        "word": "salmon",
+        "translation": "ปลาแซลมอน",
+        "pos": "noun",
+        "example": "Fresh salmon.",
+        "level": "basic"
+    },
+    {
+        "id": "v7099",
+        "word": "salon",
+        "translation": "ร้านเสริมสวย",
+        "pos": "noun",
+        "example": "Hair salon.",
+        "level": "basic"
+    },
+    {
+        "id": "v7100",
+        "word": "salt",
+        "translation": "เกลือ",
+        "pos": "noun",
+        "example": "Sea salt.",
+        "level": "basic"
+    }
+]

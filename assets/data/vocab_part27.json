@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v2501",
+        "word": "six",
+        "translation": "หก",
+        "pos": "num",
+        "example": "Six o'clock.",
+        "level": "basic"
+    },
+    {
+        "id": "v2502",
+        "word": "size",
+        "translation": "ขนาด",
+        "pos": "noun",
+        "example": "What size?",
+        "level": "basic"
+    },
+    {
+        "id": "v2503",
+        "word": "ski",
+        "translation": "สกี",
+        "pos": "noun",
+        "example": "Go skiing.",
+        "level": "basic"
+    },
+    {
+        "id": "v2504",
+        "word": "skill",
+        "translation": "ทักษะ",
+        "pos": "noun",
+        "example": "New skills.",
+        "level": "basic"
+    },
+    {
+        "id": "v2505",
+        "word": "skilled",
+        "translation": "มีทักษะ",
+        "pos": "adj",
+        "example": "Skilled worker.",
+        "level": "basic"
+    },
+    {
+        "id": "v2506",
+        "word": "skin",
+        "translation": "ผิว",
+        "pos": "noun",
+        "example": "Skin care.",
+        "level": "basic"
+    },
+    {
+        "id": "v2507",
+        "word": "sky",
+        "translation": "ท้องฟ้า",
+        "pos": "noun",
+        "example": "Blue sky.",
+        "level": "basic"
+    },
+    {
+        "id": "v2508",
+        "word": "slave",
+        "translation": "ทาส",
+        "pos": "noun",
+        "example": "No slaves.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2509",
+        "word": "sleep",
+        "translation": "นอน",
+        "pos": "verb",
+        "example": "Good sleep.",
+        "level": "basic"
+    },
+    {
+        "id": "v2510",
+        "word": "slice",
+        "translation": "ชิ้น",
+        "pos": "noun",
+        "example": "Pizza slice.",
+        "level": "basic"
+    },
+    {
+        "id": "v2511",
+        "word": "slide",
+        "translation": "เลื่อน",
+        "pos": "verb",
+        "example": "Slide down.",
+        "level": "basic"
+    },
+    {
+        "id": "v2512",
+        "word": "slight",
+        "translation": "เล็กน้อย",
+        "pos": "adj",
+        "example": "Slight change.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2513",
+        "word": "slightly",
+        "translation": "เล็กน้อย",
+        "pos": "adv",
+        "example": "Slightly different.",
+        "level": "basic"
+    },
+    {
+        "id": "v2514",
+        "word": "slip",
+        "translation": "ลื่น",
+        "pos": "verb",
+        "example": "Don't slip.",
+        "level": "basic"
+    },
+    {
+        "id": "v2515",
+        "word": "slow",
+        "translation": "ช้า",
+        "pos": "adj",
+        "example": "Too slow.",
+        "level": "basic"
+    },
+    {
+        "id": "v2516",
+        "word": "slowly",
+        "translation": "อย่างช้าๆ",
+        "pos": "adv",
+        "example": "Walk slowly.",
+        "level": "basic"
+    },
+    {
+        "id": "v2517",
+        "word": "small",
+        "translation": "เล็ก",
+        "pos": "adj",
+        "example": "Small size.",
+        "level": "basic"
+    },
+    {
+        "id": "v2518",
+        "word": "smart",
+        "translation": "ฉลาด",
+        "pos": "adj",
+        "example": "Smart phone.",
+        "level": "basic"
+    },
+    {
+        "id": "v2519",
+        "word": "smell",
+        "translation": "กลิ่น",
+        "pos": "noun",
+        "example": "Good smell.",
+        "level": "basic"
+    },
+    {
+        "id": "v2520",
+        "word": "smile",
+        "translation": "ยิ้ม",
+        "pos": "verb",
+        "example": "Keep smiling.",
+        "level": "basic"
+    },
+    {
+        "id": "v2521",
+        "word": "smoke",
+        "translation": "ควัน",
+        "pos": "noun",
+        "example": "No smoking.",
+        "level": "basic"
+    },
+    {
+        "id": "v2522",
+        "word": "smooth",
+        "translation": "เรียบ",
+        "pos": "adj",
+        "example": "Smooth surface.",
+        "level": "basic"
+    },
+    {
+        "id": "v2523",
+        "word": "snap",
+        "translation": "ถ่ายรูป",
+        "pos": "verb",
+        "example": "Snap a photo.",
+        "level": "basic"
+    },
+    {
+        "id": "v2524",
+        "word": "snow",
+        "translation": "หิมะ",
+        "pos": "noun",
+        "example": "Snow falls.",
+        "level": "basic"
+    },
+    {
+        "id": "v2525",
+        "word": "so",
+        "translation": "ดังนั้น",
+        "pos": "adv",
+        "example": "So much.",
+        "level": "basic"
+    },
+    {
+        "id": "v2526",
+        "word": "soccer",
+        "translation": "ฟุตบอล",
+        "pos": "noun",
+        "example": "Play soccer.",
+        "level": "basic"
+    },
+    {
+        "id": "v2527",
+        "word": "social",
+        "translation": "สังคม",
+        "pos": "adj",
+        "example": "Social media.",
+        "level": "basic"
+    },
+    {
+        "id": "v2528",
+        "word": "society",
+        "translation": "สังคม",
+        "pos": "noun",
+        "example": "Modern society.",
+        "level": "basic"
+    },
+    {
+        "id": "v2529",
+        "word": "sock",
+        "translation": "ถุงเท้า",
+        "pos": "noun",
+        "example": "White socks.",
+        "level": "basic"
+    },
+    {
+        "id": "v2530",
+        "word": "soft",
+        "translation": "นุ่ม",
+        "pos": "adj",
+        "example": "Soft pillow.",
+        "level": "basic"
+    },
+    {
+        "id": "v2531",
+        "word": "software",
+        "translation": "ซอฟต์แวร์",
+        "pos": "noun",
+        "example": "New software.",
+        "level": "basic"
+    },
+    {
+        "id": "v2532",
+        "word": "soil",
+        "translation": "ดิน",
+        "pos": "noun",
+        "example": "Rich soil.",
+        "level": "basic"
+    },
+    {
+        "id": "v2533",
+        "word": "solar",
+        "translation": "สุริยะ",
+        "pos": "adj",
+        "example": "Solar power.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2534",
+        "word": "soldier",
+        "translation": "ทหาร",
+        "pos": "noun",
+        "example": "Army soldier.",
+        "level": "basic"
+    },
+    {
+        "id": "v2535",
+        "word": "sole",
+        "translation": "เดียว",
+        "pos": "adj",
+        "example": "Sole reason.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2536",
+        "word": "solely",
+        "translation": "เพียงอย่างเดียว",
+        "pos": "adv",
+        "example": "Solely responsible.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2537",
+        "word": "solid",
+        "translation": "แข็ง",
+        "pos": "adj",
+        "example": "Solid foundation.",
+        "level": "basic"
+    },
+    {
+        "id": "v2538",
+        "word": "solution",
+        "translation": "วิธีแก้ไข",
+        "pos": "noun",
+        "example": "Find a solution.",
+        "level": "basic"
+    },
+    {
+        "id": "v2539",
+        "word": "solve",
+        "translation": "แก้ไข",
+        "pos": "verb",
+        "example": "Solve the problem.",
+        "level": "basic"
+    },
+    {
+        "id": "v2540",
+        "word": "some",
+        "translation": "บาง",
+        "pos": "det",
+        "example": "Some people.",
+        "level": "basic"
+    },
+    {
+        "id": "v2541",
+        "word": "somebody",
+        "translation": "ใครบางคน",
+        "pos": "pron",
+        "example": "Somebody help.",
+        "level": "basic"
+    },
+    {
+        "id": "v2542",
+        "word": "somehow",
+        "translation": "อย่างใดอย่างหนึ่ง",
+        "pos": "adv",
+        "example": "Somehow.",
+        "level": "basic"
+    },
+    {
+        "id": "v2543",
+        "word": "someone",
+        "translation": "ใครบางคน",
+        "pos": "pron",
+        "example": "Someone is here.",
+        "level": "basic"
+    },
+    {
+        "id": "v2544",
+        "word": "something",
+        "translation": "บางสิ่ง",
+        "pos": "pron",
+        "example": "Something wrong.",
+        "level": "basic"
+    },
+    {
+        "id": "v2545",
+        "word": "sometimes",
+        "translation": "บางครั้ง",
+        "pos": "adv",
+        "example": "Sometimes.",
+        "level": "basic"
+    },
+    {
+        "id": "v2546",
+        "word": "somewhat",
+        "translation": "ค่อนข้าง",
+        "pos": "adv",
+        "example": "Somewhat different.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2547",
+        "word": "somewhere",
+        "translation": "ที่ไหนสักที่",
+        "pos": "adv",
+        "example": "Go somewhere.",
+        "level": "basic"
+    },
+    {
+        "id": "v2548",
+        "word": "son",
+        "translation": "ลูกชาย",
+        "pos": "noun",
+        "example": "My son.",
+        "level": "basic"
+    },
+    {
+        "id": "v2549",
+        "word": "song",
+        "translation": "เพลง",
+        "pos": "noun",
+        "example": "Love song.",
+        "level": "basic"
+    },
+    {
+        "id": "v2550",
+        "word": "soon",
+        "translation": "เร็วๆ นี้",
+        "pos": "adv",
+        "example": "See you soon.",
+        "level": "basic"
+    },
+    {
+        "id": "v2551",
+        "word": "sophisticated",
+        "translation": "ซับซ้อน",
+        "pos": "adj",
+        "example": "Sophisticated system.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2552",
+        "word": "sorry",
+        "translation": "ขอโทษ",
+        "pos": "adj",
+        "example": "I'm sorry.",
+        "level": "basic"
+    },
+    {
+        "id": "v2553",
+        "word": "sort",
+        "translation": "จัดเรียง",
+        "pos": "verb",
+        "example": "Sort by date.",
+        "level": "basic"
+    },
+    {
+        "id": "v2554",
+        "word": "soul",
+        "translation": "วิญญาณ",
+        "pos": "noun",
+        "example": "Heart and soul.",
+        "level": "basic"
+    },
+    {
+        "id": "v2555",
+        "word": "sound",
+        "translation": "เสียง",
+        "pos": "noun",
+        "example": "Good sound.",
+        "level": "basic"
+    },
+    {
+        "id": "v2556",
+        "word": "soup",
+        "translation": "ซุป",
+        "pos": "noun",
+        "example": "Chicken soup.",
+        "level": "basic"
+    },
+    {
+        "id": "v2557",
+        "word": "source",
+        "translation": "แหล่ง",
+        "pos": "noun",
+        "example": "News source.",
+        "level": "basic"
+    },
+    {
+        "id": "v2558",
+        "word": "south",
+        "translation": "ใต้",
+        "pos": "noun",
+        "example": "Down south.",
+        "level": "basic"
+    },
+    {
+        "id": "v2559",
+        "word": "southern",
+        "translation": "ทางใต้",
+        "pos": "adj",
+        "example": "Southern region.",
+        "level": "basic"
+    },
+    {
+        "id": "v2560",
+        "word": "space",
+        "translation": "พื้นที่",
+        "pos": "noun",
+        "example": "Outer space.",
+        "level": "basic"
+    },
+    {
+        "id": "v2561",
+        "word": "spare",
+        "translation": "สำรอง",
+        "pos": "adj",
+        "example": "Spare time.",
+        "level": "basic"
+    },
+    {
+        "id": "v2562",
+        "word": "speak",
+        "translation": "พูด",
+        "pos": "verb",
+        "example": "Speak English.",
+        "level": "basic"
+    },
+    {
+        "id": "v2563",
+        "word": "speaker",
+        "translation": "ผู้พูด",
+        "pos": "noun",
+        "example": "Guest speaker.",
+        "level": "basic"
+    },
+    {
+        "id": "v2564",
+        "word": "special",
+        "translation": "พิเศษ",
+        "pos": "adj",
+        "example": "Special offer.",
+        "level": "basic"
+    },
+    {
+        "id": "v2565",
+        "word": "specialist",
+        "translation": "ผู้เชี่ยวชาญ",
+        "pos": "noun",
+        "example": "IT specialist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2566",
+        "word": "species",
+        "translation": "สายพันธุ์",
+        "pos": "noun",
+        "example": "Endangered species.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2567",
+        "word": "specific",
+        "translation": "เฉพาะ",
+        "pos": "adj",
+        "example": "Specific example.",
+        "level": "basic"
+    },
+    {
+        "id": "v2568",
+        "word": "specifically",
+        "translation": "โดยเฉพาะ",
+        "pos": "adv",
+        "example": "Specifically.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2569",
+        "word": "specify",
+        "translation": "ระบุ",
+        "pos": "verb",
+        "example": "Please specify.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2570",
+        "word": "spectacular",
+        "translation": "น่าตื่นตาตื่นใจ",
+        "pos": "adj",
+        "example": "Spectacular view.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2571",
+        "word": "spectrum",
+        "translation": "สเปกตรัม",
+        "pos": "noun",
+        "example": "Wide spectrum.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2572",
+        "word": "speech",
+        "translation": "สุนทรพจน์",
+        "pos": "noun",
+        "example": "Give a speech.",
+        "level": "basic"
+    },
+    {
+        "id": "v2573",
+        "word": "speed",
+        "translation": "ความเร็ว",
+        "pos": "noun",
+        "example": "High speed.",
+        "level": "basic"
+    },
+    {
+        "id": "v2574",
+        "word": "spell",
+        "translation": "สะกด",
+        "pos": "verb",
+        "example": "Spell your name.",
+        "level": "basic"
+    },
+    {
+        "id": "v2575",
+        "word": "spelling",
+        "translation": "การสะกด",
+        "pos": "noun",
+        "example": "Correct spelling.",
+        "level": "basic"
+    },
+    {
+        "id": "v2576",
+        "word": "spend",
+        "translation": "ใช้จ่าย",
+        "pos": "verb",
+        "example": "Spend money.",
+        "level": "basic"
+    },
+    {
+        "id": "v2577",
+        "word": "spending",
+        "translation": "การใช้จ่าย",
+        "pos": "noun",
+        "example": "Government spending.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2578",
+        "word": "spin",
+        "translation": "หมุน",
+        "pos": "verb",
+        "example": "Spin around.",
+        "level": "basic"
+    },
+    {
+        "id": "v2579",
+        "word": "spirit",
+        "translation": "จิตวิญญาณ",
+        "pos": "noun",
+        "example": "Team spirit.",
+        "level": "basic"
+    },
+    {
+        "id": "v2580",
+        "word": "spiritual",
+        "translation": "ทางจิตวิญญาณ",
+        "pos": "adj",
+        "example": "Spiritual growth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2581",
+        "word": "split",
+        "translation": "แยก",
+        "pos": "verb",
+        "example": "Split the bill.",
+        "level": "basic"
+    },
+    {
+        "id": "v2582",
+        "word": "spokesman",
+        "translation": "โฆษก",
+        "pos": "noun",
+        "example": "Company spokesman.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2583",
+        "word": "sponsor",
+        "translation": "ผู้สนับสนุน",
+        "pos": "noun",
+        "example": "Event sponsor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2584",
+        "word": "sport",
+        "translation": "กีฬา",
+        "pos": "noun",
+        "example": "Play sports.",
+        "level": "basic"
+    },
+    {
+        "id": "v2585",
+        "word": "spot",
+        "translation": "จุด",
+        "pos": "noun",
+        "example": "Parking spot.",
+        "level": "basic"
+    },
+    {
+        "id": "v2586",
+        "word": "spread",
+        "translation": "แพร่กระจาย",
+        "pos": "verb",
+        "example": "Spread the news.",
+        "level": "basic"
+    },
+    {
+        "id": "v2587",
+        "word": "spring",
+        "translation": "ฤดูใบไม้ผลิ",
+        "pos": "noun",
+        "example": "In spring.",
+        "level": "basic"
+    },
+    {
+        "id": "v2588",
+        "word": "square",
+        "translation": "สี่เหลี่ยม",
+        "pos": "noun",
+        "example": "Town square.",
+        "level": "basic"
+    },
+    {
+        "id": "v2589",
+        "word": "squeeze",
+        "translation": "บีบ",
+        "pos": "verb",
+        "example": "Squeeze the lemon.",
+        "level": "basic"
+    },
+    {
+        "id": "v2590",
+        "word": "stability",
+        "translation": "ความมั่นคง",
+        "pos": "noun",
+        "example": "Economic stability.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2591",
+        "word": "stable",
+        "translation": "มั่นคง",
+        "pos": "adj",
+        "example": "Stable job.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2592",
+        "word": "staff",
+        "translation": "พนักงาน",
+        "pos": "noun",
+        "example": "Staff meeting.",
+        "level": "basic"
+    },
+    {
+        "id": "v2593",
+        "word": "stage",
+        "translation": "เวที",
+        "pos": "noun",
+        "example": "On stage.",
+        "level": "basic"
+    },
+    {
+        "id": "v2594",
+        "word": "stair",
+        "translation": "บันได",
+        "pos": "noun",
+        "example": "Climb stairs.",
+        "level": "basic"
+    },
+    {
+        "id": "v2595",
+        "word": "stake",
+        "translation": "เสา",
+        "pos": "noun",
+        "example": "High stakes.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v2596",
+        "word": "stand",
+        "translation": "ยืน",
+        "pos": "verb",
+        "example": "Stand up.",
+        "level": "basic"
+    },
+    {
+        "id": "v2597",
+        "word": "standard",
+        "translation": "มาตรฐาน",
+        "pos": "noun",
+        "example": "High standard.",
+        "level": "basic"
+    },
+    {
+        "id": "v2598",
+        "word": "standing",
+        "translation": "การยืน",
+        "pos": "noun",
+        "example": "Standing ovation.",
+        "level": "basic"
+    },
+    {
+        "id": "v2599",
+        "word": "star",
+        "translation": "ดาว",
+        "pos": "noun",
+        "example": "Movie star.",
+        "level": "basic"
+    },
+    {
+        "id": "v2600",
+        "word": "stare",
+        "translation": "จ้อง",
+        "pos": "verb",
+        "example": "Don't stare.",
+        "level": "basic"
+    }
+]

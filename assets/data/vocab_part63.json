@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v6101",
+        "word": "nonetheless",
+        "translation": "อย่างไรก็ตาม",
+        "pos": "adv",
+        "example": "Nonetheless.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6102",
+        "word": "nonsense",
+        "translation": "เรื่องไร้สาระ",
+        "pos": "noun",
+        "example": "Complete nonsense.",
+        "level": "basic"
+    },
+    {
+        "id": "v6103",
+        "word": "noon",
+        "translation": "เที่ยงวัน",
+        "pos": "noun",
+        "example": "At noon.",
+        "level": "basic"
+    },
+    {
+        "id": "v6104",
+        "word": "nor",
+        "translation": "และไม่",
+        "pos": "conj",
+        "example": "Neither... nor.",
+        "level": "basic"
+    },
+    {
+        "id": "v6105",
+        "word": "norm",
+        "translation": "บรรทัดฐาน",
+        "pos": "noun",
+        "example": "Social norm.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6106",
+        "word": "normal",
+        "translation": "ปกติ",
+        "pos": "adj",
+        "example": "Back to normal.",
+        "level": "basic"
+    },
+    {
+        "id": "v6107",
+        "word": "normally",
+        "translation": "โดยปกติ",
+        "pos": "adv",
+        "example": "Normally.",
+        "level": "basic"
+    },
+    {
+        "id": "v6108",
+        "word": "north",
+        "translation": "เหนือ",
+        "pos": "noun",
+        "example": "Go north.",
+        "level": "basic"
+    },
+    {
+        "id": "v6109",
+        "word": "northern",
+        "translation": "ทางเหนือ",
+        "pos": "adj",
+        "example": "Northern Thailand.",
+        "level": "basic"
+    },
+    {
+        "id": "v6110",
+        "word": "nose",
+        "translation": "จมูก",
+        "pos": "noun",
+        "example": "Big nose.",
+        "level": "basic"
+    },
+    {
+        "id": "v6111",
+        "word": "not",
+        "translation": "ไม่",
+        "pos": "adv",
+        "example": "Not yet.",
+        "level": "basic"
+    },
+    {
+        "id": "v6112",
+        "word": "notable",
+        "translation": "น่าสังเกต",
+        "pos": "adj",
+        "example": "Notable exception.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6113",
+        "word": "notably",
+        "translation": "โดยเฉพาะ",
+        "pos": "adv",
+        "example": "Most notably.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6114",
+        "word": "note",
+        "translation": "หมายเหตุ",
+        "pos": "noun",
+        "example": "Take notes.",
+        "level": "basic"
+    },
+    {
+        "id": "v6115",
+        "word": "notebook",
+        "translation": "สมุด",
+        "pos": "noun",
+        "example": "Write in notebook.",
+        "level": "basic"
+    },
+    {
+        "id": "v6116",
+        "word": "noted",
+        "translation": "มีชื่อเสียง",
+        "pos": "adj",
+        "example": "Noted author.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6117",
+        "word": "nothing",
+        "translation": "ไม่มีอะไร",
+        "pos": "pron",
+        "example": "Nothing wrong.",
+        "level": "basic"
+    },
+    {
+        "id": "v6118",
+        "word": "notice",
+        "translation": "สังเกต",
+        "pos": "verb",
+        "example": "I noticed.",
+        "level": "basic"
+    },
+    {
+        "id": "v6119",
+        "word": "noticeable",
+        "translation": "เห็นได้ชัด",
+        "pos": "adj",
+        "example": "Noticeable difference.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6120",
+        "word": "notification",
+        "translation": "การแจ้งเตือน",
+        "pos": "noun",
+        "example": "Push notification.",
+        "level": "basic"
+    },
+    {
+        "id": "v6121",
+        "word": "notify",
+        "translation": "แจ้ง",
+        "pos": "verb",
+        "example": "Notify police.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6122",
+        "word": "notion",
+        "translation": "แนวคิด",
+        "pos": "noun",
+        "example": "Basic notion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6123",
+        "word": "noun",
+        "translation": "คำนาม",
+        "pos": "noun",
+        "example": "Common noun.",
+        "level": "basic"
+    },
+    {
+        "id": "v6124",
+        "word": "novel",
+        "translation": "นวนิยาย",
+        "pos": "noun",
+        "example": "Best-selling novel.",
+        "level": "basic"
+    },
+    {
+        "id": "v6125",
+        "word": "novelist",
+        "translation": "นักเขียนนวนิยาย",
+        "pos": "noun",
+        "example": "Famous novelist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6126",
+        "word": "november",
+        "translation": "พฤศจิกายน",
+        "pos": "noun",
+        "example": "In November.",
+        "level": "basic"
+    },
+    {
+        "id": "v6127",
+        "word": "now",
+        "translation": "ตอนนี้",
+        "pos": "adv",
+        "example": "Right now.",
+        "level": "basic"
+    },
+    {
+        "id": "v6128",
+        "word": "nowadays",
+        "translation": "ปัจจุบันนี้",
+        "pos": "adv",
+        "example": "Nowadays.",
+        "level": "basic"
+    },
+    {
+        "id": "v6129",
+        "word": "nowhere",
+        "translation": "ไม่มีที่ไหน",
+        "pos": "adv",
+        "example": "Go nowhere.",
+        "level": "basic"
+    },
+    {
+        "id": "v6130",
+        "word": "nuclear",
+        "translation": "นิวเคลียร์",
+        "pos": "adj",
+        "example": "Nuclear power.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6131",
+        "word": "nucleus",
+        "translation": "นิวเคลียส",
+        "pos": "noun",
+        "example": "Cell nucleus.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6132",
+        "word": "number",
+        "translation": "หมายเลข",
+        "pos": "noun",
+        "example": "Phone number.",
+        "level": "basic"
+    },
+    {
+        "id": "v6133",
+        "word": "numerous",
+        "translation": "มากมาย",
+        "pos": "adj",
+        "example": "Numerous times.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6134",
+        "word": "nurse",
+        "translation": "พยาบาล",
+        "pos": "noun",
+        "example": "Hospital nurse.",
+        "level": "basic"
+    },
+    {
+        "id": "v6135",
+        "word": "nursery",
+        "translation": "เนอสเซอรี่",
+        "pos": "noun",
+        "example": "Nursery school.",
+        "level": "basic"
+    },
+    {
+        "id": "v6136",
+        "word": "nursing",
+        "translation": "การพยาบาล",
+        "pos": "noun",
+        "example": "Nursing home.",
+        "level": "basic"
+    },
+    {
+        "id": "v6137",
+        "word": "nut",
+        "translation": "ถั่ว",
+        "pos": "noun",
+        "example": "Mixed nuts.",
+        "level": "basic"
+    },
+    {
+        "id": "v6138",
+        "word": "nutrition",
+        "translation": "โภชนาการ",
+        "pos": "noun",
+        "example": "Good nutrition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6139",
+        "word": "nutritional",
+        "translation": "โภชนาการ",
+        "pos": "adj",
+        "example": "Nutritional value.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6140",
+        "word": "oak",
+        "translation": "ต้นโอ๊ก",
+        "pos": "noun",
+        "example": "Oak tree.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6141",
+        "word": "obey",
+        "translation": "เชื่อฟัง",
+        "pos": "verb",
+        "example": "Obey the rules.",
+        "level": "basic"
+    },
+    {
+        "id": "v6142",
+        "word": "object",
+        "translation": "วัตถุ",
+        "pos": "noun",
+        "example": "Strange object.",
+        "level": "basic"
+    },
+    {
+        "id": "v6143",
+        "word": "objection",
+        "translation": "การคัดค้าน",
+        "pos": "noun",
+        "example": "No objection.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6144",
+        "word": "objective",
+        "translation": "วัตถุประสงค์",
+        "pos": "noun",
+        "example": "Main objective.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6145",
+        "word": "obligation",
+        "translation": "ภาระผูกพัน",
+        "pos": "noun",
+        "example": "Legal obligation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6146",
+        "word": "oblige",
+        "translation": "บังคับ",
+        "pos": "verb",
+        "example": "Much obliged.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6147",
+        "word": "observation",
+        "translation": "การสังเกต",
+        "pos": "noun",
+        "example": "Careful observation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6148",
+        "word": "observe",
+        "translation": "สังเกต",
+        "pos": "verb",
+        "example": "Observe carefully.",
+        "level": "basic"
+    },
+    {
+        "id": "v6149",
+        "word": "observer",
+        "translation": "ผู้สังเกตการณ์",
+        "pos": "noun",
+        "example": "Keen observer.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6150",
+        "word": "obstacle",
+        "translation": "อุปสรรค",
+        "pos": "noun",
+        "example": "Overcome obstacle.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6151",
+        "word": "obtain",
+        "translation": "ได้รับ",
+        "pos": "verb",
+        "example": "Obtain permission.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6152",
+        "word": "obvious",
+        "translation": "ชัดเจน",
+        "pos": "adj",
+        "example": "Very obvious.",
+        "level": "basic"
+    },
+    {
+        "id": "v6153",
+        "word": "obviously",
+        "translation": "อย่างชัดเจน",
+        "pos": "adv",
+        "example": "Obviously.",
+        "level": "basic"
+    },
+    {
+        "id": "v6154",
+        "word": "occasion",
+        "translation": "โอกาส",
+        "pos": "noun",
+        "example": "Special occasion.",
+        "level": "basic"
+    },
+    {
+        "id": "v6155",
+        "word": "occasional",
+        "translation": "บางครั้ง",
+        "pos": "adj",
+        "example": "Occasional rain.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6156",
+        "word": "occasionally",
+        "translation": "บางครั้ง",
+        "pos": "adv",
+        "example": "Occasionally.",
+        "level": "basic"
+    },
+    {
+        "id": "v6157",
+        "word": "occupation",
+        "translation": "อาชีพ",
+        "pos": "noun",
+        "example": "Current occupation.",
+        "level": "basic"
+    },
+    {
+        "id": "v6158",
+        "word": "occupy",
+        "translation": "ครอบครอง",
+        "pos": "verb",
+        "example": "Occupy space.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6159",
+        "word": "occur",
+        "translation": "เกิดขึ้น",
+        "pos": "verb",
+        "example": "Problems occur.",
+        "level": "basic"
+    },
+    {
+        "id": "v6160",
+        "word": "occurrence",
+        "translation": "การเกิดขึ้น",
+        "pos": "noun",
+        "example": "Common occurrence.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6161",
+        "word": "ocean",
+        "translation": "มหาสมุทร",
+        "pos": "noun",
+        "example": "Pacific Ocean.",
+        "level": "basic"
+    },
+    {
+        "id": "v6162",
+        "word": "october",
+        "translation": "ตุลาคม",
+        "pos": "noun",
+        "example": "In October.",
+        "level": "basic"
+    },
+    {
+        "id": "v6163",
+        "word": "odd",
+        "translation": "แปลก",
+        "pos": "adj",
+        "example": "Very odd.",
+        "level": "basic"
+    },
+    {
+        "id": "v6164",
+        "word": "odds",
+        "translation": "โอกาส",
+        "pos": "noun",
+        "example": "Against all odds.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6165",
+        "word": "of",
+        "translation": "ของ",
+        "pos": "prep",
+        "example": "Part of.",
+        "level": "basic"
+    },
+    {
+        "id": "v6166",
+        "word": "off",
+        "translation": "ปิด",
+        "pos": "adv",
+        "example": "Turn off.",
+        "level": "basic"
+    },
+    {
+        "id": "v6167",
+        "word": "offense",
+        "translation": "การกระทำผิด",
+        "pos": "noun",
+        "example": "No offense.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6168",
+        "word": "offensive",
+        "translation": "น่ารังเกียจ",
+        "pos": "adj",
+        "example": "Offensive language.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6169",
+        "word": "offer",
+        "translation": "เสนอ",
+        "pos": "verb",
+        "example": "Special offer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6170",
+        "word": "offering",
+        "translation": "การเสนอ",
+        "pos": "noun",
+        "example": "Peace offering.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6171",
+        "word": "office",
+        "translation": "สำนักงาน",
+        "pos": "noun",
+        "example": "Head office.",
+        "level": "basic"
+    },
+    {
+        "id": "v6172",
+        "word": "officer",
+        "translation": "เจ้าหน้าที่",
+        "pos": "noun",
+        "example": "Police officer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6173",
+        "word": "official",
+        "translation": "ทางการ",
+        "pos": "adj",
+        "example": "Official announcement.",
+        "level": "basic"
+    },
+    {
+        "id": "v6174",
+        "word": "officially",
+        "translation": "อย่างเป็นทางการ",
+        "pos": "adv",
+        "example": "Officially announced.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6175",
+        "word": "offline",
+        "translation": "ออฟไลน์",
+        "pos": "adj",
+        "example": "Work offline.",
+        "level": "basic"
+    },
+    {
+        "id": "v6176",
+        "word": "offset",
+        "translation": "ชดเชย",
+        "pos": "verb",
+        "example": "Offset cost.",
+        "level": "advanced"
+    },
+    {
+        "id": "v6177",
+        "word": "often",
+        "translation": "บ่อย",
+        "pos": "adv",
+        "example": "Very often.",
+        "level": "basic"
+    },
+    {
+        "id": "v6178",
+        "word": "oh",
+        "translation": "โอ้",
+        "pos": "interj",
+        "example": "Oh no!",
+        "level": "basic"
+    },
+    {
+        "id": "v6179",
+        "word": "oil",
+        "translation": "น้ำมัน",
+        "pos": "noun",
+        "example": "Cooking oil.",
+        "level": "basic"
+    },
+    {
+        "id": "v6180",
+        "word": "okay",
+        "translation": "โอเค",
+        "pos": "adj",
+        "example": "It's okay.",
+        "level": "basic"
+    },
+    {
+        "id": "v6181",
+        "word": "old",
+        "translation": "เก่า",
+        "pos": "adj",
+        "example": "Old friend.",
+        "level": "basic"
+    },
+    {
+        "id": "v6182",
+        "word": "olive",
+        "translation": "มะกอก",
+        "pos": "noun",
+        "example": "Olive oil.",
+        "level": "basic"
+    },
+    {
+        "id": "v6183",
+        "word": "olympic",
+        "translation": "โอลิมปิก",
+        "pos": "adj",
+        "example": "Olympic Games.",
+        "level": "basic"
+    },
+    {
+        "id": "v6184",
+        "word": "omit",
+        "translation": "ละเว้น",
+        "pos": "verb",
+        "example": "Omit details.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6185",
+        "word": "on",
+        "translation": "บน",
+        "pos": "prep",
+        "example": "On the table.",
+        "level": "basic"
+    },
+    {
+        "id": "v6186",
+        "word": "once",
+        "translation": "ครั้งหนึ่ง",
+        "pos": "adv",
+        "example": "Once upon a time.",
+        "level": "basic"
+    },
+    {
+        "id": "v6187",
+        "word": "one",
+        "translation": "หนึ่ง",
+        "pos": "num",
+        "example": "Number one.",
+        "level": "basic"
+    },
+    {
+        "id": "v6188",
+        "word": "ongoing",
+        "translation": "กำลังดำเนินอยู่",
+        "pos": "adj",
+        "example": "Ongoing project.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6189",
+        "word": "onion",
+        "translation": "หัวหอม",
+        "pos": "noun",
+        "example": "Chop onion.",
+        "level": "basic"
+    },
+    {
+        "id": "v6190",
+        "word": "online",
+        "translation": "ออนไลน์",
+        "pos": "adj",
+        "example": "Online shopping.",
+        "level": "basic"
+    },
+    {
+        "id": "v6191",
+        "word": "only",
+        "translation": "เท่านั้น",
+        "pos": "adv",
+        "example": "Only one.",
+        "level": "basic"
+    },
+    {
+        "id": "v6192",
+        "word": "onset",
+        "translation": "การเริ่มต้น",
+        "pos": "noun",
+        "example": "Onset of winter.",
+        "level": "advanced"
+    },
+    {
+        "id": "v6193",
+        "word": "onto",
+        "translation": "ไปบน",
+        "pos": "prep",
+        "example": "Get onto.",
+        "level": "basic"
+    },
+    {
+        "id": "v6194",
+        "word": "open",
+        "translation": "เปิด",
+        "pos": "verb",
+        "example": "Open door.",
+        "level": "basic"
+    },
+    {
+        "id": "v6195",
+        "word": "opening",
+        "translation": "การเปิด",
+        "pos": "noun",
+        "example": "Grand opening.",
+        "level": "basic"
+    },
+    {
+        "id": "v6196",
+        "word": "openly",
+        "translation": "อย่างเปิดเผย",
+        "pos": "adv",
+        "example": "Speak openly.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6197",
+        "word": "opera",
+        "translation": "โอเปร่า",
+        "pos": "noun",
+        "example": "Opera singer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6198",
+        "word": "operate",
+        "translation": "ดำเนินการ",
+        "pos": "verb",
+        "example": "Operate machine.",
+        "level": "basic"
+    },
+    {
+        "id": "v6199",
+        "word": "operating",
+        "translation": "ปฏิบัติการ",
+        "pos": "adj",
+        "example": "Operating system.",
+        "level": "basic"
+    },
+    {
+        "id": "v6200",
+        "word": "operation",
+        "translation": "การดำเนินงาน",
+        "pos": "noun",
+        "example": "Business operation.",
+        "level": "basic"
+    }
+]

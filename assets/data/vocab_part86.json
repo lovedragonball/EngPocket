@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v8401",
+        "word": "what",
+        "translation": "อะไร",
+        "pos": "pron",
+        "example": "What is.",
+        "level": "basic"
+    },
+    {
+        "id": "v8402",
+        "word": "whatever",
+        "translation": "อะไรก็ตาม",
+        "pos": "pron",
+        "example": "Whatever you say.",
+        "level": "basic"
+    },
+    {
+        "id": "v8403",
+        "word": "wheat",
+        "translation": "ข้าวสาลี",
+        "pos": "noun",
+        "example": "Whole wheat.",
+        "level": "basic"
+    },
+    {
+        "id": "v8404",
+        "word": "wheel",
+        "translation": "ล้อ",
+        "pos": "noun",
+        "example": "Car wheel.",
+        "level": "basic"
+    },
+    {
+        "id": "v8405",
+        "word": "wheelchair",
+        "translation": "รถเข็น",
+        "pos": "noun",
+        "example": "Use wheelchair.",
+        "level": "basic"
+    },
+    {
+        "id": "v8406",
+        "word": "when",
+        "translation": "เมื่อไร",
+        "pos": "adv",
+        "example": "When is.",
+        "level": "basic"
+    },
+    {
+        "id": "v8407",
+        "word": "whenever",
+        "translation": "เมื่อไหร่ก็ตาม",
+        "pos": "conj",
+        "example": "Whenever you want.",
+        "level": "basic"
+    },
+    {
+        "id": "v8408",
+        "word": "where",
+        "translation": "ที่ไหน",
+        "pos": "adv",
+        "example": "Where is.",
+        "level": "basic"
+    },
+    {
+        "id": "v8409",
+        "word": "whereas",
+        "translation": "ในขณะที่",
+        "pos": "conj",
+        "example": "Whereas.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8410",
+        "word": "whereby",
+        "translation": "โดยวิธีที่",
+        "pos": "adv",
+        "example": "Whereby.",
+        "level": "advanced"
+    },
+    {
+        "id": "v8411",
+        "word": "wherever",
+        "translation": "ที่ไหนก็ตาม",
+        "pos": "conj",
+        "example": "Wherever you go.",
+        "level": "basic"
+    },
+    {
+        "id": "v8412",
+        "word": "whether",
+        "translation": "ไม่ว่า",
+        "pos": "conj",
+        "example": "Whether or not.",
+        "level": "basic"
+    },
+    {
+        "id": "v8413",
+        "word": "which",
+        "translation": "ซึ่ง",
+        "pos": "pron",
+        "example": "Which one.",
+        "level": "basic"
+    },
+    {
+        "id": "v8414",
+        "word": "while",
+        "translation": "ในขณะที่",
+        "pos": "conj",
+        "example": "While waiting.",
+        "level": "basic"
+    },
+    {
+        "id": "v8415",
+        "word": "whip",
+        "translation": "แส้",
+        "pos": "noun",
+        "example": "Whipping cream.",
+        "level": "basic"
+    },
+    {
+        "id": "v8416",
+        "word": "whisky",
+        "translation": "วิสกี้",
+        "pos": "noun",
+        "example": "Glass of whisky.",
+        "level": "basic"
+    },
+    {
+        "id": "v8417",
+        "word": "whisper",
+        "translation": "กระซิบ",
+        "pos": "verb",
+        "example": "Whisper softly.",
+        "level": "basic"
+    },
+    {
+        "id": "v8418",
+        "word": "whistle",
+        "translation": "หวีด",
+        "pos": "verb",
+        "example": "Blow whistle.",
+        "level": "basic"
+    },
+    {
+        "id": "v8419",
+        "word": "white",
+        "translation": "ขาว",
+        "pos": "adj",
+        "example": "White color.",
+        "level": "basic"
+    },
+    {
+        "id": "v8420",
+        "word": "who",
+        "translation": "ใคร",
+        "pos": "pron",
+        "example": "Who is.",
+        "level": "basic"
+    },
+    {
+        "id": "v8421",
+        "word": "whoever",
+        "translation": "ใครก็ตาม",
+        "pos": "pron",
+        "example": "Whoever wants.",
+        "level": "basic"
+    },
+    {
+        "id": "v8422",
+        "word": "whole",
+        "translation": "ทั้งหมด",
+        "pos": "adj",
+        "example": "Whole thing.",
+        "level": "basic"
+    },
+    {
+        "id": "v8423",
+        "word": "wholesale",
+        "translation": "ขายส่ง",
+        "pos": "adj",
+        "example": "Wholesale price.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8424",
+        "word": "wholly",
+        "translation": "ทั้งหมด",
+        "pos": "adv",
+        "example": "Wholly owned.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8425",
+        "word": "whom",
+        "translation": "ผู้ซึ่ง",
+        "pos": "pron",
+        "example": "To whom.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8426",
+        "word": "whose",
+        "translation": "ของใคร",
+        "pos": "pron",
+        "example": "Whose is this?",
+        "level": "basic"
+    },
+    {
+        "id": "v8427",
+        "word": "why",
+        "translation": "ทำไม",
+        "pos": "adv",
+        "example": "Why not?",
+        "level": "basic"
+    },
+    {
+        "id": "v8428",
+        "word": "wicked",
+        "translation": "ชั่วร้าย",
+        "pos": "adj",
+        "example": "Wicked witch.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8429",
+        "word": "wide",
+        "translation": "กว้าง",
+        "pos": "adj",
+        "example": "Very wide.",
+        "level": "basic"
+    },
+    {
+        "id": "v8430",
+        "word": "widely",
+        "translation": "อย่างกว้างขวาง",
+        "pos": "adv",
+        "example": "Widely used.",
+        "level": "basic"
+    },
+    {
+        "id": "v8431",
+        "word": "widen",
+        "translation": "ขยายกว้าง",
+        "pos": "verb",
+        "example": "Widen gap.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8432",
+        "word": "widespread",
+        "translation": "แพร่หลาย",
+        "pos": "adj",
+        "example": "Widespread use.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8433",
+        "word": "widow",
+        "translation": "หม้าย",
+        "pos": "noun",
+        "example": "War widow.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8434",
+        "word": "width",
+        "translation": "ความกว้าง",
+        "pos": "noun",
+        "example": "Full width.",
+        "level": "basic"
+    },
+    {
+        "id": "v8435",
+        "word": "wife",
+        "translation": "ภรรยา",
+        "pos": "noun",
+        "example": "My wife.",
+        "level": "basic"
+    },
+    {
+        "id": "v8436",
+        "word": "wifi",
+        "translation": "ไวไฟ",
+        "pos": "noun",
+        "example": "Free WiFi.",
+        "level": "basic"
+    },
+    {
+        "id": "v8437",
+        "word": "wild",
+        "translation": "ป่า",
+        "pos": "adj",
+        "example": "Wild animal.",
+        "level": "basic"
+    },
+    {
+        "id": "v8438",
+        "word": "wilderness",
+        "translation": "ถิ่นทุรกันดาร",
+        "pos": "noun",
+        "example": "Into the wilderness.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8439",
+        "word": "wildlife",
+        "translation": "สัตว์ป่า",
+        "pos": "noun",
+        "example": "Wildlife conservation.",
+        "level": "basic"
+    },
+    {
+        "id": "v8440",
+        "word": "wildly",
+        "translation": "อย่างบ้าคลั่ง",
+        "pos": "adv",
+        "example": "Wildly popular.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8441",
+        "word": "will",
+        "translation": "จะ",
+        "pos": "verb",
+        "example": "I will.",
+        "level": "basic"
+    },
+    {
+        "id": "v8442",
+        "word": "willing",
+        "translation": "เต็มใจ",
+        "pos": "adj",
+        "example": "Willing to.",
+        "level": "basic"
+    },
+    {
+        "id": "v8443",
+        "word": "willingness",
+        "translation": "ความเต็มใจ",
+        "pos": "noun",
+        "example": "Show willingness.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8444",
+        "word": "win",
+        "translation": "ชนะ",
+        "pos": "verb",
+        "example": "Win game.",
+        "level": "basic"
+    },
+    {
+        "id": "v8445",
+        "word": "wind",
+        "translation": "ลม",
+        "pos": "noun",
+        "example": "Strong wind.",
+        "level": "basic"
+    },
+    {
+        "id": "v8446",
+        "word": "window",
+        "translation": "หน้าต่าง",
+        "pos": "noun",
+        "example": "Open window.",
+        "level": "basic"
+    },
+    {
+        "id": "v8447",
+        "word": "windy",
+        "translation": "มีลม",
+        "pos": "adj",
+        "example": "Windy day.",
+        "level": "basic"
+    },
+    {
+        "id": "v8448",
+        "word": "wine",
+        "translation": "ไวน์",
+        "pos": "noun",
+        "example": "Red wine.",
+        "level": "basic"
+    },
+    {
+        "id": "v8449",
+        "word": "wing",
+        "translation": "ปีก",
+        "pos": "noun",
+        "example": "Bird's wing.",
+        "level": "basic"
+    },
+    {
+        "id": "v8450",
+        "word": "winner",
+        "translation": "ผู้ชนะ",
+        "pos": "noun",
+        "example": "Lucky winner.",
+        "level": "basic"
+    },
+    {
+        "id": "v8451",
+        "word": "winning",
+        "translation": "ชนะ",
+        "pos": "adj",
+        "example": "Winning team.",
+        "level": "basic"
+    },
+    {
+        "id": "v8452",
+        "word": "winter",
+        "translation": "ฤดูหนาว",
+        "pos": "noun",
+        "example": "Cold winter.",
+        "level": "basic"
+    },
+    {
+        "id": "v8453",
+        "word": "wipe",
+        "translation": "เช็ด",
+        "pos": "verb",
+        "example": "Wipe clean.",
+        "level": "basic"
+    },
+    {
+        "id": "v8454",
+        "word": "wire",
+        "translation": "ลวด",
+        "pos": "noun",
+        "example": "Electric wire.",
+        "level": "basic"
+    },
+    {
+        "id": "v8455",
+        "word": "wireless",
+        "translation": "ไร้สาย",
+        "pos": "adj",
+        "example": "Wireless network.",
+        "level": "basic"
+    },
+    {
+        "id": "v8456",
+        "word": "wisdom",
+        "translation": "ปัญญา",
+        "pos": "noun",
+        "example": "Ancient wisdom.",
+        "level": "basic"
+    },
+    {
+        "id": "v8457",
+        "word": "wise",
+        "translation": "ฉลาด",
+        "pos": "adj",
+        "example": "Wise choice.",
+        "level": "basic"
+    },
+    {
+        "id": "v8458",
+        "word": "wisely",
+        "translation": "อย่างชาญฉลาด",
+        "pos": "adv",
+        "example": "Choose wisely.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8459",
+        "word": "wish",
+        "translation": "ปรารถนา",
+        "pos": "verb",
+        "example": "I wish.",
+        "level": "basic"
+    },
+    {
+        "id": "v8460",
+        "word": "wit",
+        "translation": "ไหวพริบ",
+        "pos": "noun",
+        "example": "Quick wit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8461",
+        "word": "witch",
+        "translation": "แม่มด",
+        "pos": "noun",
+        "example": "Evil witch.",
+        "level": "basic"
+    },
+    {
+        "id": "v8462",
+        "word": "with",
+        "translation": "กับ",
+        "pos": "prep",
+        "example": "With me.",
+        "level": "basic"
+    },
+    {
+        "id": "v8463",
+        "word": "withdraw",
+        "translation": "ถอน",
+        "pos": "verb",
+        "example": "Withdraw money.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8464",
+        "word": "withdrawal",
+        "translation": "การถอน",
+        "pos": "noun",
+        "example": "Cash withdrawal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8465",
+        "word": "within",
+        "translation": "ภายใน",
+        "pos": "prep",
+        "example": "Within reach.",
+        "level": "basic"
+    },
+    {
+        "id": "v8466",
+        "word": "without",
+        "translation": "โดยปราศจาก",
+        "pos": "prep",
+        "example": "Without you.",
+        "level": "basic"
+    },
+    {
+        "id": "v8467",
+        "word": "witness",
+        "translation": "พยาน",
+        "pos": "noun",
+        "example": "Eye witness.",
+        "level": "basic"
+    },
+    {
+        "id": "v8468",
+        "word": "wizard",
+        "translation": "พ่อมด",
+        "pos": "noun",
+        "example": "Powerful wizard.",
+        "level": "basic"
+    },
+    {
+        "id": "v8469",
+        "word": "wolf",
+        "translation": "หมาป่า",
+        "pos": "noun",
+        "example": "Lone wolf.",
+        "level": "basic"
+    },
+    {
+        "id": "v8470",
+        "word": "woman",
+        "translation": "ผู้หญิง",
+        "pos": "noun",
+        "example": "Young woman.",
+        "level": "basic"
+    },
+    {
+        "id": "v8471",
+        "word": "women",
+        "translation": "ผู้หญิง",
+        "pos": "noun",
+        "example": "Women's rights.",
+        "level": "basic"
+    },
+    {
+        "id": "v8472",
+        "word": "wonder",
+        "translation": "สงสัย",
+        "pos": "verb",
+        "example": "I wonder.",
+        "level": "basic"
+    },
+    {
+        "id": "v8473",
+        "word": "wonderful",
+        "translation": "วิเศษ",
+        "pos": "adj",
+        "example": "How wonderful.",
+        "level": "basic"
+    },
+    {
+        "id": "v8474",
+        "word": "wonderfully",
+        "translation": "อย่างวิเศษ",
+        "pos": "adv",
+        "example": "Wonderfully made.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8475",
+        "word": "wood",
+        "translation": "ไม้",
+        "pos": "noun",
+        "example": "Made of wood.",
+        "level": "basic"
+    },
+    {
+        "id": "v8476",
+        "word": "wooden",
+        "translation": "ทำด้วยไม้",
+        "pos": "adj",
+        "example": "Wooden chair.",
+        "level": "basic"
+    },
+    {
+        "id": "v8477",
+        "word": "wool",
+        "translation": "ขนสัตว์",
+        "pos": "noun",
+        "example": "Wool sweater.",
+        "level": "basic"
+    },
+    {
+        "id": "v8478",
+        "word": "word",
+        "translation": "คำ",
+        "pos": "noun",
+        "example": "New word.",
+        "level": "basic"
+    },
+    {
+        "id": "v8479",
+        "word": "wording",
+        "translation": "การใช้คำ",
+        "pos": "noun",
+        "example": "Careful wording.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8480",
+        "word": "work",
+        "translation": "ทำงาน",
+        "pos": "verb",
+        "example": "Hard work.",
+        "level": "basic"
+    },
+    {
+        "id": "v8481",
+        "word": "worker",
+        "translation": "คนงาน",
+        "pos": "noun",
+        "example": "Factory worker.",
+        "level": "basic"
+    },
+    {
+        "id": "v8482",
+        "word": "workforce",
+        "translation": "แรงงาน",
+        "pos": "noun",
+        "example": "Skilled workforce.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8483",
+        "word": "working",
+        "translation": "ทำงาน",
+        "pos": "adj",
+        "example": "Working hours.",
+        "level": "basic"
+    },
+    {
+        "id": "v8484",
+        "word": "workout",
+        "translation": "การออกกำลังกาย",
+        "pos": "noun",
+        "example": "Daily workout.",
+        "level": "basic"
+    },
+    {
+        "id": "v8485",
+        "word": "workplace",
+        "translation": "ที่ทำงาน",
+        "pos": "noun",
+        "example": "Safe workplace.",
+        "level": "basic"
+    },
+    {
+        "id": "v8486",
+        "word": "workshop",
+        "translation": "เวิร์คช็อป",
+        "pos": "noun",
+        "example": "Attend workshop.",
+        "level": "basic"
+    },
+    {
+        "id": "v8487",
+        "word": "world",
+        "translation": "โลก",
+        "pos": "noun",
+        "example": "Around the world.",
+        "level": "basic"
+    },
+    {
+        "id": "v8488",
+        "word": "worldwide",
+        "translation": "ทั่วโลก",
+        "pos": "adj",
+        "example": "Worldwide famous.",
+        "level": "basic"
+    },
+    {
+        "id": "v8489",
+        "word": "worm",
+        "translation": "หนอน",
+        "pos": "noun",
+        "example": "Earth worm.",
+        "level": "basic"
+    },
+    {
+        "id": "v8490",
+        "word": "worried",
+        "translation": "กังวล",
+        "pos": "adj",
+        "example": "Feel worried.",
+        "level": "basic"
+    },
+    {
+        "id": "v8491",
+        "word": "worry",
+        "translation": "กังวล",
+        "pos": "verb",
+        "example": "Don't worry.",
+        "level": "basic"
+    },
+    {
+        "id": "v8492",
+        "word": "worrying",
+        "translation": "น่ากังวล",
+        "pos": "adj",
+        "example": "Very worrying.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8493",
+        "word": "worse",
+        "translation": "แย่ลง",
+        "pos": "adj",
+        "example": "Get worse.",
+        "level": "basic"
+    },
+    {
+        "id": "v8494",
+        "word": "worsen",
+        "translation": "ทำให้แย่ลง",
+        "pos": "verb",
+        "example": "Worsen condition.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8495",
+        "word": "worship",
+        "translation": "บูชา",
+        "pos": "verb",
+        "example": "Worship place.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8496",
+        "word": "worst",
+        "translation": "แย่ที่สุด",
+        "pos": "adj",
+        "example": "The worst.",
+        "level": "basic"
+    },
+    {
+        "id": "v8497",
+        "word": "worth",
+        "translation": "มูลค่า",
+        "pos": "noun",
+        "example": "Worth it.",
+        "level": "basic"
+    },
+    {
+        "id": "v8498",
+        "word": "worthwhile",
+        "translation": "คุ้มค่า",
+        "pos": "adj",
+        "example": "Very worthwhile.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8499",
+        "word": "worthy",
+        "translation": "คู่ควร",
+        "pos": "adj",
+        "example": "Worthy of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v8500",
+        "word": "would",
+        "translation": "จะ",
+        "pos": "verb",
+        "example": "Would you?",
+        "level": "basic"
+    }
+]

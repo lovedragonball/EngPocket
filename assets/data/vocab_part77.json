@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v7501",
+        "word": "spiritual",
+        "translation": "ทางจิตวิญญาณ",
+        "pos": "adj",
+        "example": "Spiritual growth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7502",
+        "word": "spite",
+        "translation": "ความอาฆาต",
+        "pos": "noun",
+        "example": "In spite of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7503",
+        "word": "splash",
+        "translation": "กระเซ็น",
+        "pos": "verb",
+        "example": "Splash water.",
+        "level": "basic"
+    },
+    {
+        "id": "v7504",
+        "word": "split",
+        "translation": "แยก",
+        "pos": "verb",
+        "example": "Split in two.",
+        "level": "basic"
+    },
+    {
+        "id": "v7505",
+        "word": "spoil",
+        "translation": "ทำให้เสีย",
+        "pos": "verb",
+        "example": "Spoil the fun.",
+        "level": "basic"
+    },
+    {
+        "id": "v7506",
+        "word": "spokesman",
+        "translation": "โฆษก",
+        "pos": "noun",
+        "example": "Government spokesman.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7507",
+        "word": "sponsor",
+        "translation": "ผู้สนับสนุน",
+        "pos": "noun",
+        "example": "Main sponsor.",
+        "level": "basic"
+    },
+    {
+        "id": "v7508",
+        "word": "sponsorship",
+        "translation": "การสนับสนุน",
+        "pos": "noun",
+        "example": "Corporate sponsorship.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7509",
+        "word": "spoon",
+        "translation": "ช้อน",
+        "pos": "noun",
+        "example": "Silver spoon.",
+        "level": "basic"
+    },
+    {
+        "id": "v7510",
+        "word": "sport",
+        "translation": "กีฬา",
+        "pos": "noun",
+        "example": "Play sports.",
+        "level": "basic"
+    },
+    {
+        "id": "v7511",
+        "word": "sporting",
+        "translation": "กีฬา",
+        "pos": "adj",
+        "example": "Sporting event.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7512",
+        "word": "sports",
+        "translation": "กีฬา",
+        "pos": "noun",
+        "example": "Sports news.",
+        "level": "basic"
+    },
+    {
+        "id": "v7513",
+        "word": "spot",
+        "translation": "จุด",
+        "pos": "noun",
+        "example": "Nice spot.",
+        "level": "basic"
+    },
+    {
+        "id": "v7514",
+        "word": "spotlight",
+        "translation": "สปอตไลท์",
+        "pos": "noun",
+        "example": "Under the spotlight.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7515",
+        "word": "spouse",
+        "translation": "คู่สมรส",
+        "pos": "noun",
+        "example": "Your spouse.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7516",
+        "word": "spray",
+        "translation": "สเปรย์",
+        "pos": "noun",
+        "example": "Water spray.",
+        "level": "basic"
+    },
+    {
+        "id": "v7517",
+        "word": "spread",
+        "translation": "แพร่กระจาย",
+        "pos": "verb",
+        "example": "Spread quickly.",
+        "level": "basic"
+    },
+    {
+        "id": "v7518",
+        "word": "spring",
+        "translation": "ฤดูใบไม้ผลิ",
+        "pos": "noun",
+        "example": "In spring.",
+        "level": "basic"
+    },
+    {
+        "id": "v7519",
+        "word": "spy",
+        "translation": "สายลับ",
+        "pos": "noun",
+        "example": "Secret spy.",
+        "level": "basic"
+    },
+    {
+        "id": "v7520",
+        "word": "squad",
+        "translation": "หน่วย",
+        "pos": "noun",
+        "example": "Police squad.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7521",
+        "word": "square",
+        "translation": "สี่เหลี่ยม",
+        "pos": "noun",
+        "example": "Town square.",
+        "level": "basic"
+    },
+    {
+        "id": "v7522",
+        "word": "squeeze",
+        "translation": "บีบ",
+        "pos": "verb",
+        "example": "Squeeze tight.",
+        "level": "basic"
+    },
+    {
+        "id": "v7523",
+        "word": "stability",
+        "translation": "เสถียรภาพ",
+        "pos": "noun",
+        "example": "Political stability.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7524",
+        "word": "stable",
+        "translation": "มั่นคง",
+        "pos": "adj",
+        "example": "Stable condition.",
+        "level": "basic"
+    },
+    {
+        "id": "v7525",
+        "word": "stack",
+        "translation": "กอง",
+        "pos": "noun",
+        "example": "Stack of papers.",
+        "level": "basic"
+    },
+    {
+        "id": "v7526",
+        "word": "stadium",
+        "translation": "สนามกีฬา",
+        "pos": "noun",
+        "example": "Football stadium.",
+        "level": "basic"
+    },
+    {
+        "id": "v7527",
+        "word": "staff",
+        "translation": "พนักงาน",
+        "pos": "noun",
+        "example": "Staff meeting.",
+        "level": "basic"
+    },
+    {
+        "id": "v7528",
+        "word": "stage",
+        "translation": "เวที",
+        "pos": "noun",
+        "example": "On stage.",
+        "level": "basic"
+    },
+    {
+        "id": "v7529",
+        "word": "stain",
+        "translation": "รอยเปื้อน",
+        "pos": "noun",
+        "example": "Coffee stain.",
+        "level": "basic"
+    },
+    {
+        "id": "v7530",
+        "word": "stair",
+        "translation": "บันได",
+        "pos": "noun",
+        "example": "Go upstairs.",
+        "level": "basic"
+    },
+    {
+        "id": "v7531",
+        "word": "staircase",
+        "translation": "บันได",
+        "pos": "noun",
+        "example": "Spiral staircase.",
+        "level": "basic"
+    },
+    {
+        "id": "v7532",
+        "word": "stake",
+        "translation": "เดิมพัน",
+        "pos": "noun",
+        "example": "High stakes.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7533",
+        "word": "stall",
+        "translation": "แผงลอย",
+        "pos": "noun",
+        "example": "Market stall.",
+        "level": "basic"
+    },
+    {
+        "id": "v7534",
+        "word": "stamp",
+        "translation": "แสตมป์",
+        "pos": "noun",
+        "example": "Postage stamp.",
+        "level": "basic"
+    },
+    {
+        "id": "v7535",
+        "word": "stance",
+        "translation": "จุดยืน",
+        "pos": "noun",
+        "example": "Political stance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7536",
+        "word": "stand",
+        "translation": "ยืน",
+        "pos": "verb",
+        "example": "Stand up.",
+        "level": "basic"
+    },
+    {
+        "id": "v7537",
+        "word": "standard",
+        "translation": "มาตรฐาน",
+        "pos": "noun",
+        "example": "High standard.",
+        "level": "basic"
+    },
+    {
+        "id": "v7538",
+        "word": "standing",
+        "translation": "การยืน",
+        "pos": "noun",
+        "example": "Long standing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7539",
+        "word": "standpoint",
+        "translation": "มุมมอง",
+        "pos": "noun",
+        "example": "From this standpoint.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7540",
+        "word": "star",
+        "translation": "ดาว",
+        "pos": "noun",
+        "example": "Bright star.",
+        "level": "basic"
+    },
+    {
+        "id": "v7541",
+        "word": "stare",
+        "translation": "จ้องมอง",
+        "pos": "verb",
+        "example": "Don't stare.",
+        "level": "basic"
+    },
+    {
+        "id": "v7542",
+        "word": "stark",
+        "translation": "โล่งเตียน",
+        "pos": "adj",
+        "example": "Stark reality.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7543",
+        "word": "start",
+        "translation": "เริ่ม",
+        "pos": "verb",
+        "example": "Let's start.",
+        "level": "basic"
+    },
+    {
+        "id": "v7544",
+        "word": "starting",
+        "translation": "เริ่มต้น",
+        "pos": "adj",
+        "example": "Starting point.",
+        "level": "basic"
+    },
+    {
+        "id": "v7545",
+        "word": "startup",
+        "translation": "สตาร์ทอัพ",
+        "pos": "noun",
+        "example": "Tech startup.",
+        "level": "basic"
+    },
+    {
+        "id": "v7546",
+        "word": "starvation",
+        "translation": "ความอดอยาก",
+        "pos": "noun",
+        "example": "Die of starvation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7547",
+        "word": "starve",
+        "translation": "อดอยาก",
+        "pos": "verb",
+        "example": "Starving children.",
+        "level": "basic"
+    },
+    {
+        "id": "v7548",
+        "word": "state",
+        "translation": "รัฐ",
+        "pos": "noun",
+        "example": "State of mind.",
+        "level": "basic"
+    },
+    {
+        "id": "v7549",
+        "word": "statement",
+        "translation": "คำแถลง",
+        "pos": "noun",
+        "example": "Official statement.",
+        "level": "basic"
+    },
+    {
+        "id": "v7550",
+        "word": "station",
+        "translation": "สถานี",
+        "pos": "noun",
+        "example": "Train station.",
+        "level": "basic"
+    },
+    {
+        "id": "v7551",
+        "word": "statistic",
+        "translation": "สถิติ",
+        "pos": "noun",
+        "example": "Crime statistics.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7552",
+        "word": "statistical",
+        "translation": "ทางสถิติ",
+        "pos": "adj",
+        "example": "Statistical analysis.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7553",
+        "word": "statue",
+        "translation": "รูปปั้น",
+        "pos": "noun",
+        "example": "Bronze statue.",
+        "level": "basic"
+    },
+    {
+        "id": "v7554",
+        "word": "status",
+        "translation": "สถานะ",
+        "pos": "noun",
+        "example": "Marital status.",
+        "level": "basic"
+    },
+    {
+        "id": "v7555",
+        "word": "statute",
+        "translation": "กฎหมาย",
+        "pos": "noun",
+        "example": "By statute.",
+        "level": "advanced"
+    },
+    {
+        "id": "v7556",
+        "word": "stay",
+        "translation": "พัก",
+        "pos": "verb",
+        "example": "Stay here.",
+        "level": "basic"
+    },
+    {
+        "id": "v7557",
+        "word": "steady",
+        "translation": "คงที่",
+        "pos": "adj",
+        "example": "Steady growth.",
+        "level": "basic"
+    },
+    {
+        "id": "v7558",
+        "word": "steak",
+        "translation": "สเต็ก",
+        "pos": "noun",
+        "example": "Beef steak.",
+        "level": "basic"
+    },
+    {
+        "id": "v7559",
+        "word": "steal",
+        "translation": "ขโมย",
+        "pos": "verb",
+        "example": "Don't steal.",
+        "level": "basic"
+    },
+    {
+        "id": "v7560",
+        "word": "steam",
+        "translation": "ไอน้ำ",
+        "pos": "noun",
+        "example": "Steam engine.",
+        "level": "basic"
+    },
+    {
+        "id": "v7561",
+        "word": "steel",
+        "translation": "เหล็ก",
+        "pos": "noun",
+        "example": "Steel frame.",
+        "level": "basic"
+    },
+    {
+        "id": "v7562",
+        "word": "steep",
+        "translation": "ชัน",
+        "pos": "adj",
+        "example": "Steep hill.",
+        "level": "basic"
+    },
+    {
+        "id": "v7563",
+        "word": "steer",
+        "translation": "บังคับ",
+        "pos": "verb",
+        "example": "Steer the car.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7564",
+        "word": "stem",
+        "translation": "ลำต้น",
+        "pos": "noun",
+        "example": "Plant stem.",
+        "level": "basic"
+    },
+    {
+        "id": "v7565",
+        "word": "step",
+        "translation": "ก้าว",
+        "pos": "noun",
+        "example": "Next step.",
+        "level": "basic"
+    },
+    {
+        "id": "v7566",
+        "word": "stereotype",
+        "translation": "ภาพเหมารวม",
+        "pos": "noun",
+        "example": "Common stereotype.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7567",
+        "word": "stick",
+        "translation": "ติด",
+        "pos": "verb",
+        "example": "Stick together.",
+        "level": "basic"
+    },
+    {
+        "id": "v7568",
+        "word": "sticker",
+        "translation": "สติกเกอร์",
+        "pos": "noun",
+        "example": "Car sticker.",
+        "level": "basic"
+    },
+    {
+        "id": "v7569",
+        "word": "sticky",
+        "translation": "เหนียว",
+        "pos": "adj",
+        "example": "Sticky note.",
+        "level": "basic"
+    },
+    {
+        "id": "v7570",
+        "word": "stiff",
+        "translation": "แข็ง",
+        "pos": "adj",
+        "example": "Stiff neck.",
+        "level": "basic"
+    },
+    {
+        "id": "v7571",
+        "word": "still",
+        "translation": "ยังคง",
+        "pos": "adv",
+        "example": "Still here.",
+        "level": "basic"
+    },
+    {
+        "id": "v7572",
+        "word": "stimulate",
+        "translation": "กระตุ้น",
+        "pos": "verb",
+        "example": "Stimulate growth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7573",
+        "word": "stimulus",
+        "translation": "สิ่งกระตุ้น",
+        "pos": "noun",
+        "example": "Economic stimulus.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7574",
+        "word": "sting",
+        "translation": "ต่อย",
+        "pos": "verb",
+        "example": "Bee sting.",
+        "level": "basic"
+    },
+    {
+        "id": "v7575",
+        "word": "stir",
+        "translation": "คน",
+        "pos": "verb",
+        "example": "Stir the soup.",
+        "level": "basic"
+    },
+    {
+        "id": "v7576",
+        "word": "stock",
+        "translation": "หุ้น",
+        "pos": "noun",
+        "example": "Stock market.",
+        "level": "basic"
+    },
+    {
+        "id": "v7577",
+        "word": "stockholder",
+        "translation": "ผู้ถือหุ้น",
+        "pos": "noun",
+        "example": "Major stockholder.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7578",
+        "word": "stocking",
+        "translation": "ถุงน่อง",
+        "pos": "noun",
+        "example": "Christmas stocking.",
+        "level": "basic"
+    },
+    {
+        "id": "v7579",
+        "word": "stomach",
+        "translation": "ท้อง",
+        "pos": "noun",
+        "example": "Empty stomach.",
+        "level": "basic"
+    },
+    {
+        "id": "v7580",
+        "word": "stone",
+        "translation": "หิน",
+        "pos": "noun",
+        "example": "Precious stone.",
+        "level": "basic"
+    },
+    {
+        "id": "v7581",
+        "word": "stool",
+        "translation": "เก้าอี้",
+        "pos": "noun",
+        "example": "Bar stool.",
+        "level": "basic"
+    },
+    {
+        "id": "v7582",
+        "word": "stop",
+        "translation": "หยุด",
+        "pos": "verb",
+        "example": "Stop here.",
+        "level": "basic"
+    },
+    {
+        "id": "v7583",
+        "word": "storage",
+        "translation": "การเก็บรักษา",
+        "pos": "noun",
+        "example": "Cloud storage.",
+        "level": "basic"
+    },
+    {
+        "id": "v7584",
+        "word": "store",
+        "translation": "ร้านค้า",
+        "pos": "noun",
+        "example": "Book store.",
+        "level": "basic"
+    },
+    {
+        "id": "v7585",
+        "word": "storm",
+        "translation": "พายุ",
+        "pos": "noun",
+        "example": "Heavy storm.",
+        "level": "basic"
+    },
+    {
+        "id": "v7586",
+        "word": "stormy",
+        "translation": "มีพายุ",
+        "pos": "adj",
+        "example": "Stormy weather.",
+        "level": "basic"
+    },
+    {
+        "id": "v7587",
+        "word": "story",
+        "translation": "เรื่อง",
+        "pos": "noun",
+        "example": "Tell a story.",
+        "level": "basic"
+    },
+    {
+        "id": "v7588",
+        "word": "storytelling",
+        "translation": "การเล่าเรื่อง",
+        "pos": "noun",
+        "example": "Digital storytelling.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7589",
+        "word": "stove",
+        "translation": "เตา",
+        "pos": "noun",
+        "example": "Gas stove.",
+        "level": "basic"
+    },
+    {
+        "id": "v7590",
+        "word": "straight",
+        "translation": "ตรง",
+        "pos": "adj",
+        "example": "Go straight.",
+        "level": "basic"
+    },
+    {
+        "id": "v7591",
+        "word": "straightforward",
+        "translation": "ตรงไปตรงมา",
+        "pos": "adj",
+        "example": "Very straightforward.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7592",
+        "word": "strain",
+        "translation": "ความตึงเครียด",
+        "pos": "noun",
+        "example": "Eye strain.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7593",
+        "word": "strand",
+        "translation": "เส้น",
+        "pos": "noun",
+        "example": "Hair strand.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7594",
+        "word": "strange",
+        "translation": "แปลก",
+        "pos": "adj",
+        "example": "Very strange.",
+        "level": "basic"
+    },
+    {
+        "id": "v7595",
+        "word": "stranger",
+        "translation": "คนแปลกหน้า",
+        "pos": "noun",
+        "example": "Complete stranger.",
+        "level": "basic"
+    },
+    {
+        "id": "v7596",
+        "word": "strategic",
+        "translation": "เชิงกลยุทธ์",
+        "pos": "adj",
+        "example": "Strategic planning.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7597",
+        "word": "strategically",
+        "translation": "เชิงกลยุทธ์",
+        "pos": "adv",
+        "example": "Strategically located.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7598",
+        "word": "strategy",
+        "translation": "กลยุทธ์",
+        "pos": "noun",
+        "example": "Marketing strategy.",
+        "level": "basic"
+    },
+    {
+        "id": "v7599",
+        "word": "straw",
+        "translation": "หลอด",
+        "pos": "noun",
+        "example": "Drinking straw.",
+        "level": "basic"
+    },
+    {
+        "id": "v7600",
+        "word": "strawberry",
+        "translation": "สตรอว์เบอร์รี่",
+        "pos": "noun",
+        "example": "Fresh strawberries.",
+        "level": "basic"
+    }
+]

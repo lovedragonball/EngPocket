@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v3401",
+        "word": "bottom",
+        "translation": "ด้านล่าง",
+        "pos": "noun",
+        "example": "At the bottom.",
+        "level": "basic"
+    },
+    {
+        "id": "v3402",
+        "word": "bounce",
+        "translation": "เด้ง",
+        "pos": "verb",
+        "example": "Ball bounces.",
+        "level": "basic"
+    },
+    {
+        "id": "v3403",
+        "word": "boundary",
+        "translation": "เขตแดน",
+        "pos": "noun",
+        "example": "Set boundaries.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3404",
+        "word": "bow",
+        "translation": "คันธนู",
+        "pos": "noun",
+        "example": "Bow and arrow.",
+        "level": "basic"
+    },
+    {
+        "id": "v3405",
+        "word": "bowl",
+        "translation": "ชาม",
+        "pos": "noun",
+        "example": "Rice bowl.",
+        "level": "basic"
+    },
+    {
+        "id": "v3406",
+        "word": "boxing",
+        "translation": "มวย",
+        "pos": "noun",
+        "example": "Watch boxing.",
+        "level": "basic"
+    },
+    {
+        "id": "v3407",
+        "word": "boyfriend",
+        "translation": "แฟน",
+        "pos": "noun",
+        "example": "My boyfriend.",
+        "level": "basic"
+    },
+    {
+        "id": "v3408",
+        "word": "bracket",
+        "translation": "วงเล็บ",
+        "pos": "noun",
+        "example": "In brackets.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3409",
+        "word": "brain",
+        "translation": "สมอง",
+        "pos": "noun",
+        "example": "Use your brain.",
+        "level": "basic"
+    },
+    {
+        "id": "v3410",
+        "word": "brake",
+        "translation": "เบรก",
+        "pos": "noun",
+        "example": "Hit the brakes.",
+        "level": "basic"
+    },
+    {
+        "id": "v3411",
+        "word": "branch",
+        "translation": "สาขา",
+        "pos": "noun",
+        "example": "Tree branch.",
+        "level": "basic"
+    },
+    {
+        "id": "v3412",
+        "word": "brand",
+        "translation": "แบรนด์",
+        "pos": "noun",
+        "example": "Famous brand.",
+        "level": "basic"
+    },
+    {
+        "id": "v3413",
+        "word": "brass",
+        "translation": "ทองเหลือง",
+        "pos": "noun",
+        "example": "Brass instrument.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3414",
+        "word": "brave",
+        "translation": "กล้าหาญ",
+        "pos": "adj",
+        "example": "Be brave.",
+        "level": "basic"
+    },
+    {
+        "id": "v3415",
+        "word": "breach",
+        "translation": "ละเมิด",
+        "pos": "noun",
+        "example": "Data breach.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3416",
+        "word": "bread",
+        "translation": "ขนมปัง",
+        "pos": "noun",
+        "example": "Fresh bread.",
+        "level": "basic"
+    },
+    {
+        "id": "v3417",
+        "word": "breakdown",
+        "translation": "การพังทลาย",
+        "pos": "noun",
+        "example": "Mental breakdown.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3418",
+        "word": "breakfast",
+        "translation": "อาหารเช้า",
+        "pos": "noun",
+        "example": "Eat breakfast.",
+        "level": "basic"
+    },
+    {
+        "id": "v3419",
+        "word": "breakthrough",
+        "translation": "ความก้าวหน้า",
+        "pos": "noun",
+        "example": "Major breakthrough.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3420",
+        "word": "breast",
+        "translation": "หน้าอก",
+        "pos": "noun",
+        "example": "Chicken breast.",
+        "level": "basic"
+    },
+    {
+        "id": "v3421",
+        "word": "breath",
+        "translation": "ลมหายใจ",
+        "pos": "noun",
+        "example": "Take a deep breath.",
+        "level": "basic"
+    },
+    {
+        "id": "v3422",
+        "word": "breathe",
+        "translation": "หายใจ",
+        "pos": "verb",
+        "example": "Breathe slowly.",
+        "level": "basic"
+    },
+    {
+        "id": "v3423",
+        "word": "breed",
+        "translation": "พันธุ์",
+        "pos": "noun",
+        "example": "Dog breed.",
+        "level": "basic"
+    },
+    {
+        "id": "v3424",
+        "word": "breeze",
+        "translation": "ลมเบาๆ",
+        "pos": "noun",
+        "example": "Gentle breeze.",
+        "level": "basic"
+    },
+    {
+        "id": "v3425",
+        "word": "brevity",
+        "translation": "ความกระชับ",
+        "pos": "noun",
+        "example": "Brevity is key.",
+        "level": "advanced"
+    },
+    {
+        "id": "v3426",
+        "word": "brewery",
+        "translation": "โรงเบียร์",
+        "pos": "noun",
+        "example": "Local brewery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3427",
+        "word": "bribe",
+        "translation": "สินบน",
+        "pos": "noun",
+        "example": "Accept bribe.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3428",
+        "word": "brick",
+        "translation": "อิฐ",
+        "pos": "noun",
+        "example": "Brick wall.",
+        "level": "basic"
+    },
+    {
+        "id": "v3429",
+        "word": "bride",
+        "translation": "เจ้าสาว",
+        "pos": "noun",
+        "example": "Beautiful bride.",
+        "level": "basic"
+    },
+    {
+        "id": "v3430",
+        "word": "bridge",
+        "translation": "สะพาน",
+        "pos": "noun",
+        "example": "Cross the bridge.",
+        "level": "basic"
+    },
+    {
+        "id": "v3431",
+        "word": "brief",
+        "translation": "สั้น",
+        "pos": "adj",
+        "example": "Brief summary.",
+        "level": "basic"
+    },
+    {
+        "id": "v3432",
+        "word": "briefly",
+        "translation": "สั้นๆ",
+        "pos": "adv",
+        "example": "Briefly explain.",
+        "level": "basic"
+    },
+    {
+        "id": "v3433",
+        "word": "bright",
+        "translation": "สว่าง",
+        "pos": "adj",
+        "example": "Bright future.",
+        "level": "basic"
+    },
+    {
+        "id": "v3434",
+        "word": "brilliant",
+        "translation": "ยอดเยี่ยม",
+        "pos": "adj",
+        "example": "Brilliant idea.",
+        "level": "basic"
+    },
+    {
+        "id": "v3435",
+        "word": "bring",
+        "translation": "นำมา",
+        "pos": "verb",
+        "example": "Bring it here.",
+        "level": "basic"
+    },
+    {
+        "id": "v3436",
+        "word": "broad",
+        "translation": "กว้าง",
+        "pos": "adj",
+        "example": "Broad range.",
+        "level": "basic"
+    },
+    {
+        "id": "v3437",
+        "word": "broadcast",
+        "translation": "ออกอากาศ",
+        "pos": "verb",
+        "example": "Live broadcast.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3438",
+        "word": "broader",
+        "translation": "กว้างกว่า",
+        "pos": "adj",
+        "example": "Broader perspective.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3439",
+        "word": "broadly",
+        "translation": "อย่างกว้างๆ",
+        "pos": "adv",
+        "example": "Broadly speaking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3440",
+        "word": "brochure",
+        "translation": "โบรชัวร์",
+        "pos": "noun",
+        "example": "Travel brochure.",
+        "level": "basic"
+    },
+    {
+        "id": "v3441",
+        "word": "broker",
+        "translation": "นายหน้า",
+        "pos": "noun",
+        "example": "Real estate broker.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3442",
+        "word": "bronze",
+        "translation": "ทองสัมฤทธิ์",
+        "pos": "noun",
+        "example": "Bronze medal.",
+        "level": "basic"
+    },
+    {
+        "id": "v3443",
+        "word": "broom",
+        "translation": "ไม้กวาด",
+        "pos": "noun",
+        "example": "New broom.",
+        "level": "basic"
+    },
+    {
+        "id": "v3444",
+        "word": "brother",
+        "translation": "พี่ชาย",
+        "pos": "noun",
+        "example": "My brother.",
+        "level": "basic"
+    },
+    {
+        "id": "v3445",
+        "word": "brown",
+        "translation": "สีน้ำตาล",
+        "pos": "adj",
+        "example": "Brown sugar.",
+        "level": "basic"
+    },
+    {
+        "id": "v3446",
+        "word": "browser",
+        "translation": "เบราว์เซอร์",
+        "pos": "noun",
+        "example": "Web browser.",
+        "level": "basic"
+    },
+    {
+        "id": "v3447",
+        "word": "brush",
+        "translation": "แปรง",
+        "pos": "noun",
+        "example": "Paint brush.",
+        "level": "basic"
+    },
+    {
+        "id": "v3448",
+        "word": "brutal",
+        "translation": "โหดร้าย",
+        "pos": "adj",
+        "example": "Brutal attack.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3449",
+        "word": "bubble",
+        "translation": "ฟอง",
+        "pos": "noun",
+        "example": "Soap bubble.",
+        "level": "basic"
+    },
+    {
+        "id": "v3450",
+        "word": "bucket",
+        "translation": "ถัง",
+        "pos": "noun",
+        "example": "Water bucket.",
+        "level": "basic"
+    },
+    {
+        "id": "v3451",
+        "word": "buddy",
+        "translation": "เพื่อน",
+        "pos": "noun",
+        "example": "Best buddy.",
+        "level": "basic"
+    },
+    {
+        "id": "v3452",
+        "word": "budget",
+        "translation": "งบประมาณ",
+        "pos": "noun",
+        "example": "Limited budget.",
+        "level": "basic"
+    },
+    {
+        "id": "v3453",
+        "word": "bug",
+        "translation": "แมลง",
+        "pos": "noun",
+        "example": "Computer bug.",
+        "level": "basic"
+    },
+    {
+        "id": "v3454",
+        "word": "build",
+        "translation": "สร้าง",
+        "pos": "verb",
+        "example": "Build a house.",
+        "level": "basic"
+    },
+    {
+        "id": "v3455",
+        "word": "builder",
+        "translation": "ช่างก่อสร้าง",
+        "pos": "noun",
+        "example": "Home builder.",
+        "level": "basic"
+    },
+    {
+        "id": "v3456",
+        "word": "building",
+        "translation": "อาคาร",
+        "pos": "noun",
+        "example": "Tall building.",
+        "level": "basic"
+    },
+    {
+        "id": "v3457",
+        "word": "bulk",
+        "translation": "จำนวนมาก",
+        "pos": "noun",
+        "example": "Buy in bulk.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3458",
+        "word": "bullet",
+        "translation": "กระสุน",
+        "pos": "noun",
+        "example": "Bullet point.",
+        "level": "basic"
+    },
+    {
+        "id": "v3459",
+        "word": "bunch",
+        "translation": "พวง",
+        "pos": "noun",
+        "example": "Bunch of flowers.",
+        "level": "basic"
+    },
+    {
+        "id": "v3460",
+        "word": "bundle",
+        "translation": "มัด",
+        "pos": "noun",
+        "example": "Bundle of joy.",
+        "level": "basic"
+    },
+    {
+        "id": "v3461",
+        "word": "burden",
+        "translation": "ภาระ",
+        "pos": "noun",
+        "example": "Heavy burden.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3462",
+        "word": "bureaucracy",
+        "translation": "ระบบราชการ",
+        "pos": "noun",
+        "example": "Government bureaucracy.",
+        "level": "advanced"
+    },
+    {
+        "id": "v3463",
+        "word": "burial",
+        "translation": "การฝังศพ",
+        "pos": "noun",
+        "example": "Burial ground.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3464",
+        "word": "burn",
+        "translation": "เผา",
+        "pos": "verb",
+        "example": "Don't burn.",
+        "level": "basic"
+    },
+    {
+        "id": "v3465",
+        "word": "burst",
+        "translation": "ระเบิด",
+        "pos": "verb",
+        "example": "Balloon burst.",
+        "level": "basic"
+    },
+    {
+        "id": "v3466",
+        "word": "bury",
+        "translation": "ฝัง",
+        "pos": "verb",
+        "example": "Bury the past.",
+        "level": "basic"
+    },
+    {
+        "id": "v3467",
+        "word": "bush",
+        "translation": "พุ่มไม้",
+        "pos": "noun",
+        "example": "Rose bush.",
+        "level": "basic"
+    },
+    {
+        "id": "v3468",
+        "word": "businessman",
+        "translation": "นักธุรกิจ",
+        "pos": "noun",
+        "example": "Successful businessman.",
+        "level": "basic"
+    },
+    {
+        "id": "v3469",
+        "word": "busy",
+        "translation": "ยุ่ง",
+        "pos": "adj",
+        "example": "I'm busy.",
+        "level": "basic"
+    },
+    {
+        "id": "v3470",
+        "word": "butter",
+        "translation": "เนย",
+        "pos": "noun",
+        "example": "Peanut butter.",
+        "level": "basic"
+    },
+    {
+        "id": "v3471",
+        "word": "butterfly",
+        "translation": "ผีเสื้อ",
+        "pos": "noun",
+        "example": "Beautiful butterfly.",
+        "level": "basic"
+    },
+    {
+        "id": "v3472",
+        "word": "button",
+        "translation": "ปุ่ม",
+        "pos": "noun",
+        "example": "Press the button.",
+        "level": "basic"
+    },
+    {
+        "id": "v3473",
+        "word": "buyer",
+        "translation": "ผู้ซื้อ",
+        "pos": "noun",
+        "example": "Home buyer.",
+        "level": "basic"
+    },
+    {
+        "id": "v3474",
+        "word": "cab",
+        "translation": "แท็กซี่",
+        "pos": "noun",
+        "example": "Call a cab.",
+        "level": "basic"
+    },
+    {
+        "id": "v3475",
+        "word": "cabin",
+        "translation": "กระท่อม",
+        "pos": "noun",
+        "example": "Log cabin.",
+        "level": "basic"
+    },
+    {
+        "id": "v3476",
+        "word": "cabinet",
+        "translation": "ตู้",
+        "pos": "noun",
+        "example": "Kitchen cabinet.",
+        "level": "basic"
+    },
+    {
+        "id": "v3477",
+        "word": "cable",
+        "translation": "สายเคเบิล",
+        "pos": "noun",
+        "example": "Cable TV.",
+        "level": "basic"
+    },
+    {
+        "id": "v3478",
+        "word": "cafe",
+        "translation": "คาเฟ่",
+        "pos": "noun",
+        "example": "Internet cafe.",
+        "level": "basic"
+    },
+    {
+        "id": "v3479",
+        "word": "cafeteria",
+        "translation": "โรงอาหาร",
+        "pos": "noun",
+        "example": "School cafeteria.",
+        "level": "basic"
+    },
+    {
+        "id": "v3480",
+        "word": "cage",
+        "translation": "กรง",
+        "pos": "noun",
+        "example": "Bird cage.",
+        "level": "basic"
+    },
+    {
+        "id": "v3481",
+        "word": "cake",
+        "translation": "เค้ก",
+        "pos": "noun",
+        "example": "Birthday cake.",
+        "level": "basic"
+    },
+    {
+        "id": "v3482",
+        "word": "calculate",
+        "translation": "คำนวณ",
+        "pos": "verb",
+        "example": "Calculate the cost.",
+        "level": "basic"
+    },
+    {
+        "id": "v3483",
+        "word": "calculation",
+        "translation": "การคำนวณ",
+        "pos": "noun",
+        "example": "Simple calculation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3484",
+        "word": "calculator",
+        "translation": "เครื่องคิดเลข",
+        "pos": "noun",
+        "example": "Use calculator.",
+        "level": "basic"
+    },
+    {
+        "id": "v3485",
+        "word": "calendar",
+        "translation": "ปฏิทิน",
+        "pos": "noun",
+        "example": "Check calendar.",
+        "level": "basic"
+    },
+    {
+        "id": "v3486",
+        "word": "calf",
+        "translation": "ลูกวัว",
+        "pos": "noun",
+        "example": "Baby calf.",
+        "level": "basic"
+    },
+    {
+        "id": "v3487",
+        "word": "calm",
+        "translation": "สงบ",
+        "pos": "adj",
+        "example": "Stay calm.",
+        "level": "basic"
+    },
+    {
+        "id": "v3488",
+        "word": "calorie",
+        "translation": "แคลอรี่",
+        "pos": "noun",
+        "example": "Low calorie.",
+        "level": "basic"
+    },
+    {
+        "id": "v3489",
+        "word": "camera",
+        "translation": "กล้อง",
+        "pos": "noun",
+        "example": "Digital camera.",
+        "level": "basic"
+    },
+    {
+        "id": "v3490",
+        "word": "camp",
+        "translation": "ค่าย",
+        "pos": "noun",
+        "example": "Summer camp.",
+        "level": "basic"
+    },
+    {
+        "id": "v3491",
+        "word": "campaign",
+        "translation": "แคมเปญ",
+        "pos": "noun",
+        "example": "Marketing campaign.",
+        "level": "basic"
+    },
+    {
+        "id": "v3492",
+        "word": "camping",
+        "translation": "การตั้งแคมป์",
+        "pos": "noun",
+        "example": "Go camping.",
+        "level": "basic"
+    },
+    {
+        "id": "v3493",
+        "word": "campus",
+        "translation": "วิทยาเขต",
+        "pos": "noun",
+        "example": "University campus.",
+        "level": "basic"
+    },
+    {
+        "id": "v3494",
+        "word": "canal",
+        "translation": "คลอง",
+        "pos": "noun",
+        "example": "Panama Canal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v3495",
+        "word": "cancel",
+        "translation": "ยกเลิก",
+        "pos": "verb",
+        "example": "Cancel the order.",
+        "level": "basic"
+    },
+    {
+        "id": "v3496",
+        "word": "cancer",
+        "translation": "มะเร็ง",
+        "pos": "noun",
+        "example": "Fight cancer.",
+        "level": "basic"
+    },
+    {
+        "id": "v3497",
+        "word": "candidate",
+        "translation": "ผู้สมัคร",
+        "pos": "noun",
+        "example": "Best candidate.",
+        "level": "basic"
+    },
+    {
+        "id": "v3498",
+        "word": "candle",
+        "translation": "เทียน",
+        "pos": "noun",
+        "example": "Light a candle.",
+        "level": "basic"
+    },
+    {
+        "id": "v3499",
+        "word": "candy",
+        "translation": "ลูกอม",
+        "pos": "noun",
+        "example": "Sweet candy.",
+        "level": "basic"
+    },
+    {
+        "id": "v3500",
+        "word": "canvas",
+        "translation": "ผ้าใบ",
+        "pos": "noun",
+        "example": "Paint on canvas.",
+        "level": "intermediate"
+    }
+]

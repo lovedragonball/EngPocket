@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v7601",
+        "word": "stream",
+        "translation": "ลำธาร",
+        "pos": "noun",
+        "example": "Mountain stream.",
+        "level": "basic"
+    },
+    {
+        "id": "v7602",
+        "word": "streaming",
+        "translation": "สตรีมมิ่ง",
+        "pos": "noun",
+        "example": "Video streaming.",
+        "level": "basic"
+    },
+    {
+        "id": "v7603",
+        "word": "street",
+        "translation": "ถนน",
+        "pos": "noun",
+        "example": "Main street.",
+        "level": "basic"
+    },
+    {
+        "id": "v7604",
+        "word": "strength",
+        "translation": "ความแข็งแรง",
+        "pos": "noun",
+        "example": "Inner strength.",
+        "level": "basic"
+    },
+    {
+        "id": "v7605",
+        "word": "strengthen",
+        "translation": "เสริมสร้าง",
+        "pos": "verb",
+        "example": "Strengthen ties.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7606",
+        "word": "stress",
+        "translation": "ความเครียด",
+        "pos": "noun",
+        "example": "Work stress.",
+        "level": "basic"
+    },
+    {
+        "id": "v7607",
+        "word": "stressed",
+        "translation": "เครียด",
+        "pos": "adj",
+        "example": "Feel stressed.",
+        "level": "basic"
+    },
+    {
+        "id": "v7608",
+        "word": "stressful",
+        "translation": "เครียด",
+        "pos": "adj",
+        "example": "Stressful job.",
+        "level": "basic"
+    },
+    {
+        "id": "v7609",
+        "word": "stretch",
+        "translation": "ยืด",
+        "pos": "verb",
+        "example": "Stretch muscles.",
+        "level": "basic"
+    },
+    {
+        "id": "v7610",
+        "word": "strict",
+        "translation": "เข้มงวด",
+        "pos": "adj",
+        "example": "Strict rules.",
+        "level": "basic"
+    },
+    {
+        "id": "v7611",
+        "word": "strictly",
+        "translation": "อย่างเคร่งครัด",
+        "pos": "adv",
+        "example": "Strictly speaking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7612",
+        "word": "stride",
+        "translation": "ก้าวยาว",
+        "pos": "noun",
+        "example": "Take strides.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7613",
+        "word": "strike",
+        "translation": "โจมตี",
+        "pos": "verb",
+        "example": "Strike hard.",
+        "level": "basic"
+    },
+    {
+        "id": "v7614",
+        "word": "striking",
+        "translation": "โดดเด่น",
+        "pos": "adj",
+        "example": "Striking resemblance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7615",
+        "word": "string",
+        "translation": "สตริง",
+        "pos": "noun",
+        "example": "String of.",
+        "level": "basic"
+    },
+    {
+        "id": "v7616",
+        "word": "strip",
+        "translation": "แถบ",
+        "pos": "noun",
+        "example": "Strip of land.",
+        "level": "basic"
+    },
+    {
+        "id": "v7617",
+        "word": "stripe",
+        "translation": "ลาย",
+        "pos": "noun",
+        "example": "Blue stripe.",
+        "level": "basic"
+    },
+    {
+        "id": "v7618",
+        "word": "strive",
+        "translation": "พยายาม",
+        "pos": "verb",
+        "example": "Strive for.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7619",
+        "word": "stroke",
+        "translation": "โรคหลอดเลือดสมอง",
+        "pos": "noun",
+        "example": "Suffer a stroke.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7620",
+        "word": "strong",
+        "translation": "แข็งแรง",
+        "pos": "adj",
+        "example": "Very strong.",
+        "level": "basic"
+    },
+    {
+        "id": "v7621",
+        "word": "strongly",
+        "translation": "อย่างแข็งขัน",
+        "pos": "adv",
+        "example": "Strongly agree.",
+        "level": "basic"
+    },
+    {
+        "id": "v7622",
+        "word": "structural",
+        "translation": "โครงสร้าง",
+        "pos": "adj",
+        "example": "Structural change.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7623",
+        "word": "structure",
+        "translation": "โครงสร้าง",
+        "pos": "noun",
+        "example": "Building structure.",
+        "level": "basic"
+    },
+    {
+        "id": "v7624",
+        "word": "struggle",
+        "translation": "ดิ้นรน",
+        "pos": "verb",
+        "example": "Struggle to.",
+        "level": "basic"
+    },
+    {
+        "id": "v7625",
+        "word": "struggling",
+        "translation": "กำลังดิ้นรน",
+        "pos": "adj",
+        "example": "Struggling artist.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7626",
+        "word": "stubborn",
+        "translation": "ดื้อ",
+        "pos": "adj",
+        "example": "Very stubborn.",
+        "level": "basic"
+    },
+    {
+        "id": "v7627",
+        "word": "stuck",
+        "translation": "ติด",
+        "pos": "adj",
+        "example": "Get stuck.",
+        "level": "basic"
+    },
+    {
+        "id": "v7628",
+        "word": "student",
+        "translation": "นักเรียน",
+        "pos": "noun",
+        "example": "Good student.",
+        "level": "basic"
+    },
+    {
+        "id": "v7629",
+        "word": "studio",
+        "translation": "สตูดิโอ",
+        "pos": "noun",
+        "example": "Recording studio.",
+        "level": "basic"
+    },
+    {
+        "id": "v7630",
+        "word": "study",
+        "translation": "เรียน",
+        "pos": "verb",
+        "example": "Study hard.",
+        "level": "basic"
+    },
+    {
+        "id": "v7631",
+        "word": "studying",
+        "translation": "การเรียน",
+        "pos": "noun",
+        "example": "While studying.",
+        "level": "basic"
+    },
+    {
+        "id": "v7632",
+        "word": "stuff",
+        "translation": "ของ",
+        "pos": "noun",
+        "example": "Cool stuff.",
+        "level": "basic"
+    },
+    {
+        "id": "v7633",
+        "word": "stumble",
+        "translation": "สะดุด",
+        "pos": "verb",
+        "example": "Stumble upon.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7634",
+        "word": "stunning",
+        "translation": "สวยมาก",
+        "pos": "adj",
+        "example": "Simply stunning.",
+        "level": "basic"
+    },
+    {
+        "id": "v7635",
+        "word": "stupid",
+        "translation": "โง่",
+        "pos": "adj",
+        "example": "Don't be stupid.",
+        "level": "basic"
+    },
+    {
+        "id": "v7636",
+        "word": "style",
+        "translation": "สไตล์",
+        "pos": "noun",
+        "example": "Personal style.",
+        "level": "basic"
+    },
+    {
+        "id": "v7637",
+        "word": "subject",
+        "translation": "วิชา",
+        "pos": "noun",
+        "example": "Main subject.",
+        "level": "basic"
+    },
+    {
+        "id": "v7638",
+        "word": "submarine",
+        "translation": "เรือดำน้ำ",
+        "pos": "noun",
+        "example": "Nuclear submarine.",
+        "level": "basic"
+    },
+    {
+        "id": "v7639",
+        "word": "submit",
+        "translation": "ส่ง",
+        "pos": "verb",
+        "example": "Submit form.",
+        "level": "basic"
+    },
+    {
+        "id": "v7640",
+        "word": "subscription",
+        "translation": "การสมัครสมาชิก",
+        "pos": "noun",
+        "example": "Monthly subscription.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7641",
+        "word": "subsequent",
+        "translation": "ต่อมา",
+        "pos": "adj",
+        "example": "Subsequent events.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7642",
+        "word": "subsequently",
+        "translation": "ต่อมา",
+        "pos": "adv",
+        "example": "Subsequently.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7643",
+        "word": "subsidiary",
+        "translation": "บริษัทย่อย",
+        "pos": "noun",
+        "example": "Company subsidiary.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7644",
+        "word": "subsidy",
+        "translation": "เงินอุดหนุน",
+        "pos": "noun",
+        "example": "Government subsidy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7645",
+        "word": "substance",
+        "translation": "สาร",
+        "pos": "noun",
+        "example": "Chemical substance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7646",
+        "word": "substantial",
+        "translation": "มาก",
+        "pos": "adj",
+        "example": "Substantial amount.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7647",
+        "word": "substantially",
+        "translation": "อย่างมาก",
+        "pos": "adv",
+        "example": "Substantially different.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7648",
+        "word": "substitute",
+        "translation": "ทดแทน",
+        "pos": "noun",
+        "example": "Sugar substitute.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7649",
+        "word": "subtle",
+        "translation": "ละเอียดอ่อน",
+        "pos": "adj",
+        "example": "Subtle difference.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7650",
+        "word": "suburban",
+        "translation": "ชานเมือง",
+        "pos": "adj",
+        "example": "Suburban area.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7651",
+        "word": "succeed",
+        "translation": "ประสบความสำเร็จ",
+        "pos": "verb",
+        "example": "Will succeed.",
+        "level": "basic"
+    },
+    {
+        "id": "v7652",
+        "word": "success",
+        "translation": "ความสำเร็จ",
+        "pos": "noun",
+        "example": "Big success.",
+        "level": "basic"
+    },
+    {
+        "id": "v7653",
+        "word": "successful",
+        "translation": "ประสบความสำเร็จ",
+        "pos": "adj",
+        "example": "Very successful.",
+        "level": "basic"
+    },
+    {
+        "id": "v7654",
+        "word": "successfully",
+        "translation": "อย่างสำเร็จ",
+        "pos": "adv",
+        "example": "Successfully completed.",
+        "level": "basic"
+    },
+    {
+        "id": "v7655",
+        "word": "succession",
+        "translation": "การสืบทอด",
+        "pos": "noun",
+        "example": "In succession.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7656",
+        "word": "successive",
+        "translation": "ติดต่อกัน",
+        "pos": "adj",
+        "example": "Successive wins.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7657",
+        "word": "successor",
+        "translation": "ผู้สืบทอด",
+        "pos": "noun",
+        "example": "Name a successor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7658",
+        "word": "such",
+        "translation": "เช่นนั้น",
+        "pos": "det",
+        "example": "Such a good.",
+        "level": "basic"
+    },
+    {
+        "id": "v7659",
+        "word": "suck",
+        "translation": "ดูด",
+        "pos": "verb",
+        "example": "Don't suck.",
+        "level": "basic"
+    },
+    {
+        "id": "v7660",
+        "word": "sudden",
+        "translation": "กะทันหัน",
+        "pos": "adj",
+        "example": "Sudden change.",
+        "level": "basic"
+    },
+    {
+        "id": "v7661",
+        "word": "suddenly",
+        "translation": "ทันใดนั้น",
+        "pos": "adv",
+        "example": "Suddenly.",
+        "level": "basic"
+    },
+    {
+        "id": "v7662",
+        "word": "sue",
+        "translation": "ฟ้องร้อง",
+        "pos": "verb",
+        "example": "Threaten to sue.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7663",
+        "word": "suffer",
+        "translation": "ทรมาน",
+        "pos": "verb",
+        "example": "Suffer from.",
+        "level": "basic"
+    },
+    {
+        "id": "v7664",
+        "word": "suffering",
+        "translation": "ความทุกข์",
+        "pos": "noun",
+        "example": "End suffering.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7665",
+        "word": "sufficient",
+        "translation": "เพียงพอ",
+        "pos": "adj",
+        "example": "Sufficient funds.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7666",
+        "word": "sufficiently",
+        "translation": "อย่างเพียงพอ",
+        "pos": "adv",
+        "example": "Sufficiently large.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7667",
+        "word": "sugar",
+        "translation": "น้ำตาล",
+        "pos": "noun",
+        "example": "No sugar.",
+        "level": "basic"
+    },
+    {
+        "id": "v7668",
+        "word": "suggest",
+        "translation": "แนะนำ",
+        "pos": "verb",
+        "example": "I suggest.",
+        "level": "basic"
+    },
+    {
+        "id": "v7669",
+        "word": "suggested",
+        "translation": "ที่แนะนำ",
+        "pos": "adj",
+        "example": "Suggested price.",
+        "level": "basic"
+    },
+    {
+        "id": "v7670",
+        "word": "suggestion",
+        "translation": "คำแนะนำ",
+        "pos": "noun",
+        "example": "Good suggestion.",
+        "level": "basic"
+    },
+    {
+        "id": "v7671",
+        "word": "suicide",
+        "translation": "การฆ่าตัวตาย",
+        "pos": "noun",
+        "example": "Prevent suicide.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7672",
+        "word": "suit",
+        "translation": "สูท",
+        "pos": "noun",
+        "example": "Business suit.",
+        "level": "basic"
+    },
+    {
+        "id": "v7673",
+        "word": "suitable",
+        "translation": "เหมาะสม",
+        "pos": "adj",
+        "example": "Most suitable.",
+        "level": "basic"
+    },
+    {
+        "id": "v7674",
+        "word": "suite",
+        "translation": "ห้องชุด",
+        "pos": "noun",
+        "example": "Hotel suite.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7675",
+        "word": "sum",
+        "translation": "ผลรวม",
+        "pos": "noun",
+        "example": "Total sum.",
+        "level": "basic"
+    },
+    {
+        "id": "v7676",
+        "word": "summary",
+        "translation": "สรุป",
+        "pos": "noun",
+        "example": "Brief summary.",
+        "level": "basic"
+    },
+    {
+        "id": "v7677",
+        "word": "summer",
+        "translation": "ฤดูร้อน",
+        "pos": "noun",
+        "example": "Hot summer.",
+        "level": "basic"
+    },
+    {
+        "id": "v7678",
+        "word": "summit",
+        "translation": "ยอดเขา",
+        "pos": "noun",
+        "example": "Mountain summit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7679",
+        "word": "sun",
+        "translation": "พระอาทิตย์",
+        "pos": "noun",
+        "example": "Bright sun.",
+        "level": "basic"
+    },
+    {
+        "id": "v7680",
+        "word": "sunday",
+        "translation": "วันอาทิตย์",
+        "pos": "noun",
+        "example": "Every Sunday.",
+        "level": "basic"
+    },
+    {
+        "id": "v7681",
+        "word": "sunlight",
+        "translation": "แสงแดด",
+        "pos": "noun",
+        "example": "Natural sunlight.",
+        "level": "basic"
+    },
+    {
+        "id": "v7682",
+        "word": "sunny",
+        "translation": "แดดออก",
+        "pos": "adj",
+        "example": "Sunny day.",
+        "level": "basic"
+    },
+    {
+        "id": "v7683",
+        "word": "sunrise",
+        "translation": "พระอาทิตย์ขึ้น",
+        "pos": "noun",
+        "example": "Beautiful sunrise.",
+        "level": "basic"
+    },
+    {
+        "id": "v7684",
+        "word": "sunset",
+        "translation": "พระอาทิตย์ตก",
+        "pos": "noun",
+        "example": "Watch sunset.",
+        "level": "basic"
+    },
+    {
+        "id": "v7685",
+        "word": "sunshine",
+        "translation": "แสงแดด",
+        "pos": "noun",
+        "example": "Warm sunshine.",
+        "level": "basic"
+    },
+    {
+        "id": "v7686",
+        "word": "super",
+        "translation": "สุดยอด",
+        "pos": "adj",
+        "example": "Super cool.",
+        "level": "basic"
+    },
+    {
+        "id": "v7687",
+        "word": "superb",
+        "translation": "ยอดเยี่ยม",
+        "pos": "adj",
+        "example": "Absolutely superb.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7688",
+        "word": "superintendent",
+        "translation": "ผู้ดูแล",
+        "pos": "noun",
+        "example": "School superintendent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7689",
+        "word": "superior",
+        "translation": "เหนือกว่า",
+        "pos": "adj",
+        "example": "Far superior.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7690",
+        "word": "supermarket",
+        "translation": "ซุปเปอร์มาร์เก็ต",
+        "pos": "noun",
+        "example": "Local supermarket.",
+        "level": "basic"
+    },
+    {
+        "id": "v7691",
+        "word": "supervise",
+        "translation": "ดูแล",
+        "pos": "verb",
+        "example": "Supervise work.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7692",
+        "word": "supervision",
+        "translation": "การดูแล",
+        "pos": "noun",
+        "example": "Under supervision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7693",
+        "word": "supervisor",
+        "translation": "หัวหน้างาน",
+        "pos": "noun",
+        "example": "Direct supervisor.",
+        "level": "basic"
+    },
+    {
+        "id": "v7694",
+        "word": "supper",
+        "translation": "อาหารเย็น",
+        "pos": "noun",
+        "example": "Have supper.",
+        "level": "basic"
+    },
+    {
+        "id": "v7695",
+        "word": "supplement",
+        "translation": "อาหารเสริม",
+        "pos": "noun",
+        "example": "Vitamin supplement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v7696",
+        "word": "supplier",
+        "translation": "ผู้จัดหา",
+        "pos": "noun",
+        "example": "Main supplier.",
+        "level": "basic"
+    },
+    {
+        "id": "v7697",
+        "word": "supply",
+        "translation": "จัดหา",
+        "pos": "verb",
+        "example": "Supply goods.",
+        "level": "basic"
+    },
+    {
+        "id": "v7698",
+        "word": "support",
+        "translation": "สนับสนุน",
+        "pos": "verb",
+        "example": "Support team.",
+        "level": "basic"
+    },
+    {
+        "id": "v7699",
+        "word": "supporter",
+        "translation": "ผู้สนับสนุน",
+        "pos": "noun",
+        "example": "Strong supporter.",
+        "level": "basic"
+    },
+    {
+        "id": "v7700",
+        "word": "supportive",
+        "translation": "สนับสนุน",
+        "pos": "adj",
+        "example": "Very supportive.",
+        "level": "intermediate"
+    }
+]

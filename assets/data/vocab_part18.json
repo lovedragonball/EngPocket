@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v1651",
+        "word": "mobile",
+        "translation": "มือถือ",
+        "pos": "adj",
+        "example": "Mobile phone.",
+        "level": "basic"
+    },
+    {
+        "id": "v1652",
+        "word": "mode",
+        "translation": "โหมด",
+        "pos": "noun",
+        "example": "Dark mode.",
+        "level": "basic"
+    },
+    {
+        "id": "v1653",
+        "word": "model",
+        "translation": "แบบจำลอง",
+        "pos": "noun",
+        "example": "Role model.",
+        "level": "basic"
+    },
+    {
+        "id": "v1654",
+        "word": "moderate",
+        "translation": "ปานกลาง",
+        "pos": "adj",
+        "example": "Moderate exercise.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1655",
+        "word": "modern",
+        "translation": "ทันสมัย",
+        "pos": "adj",
+        "example": "Modern technology.",
+        "level": "basic"
+    },
+    {
+        "id": "v1656",
+        "word": "modify",
+        "translation": "แก้ไข",
+        "pos": "verb",
+        "example": "Modify the design.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1657",
+        "word": "mom",
+        "translation": "แม่",
+        "pos": "noun",
+        "example": "My mom.",
+        "level": "basic"
+    },
+    {
+        "id": "v1658",
+        "word": "moment",
+        "translation": "ช่วงเวลา",
+        "pos": "noun",
+        "example": "Just a moment.",
+        "level": "basic"
+    },
+    {
+        "id": "v1659",
+        "word": "monday",
+        "translation": "วันจันทร์",
+        "pos": "noun",
+        "example": "This Monday.",
+        "level": "basic"
+    },
+    {
+        "id": "v1660",
+        "word": "money",
+        "translation": "เงิน",
+        "pos": "noun",
+        "example": "Save money.",
+        "level": "basic"
+    },
+    {
+        "id": "v1661",
+        "word": "monitor",
+        "translation": "จอมอนิเตอร์",
+        "pos": "noun",
+        "example": "Computer monitor.",
+        "level": "basic"
+    },
+    {
+        "id": "v1662",
+        "word": "monkey",
+        "translation": "ลิง",
+        "pos": "noun",
+        "example": "Funny monkey.",
+        "level": "basic"
+    },
+    {
+        "id": "v1663",
+        "word": "month",
+        "translation": "เดือน",
+        "pos": "noun",
+        "example": "Next month.",
+        "level": "basic"
+    },
+    {
+        "id": "v1664",
+        "word": "monthly",
+        "translation": "รายเดือน",
+        "pos": "adj",
+        "example": "Monthly fee.",
+        "level": "basic"
+    },
+    {
+        "id": "v1665",
+        "word": "mood",
+        "translation": "อารมณ์",
+        "pos": "noun",
+        "example": "Good mood.",
+        "level": "basic"
+    },
+    {
+        "id": "v1666",
+        "word": "moon",
+        "translation": "ดวงจันทร์",
+        "pos": "noun",
+        "example": "Full moon.",
+        "level": "basic"
+    },
+    {
+        "id": "v1667",
+        "word": "moral",
+        "translation": "ศีลธรรม",
+        "pos": "adj",
+        "example": "Moral values.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1668",
+        "word": "more",
+        "translation": "มากกว่า",
+        "pos": "det",
+        "example": "More time.",
+        "level": "basic"
+    },
+    {
+        "id": "v1669",
+        "word": "moreover",
+        "translation": "นอกจากนี้",
+        "pos": "adv",
+        "example": "Moreover.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1670",
+        "word": "morning",
+        "translation": "ตอนเช้า",
+        "pos": "noun",
+        "example": "Good morning!",
+        "level": "basic"
+    },
+    {
+        "id": "v1671",
+        "word": "mortgage",
+        "translation": "จำนอง",
+        "pos": "noun",
+        "example": "Pay mortgage.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1672",
+        "word": "most",
+        "translation": "ส่วนใหญ่",
+        "pos": "det",
+        "example": "Most people.",
+        "level": "basic"
+    },
+    {
+        "id": "v1673",
+        "word": "mostly",
+        "translation": "ส่วนใหญ่",
+        "pos": "adv",
+        "example": "Mostly correct.",
+        "level": "basic"
+    },
+    {
+        "id": "v1674",
+        "word": "mother",
+        "translation": "แม่",
+        "pos": "noun",
+        "example": "My mother.",
+        "level": "basic"
+    },
+    {
+        "id": "v1675",
+        "word": "motion",
+        "translation": "การเคลื่อนไหว",
+        "pos": "noun",
+        "example": "Slow motion.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1676",
+        "word": "motivation",
+        "translation": "แรงจูงใจ",
+        "pos": "noun",
+        "example": "Need motivation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1677",
+        "word": "motor",
+        "translation": "มอเตอร์",
+        "pos": "noun",
+        "example": "Electric motor.",
+        "level": "basic"
+    },
+    {
+        "id": "v1678",
+        "word": "mountain",
+        "translation": "ภูเขา",
+        "pos": "noun",
+        "example": "Climb the mountain.",
+        "level": "basic"
+    },
+    {
+        "id": "v1679",
+        "word": "mouse",
+        "translation": "หนู",
+        "pos": "noun",
+        "example": "Computer mouse.",
+        "level": "basic"
+    },
+    {
+        "id": "v1680",
+        "word": "mouth",
+        "translation": "ปาก",
+        "pos": "noun",
+        "example": "Open your mouth.",
+        "level": "basic"
+    },
+    {
+        "id": "v1681",
+        "word": "move",
+        "translation": "ย้าย",
+        "pos": "verb",
+        "example": "Move forward.",
+        "level": "basic"
+    },
+    {
+        "id": "v1682",
+        "word": "movement",
+        "translation": "การเคลื่อนไหว",
+        "pos": "noun",
+        "example": "Art movement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1683",
+        "word": "movie",
+        "translation": "หนัง",
+        "pos": "noun",
+        "example": "Watch a movie.",
+        "level": "basic"
+    },
+    {
+        "id": "v1684",
+        "word": "much",
+        "translation": "มาก",
+        "pos": "det",
+        "example": "How much?",
+        "level": "basic"
+    },
+    {
+        "id": "v1685",
+        "word": "mud",
+        "translation": "โคลน",
+        "pos": "noun",
+        "example": "Mud bath.",
+        "level": "basic"
+    },
+    {
+        "id": "v1686",
+        "word": "multiple",
+        "translation": "หลายอย่าง",
+        "pos": "adj",
+        "example": "Multiple choices.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1687",
+        "word": "murder",
+        "translation": "ฆาตกรรม",
+        "pos": "noun",
+        "example": "Murder case.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1688",
+        "word": "muscle",
+        "translation": "กล้ามเนื้อ",
+        "pos": "noun",
+        "example": "Muscle pain.",
+        "level": "basic"
+    },
+    {
+        "id": "v1689",
+        "word": "museum",
+        "translation": "พิพิธภัณฑ์",
+        "pos": "noun",
+        "example": "Art museum.",
+        "level": "basic"
+    },
+    {
+        "id": "v1690",
+        "word": "music",
+        "translation": "เพลง",
+        "pos": "noun",
+        "example": "Listen to music.",
+        "level": "basic"
+    },
+    {
+        "id": "v1691",
+        "word": "musical",
+        "translation": "ดนตรี",
+        "pos": "adj",
+        "example": "Musical instrument.",
+        "level": "basic"
+    },
+    {
+        "id": "v1692",
+        "word": "musician",
+        "translation": "นักดนตรี",
+        "pos": "noun",
+        "example": "Famous musician.",
+        "level": "basic"
+    },
+    {
+        "id": "v1693",
+        "word": "must",
+        "translation": "ต้อง",
+        "pos": "verb",
+        "example": "You must go.",
+        "level": "basic"
+    },
+    {
+        "id": "v1694",
+        "word": "mutual",
+        "translation": "ร่วมกัน",
+        "pos": "adj",
+        "example": "Mutual respect.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1695",
+        "word": "my",
+        "translation": "ของฉัน",
+        "pos": "det",
+        "example": "My book.",
+        "level": "basic"
+    },
+    {
+        "id": "v1696",
+        "word": "myself",
+        "translation": "ตัวฉันเอง",
+        "pos": "pron",
+        "example": "I did it myself.",
+        "level": "basic"
+    },
+    {
+        "id": "v1697",
+        "word": "mystery",
+        "translation": "ความลึกลับ",
+        "pos": "noun",
+        "example": "Solve the mystery.",
+        "level": "basic"
+    },
+    {
+        "id": "v1698",
+        "word": "myth",
+        "translation": "ตำนาน",
+        "pos": "noun",
+        "example": "Greek myth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1699",
+        "word": "nail",
+        "translation": "ตะปู",
+        "pos": "noun",
+        "example": "Nail polish.",
+        "level": "basic"
+    },
+    {
+        "id": "v1700",
+        "word": "naked",
+        "translation": "เปลือย",
+        "pos": "adj",
+        "example": "Naked eye.",
+        "level": "basic"
+    },
+    {
+        "id": "v1701",
+        "word": "name",
+        "translation": "ชื่อ",
+        "pos": "noun",
+        "example": "What's your name?",
+        "level": "basic"
+    },
+    {
+        "id": "v1702",
+        "word": "narrative",
+        "translation": "การเล่าเรื่อง",
+        "pos": "noun",
+        "example": "Personal narrative.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1703",
+        "word": "narrow",
+        "translation": "แคบ",
+        "pos": "adj",
+        "example": "Narrow road.",
+        "level": "basic"
+    },
+    {
+        "id": "v1704",
+        "word": "nation",
+        "translation": "ประเทศ",
+        "pos": "noun",
+        "example": "United Nations.",
+        "level": "basic"
+    },
+    {
+        "id": "v1705",
+        "word": "national",
+        "translation": "แห่งชาติ",
+        "pos": "adj",
+        "example": "National park.",
+        "level": "basic"
+    },
+    {
+        "id": "v1706",
+        "word": "native",
+        "translation": "พื้นเมือง",
+        "pos": "adj",
+        "example": "Native speaker.",
+        "level": "basic"
+    },
+    {
+        "id": "v1707",
+        "word": "natural",
+        "translation": "ธรรมชาติ",
+        "pos": "adj",
+        "example": "Natural beauty.",
+        "level": "basic"
+    },
+    {
+        "id": "v1708",
+        "word": "naturally",
+        "translation": "โดยธรรมชาติ",
+        "pos": "adv",
+        "example": "Naturally.",
+        "level": "basic"
+    },
+    {
+        "id": "v1709",
+        "word": "nature",
+        "translation": "ธรรมชาติ",
+        "pos": "noun",
+        "example": "Mother nature.",
+        "level": "basic"
+    },
+    {
+        "id": "v1710",
+        "word": "near",
+        "translation": "ใกล้",
+        "pos": "prep",
+        "example": "Near here.",
+        "level": "basic"
+    },
+    {
+        "id": "v1711",
+        "word": "nearby",
+        "translation": "ใกล้เคียง",
+        "pos": "adj",
+        "example": "Nearby restaurant.",
+        "level": "basic"
+    },
+    {
+        "id": "v1712",
+        "word": "nearly",
+        "translation": "เกือบ",
+        "pos": "adv",
+        "example": "Nearly finished.",
+        "level": "basic"
+    },
+    {
+        "id": "v1713",
+        "word": "necessarily",
+        "translation": "จำเป็น",
+        "pos": "adv",
+        "example": "Not necessarily.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1714",
+        "word": "necessary",
+        "translation": "จำเป็น",
+        "pos": "adj",
+        "example": "If necessary.",
+        "level": "basic"
+    },
+    {
+        "id": "v1715",
+        "word": "neck",
+        "translation": "คอ",
+        "pos": "noun",
+        "example": "Neck pain.",
+        "level": "basic"
+    },
+    {
+        "id": "v1716",
+        "word": "need",
+        "translation": "ต้องการ",
+        "pos": "verb",
+        "example": "I need help.",
+        "level": "basic"
+    },
+    {
+        "id": "v1717",
+        "word": "negative",
+        "translation": "เชิงลบ",
+        "pos": "adj",
+        "example": "Negative feedback.",
+        "level": "basic"
+    },
+    {
+        "id": "v1718",
+        "word": "negotiate",
+        "translation": "เจรจา",
+        "pos": "verb",
+        "example": "Negotiate a deal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1719",
+        "word": "negotiation",
+        "translation": "การเจรจา",
+        "pos": "noun",
+        "example": "Peace negotiation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1720",
+        "word": "neighbor",
+        "translation": "เพื่อนบ้าน",
+        "pos": "noun",
+        "example": "Good neighbor.",
+        "level": "basic"
+    },
+    {
+        "id": "v1721",
+        "word": "neighborhood",
+        "translation": "ละแวก",
+        "pos": "noun",
+        "example": "Nice neighborhood.",
+        "level": "basic"
+    },
+    {
+        "id": "v1722",
+        "word": "neither",
+        "translation": "ทั้งสองไม่",
+        "pos": "det",
+        "example": "Neither one.",
+        "level": "basic"
+    },
+    {
+        "id": "v1723",
+        "word": "nerve",
+        "translation": "เส้นประสาท",
+        "pos": "noun",
+        "example": "Get on my nerves.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1724",
+        "word": "nervous",
+        "translation": "กังวล",
+        "pos": "adj",
+        "example": "I'm nervous.",
+        "level": "basic"
+    },
+    {
+        "id": "v1725",
+        "word": "net",
+        "translation": "สุทธิ",
+        "pos": "adj",
+        "example": "Net profit.",
+        "level": "basic"
+    },
+    {
+        "id": "v1726",
+        "word": "network",
+        "translation": "เครือข่าย",
+        "pos": "noun",
+        "example": "Social network.",
+        "level": "basic"
+    },
+    {
+        "id": "v1727",
+        "word": "never",
+        "translation": "ไม่เคย",
+        "pos": "adv",
+        "example": "Never give up.",
+        "level": "basic"
+    },
+    {
+        "id": "v1728",
+        "word": "nevertheless",
+        "translation": "อย่างไรก็ตาม",
+        "pos": "adv",
+        "example": "Nevertheless.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1729",
+        "word": "new",
+        "translation": "ใหม่",
+        "pos": "adj",
+        "example": "Brand new.",
+        "level": "basic"
+    },
+    {
+        "id": "v1730",
+        "word": "newly",
+        "translation": "เพิ่งจะ",
+        "pos": "adv",
+        "example": "Newly married.",
+        "level": "basic"
+    },
+    {
+        "id": "v1731",
+        "word": "news",
+        "translation": "ข่าว",
+        "pos": "noun",
+        "example": "Good news!",
+        "level": "basic"
+    },
+    {
+        "id": "v1732",
+        "word": "newspaper",
+        "translation": "หนังสือพิมพ์",
+        "pos": "noun",
+        "example": "Daily newspaper.",
+        "level": "basic"
+    },
+    {
+        "id": "v1733",
+        "word": "next",
+        "translation": "ถัดไป",
+        "pos": "adj",
+        "example": "Next week.",
+        "level": "basic"
+    },
+    {
+        "id": "v1734",
+        "word": "nice",
+        "translation": "ดี",
+        "pos": "adj",
+        "example": "Nice to meet you.",
+        "level": "basic"
+    },
+    {
+        "id": "v1735",
+        "word": "night",
+        "translation": "กลางคืน",
+        "pos": "noun",
+        "example": "Good night.",
+        "level": "basic"
+    },
+    {
+        "id": "v1736",
+        "word": "nightmare",
+        "translation": "ฝันร้าย",
+        "pos": "noun",
+        "example": "What a nightmare!",
+        "level": "basic"
+    },
+    {
+        "id": "v1737",
+        "word": "nine",
+        "translation": "เก้า",
+        "pos": "num",
+        "example": "Nine o'clock.",
+        "level": "basic"
+    },
+    {
+        "id": "v1738",
+        "word": "no",
+        "translation": "ไม่",
+        "pos": "det",
+        "example": "No problem.",
+        "level": "basic"
+    },
+    {
+        "id": "v1739",
+        "word": "nobody",
+        "translation": "ไม่มีใคร",
+        "pos": "pron",
+        "example": "Nobody knows.",
+        "level": "basic"
+    },
+    {
+        "id": "v1740",
+        "word": "nod",
+        "translation": "พยักหน้า",
+        "pos": "verb",
+        "example": "Nod your head.",
+        "level": "basic"
+    },
+    {
+        "id": "v1741",
+        "word": "noise",
+        "translation": "เสียงรบกวน",
+        "pos": "noun",
+        "example": "Too much noise.",
+        "level": "basic"
+    },
+    {
+        "id": "v1742",
+        "word": "none",
+        "translation": "ไม่มีเลย",
+        "pos": "pron",
+        "example": "None of them.",
+        "level": "basic"
+    },
+    {
+        "id": "v1743",
+        "word": "nonetheless",
+        "translation": "อย่างไรก็ตาม",
+        "pos": "adv",
+        "example": "Nonetheless.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1744",
+        "word": "nor",
+        "translation": "และไม่",
+        "pos": "conj",
+        "example": "Neither...nor.",
+        "level": "basic"
+    },
+    {
+        "id": "v1745",
+        "word": "normal",
+        "translation": "ปกติ",
+        "pos": "adj",
+        "example": "Back to normal.",
+        "level": "basic"
+    },
+    {
+        "id": "v1746",
+        "word": "normally",
+        "translation": "โดยปกติ",
+        "pos": "adv",
+        "example": "Normally.",
+        "level": "basic"
+    },
+    {
+        "id": "v1747",
+        "word": "north",
+        "translation": "เหนือ",
+        "pos": "noun",
+        "example": "Up north.",
+        "level": "basic"
+    },
+    {
+        "id": "v1748",
+        "word": "northern",
+        "translation": "ทางเหนือ",
+        "pos": "adj",
+        "example": "Northern region.",
+        "level": "basic"
+    },
+    {
+        "id": "v1749",
+        "word": "nose",
+        "translation": "จมูก",
+        "pos": "noun",
+        "example": "Runny nose.",
+        "level": "basic"
+    },
+    {
+        "id": "v1750",
+        "word": "not",
+        "translation": "ไม่",
+        "pos": "adv",
+        "example": "Not yet.",
+        "level": "basic"
+    }
+]

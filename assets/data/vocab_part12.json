@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v1051",
+        "word": "frustrated",
+        "translation": "หงุดหงิด",
+        "pos": "adj",
+        "example": "I'm frustrated.",
+        "level": "basic"
+    },
+    {
+        "id": "v1052",
+        "word": "frustration",
+        "translation": "ความหงุดหงิด",
+        "pos": "noun",
+        "example": "Show frustration.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1053",
+        "word": "fuel",
+        "translation": "เชื้อเพลิง",
+        "pos": "noun",
+        "example": "Fuel price.",
+        "level": "basic"
+    },
+    {
+        "id": "v1054",
+        "word": "full",
+        "translation": "เต็ม",
+        "pos": "adj",
+        "example": "Full moon.",
+        "level": "basic"
+    },
+    {
+        "id": "v1055",
+        "word": "fully",
+        "translation": "อย่างเต็มที่",
+        "pos": "adv",
+        "example": "Fully booked.",
+        "level": "basic"
+    },
+    {
+        "id": "v1056",
+        "word": "fun",
+        "translation": "สนุก",
+        "pos": "noun",
+        "example": "Have fun!",
+        "level": "basic"
+    },
+    {
+        "id": "v1057",
+        "word": "function",
+        "translation": "ฟังก์ชัน",
+        "pos": "noun",
+        "example": "Basic function.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1058",
+        "word": "fund",
+        "translation": "กองทุน",
+        "pos": "noun",
+        "example": "Raise funds.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1059",
+        "word": "fundamental",
+        "translation": "พื้นฐาน",
+        "pos": "adj",
+        "example": "Fundamental rights.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1060",
+        "word": "funding",
+        "translation": "เงินทุน",
+        "pos": "noun",
+        "example": "Research funding.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1061",
+        "word": "funeral",
+        "translation": "งานศพ",
+        "pos": "noun",
+        "example": "Attend funeral.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1062",
+        "word": "funny",
+        "translation": "ตลก",
+        "pos": "adj",
+        "example": "So funny!",
+        "level": "basic"
+    },
+    {
+        "id": "v1063",
+        "word": "furniture",
+        "translation": "เฟอร์นิเจอร์",
+        "pos": "noun",
+        "example": "New furniture.",
+        "level": "basic"
+    },
+    {
+        "id": "v1064",
+        "word": "furthermore",
+        "translation": "นอกจากนี้",
+        "pos": "adv",
+        "example": "Furthermore.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1065",
+        "word": "future",
+        "translation": "อนาคต",
+        "pos": "noun",
+        "example": "In the future.",
+        "level": "basic"
+    },
+    {
+        "id": "v1066",
+        "word": "gain",
+        "translation": "ได้รับ",
+        "pos": "verb",
+        "example": "Gain weight.",
+        "level": "basic"
+    },
+    {
+        "id": "v1067",
+        "word": "gallery",
+        "translation": "แกลเลอรี่",
+        "pos": "noun",
+        "example": "Art gallery.",
+        "level": "basic"
+    },
+    {
+        "id": "v1068",
+        "word": "game",
+        "translation": "เกม",
+        "pos": "noun",
+        "example": "Video game.",
+        "level": "basic"
+    },
+    {
+        "id": "v1069",
+        "word": "gang",
+        "translation": "แก๊ง",
+        "pos": "noun",
+        "example": "Street gang.",
+        "level": "basic"
+    },
+    {
+        "id": "v1070",
+        "word": "gap",
+        "translation": "ช่องว่าง",
+        "pos": "noun",
+        "example": "Generation gap.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1071",
+        "word": "garage",
+        "translation": "โรงรถ",
+        "pos": "noun",
+        "example": "Park in garage.",
+        "level": "basic"
+    },
+    {
+        "id": "v1072",
+        "word": "garden",
+        "translation": "สวน",
+        "pos": "noun",
+        "example": "Beautiful garden.",
+        "level": "basic"
+    },
+    {
+        "id": "v1073",
+        "word": "gas",
+        "translation": "ก๊าซ",
+        "pos": "noun",
+        "example": "Gas station.",
+        "level": "basic"
+    },
+    {
+        "id": "v1074",
+        "word": "gate",
+        "translation": "ประตู",
+        "pos": "noun",
+        "example": "Front gate.",
+        "level": "basic"
+    },
+    {
+        "id": "v1075",
+        "word": "gather",
+        "translation": "รวบรวม",
+        "pos": "verb",
+        "example": "Gather information.",
+        "level": "basic"
+    },
+    {
+        "id": "v1076",
+        "word": "gay",
+        "translation": "เกย์",
+        "pos": "adj",
+        "example": "Gay rights.",
+        "level": "basic"
+    },
+    {
+        "id": "v1077",
+        "word": "gear",
+        "translation": "เกียร์",
+        "pos": "noun",
+        "example": "Camping gear.",
+        "level": "basic"
+    },
+    {
+        "id": "v1078",
+        "word": "gender",
+        "translation": "เพศ",
+        "pos": "noun",
+        "example": "Gender equality.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1079",
+        "word": "gene",
+        "translation": "ยีน",
+        "pos": "noun",
+        "example": "Gene therapy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1080",
+        "word": "general",
+        "translation": "ทั่วไป",
+        "pos": "adj",
+        "example": "In general.",
+        "level": "basic"
+    },
+    {
+        "id": "v1081",
+        "word": "generally",
+        "translation": "โดยทั่วไป",
+        "pos": "adv",
+        "example": "Generally speaking.",
+        "level": "basic"
+    },
+    {
+        "id": "v1082",
+        "word": "generate",
+        "translation": "สร้าง",
+        "pos": "verb",
+        "example": "Generate ideas.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1083",
+        "word": "generation",
+        "translation": "รุ่น",
+        "pos": "noun",
+        "example": "Next generation.",
+        "level": "basic"
+    },
+    {
+        "id": "v1084",
+        "word": "generous",
+        "translation": "ใจกว้าง",
+        "pos": "adj",
+        "example": "Very generous.",
+        "level": "basic"
+    },
+    {
+        "id": "v1085",
+        "word": "genetic",
+        "translation": "ทางพันธุกรรม",
+        "pos": "adj",
+        "example": "Genetic research.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1086",
+        "word": "genius",
+        "translation": "อัจฉริยะ",
+        "pos": "noun",
+        "example": "You're a genius!",
+        "level": "basic"
+    },
+    {
+        "id": "v1087",
+        "word": "gentle",
+        "translation": "อ่อนโยน",
+        "pos": "adj",
+        "example": "Gentle touch.",
+        "level": "basic"
+    },
+    {
+        "id": "v1088",
+        "word": "gentleman",
+        "translation": "สุภาพบุรุษ",
+        "pos": "noun",
+        "example": "True gentleman.",
+        "level": "basic"
+    },
+    {
+        "id": "v1089",
+        "word": "gently",
+        "translation": "อย่างอ่อนโยน",
+        "pos": "adv",
+        "example": "Speak gently.",
+        "level": "basic"
+    },
+    {
+        "id": "v1090",
+        "word": "genuine",
+        "translation": "แท้จริง",
+        "pos": "adj",
+        "example": "Genuine leather.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1091",
+        "word": "geography",
+        "translation": "ภูมิศาสตร์",
+        "pos": "noun",
+        "example": "Study geography.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1092",
+        "word": "gesture",
+        "translation": "ท่าทาง",
+        "pos": "noun",
+        "example": "Nice gesture.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1093",
+        "word": "get",
+        "translation": "ได้รับ",
+        "pos": "verb",
+        "example": "Get ready.",
+        "level": "basic"
+    },
+    {
+        "id": "v1094",
+        "word": "ghost",
+        "translation": "ผี",
+        "pos": "noun",
+        "example": "Ghost story.",
+        "level": "basic"
+    },
+    {
+        "id": "v1095",
+        "word": "giant",
+        "translation": "ยักษ์",
+        "pos": "noun",
+        "example": "Giant company.",
+        "level": "basic"
+    },
+    {
+        "id": "v1096",
+        "word": "gift",
+        "translation": "ของขวัญ",
+        "pos": "noun",
+        "example": "Birthday gift.",
+        "level": "basic"
+    },
+    {
+        "id": "v1097",
+        "word": "girl",
+        "translation": "เด็กผู้หญิง",
+        "pos": "noun",
+        "example": "Little girl.",
+        "level": "basic"
+    },
+    {
+        "id": "v1098",
+        "word": "girlfriend",
+        "translation": "แฟนสาว",
+        "pos": "noun",
+        "example": "My girlfriend.",
+        "level": "basic"
+    },
+    {
+        "id": "v1099",
+        "word": "give",
+        "translation": "ให้",
+        "pos": "verb",
+        "example": "Give me.",
+        "level": "basic"
+    },
+    {
+        "id": "v1100",
+        "word": "glad",
+        "translation": "ดีใจ",
+        "pos": "adj",
+        "example": "Glad to help.",
+        "level": "basic"
+    },
+    {
+        "id": "v1101",
+        "word": "glance",
+        "translation": "มองเห็น",
+        "pos": "verb",
+        "example": "At first glance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1102",
+        "word": "glass",
+        "translation": "แก้ว",
+        "pos": "noun",
+        "example": "Glass of water.",
+        "level": "basic"
+    },
+    {
+        "id": "v1103",
+        "word": "global",
+        "translation": "ทั่วโลก",
+        "pos": "adj",
+        "example": "Global warming.",
+        "level": "basic"
+    },
+    {
+        "id": "v1104",
+        "word": "glory",
+        "translation": "ความรุ่งโรจน์",
+        "pos": "noun",
+        "example": "Glory days.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1105",
+        "word": "glove",
+        "translation": "ถุงมือ",
+        "pos": "noun",
+        "example": "Boxing gloves.",
+        "level": "basic"
+    },
+    {
+        "id": "v1106",
+        "word": "go",
+        "translation": "ไป",
+        "pos": "verb",
+        "example": "Let's go.",
+        "level": "basic"
+    },
+    {
+        "id": "v1107",
+        "word": "goal",
+        "translation": "เป้าหมาย",
+        "pos": "noun",
+        "example": "Life goal.",
+        "level": "basic"
+    },
+    {
+        "id": "v1108",
+        "word": "god",
+        "translation": "พระเจ้า",
+        "pos": "noun",
+        "example": "Thank God.",
+        "level": "basic"
+    },
+    {
+        "id": "v1109",
+        "word": "gold",
+        "translation": "ทอง",
+        "pos": "noun",
+        "example": "Gold ring.",
+        "level": "basic"
+    },
+    {
+        "id": "v1110",
+        "word": "golden",
+        "translation": "สีทอง",
+        "pos": "adj",
+        "example": "Golden age.",
+        "level": "basic"
+    },
+    {
+        "id": "v1111",
+        "word": "golf",
+        "translation": "กอล์ฟ",
+        "pos": "noun",
+        "example": "Play golf.",
+        "level": "basic"
+    },
+    {
+        "id": "v1112",
+        "word": "good",
+        "translation": "ดี",
+        "pos": "adj",
+        "example": "Good job!",
+        "level": "basic"
+    },
+    {
+        "id": "v1113",
+        "word": "goods",
+        "translation": "สินค้า",
+        "pos": "noun",
+        "example": "Deliver goods.",
+        "level": "basic"
+    },
+    {
+        "id": "v1114",
+        "word": "gorgeous",
+        "translation": "งดงาม",
+        "pos": "adj",
+        "example": "Gorgeous view.",
+        "level": "basic"
+    },
+    {
+        "id": "v1115",
+        "word": "government",
+        "translation": "รัฐบาล",
+        "pos": "noun",
+        "example": "Local government.",
+        "level": "basic"
+    },
+    {
+        "id": "v1116",
+        "word": "governor",
+        "translation": "ผู้ว่าราชการ",
+        "pos": "noun",
+        "example": "State governor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1117",
+        "word": "grab",
+        "translation": "คว้า",
+        "pos": "verb",
+        "example": "Grab a coffee.",
+        "level": "basic"
+    },
+    {
+        "id": "v1118",
+        "word": "grace",
+        "translation": "ความสง่างาม",
+        "pos": "noun",
+        "example": "With grace.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1119",
+        "word": "grade",
+        "translation": "เกรด",
+        "pos": "noun",
+        "example": "Good grades.",
+        "level": "basic"
+    },
+    {
+        "id": "v1120",
+        "word": "gradually",
+        "translation": "ค่อยๆ",
+        "pos": "adv",
+        "example": "Gradually improving.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1121",
+        "word": "graduate",
+        "translation": "จบการศึกษา",
+        "pos": "verb",
+        "example": "Graduate from college.",
+        "level": "basic"
+    },
+    {
+        "id": "v1122",
+        "word": "grain",
+        "translation": "เมล็ดข้าว",
+        "pos": "noun",
+        "example": "Whole grain.",
+        "level": "basic"
+    },
+    {
+        "id": "v1123",
+        "word": "grand",
+        "translation": "ยิ่งใหญ่",
+        "pos": "adj",
+        "example": "Grand opening.",
+        "level": "basic"
+    },
+    {
+        "id": "v1124",
+        "word": "grandfather",
+        "translation": "ปู่",
+        "pos": "noun",
+        "example": "My grandfather.",
+        "level": "basic"
+    },
+    {
+        "id": "v1125",
+        "word": "grandmother",
+        "translation": "ย่า",
+        "pos": "noun",
+        "example": "My grandmother.",
+        "level": "basic"
+    },
+    {
+        "id": "v1126",
+        "word": "grant",
+        "translation": "ให้",
+        "pos": "verb",
+        "example": "Grant permission.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1127",
+        "word": "grass",
+        "translation": "หญ้า",
+        "pos": "noun",
+        "example": "Green grass.",
+        "level": "basic"
+    },
+    {
+        "id": "v1128",
+        "word": "grateful",
+        "translation": "ขอบคุณ",
+        "pos": "adj",
+        "example": "I'm grateful.",
+        "level": "basic"
+    },
+    {
+        "id": "v1129",
+        "word": "grave",
+        "translation": "หลุมศพ",
+        "pos": "noun",
+        "example": "Visit the grave.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1130",
+        "word": "gray",
+        "translation": "สีเทา",
+        "pos": "adj",
+        "example": "Gray sky.",
+        "level": "basic"
+    },
+    {
+        "id": "v1131",
+        "word": "great",
+        "translation": "ยิ่งใหญ่",
+        "pos": "adj",
+        "example": "Great job!",
+        "level": "basic"
+    },
+    {
+        "id": "v1132",
+        "word": "greatest",
+        "translation": "ยิ่งใหญ่ที่สุด",
+        "pos": "adj",
+        "example": "The greatest.",
+        "level": "basic"
+    },
+    {
+        "id": "v1133",
+        "word": "greatly",
+        "translation": "อย่างมาก",
+        "pos": "adv",
+        "example": "Greatly appreciated.",
+        "level": "basic"
+    },
+    {
+        "id": "v1134",
+        "word": "green",
+        "translation": "สีเขียว",
+        "pos": "adj",
+        "example": "Green tea.",
+        "level": "basic"
+    },
+    {
+        "id": "v1135",
+        "word": "greet",
+        "translation": "ทักทาย",
+        "pos": "verb",
+        "example": "Greet the guests.",
+        "level": "basic"
+    },
+    {
+        "id": "v1136",
+        "word": "grey",
+        "translation": "สีเทา",
+        "pos": "adj",
+        "example": "Grey area.",
+        "level": "basic"
+    },
+    {
+        "id": "v1137",
+        "word": "grid",
+        "translation": "ตาราง",
+        "pos": "noun",
+        "example": "Power grid.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1138",
+        "word": "grief",
+        "translation": "ความเศร้าโศก",
+        "pos": "noun",
+        "example": "Deep grief.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1139",
+        "word": "grill",
+        "translation": "ย่าง",
+        "pos": "verb",
+        "example": "Grill the meat.",
+        "level": "basic"
+    },
+    {
+        "id": "v1140",
+        "word": "grocery",
+        "translation": "ของชำ",
+        "pos": "noun",
+        "example": "Grocery store.",
+        "level": "basic"
+    },
+    {
+        "id": "v1141",
+        "word": "ground",
+        "translation": "พื้นดิน",
+        "pos": "noun",
+        "example": "On the ground.",
+        "level": "basic"
+    },
+    {
+        "id": "v1142",
+        "word": "group",
+        "translation": "กลุ่ม",
+        "pos": "noun",
+        "example": "Study group.",
+        "level": "basic"
+    },
+    {
+        "id": "v1143",
+        "word": "grow",
+        "translation": "เติบโต",
+        "pos": "verb",
+        "example": "Grow up.",
+        "level": "basic"
+    },
+    {
+        "id": "v1144",
+        "word": "growth",
+        "translation": "การเติบโต",
+        "pos": "noun",
+        "example": "Economic growth.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1145",
+        "word": "guarantee",
+        "translation": "รับประกัน",
+        "pos": "verb",
+        "example": "I guarantee.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1146",
+        "word": "guard",
+        "translation": "ยาม",
+        "pos": "noun",
+        "example": "Security guard.",
+        "level": "basic"
+    },
+    {
+        "id": "v1147",
+        "word": "guess",
+        "translation": "เดา",
+        "pos": "verb",
+        "example": "Guess what.",
+        "level": "basic"
+    },
+    {
+        "id": "v1148",
+        "word": "guest",
+        "translation": "แขก",
+        "pos": "noun",
+        "example": "Special guest.",
+        "level": "basic"
+    },
+    {
+        "id": "v1149",
+        "word": "guidance",
+        "translation": "คำแนะนำ",
+        "pos": "noun",
+        "example": "Need guidance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1150",
+        "word": "guide",
+        "translation": "คู่มือ",
+        "pos": "noun",
+        "example": "Travel guide.",
+        "level": "basic"
+    }
+]

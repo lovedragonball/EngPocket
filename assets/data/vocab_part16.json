@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v1451",
+        "word": "latter",
+        "translation": "หลัง",
+        "pos": "adj",
+        "example": "The latter option.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1452",
+        "word": "laugh",
+        "translation": "หัวเราะ",
+        "pos": "verb",
+        "example": "Make me laugh.",
+        "level": "basic"
+    },
+    {
+        "id": "v1453",
+        "word": "laughter",
+        "translation": "เสียงหัวเราะ",
+        "pos": "noun",
+        "example": "Laughter is the best medicine.",
+        "level": "basic"
+    },
+    {
+        "id": "v1454",
+        "word": "launch",
+        "translation": "เปิดตัว",
+        "pos": "verb",
+        "example": "Launch a product.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1455",
+        "word": "law",
+        "translation": "กฎหมาย",
+        "pos": "noun",
+        "example": "Break the law.",
+        "level": "basic"
+    },
+    {
+        "id": "v1456",
+        "word": "lawn",
+        "translation": "สนามหญ้า",
+        "pos": "noun",
+        "example": "Mow the lawn.",
+        "level": "basic"
+    },
+    {
+        "id": "v1457",
+        "word": "lawsuit",
+        "translation": "คดีความ",
+        "pos": "noun",
+        "example": "File a lawsuit.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1458",
+        "word": "lawyer",
+        "translation": "ทนายความ",
+        "pos": "noun",
+        "example": "Criminal lawyer.",
+        "level": "basic"
+    },
+    {
+        "id": "v1459",
+        "word": "lay",
+        "translation": "วาง",
+        "pos": "verb",
+        "example": "Lay down.",
+        "level": "basic"
+    },
+    {
+        "id": "v1460",
+        "word": "layer",
+        "translation": "ชั้น",
+        "pos": "noun",
+        "example": "Top layer.",
+        "level": "basic"
+    },
+    {
+        "id": "v1461",
+        "word": "lazy",
+        "translation": "ขี้เกียจ",
+        "pos": "adj",
+        "example": "Lazy day.",
+        "level": "basic"
+    },
+    {
+        "id": "v1462",
+        "word": "lead",
+        "translation": "นำ",
+        "pos": "verb",
+        "example": "Lead the way.",
+        "level": "basic"
+    },
+    {
+        "id": "v1463",
+        "word": "leader",
+        "translation": "ผู้นำ",
+        "pos": "noun",
+        "example": "Team leader.",
+        "level": "basic"
+    },
+    {
+        "id": "v1464",
+        "word": "leadership",
+        "translation": "ภาวะผู้นำ",
+        "pos": "noun",
+        "example": "Strong leadership.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1465",
+        "word": "leading",
+        "translation": "ชั้นนำ",
+        "pos": "adj",
+        "example": "Leading company.",
+        "level": "basic"
+    },
+    {
+        "id": "v1466",
+        "word": "leaf",
+        "translation": "ใบไม้",
+        "pos": "noun",
+        "example": "Green leaf.",
+        "level": "basic"
+    },
+    {
+        "id": "v1467",
+        "word": "league",
+        "translation": "ลีก",
+        "pos": "noun",
+        "example": "Premier League.",
+        "level": "basic"
+    },
+    {
+        "id": "v1468",
+        "word": "lean",
+        "translation": "พิง",
+        "pos": "verb",
+        "example": "Lean on me.",
+        "level": "basic"
+    },
+    {
+        "id": "v1469",
+        "word": "learn",
+        "translation": "เรียนรู้",
+        "pos": "verb",
+        "example": "Learn new things.",
+        "level": "basic"
+    },
+    {
+        "id": "v1470",
+        "word": "learning",
+        "translation": "การเรียนรู้",
+        "pos": "noun",
+        "example": "Online learning.",
+        "level": "basic"
+    },
+    {
+        "id": "v1471",
+        "word": "least",
+        "translation": "น้อยที่สุด",
+        "pos": "det",
+        "example": "At least.",
+        "level": "basic"
+    },
+    {
+        "id": "v1472",
+        "word": "leather",
+        "translation": "หนัง",
+        "pos": "noun",
+        "example": "Leather bag.",
+        "level": "basic"
+    },
+    {
+        "id": "v1473",
+        "word": "leave",
+        "translation": "ออก",
+        "pos": "verb",
+        "example": "Leave now.",
+        "level": "basic"
+    },
+    {
+        "id": "v1474",
+        "word": "lecture",
+        "translation": "บรรยาย",
+        "pos": "noun",
+        "example": "Attend lecture.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1475",
+        "word": "left",
+        "translation": "ซ้าย",
+        "pos": "adj",
+        "example": "Turn left.",
+        "level": "basic"
+    },
+    {
+        "id": "v1476",
+        "word": "leg",
+        "translation": "ขา",
+        "pos": "noun",
+        "example": "Broken leg.",
+        "level": "basic"
+    },
+    {
+        "id": "v1477",
+        "word": "legacy",
+        "translation": "มรดก",
+        "pos": "noun",
+        "example": "Leave a legacy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1478",
+        "word": "legal",
+        "translation": "ถูกกฎหมาย",
+        "pos": "adj",
+        "example": "Legal advice.",
+        "level": "basic"
+    },
+    {
+        "id": "v1479",
+        "word": "legend",
+        "translation": "ตำนาน",
+        "pos": "noun",
+        "example": "Living legend.",
+        "level": "basic"
+    },
+    {
+        "id": "v1480",
+        "word": "legislation",
+        "translation": "กฎหมาย",
+        "pos": "noun",
+        "example": "New legislation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1481",
+        "word": "legitimate",
+        "translation": "ถูกกฎหมาย",
+        "pos": "adj",
+        "example": "Legitimate business.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1482",
+        "word": "leisure",
+        "translation": "เวลาว่าง",
+        "pos": "noun",
+        "example": "Leisure time.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1483",
+        "word": "lemon",
+        "translation": "มะนาว",
+        "pos": "noun",
+        "example": "Fresh lemon.",
+        "level": "basic"
+    },
+    {
+        "id": "v1484",
+        "word": "lend",
+        "translation": "ให้ยืม",
+        "pos": "verb",
+        "example": "Lend me money.",
+        "level": "basic"
+    },
+    {
+        "id": "v1485",
+        "word": "length",
+        "translation": "ความยาว",
+        "pos": "noun",
+        "example": "Full length.",
+        "level": "basic"
+    },
+    {
+        "id": "v1486",
+        "word": "less",
+        "translation": "น้อยกว่า",
+        "pos": "det",
+        "example": "Less is more.",
+        "level": "basic"
+    },
+    {
+        "id": "v1487",
+        "word": "lesson",
+        "translation": "บทเรียน",
+        "pos": "noun",
+        "example": "Piano lesson.",
+        "level": "basic"
+    },
+    {
+        "id": "v1488",
+        "word": "let",
+        "translation": "ให้",
+        "pos": "verb",
+        "example": "Let me try.",
+        "level": "basic"
+    },
+    {
+        "id": "v1489",
+        "word": "letter",
+        "translation": "จดหมาย",
+        "pos": "noun",
+        "example": "Love letter.",
+        "level": "basic"
+    },
+    {
+        "id": "v1490",
+        "word": "level",
+        "translation": "ระดับ",
+        "pos": "noun",
+        "example": "High level.",
+        "level": "basic"
+    },
+    {
+        "id": "v1491",
+        "word": "liberal",
+        "translation": "เสรีนิยม",
+        "pos": "adj",
+        "example": "Liberal views.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1492",
+        "word": "liberty",
+        "translation": "เสรีภาพ",
+        "pos": "noun",
+        "example": "Statue of Liberty.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1493",
+        "word": "library",
+        "translation": "ห้องสมุด",
+        "pos": "noun",
+        "example": "Public library.",
+        "level": "basic"
+    },
+    {
+        "id": "v1494",
+        "word": "license",
+        "translation": "ใบอนุญาต",
+        "pos": "noun",
+        "example": "Driver's license.",
+        "level": "basic"
+    },
+    {
+        "id": "v1495",
+        "word": "lid",
+        "translation": "ฝา",
+        "pos": "noun",
+        "example": "Close the lid.",
+        "level": "basic"
+    },
+    {
+        "id": "v1496",
+        "word": "lie",
+        "translation": "โกหก",
+        "pos": "verb",
+        "example": "Don't lie.",
+        "level": "basic"
+    },
+    {
+        "id": "v1497",
+        "word": "life",
+        "translation": "ชีวิต",
+        "pos": "noun",
+        "example": "Life is good.",
+        "level": "basic"
+    },
+    {
+        "id": "v1498",
+        "word": "lifestyle",
+        "translation": "ไลฟ์สไตล์",
+        "pos": "noun",
+        "example": "Healthy lifestyle.",
+        "level": "basic"
+    },
+    {
+        "id": "v1499",
+        "word": "lifetime",
+        "translation": "ตลอดชีวิต",
+        "pos": "noun",
+        "example": "Once in a lifetime.",
+        "level": "basic"
+    },
+    {
+        "id": "v1500",
+        "word": "lift",
+        "translation": "ยก",
+        "pos": "verb",
+        "example": "Lift it up.",
+        "level": "basic"
+    },
+    {
+        "id": "v1501",
+        "word": "light",
+        "translation": "แสง",
+        "pos": "noun",
+        "example": "Turn on the light.",
+        "level": "basic"
+    },
+    {
+        "id": "v1502",
+        "word": "like",
+        "translation": "ชอบ",
+        "pos": "verb",
+        "example": "I like it.",
+        "level": "basic"
+    },
+    {
+        "id": "v1503",
+        "word": "likely",
+        "translation": "น่าจะ",
+        "pos": "adj",
+        "example": "Most likely.",
+        "level": "basic"
+    },
+    {
+        "id": "v1504",
+        "word": "limit",
+        "translation": "จำกัด",
+        "pos": "noun",
+        "example": "Speed limit.",
+        "level": "basic"
+    },
+    {
+        "id": "v1505",
+        "word": "limitation",
+        "translation": "ข้อจำกัด",
+        "pos": "noun",
+        "example": "No limitations.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1506",
+        "word": "limited",
+        "translation": "จำกัด",
+        "pos": "adj",
+        "example": "Limited time.",
+        "level": "basic"
+    },
+    {
+        "id": "v1507",
+        "word": "line",
+        "translation": "เส้น",
+        "pos": "noun",
+        "example": "Finish line.",
+        "level": "basic"
+    },
+    {
+        "id": "v1508",
+        "word": "link",
+        "translation": "ลิงค์",
+        "pos": "noun",
+        "example": "Click the link.",
+        "level": "basic"
+    },
+    {
+        "id": "v1509",
+        "word": "lion",
+        "translation": "สิงโต",
+        "pos": "noun",
+        "example": "King of lions.",
+        "level": "basic"
+    },
+    {
+        "id": "v1510",
+        "word": "lip",
+        "translation": "ริมฝีปาก",
+        "pos": "noun",
+        "example": "Red lips.",
+        "level": "basic"
+    },
+    {
+        "id": "v1511",
+        "word": "liquid",
+        "translation": "ของเหลว",
+        "pos": "noun",
+        "example": "Clear liquid.",
+        "level": "basic"
+    },
+    {
+        "id": "v1512",
+        "word": "list",
+        "translation": "รายการ",
+        "pos": "noun",
+        "example": "To-do list.",
+        "level": "basic"
+    },
+    {
+        "id": "v1513",
+        "word": "listen",
+        "translation": "ฟัง",
+        "pos": "verb",
+        "example": "Listen carefully.",
+        "level": "basic"
+    },
+    {
+        "id": "v1514",
+        "word": "literally",
+        "translation": "อย่างแท้จริง",
+        "pos": "adv",
+        "example": "Literally speaking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1515",
+        "word": "literary",
+        "translation": "วรรณกรรม",
+        "pos": "adj",
+        "example": "Literary work.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1516",
+        "word": "literature",
+        "translation": "วรรณกรรม",
+        "pos": "noun",
+        "example": "English literature.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1517",
+        "word": "little",
+        "translation": "เล็กน้อย",
+        "pos": "adj",
+        "example": "A little bit.",
+        "level": "basic"
+    },
+    {
+        "id": "v1518",
+        "word": "live",
+        "translation": "อยู่",
+        "pos": "verb",
+        "example": "I live here.",
+        "level": "basic"
+    },
+    {
+        "id": "v1519",
+        "word": "living",
+        "translation": "การอยู่",
+        "pos": "noun",
+        "example": "Make a living.",
+        "level": "basic"
+    },
+    {
+        "id": "v1520",
+        "word": "load",
+        "translation": "โหลด",
+        "pos": "verb",
+        "example": "Load the truck.",
+        "level": "basic"
+    },
+    {
+        "id": "v1521",
+        "word": "loan",
+        "translation": "เงินกู้",
+        "pos": "noun",
+        "example": "Bank loan.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1522",
+        "word": "local",
+        "translation": "ท้องถิ่น",
+        "pos": "adj",
+        "example": "Local food.",
+        "level": "basic"
+    },
+    {
+        "id": "v1523",
+        "word": "locate",
+        "translation": "หา",
+        "pos": "verb",
+        "example": "Locate the store.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1524",
+        "word": "location",
+        "translation": "สถานที่",
+        "pos": "noun",
+        "example": "Good location.",
+        "level": "basic"
+    },
+    {
+        "id": "v1525",
+        "word": "lock",
+        "translation": "ล็อค",
+        "pos": "verb",
+        "example": "Lock the door.",
+        "level": "basic"
+    },
+    {
+        "id": "v1526",
+        "word": "log",
+        "translation": "บันทึก",
+        "pos": "noun",
+        "example": "Log in.",
+        "level": "basic"
+    },
+    {
+        "id": "v1527",
+        "word": "logic",
+        "translation": "ตรรกะ",
+        "pos": "noun",
+        "example": "Use logic.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1528",
+        "word": "logical",
+        "translation": "มีเหตุผล",
+        "pos": "adj",
+        "example": "Logical thinking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1529",
+        "word": "lonely",
+        "translation": "เหงา",
+        "pos": "adj",
+        "example": "Feeling lonely.",
+        "level": "basic"
+    },
+    {
+        "id": "v1530",
+        "word": "long",
+        "translation": "ยาว",
+        "pos": "adj",
+        "example": "Long time.",
+        "level": "basic"
+    },
+    {
+        "id": "v1531",
+        "word": "look",
+        "translation": "ดู",
+        "pos": "verb",
+        "example": "Look at me.",
+        "level": "basic"
+    },
+    {
+        "id": "v1532",
+        "word": "loop",
+        "translation": "ลูป",
+        "pos": "noun",
+        "example": "In the loop.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1533",
+        "word": "loose",
+        "translation": "หลวม",
+        "pos": "adj",
+        "example": "Loose shirt.",
+        "level": "basic"
+    },
+    {
+        "id": "v1534",
+        "word": "lord",
+        "translation": "ลอร์ด",
+        "pos": "noun",
+        "example": "Lord of the Rings.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v1535",
+        "word": "lose",
+        "translation": "แพ้",
+        "pos": "verb",
+        "example": "Don't lose hope.",
+        "level": "basic"
+    },
+    {
+        "id": "v1536",
+        "word": "loss",
+        "translation": "การสูญเสีย",
+        "pos": "noun",
+        "example": "Weight loss.",
+        "level": "basic"
+    },
+    {
+        "id": "v1537",
+        "word": "lost",
+        "translation": "หลง",
+        "pos": "adj",
+        "example": "I'm lost.",
+        "level": "basic"
+    },
+    {
+        "id": "v1538",
+        "word": "lot",
+        "translation": "มาก",
+        "pos": "noun",
+        "example": "A lot.",
+        "level": "basic"
+    },
+    {
+        "id": "v1539",
+        "word": "lots",
+        "translation": "มากมาย",
+        "pos": "noun",
+        "example": "Lots of fun.",
+        "level": "basic"
+    },
+    {
+        "id": "v1540",
+        "word": "loud",
+        "translation": "ดัง",
+        "pos": "adj",
+        "example": "Too loud.",
+        "level": "basic"
+    },
+    {
+        "id": "v1541",
+        "word": "love",
+        "translation": "รัก",
+        "pos": "verb",
+        "example": "I love you.",
+        "level": "basic"
+    },
+    {
+        "id": "v1542",
+        "word": "lovely",
+        "translation": "น่ารัก",
+        "pos": "adj",
+        "example": "Lovely day.",
+        "level": "basic"
+    },
+    {
+        "id": "v1543",
+        "word": "lover",
+        "translation": "คนรัก",
+        "pos": "noun",
+        "example": "Music lover.",
+        "level": "basic"
+    },
+    {
+        "id": "v1544",
+        "word": "low",
+        "translation": "ต่ำ",
+        "pos": "adj",
+        "example": "Low price.",
+        "level": "basic"
+    },
+    {
+        "id": "v1545",
+        "word": "lower",
+        "translation": "ต่ำกว่า",
+        "pos": "adj",
+        "example": "Lower level.",
+        "level": "basic"
+    },
+    {
+        "id": "v1546",
+        "word": "luck",
+        "translation": "โชค",
+        "pos": "noun",
+        "example": "Good luck!",
+        "level": "basic"
+    },
+    {
+        "id": "v1547",
+        "word": "lucky",
+        "translation": "โชคดี",
+        "pos": "adj",
+        "example": "Lucky day.",
+        "level": "basic"
+    },
+    {
+        "id": "v1548",
+        "word": "lunch",
+        "translation": "อาหารกลางวัน",
+        "pos": "noun",
+        "example": "Lunch time.",
+        "level": "basic"
+    },
+    {
+        "id": "v1549",
+        "word": "lung",
+        "translation": "ปอด",
+        "pos": "noun",
+        "example": "Lung cancer.",
+        "level": "basic"
+    },
+    {
+        "id": "v1550",
+        "word": "luxury",
+        "translation": "หรูหรา",
+        "pos": "noun",
+        "example": "Luxury hotel.",
+        "level": "intermediate"
+    }
+]

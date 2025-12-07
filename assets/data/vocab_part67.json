@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v6501",
+        "word": "pop",
+        "translation": "ป๊อป",
+        "pos": "noun",
+        "example": "Pop music.",
+        "level": "basic"
+    },
+    {
+        "id": "v6502",
+        "word": "popcorn",
+        "translation": "ป๊อปคอร์น",
+        "pos": "noun",
+        "example": "Eat popcorn.",
+        "level": "basic"
+    },
+    {
+        "id": "v6503",
+        "word": "pope",
+        "translation": "พระสันตะปาปา",
+        "pos": "noun",
+        "example": "The Pope.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6504",
+        "word": "popular",
+        "translation": "นิยม",
+        "pos": "adj",
+        "example": "Very popular.",
+        "level": "basic"
+    },
+    {
+        "id": "v6505",
+        "word": "popularity",
+        "translation": "ความนิยม",
+        "pos": "noun",
+        "example": "Gain popularity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6506",
+        "word": "population",
+        "translation": "ประชากร",
+        "pos": "noun",
+        "example": "World population.",
+        "level": "basic"
+    },
+    {
+        "id": "v6507",
+        "word": "pork",
+        "translation": "หมู",
+        "pos": "noun",
+        "example": "Pork chop.",
+        "level": "basic"
+    },
+    {
+        "id": "v6508",
+        "word": "port",
+        "translation": "ท่าเรือ",
+        "pos": "noun",
+        "example": "Sea port.",
+        "level": "basic"
+    },
+    {
+        "id": "v6509",
+        "word": "portable",
+        "translation": "พกพา",
+        "pos": "adj",
+        "example": "Portable device.",
+        "level": "basic"
+    },
+    {
+        "id": "v6510",
+        "word": "portal",
+        "translation": "พอร์ทัล",
+        "pos": "noun",
+        "example": "Web portal.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6511",
+        "word": "portion",
+        "translation": "ส่วน",
+        "pos": "noun",
+        "example": "Small portion.",
+        "level": "basic"
+    },
+    {
+        "id": "v6512",
+        "word": "portrait",
+        "translation": "ภาพเหมือน",
+        "pos": "noun",
+        "example": "Family portrait.",
+        "level": "basic"
+    },
+    {
+        "id": "v6513",
+        "word": "portray",
+        "translation": "แสดง",
+        "pos": "verb",
+        "example": "Portray character.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6514",
+        "word": "pose",
+        "translation": "ท่าโพสต์",
+        "pos": "verb",
+        "example": "Pose for picture.",
+        "level": "basic"
+    },
+    {
+        "id": "v6515",
+        "word": "position",
+        "translation": "ตำแหน่ง",
+        "pos": "noun",
+        "example": "Job position.",
+        "level": "basic"
+    },
+    {
+        "id": "v6516",
+        "word": "positive",
+        "translation": "เชิงบวก",
+        "pos": "adj",
+        "example": "Positive attitude.",
+        "level": "basic"
+    },
+    {
+        "id": "v6517",
+        "word": "positively",
+        "translation": "ในทางบวก",
+        "pos": "adv",
+        "example": "Think positively.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6518",
+        "word": "possess",
+        "translation": "ครอบครอง",
+        "pos": "verb",
+        "example": "Possess skills.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6519",
+        "word": "possession",
+        "translation": "การครอบครอง",
+        "pos": "noun",
+        "example": "In possession of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6520",
+        "word": "possibility",
+        "translation": "ความเป็นไปได้",
+        "pos": "noun",
+        "example": "Real possibility.",
+        "level": "basic"
+    },
+    {
+        "id": "v6521",
+        "word": "possible",
+        "translation": "เป็นไปได้",
+        "pos": "adj",
+        "example": "If possible.",
+        "level": "basic"
+    },
+    {
+        "id": "v6522",
+        "word": "possibly",
+        "translation": "อาจจะ",
+        "pos": "adv",
+        "example": "Possibly.",
+        "level": "basic"
+    },
+    {
+        "id": "v6523",
+        "word": "post",
+        "translation": "โพสต์",
+        "pos": "verb",
+        "example": "Post online.",
+        "level": "basic"
+    },
+    {
+        "id": "v6524",
+        "word": "postage",
+        "translation": "ค่าไปรษณีย์",
+        "pos": "noun",
+        "example": "Postage stamp.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6525",
+        "word": "postal",
+        "translation": "ไปรษณีย์",
+        "pos": "adj",
+        "example": "Postal code.",
+        "level": "basic"
+    },
+    {
+        "id": "v6526",
+        "word": "poster",
+        "translation": "โปสเตอร์",
+        "pos": "noun",
+        "example": "Movie poster.",
+        "level": "basic"
+    },
+    {
+        "id": "v6527",
+        "word": "postpone",
+        "translation": "เลื่อน",
+        "pos": "verb",
+        "example": "Postpone meeting.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6528",
+        "word": "pot",
+        "translation": "หม้อ",
+        "pos": "noun",
+        "example": "Cooking pot.",
+        "level": "basic"
+    },
+    {
+        "id": "v6529",
+        "word": "potato",
+        "translation": "มันฝรั่ง",
+        "pos": "noun",
+        "example": "Baked potato.",
+        "level": "basic"
+    },
+    {
+        "id": "v6530",
+        "word": "potential",
+        "translation": "ศักยภาพ",
+        "pos": "noun",
+        "example": "Full potential.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6531",
+        "word": "potentially",
+        "translation": "อาจจะ",
+        "pos": "adv",
+        "example": "Potentially dangerous.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6532",
+        "word": "pottery",
+        "translation": "เครื่องปั้นดินเผา",
+        "pos": "noun",
+        "example": "Make pottery.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6533",
+        "word": "poultry",
+        "translation": "สัตว์ปีก",
+        "pos": "noun",
+        "example": "Poultry farm.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6534",
+        "word": "pound",
+        "translation": "ปอนด์",
+        "pos": "noun",
+        "example": "One pound.",
+        "level": "basic"
+    },
+    {
+        "id": "v6535",
+        "word": "pour",
+        "translation": "เท",
+        "pos": "verb",
+        "example": "Pour water.",
+        "level": "basic"
+    },
+    {
+        "id": "v6536",
+        "word": "poverty",
+        "translation": "ความยากจน",
+        "pos": "noun",
+        "example": "End poverty.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6537",
+        "word": "powder",
+        "translation": "ผง",
+        "pos": "noun",
+        "example": "Baby powder.",
+        "level": "basic"
+    },
+    {
+        "id": "v6538",
+        "word": "power",
+        "translation": "พลัง",
+        "pos": "noun",
+        "example": "Electric power.",
+        "level": "basic"
+    },
+    {
+        "id": "v6539",
+        "word": "powerful",
+        "translation": "ทรงพลัง",
+        "pos": "adj",
+        "example": "Very powerful.",
+        "level": "basic"
+    },
+    {
+        "id": "v6540",
+        "word": "practical",
+        "translation": "ในทางปฏิบัติ",
+        "pos": "adj",
+        "example": "Practical advice.",
+        "level": "basic"
+    },
+    {
+        "id": "v6541",
+        "word": "practically",
+        "translation": "ในทางปฏิบัติ",
+        "pos": "adv",
+        "example": "Practically speaking.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6542",
+        "word": "practice",
+        "translation": "ฝึกฝน",
+        "pos": "verb",
+        "example": "Practice daily.",
+        "level": "basic"
+    },
+    {
+        "id": "v6543",
+        "word": "practitioner",
+        "translation": "ผู้ปฏิบัติ",
+        "pos": "noun",
+        "example": "Medical practitioner.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6544",
+        "word": "praise",
+        "translation": "สรรเสริญ",
+        "pos": "verb",
+        "example": "Sing praise.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6545",
+        "word": "pray",
+        "translation": "ภาวนา",
+        "pos": "verb",
+        "example": "Pray for peace.",
+        "level": "basic"
+    },
+    {
+        "id": "v6546",
+        "word": "prayer",
+        "translation": "การสวด",
+        "pos": "noun",
+        "example": "Say a prayer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6547",
+        "word": "preach",
+        "translation": "เทศนา",
+        "pos": "verb",
+        "example": "Preach peace.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6548",
+        "word": "precede",
+        "translation": "มาก่อน",
+        "pos": "verb",
+        "example": "Precede the event.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6549",
+        "word": "precedent",
+        "translation": "แบบอย่าง",
+        "pos": "noun",
+        "example": "Set a precedent.",
+        "level": "advanced"
+    },
+    {
+        "id": "v6550",
+        "word": "precious",
+        "translation": "มีค่า",
+        "pos": "adj",
+        "example": "Precious stone.",
+        "level": "basic"
+    },
+    {
+        "id": "v6551",
+        "word": "precise",
+        "translation": "แม่นยำ",
+        "pos": "adj",
+        "example": "Precise measurement.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6552",
+        "word": "precisely",
+        "translation": "อย่างแม่นยำ",
+        "pos": "adv",
+        "example": "Precisely.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6553",
+        "word": "precision",
+        "translation": "ความแม่นยำ",
+        "pos": "noun",
+        "example": "High precision.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6554",
+        "word": "predict",
+        "translation": "ทำนาย",
+        "pos": "verb",
+        "example": "Predict future.",
+        "level": "basic"
+    },
+    {
+        "id": "v6555",
+        "word": "predictable",
+        "translation": "คาดเดาได้",
+        "pos": "adj",
+        "example": "Very predictable.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6556",
+        "word": "prediction",
+        "translation": "การทำนาย",
+        "pos": "noun",
+        "example": "Weather prediction.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6557",
+        "word": "predominantly",
+        "translation": "ส่วนใหญ่",
+        "pos": "adv",
+        "example": "Predominantly.",
+        "level": "advanced"
+    },
+    {
+        "id": "v6558",
+        "word": "prefer",
+        "translation": "ชอบมากกว่า",
+        "pos": "verb",
+        "example": "I prefer.",
+        "level": "basic"
+    },
+    {
+        "id": "v6559",
+        "word": "preference",
+        "translation": "ความชอบ",
+        "pos": "noun",
+        "example": "Personal preference.",
+        "level": "basic"
+    },
+    {
+        "id": "v6560",
+        "word": "pregnancy",
+        "translation": "การตั้งครรภ์",
+        "pos": "noun",
+        "example": "During pregnancy.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6561",
+        "word": "pregnant",
+        "translation": "ตั้งครรภ์",
+        "pos": "adj",
+        "example": "She's pregnant.",
+        "level": "basic"
+    },
+    {
+        "id": "v6562",
+        "word": "preliminary",
+        "translation": "เบื้องต้น",
+        "pos": "adj",
+        "example": "Preliminary results.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6563",
+        "word": "premier",
+        "translation": "นายกรัฐมนตรี",
+        "pos": "noun",
+        "example": "State premier.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6564",
+        "word": "premise",
+        "translation": "สถานที่",
+        "pos": "noun",
+        "example": "On the premises.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6565",
+        "word": "premium",
+        "translation": "พรีเมียม",
+        "pos": "adj",
+        "example": "Premium service.",
+        "level": "basic"
+    },
+    {
+        "id": "v6566",
+        "word": "preparation",
+        "translation": "การเตรียม",
+        "pos": "noun",
+        "example": "Exam preparation.",
+        "level": "basic"
+    },
+    {
+        "id": "v6567",
+        "word": "prepare",
+        "translation": "เตรียม",
+        "pos": "verb",
+        "example": "Prepare food.",
+        "level": "basic"
+    },
+    {
+        "id": "v6568",
+        "word": "prepared",
+        "translation": "เตรียมพร้อม",
+        "pos": "adj",
+        "example": "Be prepared.",
+        "level": "basic"
+    },
+    {
+        "id": "v6569",
+        "word": "prescribe",
+        "translation": "สั่งยา",
+        "pos": "verb",
+        "example": "Doctor prescribes.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6570",
+        "word": "prescription",
+        "translation": "ใบสั่งยา",
+        "pos": "noun",
+        "example": "Get a prescription.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6571",
+        "word": "presence",
+        "translation": "การปรากฏตัว",
+        "pos": "noun",
+        "example": "In the presence of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6572",
+        "word": "present",
+        "translation": "ปัจจุบัน",
+        "pos": "adj",
+        "example": "Present time.",
+        "level": "basic"
+    },
+    {
+        "id": "v6573",
+        "word": "presentation",
+        "translation": "การนำเสนอ",
+        "pos": "noun",
+        "example": "Give a presentation.",
+        "level": "basic"
+    },
+    {
+        "id": "v6574",
+        "word": "presenter",
+        "translation": "ผู้นำเสนอ",
+        "pos": "noun",
+        "example": "TV presenter.",
+        "level": "basic"
+    },
+    {
+        "id": "v6575",
+        "word": "presently",
+        "translation": "ปัจจุบัน",
+        "pos": "adv",
+        "example": "Presently.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6576",
+        "word": "preservation",
+        "translation": "การอนุรักษ์",
+        "pos": "noun",
+        "example": "Wildlife preservation.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6577",
+        "word": "preserve",
+        "translation": "รักษา",
+        "pos": "verb",
+        "example": "Preserve nature.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6578",
+        "word": "presidency",
+        "translation": "ตำแหน่งประธานาธิบดี",
+        "pos": "noun",
+        "example": "During his presidency.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6579",
+        "word": "president",
+        "translation": "ประธานาธิบดี",
+        "pos": "noun",
+        "example": "U.S. President.",
+        "level": "basic"
+    },
+    {
+        "id": "v6580",
+        "word": "presidential",
+        "translation": "ประธานาธิบดี",
+        "pos": "adj",
+        "example": "Presidential election.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6581",
+        "word": "press",
+        "translation": "กด",
+        "pos": "verb",
+        "example": "Press button.",
+        "level": "basic"
+    },
+    {
+        "id": "v6582",
+        "word": "pressing",
+        "translation": "เร่งด่วน",
+        "pos": "adj",
+        "example": "Pressing issue.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6583",
+        "word": "pressure",
+        "translation": "ความกดดัน",
+        "pos": "noun",
+        "example": "Under pressure.",
+        "level": "basic"
+    },
+    {
+        "id": "v6584",
+        "word": "presumably",
+        "translation": "น่าจะ",
+        "pos": "adv",
+        "example": "Presumably.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6585",
+        "word": "presume",
+        "translation": "สันนิษฐาน",
+        "pos": "verb",
+        "example": "I presume.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6586",
+        "word": "pretend",
+        "translation": "แกล้งทำ",
+        "pos": "verb",
+        "example": "Pretend to be.",
+        "level": "basic"
+    },
+    {
+        "id": "v6587",
+        "word": "pretty",
+        "translation": "สวย",
+        "pos": "adj",
+        "example": "Pretty girl.",
+        "level": "basic"
+    },
+    {
+        "id": "v6588",
+        "word": "prevail",
+        "translation": "มีชัย",
+        "pos": "verb",
+        "example": "Truth prevails.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6589",
+        "word": "prevalent",
+        "translation": "แพร่หลาย",
+        "pos": "adj",
+        "example": "More prevalent.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6590",
+        "word": "prevent",
+        "translation": "ป้องกัน",
+        "pos": "verb",
+        "example": "Prevent disease.",
+        "level": "basic"
+    },
+    {
+        "id": "v6591",
+        "word": "prevention",
+        "translation": "การป้องกัน",
+        "pos": "noun",
+        "example": "Crime prevention.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6592",
+        "word": "previous",
+        "translation": "ก่อนหน้า",
+        "pos": "adj",
+        "example": "Previous year.",
+        "level": "basic"
+    },
+    {
+        "id": "v6593",
+        "word": "previously",
+        "translation": "ก่อนหน้านี้",
+        "pos": "adv",
+        "example": "Previously mentioned.",
+        "level": "basic"
+    },
+    {
+        "id": "v6594",
+        "word": "prey",
+        "translation": "เหยื่อ",
+        "pos": "noun",
+        "example": "Easy prey.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6595",
+        "word": "price",
+        "translation": "ราคา",
+        "pos": "noun",
+        "example": "Good price.",
+        "level": "basic"
+    },
+    {
+        "id": "v6596",
+        "word": "pricing",
+        "translation": "การตั้งราคา",
+        "pos": "noun",
+        "example": "Competitive pricing.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6597",
+        "word": "pride",
+        "translation": "ความภูมิใจ",
+        "pos": "noun",
+        "example": "National pride.",
+        "level": "basic"
+    },
+    {
+        "id": "v6598",
+        "word": "priest",
+        "translation": "บาทหลวง",
+        "pos": "noun",
+        "example": "Catholic priest.",
+        "level": "basic"
+    },
+    {
+        "id": "v6599",
+        "word": "primarily",
+        "translation": "ส่วนใหญ่",
+        "pos": "adv",
+        "example": "Primarily.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v6600",
+        "word": "primary",
+        "translation": "หลัก",
+        "pos": "adj",
+        "example": "Primary goal.",
+        "level": "basic"
+    }
+]

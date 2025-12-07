@@ -1,0 +1,327 @@
+[
+    {
+        "id": "p001",
+        "title": "The Impact of Social Media on Modern Communication",
+        "content": "Social media has fundamentally transformed how people communicate in the 21st century. Platforms like Facebook, Twitter, and Instagram have made it possible for individuals to connect with friends, family, and even strangers across the globe instantly.\n\nOne of the most significant advantages of social media is its ability to break down geographical barriers. People can now maintain relationships with loved ones regardless of distance. Additionally, social media has become a powerful tool for sharing information and raising awareness about important issues.\n\nHowever, this digital revolution comes with its drawbacks. Many experts express concern about the impact of social media on mental health, particularly among young people. Studies have shown that excessive social media use can lead to feelings of anxiety, depression, and loneliness. The constant comparison with others' carefully curated online lives can negatively affect self-esteem.\n\nMoreover, the spread of misinformation on social platforms has become a serious problem. False news stories can go viral within minutes, potentially causing real-world harm. This has led to calls for better regulation and fact-checking mechanisms.\n\nDespite these challenges, social media remains an integral part of modern life. The key lies in using these platforms mindfully and maintaining a healthy balance between online and offline interactions.",
+        "difficulty": "medium",
+        "topic": "technology",
+        "wordCount": 210,
+        "questions": [
+            {
+                "id": "q001",
+                "stem": "According to the passage, what is one major advantage of social media?",
+                "choices": [
+                    "It improves physical health",
+                    "It breaks down geographical barriers",
+                    "It reduces the need for face-to-face communication",
+                    "It eliminates all forms of misinformation"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q002",
+                "stem": "What concern do experts have about social media?",
+                "choices": [
+                    "It is too expensive",
+                    "It affects mental health negatively",
+                    "It is difficult to use",
+                    "It requires too much time to learn"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q003",
+                "stem": "The word 'curated' in paragraph 3 is closest in meaning to:",
+                "choices": [
+                    "natural",
+                    "carefully selected",
+                    "random",
+                    "honest"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q004",
+                "stem": "What problem does the passage mention about false news?",
+                "choices": [
+                    "It is too boring",
+                    "It can spread quickly and cause harm",
+                    "It is always detected immediately",
+                    "It only affects older people"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q005",
+                "stem": "What does the author suggest about using social media?",
+                "choices": [
+                    "Avoid it completely",
+                    "Use it without any limits",
+                    "Use it mindfully and maintain balance",
+                    "Only use it for business"
+                ],
+                "correctIndex": 2
+            }
+        ]
+    },
+    {
+        "id": "p002",
+        "title": "Climate Change and Its Effects on Wildlife",
+        "content": "Climate change is one of the most pressing environmental issues facing our planet today. Rising global temperatures are causing significant changes in ecosystems worldwide, with profound effects on wildlife populations.\n\nMany species are struggling to adapt to rapidly changing conditions. Polar bears, for example, are losing their Arctic habitat as sea ice melts at unprecedented rates. Similarly, coral reefs are experiencing widespread bleaching due to warmer ocean temperatures, threatening the countless marine species that depend on them.\n\nMigration patterns are also being disrupted. Birds are arriving at their breeding grounds earlier in spring, sometimes before their food sources are available. This mismatch between timing can have serious consequences for survival and reproduction.\n\nSome animals are attempting to adapt by moving to cooler areas or higher elevations. However, not all species can relocate easily. Those living on mountains or islands may have nowhere to go as temperatures rise.\n\nConservation efforts are crucial in helping wildlife survive these challenges. Creating wildlife corridors, protecting critical habitats, and reducing greenhouse gas emissions are all important steps. Individual actions, such as reducing energy consumption and supporting conservation organizations, can also make a difference.\n\nThe fate of many species ultimately depends on our collective response to climate change.",
+        "difficulty": "medium",
+        "topic": "environment",
+        "wordCount": 205,
+        "questions": [
+            {
+                "id": "q006",
+                "stem": "What is happening to polar bear habitats?",
+                "choices": [
+                    "They are expanding",
+                    "They are melting",
+                    "They are freezing more",
+                    "They remain unchanged"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q007",
+                "stem": "Why are birds arriving at breeding grounds earlier?",
+                "choices": [
+                    "They are confused",
+                    "Climate change affects migration patterns",
+                    "They want more food",
+                    "Humans are moving them"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q008",
+                "stem": "The word 'unprecedented' means:",
+                "choices": [
+                    "common",
+                    "expected",
+                    "never happened before",
+                    "slow"
+                ],
+                "correctIndex": 2
+            },
+            {
+                "id": "q009",
+                "stem": "Why might mountain-dwelling animals have trouble adapting?",
+                "choices": [
+                    "They don't like cold weather",
+                    "They may have nowhere higher to go",
+                    "Mountains are becoming larger",
+                    "They prefer warm weather"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q010",
+                "stem": "What does the author suggest individuals can do?",
+                "choices": [
+                    "Ignore the problem",
+                    "Reduce energy consumption",
+                    "Move to colder places",
+                    "Stop using all technology"
+                ],
+                "correctIndex": 1
+            }
+        ]
+    },
+    {
+        "id": "p003",
+        "title": "The Benefits of Regular Exercise",
+        "content": "Regular physical exercise is essential for maintaining good health and well-being. Research consistently shows that people who engage in regular physical activity enjoy numerous benefits that extend far beyond weight management.\n\nOne of the most significant benefits of exercise is its positive effect on mental health. Physical activity triggers the release of endorphins, often called 'feel-good' hormones, which can help reduce stress, anxiety, and depression. Many healthcare professionals now recommend exercise as part of treatment plans for mental health conditions.\n\nExercise also plays a crucial role in preventing chronic diseases. Regular physical activity can lower the risk of heart disease, type 2 diabetes, and certain types of cancer. It helps maintain healthy blood pressure and cholesterol levels, contributing to overall cardiovascular health.\n\nFurthermore, exercise strengthens bones and muscles, which is particularly important as we age. Weight-bearing exercises can help prevent osteoporosis, while resistance training maintains muscle mass and improves balance, reducing the risk of falls in older adults.\n\nThe social aspects of exercise should not be overlooked either. Group fitness classes, sports teams, and exercise groups provide opportunities for social interaction and can help combat loneliness.\n\nExperts recommend at least 150 minutes of moderate-intensity exercise per week. This can include activities like brisk walking, swimming, cycling, or dancing. The key is to find activities you enjoy and make them a regular part of your routine.",
+        "difficulty": "easy",
+        "topic": "health",
+        "wordCount": 230,
+        "questions": [
+            {
+                "id": "q011",
+                "stem": "What are endorphins often called?",
+                "choices": [
+                    "Stress hormones",
+                    "Feel-good hormones",
+                    "Sleep hormones",
+                    "Hunger hormones"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q012",
+                "stem": "How can exercise help prevent osteoporosis?",
+                "choices": [
+                    "Through rest",
+                    "Through weight-bearing exercises",
+                    "Through eating more",
+                    "Through sleeping more"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q013",
+                "stem": "How many minutes of moderate exercise per week do experts recommend?",
+                "choices": [
+                    "50 minutes",
+                    "100 minutes",
+                    "150 minutes",
+                    "300 minutes"
+                ],
+                "correctIndex": 2
+            },
+            {
+                "id": "q014",
+                "stem": "The word 'crucial' is closest in meaning to:",
+                "choices": [
+                    "optional",
+                    "very important",
+                    "minor",
+                    "harmful"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q015",
+                "stem": "What social benefit of exercise is mentioned?",
+                "choices": [
+                    "Making more money",
+                    "Opportunities for social interaction",
+                    "Getting more sleep",
+                    "Eating better food"
+                ],
+                "correctIndex": 1
+            }
+        ]
+    },
+    {
+        "id": "p004",
+        "title": "The Rise of Artificial Intelligence",
+        "content": "Artificial Intelligence (AI) has become one of the most transformative technologies of our time. From virtual assistants like Siri and Alexa to sophisticated medical diagnosis systems, AI is reshaping virtually every industry and aspect of daily life.\n\nThe capabilities of AI have expanded dramatically in recent years. Machine learning algorithms can now recognize faces, translate languages, drive cars, and even create art and music. These advances have led to increased efficiency and new possibilities in fields ranging from healthcare to finance.\n\nHowever, the rapid development of AI also raises important ethical questions. There are concerns about job displacement as machines become capable of performing tasks previously done by humans. Some experts estimate that millions of jobs could be automated in the coming decades.\n\nPrivacy is another significant concern. AI systems often require vast amounts of data to function effectively, raising questions about how personal information is collected, stored, and used. The potential for AI-powered surveillance has prompted calls for stronger regulations.\n\nDespite these challenges, many believe that AI will ultimately benefit humanity. The technology has the potential to solve complex problems, from developing new medicines to addressing climate change. The key lies in developing AI responsibly, with appropriate safeguards and ethical guidelines.\n\nAs AI continues to evolve, society must grapple with how to harness its potential while minimizing its risks.",
+        "difficulty": "hard",
+        "topic": "technology",
+        "wordCount": 220,
+        "questions": [
+            {
+                "id": "q016",
+                "stem": "What can machine learning algorithms currently do?",
+                "choices": [
+                    "Only play chess",
+                    "Recognize faces and translate languages",
+                    "Only send emails",
+                    "Nothing useful"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q017",
+                "stem": "What concern about employment does the passage mention?",
+                "choices": [
+                    "Jobs will increase",
+                    "Jobs may be automated",
+                    "Work hours will increase",
+                    "Salaries will decrease"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q018",
+                "stem": "The word 'grapple' is closest in meaning to:",
+                "choices": [
+                    "ignore",
+                    "struggle to deal with",
+                    "celebrate",
+                    "forget about"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q019",
+                "stem": "What does the author suggest about developing AI?",
+                "choices": [
+                    "Stop all AI development",
+                    "Develop it responsibly with safeguards",
+                    "Let it develop without control",
+                    "Only use it for games"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q020",
+                "stem": "What potential benefit of AI is mentioned?",
+                "choices": [
+                    "Making people lazier",
+                    "Solving complex problems like climate change",
+                    "Replacing all human workers",
+                    "Eliminating the need for education"
+                ],
+                "correctIndex": 1
+            }
+        ]
+    },
+    {
+        "id": "p005",
+        "title": "Traditional Thai Cuisine",
+        "content": "Thai cuisine is renowned worldwide for its bold flavors and aromatic ingredients. The distinctive taste of Thai food comes from the careful balance of five fundamental flavors: sweet, sour, salty, bitter, and spicy.\n\nFresh herbs and spices form the backbone of Thai cooking. Lemongrass, galangal, kaffir lime leaves, and Thai basil are essential ingredients that give dishes their characteristic fragrance. Chilies, both fresh and dried, provide the heat that Thai food is famous for, while fish sauce adds depth and umami.\n\nRice is the staple food in Thailand and accompanies most meals. Jasmine rice, known for its floral aroma, is the most common variety. In the northeastern region, sticky rice is preferred and is traditionally eaten by hand.\n\nSome of Thailand's most famous dishes include Tom Yum soup, a hot and sour broth with shrimp; Pad Thai, stir-fried rice noodles with eggs and vegetables; and Green Curry, a creamy coconut-based dish with tender meat and vegetables.\n\nThai cuisine also reflects the country's cultural values. Meals are typically shared, with several dishes placed in the center of the table for everyone to enjoy. This communal style of eating emphasizes the importance of family and social bonds.\n\nWhether enjoyed at a street food stall or an upscale restaurant, Thai food offers a sensory experience that has captivated food lovers around the world.",
+        "difficulty": "easy",
+        "topic": "culture",
+        "wordCount": 225,
+        "questions": [
+            {
+                "id": "q021",
+                "stem": "How many fundamental flavors are balanced in Thai cuisine?",
+                "choices": [
+                    "Three",
+                    "Four",
+                    "Five",
+                    "Six"
+                ],
+                "correctIndex": 2
+            },
+            {
+                "id": "q022",
+                "stem": "What provides the 'heat' in Thai food?",
+                "choices": [
+                    "Fish sauce",
+                    "Rice",
+                    "Chilies",
+                    "Lime leaves"
+                ],
+                "correctIndex": 2
+            },
+            {
+                "id": "q023",
+                "stem": "The word 'staple' is closest in meaning to:",
+                "choices": [
+                    "rare",
+                    "basic and essential",
+                    "expensive",
+                    "imported"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q024",
+                "stem": "Where is sticky rice preferred in Thailand?",
+                "choices": [
+                    "Southern region",
+                    "Northeastern region",
+                    "Central region",
+                    "Northern region"
+                ],
+                "correctIndex": 1
+            },
+            {
+                "id": "q025",
+                "stem": "What cultural value does Thai communal eating reflect?",
+                "choices": [
+                    "Competition",
+                    "Importance of family and social bonds",
+                    "Individualism",
+                    "Wealth display"
+                ],
+                "correctIndex": 1
+            }
+        ]
+    }
+]

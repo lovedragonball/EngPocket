@@ -1,0 +1,802 @@
+[
+    {
+        "id": "v5001",
+        "word": "graphic",
+        "translation": "กราฟิก",
+        "pos": "adj",
+        "example": "Graphic design.",
+        "level": "basic"
+    },
+    {
+        "id": "v5002",
+        "word": "graphics",
+        "translation": "กราฟิก",
+        "pos": "noun",
+        "example": "Computer graphics.",
+        "level": "basic"
+    },
+    {
+        "id": "v5003",
+        "word": "grasp",
+        "translation": "จับ",
+        "pos": "verb",
+        "example": "Grasp the concept.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5004",
+        "word": "grass",
+        "translation": "หญ้า",
+        "pos": "noun",
+        "example": "Green grass.",
+        "level": "basic"
+    },
+    {
+        "id": "v5005",
+        "word": "grateful",
+        "translation": "ขอบคุณ",
+        "pos": "adj",
+        "example": "I'm grateful.",
+        "level": "basic"
+    },
+    {
+        "id": "v5006",
+        "word": "gratitude",
+        "translation": "ความกตัญญู",
+        "pos": "noun",
+        "example": "Show gratitude.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5007",
+        "word": "grave",
+        "translation": "หลุมฝังศพ",
+        "pos": "noun",
+        "example": "Visit grave.",
+        "level": "basic"
+    },
+    {
+        "id": "v5008",
+        "word": "gravity",
+        "translation": "แรงโน้มถ่วง",
+        "pos": "noun",
+        "example": "Law of gravity.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5009",
+        "word": "gray",
+        "translation": "สีเทา",
+        "pos": "adj",
+        "example": "Gray hair.",
+        "level": "basic"
+    },
+    {
+        "id": "v5010",
+        "word": "grease",
+        "translation": "น้ำมัน",
+        "pos": "noun",
+        "example": "Elbow grease.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5011",
+        "word": "great",
+        "translation": "ยอดเยี่ยม",
+        "pos": "adj",
+        "example": "Great job!",
+        "level": "basic"
+    },
+    {
+        "id": "v5012",
+        "word": "greatest",
+        "translation": "ยิ่งใหญ่ที่สุด",
+        "pos": "adj",
+        "example": "The greatest.",
+        "level": "basic"
+    },
+    {
+        "id": "v5013",
+        "word": "greatly",
+        "translation": "อย่างมาก",
+        "pos": "adv",
+        "example": "Greatly appreciated.",
+        "level": "basic"
+    },
+    {
+        "id": "v5014",
+        "word": "greatness",
+        "translation": "ความยิ่งใหญ่",
+        "pos": "noun",
+        "example": "Achieve greatness.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5015",
+        "word": "greed",
+        "translation": "ความโลภ",
+        "pos": "noun",
+        "example": "Pure greed.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5016",
+        "word": "greedy",
+        "translation": "โลภ",
+        "pos": "adj",
+        "example": "Too greedy.",
+        "level": "basic"
+    },
+    {
+        "id": "v5017",
+        "word": "green",
+        "translation": "สีเขียว",
+        "pos": "adj",
+        "example": "Green light.",
+        "level": "basic"
+    },
+    {
+        "id": "v5018",
+        "word": "greenhouse",
+        "translation": "เรือนกระจก",
+        "pos": "noun",
+        "example": "Greenhouse effect.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5019",
+        "word": "greet",
+        "translation": "ทักทาย",
+        "pos": "verb",
+        "example": "Greet guests.",
+        "level": "basic"
+    },
+    {
+        "id": "v5020",
+        "word": "greeting",
+        "translation": "คำทักทาย",
+        "pos": "noun",
+        "example": "Greeting card.",
+        "level": "basic"
+    },
+    {
+        "id": "v5021",
+        "word": "grey",
+        "translation": "สีเทา",
+        "pos": "adj",
+        "example": "Grey sky.",
+        "level": "basic"
+    },
+    {
+        "id": "v5022",
+        "word": "grid",
+        "translation": "ตาราง",
+        "pos": "noun",
+        "example": "Power grid.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5023",
+        "word": "grief",
+        "translation": "ความเศร้าโศก",
+        "pos": "noun",
+        "example": "Deep grief.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5024",
+        "word": "grill",
+        "translation": "ย่าง",
+        "pos": "verb",
+        "example": "Grill meat.",
+        "level": "basic"
+    },
+    {
+        "id": "v5025",
+        "word": "grim",
+        "translation": "มืดมน",
+        "pos": "adj",
+        "example": "Grim news.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5026",
+        "word": "grin",
+        "translation": "ยิ้มกว้าง",
+        "pos": "verb",
+        "example": "Wide grin.",
+        "level": "basic"
+    },
+    {
+        "id": "v5027",
+        "word": "grind",
+        "translation": "บด",
+        "pos": "verb",
+        "example": "Grind coffee.",
+        "level": "basic"
+    },
+    {
+        "id": "v5028",
+        "word": "grip",
+        "translation": "ยึดจับ",
+        "pos": "verb",
+        "example": "Tight grip.",
+        "level": "basic"
+    },
+    {
+        "id": "v5029",
+        "word": "grocery",
+        "translation": "ของชำ",
+        "pos": "noun",
+        "example": "Grocery store.",
+        "level": "basic"
+    },
+    {
+        "id": "v5030",
+        "word": "groom",
+        "translation": "เจ้าบ่าว",
+        "pos": "noun",
+        "example": "Bride and groom.",
+        "level": "basic"
+    },
+    {
+        "id": "v5031",
+        "word": "gross",
+        "translation": "รวม",
+        "pos": "adj",
+        "example": "Gross income.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5032",
+        "word": "ground",
+        "translation": "พื้น",
+        "pos": "noun",
+        "example": "On the ground.",
+        "level": "basic"
+    },
+    {
+        "id": "v5033",
+        "word": "group",
+        "translation": "กลุ่ม",
+        "pos": "noun",
+        "example": "Discussion group.",
+        "level": "basic"
+    },
+    {
+        "id": "v5034",
+        "word": "grow",
+        "translation": "เติบโต",
+        "pos": "verb",
+        "example": "Grow up.",
+        "level": "basic"
+    },
+    {
+        "id": "v5035",
+        "word": "growing",
+        "translation": "กำลังเติบโต",
+        "pos": "adj",
+        "example": "Growing concern.",
+        "level": "basic"
+    },
+    {
+        "id": "v5036",
+        "word": "growth",
+        "translation": "การเติบโต",
+        "pos": "noun",
+        "example": "Economic growth.",
+        "level": "basic"
+    },
+    {
+        "id": "v5037",
+        "word": "guarantee",
+        "translation": "รับประกัน",
+        "pos": "verb",
+        "example": "I guarantee.",
+        "level": "basic"
+    },
+    {
+        "id": "v5038",
+        "word": "guard",
+        "translation": "เฝ้า",
+        "pos": "verb",
+        "example": "Security guard.",
+        "level": "basic"
+    },
+    {
+        "id": "v5039",
+        "word": "guardian",
+        "translation": "ผู้พิทักษ์",
+        "pos": "noun",
+        "example": "Legal guardian.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5040",
+        "word": "guess",
+        "translation": "เดา",
+        "pos": "verb",
+        "example": "I guess so.",
+        "level": "basic"
+    },
+    {
+        "id": "v5041",
+        "word": "guest",
+        "translation": "แขก",
+        "pos": "noun",
+        "example": "Special guest.",
+        "level": "basic"
+    },
+    {
+        "id": "v5042",
+        "word": "guidance",
+        "translation": "คำแนะนำ",
+        "pos": "noun",
+        "example": "Need guidance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5043",
+        "word": "guide",
+        "translation": "นำทาง",
+        "pos": "verb",
+        "example": "Guide me.",
+        "level": "basic"
+    },
+    {
+        "id": "v5044",
+        "word": "guideline",
+        "translation": "แนวทาง",
+        "pos": "noun",
+        "example": "Follow guidelines.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5045",
+        "word": "guild",
+        "translation": "สมาคม",
+        "pos": "noun",
+        "example": "Actor's guild.",
+        "level": "advanced"
+    },
+    {
+        "id": "v5046",
+        "word": "guilt",
+        "translation": "ความผิด",
+        "pos": "noun",
+        "example": "Feel guilt.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5047",
+        "word": "guilty",
+        "translation": "ผิด",
+        "pos": "adj",
+        "example": "Feel guilty.",
+        "level": "basic"
+    },
+    {
+        "id": "v5048",
+        "word": "guitar",
+        "translation": "กีตาร์",
+        "pos": "noun",
+        "example": "Play guitar.",
+        "level": "basic"
+    },
+    {
+        "id": "v5049",
+        "word": "gulf",
+        "translation": "อ่าว",
+        "pos": "noun",
+        "example": "Gulf of Thailand.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5050",
+        "word": "gun",
+        "translation": "ปืน",
+        "pos": "noun",
+        "example": "Water gun.",
+        "level": "basic"
+    },
+    {
+        "id": "v5051",
+        "word": "gut",
+        "translation": "ลำไส้",
+        "pos": "noun",
+        "example": "Gut feeling.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5052",
+        "word": "guy",
+        "translation": "ผู้ชาย",
+        "pos": "noun",
+        "example": "Nice guy.",
+        "level": "basic"
+    },
+    {
+        "id": "v5053",
+        "word": "gym",
+        "translation": "ยิม",
+        "pos": "noun",
+        "example": "Go to gym.",
+        "level": "basic"
+    },
+    {
+        "id": "v5054",
+        "word": "habit",
+        "translation": "นิสัย",
+        "pos": "noun",
+        "example": "Bad habit.",
+        "level": "basic"
+    },
+    {
+        "id": "v5055",
+        "word": "habitat",
+        "translation": "ที่อยู่อาศัย",
+        "pos": "noun",
+        "example": "Natural habitat.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5056",
+        "word": "hack",
+        "translation": "แฮ็ก",
+        "pos": "verb",
+        "example": "Hack computer.",
+        "level": "basic"
+    },
+    {
+        "id": "v5057",
+        "word": "hacker",
+        "translation": "แฮ็กเกอร์",
+        "pos": "noun",
+        "example": "Computer hacker.",
+        "level": "basic"
+    },
+    {
+        "id": "v5058",
+        "word": "hair",
+        "translation": "ผม",
+        "pos": "noun",
+        "example": "Long hair.",
+        "level": "basic"
+    },
+    {
+        "id": "v5059",
+        "word": "hairdresser",
+        "translation": "ช่างทำผม",
+        "pos": "noun",
+        "example": "Visit hairdresser.",
+        "level": "basic"
+    },
+    {
+        "id": "v5060",
+        "word": "haircut",
+        "translation": "ทรงผม",
+        "pos": "noun",
+        "example": "Get a haircut.",
+        "level": "basic"
+    },
+    {
+        "id": "v5061",
+        "word": "half",
+        "translation": "ครึ่ง",
+        "pos": "noun",
+        "example": "Half price.",
+        "level": "basic"
+    },
+    {
+        "id": "v5062",
+        "word": "halfway",
+        "translation": "กลางทาง",
+        "pos": "adv",
+        "example": "Halfway there.",
+        "level": "basic"
+    },
+    {
+        "id": "v5063",
+        "word": "hall",
+        "translation": "ห้องโถง",
+        "pos": "noun",
+        "example": "Concert hall.",
+        "level": "basic"
+    },
+    {
+        "id": "v5064",
+        "word": "halt",
+        "translation": "หยุด",
+        "pos": "verb",
+        "example": "Come to a halt.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5065",
+        "word": "ham",
+        "translation": "แฮม",
+        "pos": "noun",
+        "example": "Ham sandwich.",
+        "level": "basic"
+    },
+    {
+        "id": "v5066",
+        "word": "hamburger",
+        "translation": "แฮมเบอร์เกอร์",
+        "pos": "noun",
+        "example": "Beef hamburger.",
+        "level": "basic"
+    },
+    {
+        "id": "v5067",
+        "word": "hammer",
+        "translation": "ค้อน",
+        "pos": "noun",
+        "example": "Hit with hammer.",
+        "level": "basic"
+    },
+    {
+        "id": "v5068",
+        "word": "hand",
+        "translation": "มือ",
+        "pos": "noun",
+        "example": "Right hand.",
+        "level": "basic"
+    },
+    {
+        "id": "v5069",
+        "word": "handful",
+        "translation": "กำมือ",
+        "pos": "noun",
+        "example": "A handful of.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5070",
+        "word": "handle",
+        "translation": "จัดการ",
+        "pos": "verb",
+        "example": "Handle with care.",
+        "level": "basic"
+    },
+    {
+        "id": "v5071",
+        "word": "handler",
+        "translation": "ผู้จัดการ",
+        "pos": "noun",
+        "example": "Baggage handler.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5072",
+        "word": "handsome",
+        "translation": "หล่อ",
+        "pos": "adj",
+        "example": "Very handsome.",
+        "level": "basic"
+    },
+    {
+        "id": "v5073",
+        "word": "handy",
+        "translation": "สะดวก",
+        "pos": "adj",
+        "example": "Very handy.",
+        "level": "basic"
+    },
+    {
+        "id": "v5074",
+        "word": "hang",
+        "translation": "แขวน",
+        "pos": "verb",
+        "example": "Hang up.",
+        "level": "basic"
+    },
+    {
+        "id": "v5075",
+        "word": "happen",
+        "translation": "เกิดขึ้น",
+        "pos": "verb",
+        "example": "What happened?",
+        "level": "basic"
+    },
+    {
+        "id": "v5076",
+        "word": "happening",
+        "translation": "เหตุการณ์",
+        "pos": "noun",
+        "example": "Strange happening.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5077",
+        "word": "happily",
+        "translation": "อย่างมีความสุข",
+        "pos": "adv",
+        "example": "Happily ever after.",
+        "level": "basic"
+    },
+    {
+        "id": "v5078",
+        "word": "happiness",
+        "translation": "ความสุข",
+        "pos": "noun",
+        "example": "True happiness.",
+        "level": "basic"
+    },
+    {
+        "id": "v5079",
+        "word": "happy",
+        "translation": "มีความสุข",
+        "pos": "adj",
+        "example": "I'm happy.",
+        "level": "basic"
+    },
+    {
+        "id": "v5080",
+        "word": "harbor",
+        "translation": "ท่าเรือ",
+        "pos": "noun",
+        "example": "Pearl Harbor.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5081",
+        "word": "hard",
+        "translation": "ยาก",
+        "pos": "adj",
+        "example": "Work hard.",
+        "level": "basic"
+    },
+    {
+        "id": "v5082",
+        "word": "harden",
+        "translation": "ทำให้แข็ง",
+        "pos": "verb",
+        "example": "Harden stance.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5083",
+        "word": "hardly",
+        "translation": "แทบจะไม่",
+        "pos": "adv",
+        "example": "I can hardly.",
+        "level": "basic"
+    },
+    {
+        "id": "v5084",
+        "word": "hardship",
+        "translation": "ความยากลำบาก",
+        "pos": "noun",
+        "example": "Face hardship.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5085",
+        "word": "hardware",
+        "translation": "ฮาร์ดแวร์",
+        "pos": "noun",
+        "example": "Computer hardware.",
+        "level": "basic"
+    },
+    {
+        "id": "v5086",
+        "word": "harm",
+        "translation": "อันตราย",
+        "pos": "noun",
+        "example": "No harm done.",
+        "level": "basic"
+    },
+    {
+        "id": "v5087",
+        "word": "harmful",
+        "translation": "เป็นอันตราย",
+        "pos": "adj",
+        "example": "Harmful effects.",
+        "level": "basic"
+    },
+    {
+        "id": "v5088",
+        "word": "harmony",
+        "translation": "ความสามัคคี",
+        "pos": "noun",
+        "example": "Live in harmony.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5089",
+        "word": "harsh",
+        "translation": "รุนแรง",
+        "pos": "adj",
+        "example": "Harsh words.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5090",
+        "word": "harvest",
+        "translation": "เก็บเกี่ยว",
+        "pos": "noun",
+        "example": "Rice harvest.",
+        "level": "basic"
+    },
+    {
+        "id": "v5091",
+        "word": "haste",
+        "translation": "ความเร่งรีบ",
+        "pos": "noun",
+        "example": "In haste.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5092",
+        "word": "hat",
+        "translation": "หมวก",
+        "pos": "noun",
+        "example": "Wear a hat.",
+        "level": "basic"
+    },
+    {
+        "id": "v5093",
+        "word": "hate",
+        "translation": "เกลียด",
+        "pos": "verb",
+        "example": "I hate it.",
+        "level": "basic"
+    },
+    {
+        "id": "v5094",
+        "word": "hatred",
+        "translation": "ความเกลียดชัง",
+        "pos": "noun",
+        "example": "Deep hatred.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5095",
+        "word": "haul",
+        "translation": "ลาก",
+        "pos": "verb",
+        "example": "Long haul.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5096",
+        "word": "haunt",
+        "translation": "หลอกหลอน",
+        "pos": "verb",
+        "example": "Haunted house.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5097",
+        "word": "have",
+        "translation": "มี",
+        "pos": "verb",
+        "example": "I have.",
+        "level": "basic"
+    },
+    {
+        "id": "v5098",
+        "word": "haven",
+        "translation": "สวรรค์",
+        "pos": "noun",
+        "example": "Safe haven.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5099",
+        "word": "hazard",
+        "translation": "อันตราย",
+        "pos": "noun",
+        "example": "Fire hazard.",
+        "level": "intermediate"
+    },
+    {
+        "id": "v5100",
+        "word": "head",
+        "translation": "หัว",
+        "pos": "noun",
+        "example": "My head hurts.",
+        "level": "basic"
+    }
+]
