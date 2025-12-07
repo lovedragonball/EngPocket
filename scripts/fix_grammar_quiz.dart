@@ -63,7 +63,7 @@ void main() async {
     }
 
     // Save the fixed file
-    final encoder = const JsonEncoder.withIndent('  ');
+    const encoder = JsonEncoder.withIndent('  ');
     file.writeAsStringSync(encoder.convert(data));
 
     totalFixed += fileFixed;
