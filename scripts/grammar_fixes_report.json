@@ -1,0 +1,38 @@
+{
+  "summary": {
+    "total_fixed": 0,
+    "fixes_by_file": {
+      "grammar_quiz_001_present_simple.json": 0,
+      "grammar_quiz_002_present_continuous.json": 0,
+      "grammar_quiz_003_present_perfect.json": 0,
+      "grammar_quiz_004_present_perfect_continuous.json": 0,
+      "grammar_quiz_005_past_simple.json": 0,
+      "grammar_quiz_006_past_continuous.json": 0,
+      "grammar_quiz_007_past_perfect.json": 0,
+      "grammar_quiz_008_past_perfect_continuous.json": 0,
+      "grammar_quiz_009_future_simple.json": 0,
+      "grammar_quiz_010_future_continuous.json": 0,
+      "grammar_quiz_011_future_perfect.json": 0,
+      "grammar_quiz_012_future_perfect_continuous.json": 0,
+      "grammar_quiz_013_passive_voice.json": 0
+    },
+    "remaining_issues": 0,
+    "issues_by_type": {}
+  },
+  "fixes": {
+    "grammar_quiz_001_present_simple.json": [],
+    "grammar_quiz_002_present_continuous.json": [],
+    "grammar_quiz_003_present_perfect.json": [],
+    "grammar_quiz_004_present_perfect_continuous.json": [],
+    "grammar_quiz_005_past_simple.json": [],
+    "grammar_quiz_006_past_continuous.json": [],
+    "grammar_quiz_007_past_perfect.json": [],
+    "grammar_quiz_008_past_perfect_continuous.json": [],
+    "grammar_quiz_009_future_simple.json": [],
+    "grammar_quiz_010_future_continuous.json": [],
+    "grammar_quiz_011_future_perfect.json": [],
+    "grammar_quiz_012_future_perfect_continuous.json": [],
+    "grammar_quiz_013_passive_voice.json": []
+  },
+  "remaining_issues": []
+}

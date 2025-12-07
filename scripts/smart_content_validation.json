@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "files_checked": 101,
+    "total_issues": 0,
+    "status": "PASSED"
+  },
+  "issues_by_category": {
+    "vocab": 0,
+    "reading_passages": 0
+  },
+  "all_issues": {
+    "vocab": [],
+    "reading_passages": []
+  }
+}
